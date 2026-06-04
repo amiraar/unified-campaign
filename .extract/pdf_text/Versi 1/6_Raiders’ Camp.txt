@@ -1,0 +1,339 @@
+Raiders' Camp
+Kampanye Terpadu: Stormwreck Isle → Tyranny of Dragons Chapter 5 — Setelah Greenest in Flames
+
+PANDUAN FORMAT CHAPTER INI Teks tanpa tanda khusus = narasi yang dibacakan DM ke pemain, dengan suara langsung. Teks dalam > blok ini = instruksi dan catatan untuk DM saja, tidak dibacakan. [Nama Pemain] = DM menyebut nama karakter yang relevan secara langsung. Teks miring di luar dialog = deskripsi fisik atau aksi yang DM gambarkan pelan-pelan.
+
+Pembuka: Harga Satu Malam
+Fajar di Greenest berbau abu dan darah yang sudah mengering.
+Bukan bau kemenangan. Ini bau dari sesuatu yang sudah terlanjur terjadi dan tidak bisa ditarik kembali.
+Gubernur Nighthill berdiri di atas tembok benteng dengan cara seseorang yang belajar berdiri tegak ketika semua alasan untuk berdiri tegak sudah habis. Separuh wajahnya masih dibalut perban yang kecokelatan. Lengannya masih di gendongan. Ia tidak pernah berhenti bergerak — tapi pagi ini ia berdiri diam, menatap ke arah tenggara, ke mana jalur rumput yang terinjak-injak menghilang di balik bukit.
+Raider itu tidak kabur. Mereka berjalan pulang.
+Saat kalian naik ke atas tembok, ia tidak langsung menoleh. Jari-jarinya mengetuk-ngetuk bilah kayu pagar dengan irama yang tidak beraturan — kebiasaan seseorang yang sedang menghitung sesuatu di dalam kepala dan tidak suka dengan hasilnya.
+Gubernur Nighthill (akhirnya berbalik, suaranya lebih rendah dari biasanya): "Mereka mengambil emas, ternak, dan sembilan orang. Bukan semua orang yang masuk akal untuk ditebus — mereka mengambil tukang besi, tabib, dan dua orang yang pernah bekerja di terowongan tambang. Mereka memilih."
+Ia berhenti.
+"Gerombolan yang hanya ingin menjarah tidak memilih. Mereka mengambil semua yang bisa dibawa dan lari sebelum fajar. Tapi ini..."
+Tangannya membuka ke arah tenggara.
+"Ini terasa seperti pengiriman. Ada seseorang di ujung jalan itu yang sedang menunggu laporan."
+
+Escobert si Merah muncul dari tangga dalam, seikat kuncinya berbunyi seperti biasa, matanya menilai dinding sebelum menilai wajah.
+Escobert (sambil menghitung paku yang longgar di bilah tembok): "Jejaknya masih ada. Dua belas mil ke tenggara, dari yang bisa kita lihat dari bukit selatan. Mereka tidak menyembunyikan diri. Artinya mereka tidak takut diikuti — atau mereka mau diikuti. Kedua kemungkinan itu sama buruknya."
+
+DM NOTE — Nighthill dan Motivasinya: Agenda pribadi Nighthill bukan sekadar keselamatan kota. Uldoon Trail adalah jalur dagang utama yang melewati Greenest — tanpa jalur itu, kota ini tidak punya nilai strategis. Ia butuh tahu apakah ada target berikutnya di sepanjang jalur itu. Sembilan sandera adalah alasan yang bisa ia sebutkan di depan publik. Tapi yang benar-benar membuatnya tidak bisa tidur adalah: jika raider ini kembali, benteng yang sudah retak ini tidak akan bertahan malam kedua.
+Mannerism khasnya: selalu mondar-mandir, selalu menghitung — tapi pagi ini ia berdiri diam. Itu satu-satunya tanda bahwa ia benar-benar takut. Jangan ucapkan itu. Biarkan pemain membacanya sendiri.
+
+Penawaran Nighthill
+Di dapur benteng — satu-satunya ruangan yang masih hangat, yang kompornya tidak pernah padam sepanjang malam — Nighthill meletakkan sebuah kantong kain di meja kayu yang hangus di satu sisinya.
+Kalian mendengar bunyi koin di dalamnya sebelum ia membuka mulut.
+Nighthill: "Dua ratus lima puluh keping emas per kepala. Dari sisa kas kota yang masih ada, dan dari kantong pribadi saya, dan dari beberapa pemilik toko yang sudah cukup sadar bahwa mereka perlu berinvestasi pada kelangsungan hidup mereka sendiri."
+Ia mendorong kantong itu ke tengah meja. Tidak ke arah kalian secara langsung — ke tengah. Seperti sesuatu yang diletakkan di atas altar, bukan ditawarkan.
+"Yang saya butuhkan: lokasi perkemahan mereka. Jumlah pasukan. Nama pemimpin mereka. Alasan di balik semua ini — mengapa Greenest, mengapa sekarang, dan ke mana serangan berikutnya. Sembilan sandera adalah prioritas, tapi bukan prioritas pertama."
+Ia duduk — pertama kalinya malam itu ia duduk.
+"Prioritas pertama adalah memastikan tidak ada kota lain di Uldoon Trail yang mengalami malam seperti malam tadi."
+Diam sebentar.
+"Peralatan apa pun yang kalian butuhkan, minta sekarang. Apa pun yang masih kami punya."
+
+DM NOTE — Jumlah Uang: Nighthill sudah memperhitungkan kemungkinan satu dari kalian tidak pulang — itu sebabnya kantong koin diletakkan di tengah meja, bukan diserahkan langsung. Jangan ucapkan ini secara eksplisit. Biarkan menjadi detail yang tertangkap oleh pemain yang jeli.
+
+Nesim Waladra
+Sebelum kalian sempat menjawab Nighthill, seseorang masuk dari ambang pintu dapur.
+Seorang pemuda. Pincang berat pada kaki kirinya yang dibalut perban tebal yang sudah tembus darah di bagian betis. Ia berpegangan ke kusen pintu bukan karena tidak bisa berdiri — tapi karena ia memutuskan bahwa berdiri di sana cukup, dan melangkah lebih jauh ke ruangan itu berarti ia harus mengatakan sesuatu yang sudah terlalu lama ia tahan.
+Wajahnya terlalu muda untuk ekspresi setua itu.
+Nesim Waladra (suaranya pelan, tapi tidak ragu): "Maaf. Saya dengar kalian akan mengikuti mereka."
+Ia menatap lantai sebentar. Lalu mendongak.
+"Nama saya Nesim Waladra. Guru saya — Leosin Erlanthar — hilang malam tadi. Kami dari Berdusk, dalam perjalanan kembali dari perpustakaan Candlekeep. Leosin telah berbulan-bulan meneliti raider ini. Waktu serangan berlangsung, ia sengaja membiarkan dirinya terpisah dari kelompok kami."
+Ia merogoh jubahnya dan mengeluarkan dua benda: sebatang kayu yang patah di tengah, dan sebuah kalung anyaman kulit dengan ornamen naga perak kecil yang ujung-ujungnya compang-camping.
+"Ini yang kami temukan pagi tadi. Tongkatnya. Dan kalung ini — ia selalu memakainya. Ujungnya robek, seperti ditarik paksa."
+Ia meletakkan keduanya di meja.
+"Saya percaya ia mencoba menyusup ke dalam kelompok raider saat mundur. Atau ia tertangkap. Saya tidak tahu mana yang lebih buruk."
+
+[Nama Cleric] — kalung itu menarik perhatianmu bukan karena ornamen naganya, tapi karena cara anyamannya. Ini bukan perhiasan biasa. Ini penanda identitas dari seseorang yang tahu bahwa barang-barang kecil bisa menjadi satu-satunya bukti bahwa seseorang pernah ada di suatu tempat.
+[Nama Wizard] — "berbulan-bulan meneliti raider" dan "Candlekeep." Jika Leosin benar-benar meneliti kultus ini dari arsip tertua di Faerûn — apa yang ia temukan di sana yang membuatnya memutuskan untuk masuk ke dalam?
+[Nama Rogue] — kau memperhatikan cara Nesim berdiri di ambang pintu. Ia tidak masuk lebih jauh dari yang perlu. Seseorang yang memiliki informasi penting tapi tahu bahwa masuk terlalu dalam ke sebuah ruangan berarti menjadi bagian dari rencana yang ia tidak yakin ia setujui.
+
+Nesim menjawab pertanyaan dengan jujur dan singkat — tidak lebih dari yang ditanya. Ia bukan orang yang berbasa-basi.
+Saat ada yang bertanya tentang Leosin dan penelitiannya:
+Nesim: "Ia mempelajari kultus naga. Bukan secara umum — secara spesifik. Ada sesuatu yang bergerak sekarang yang ia yakini belum pernah terjadi sebelumnya dalam skala ini. Ia tidak memberitahu saya detailnya. Ia berkata semakin sedikit yang tahu, semakin sedikit yang bisa bocor."
+Ia menatap kalung itu.
+"Cari tanda bahwa ia masih hidup. Itu saja yang saya minta. Jika tidak bisa membawanya keluar — setidaknya konfirmasi bahwa ia masih ada di sana."
+
+DM NOTE — Nesim: Satu detail yang tidak perlu dijelaskan: kondisi kaki Nesim tidak akan pulih cukup cepat untuk ia bisa ikut. Tapi jika pemain menawarkan penyembuhan, ia menerimanya dengan diam — bukan dengan terima kasih yang berlebihan. Ini bukan seseorang yang terbiasa menerima bantuan. Satu saudara biara sudah berangkat ke Berdusk untuk membawa bantuan. Bantuan itu butuh "banyak hari" untuk tiba. Nesim tidak mengatakan berapa hari — ia tidak mau menghitung.
+
+Melacak Jejak: Dua Belas Mil ke Selatan
+Kalian meninggalkan Greenest saat matahari masih rendah.
+Jejak raider tidak sulit ditemukan. Rumput Greenfields yang terinjak oleh ratusan kaki manusia, kobold, dan reptil terlatih membentuk jalur selebar jalan raya yang bisa kalian ikuti dengan mata tertutup. Mereka tidak bersembunyi. Mereka tahu tidak ada yang akan cukup nekat untuk mengikuti.
+Itu adalah penilaian yang hampir benar.
+
+Dua belas mil. Langit biru bersih. Angin dari barat membawa aroma rumput yang hangus di ujungnya — gema dari semalam.
+[Nama Fighter] — dua mil pertama, kau menghitung. Bukan jumlah jejak kaki — itu tidak mungkin. Tapi kau menghitung kedalaman. Jejak kaki hewan penarik jauh lebih dalam pada perjalanan pulang daripada saat datang. Mereka membawa sesuatu yang berat. Lebih berat dari sembilan orang.
+[Nama Wizard] — kau berjalan sambil membandingkan arah perjalanan ini dengan koordinat astral yang kau salin dari perpustakaan rahasia Clifftop Observatory. Kampung ini bukan titik akhir. Tapi ia mungkin titik transit.
+[Nama Rogue] — kau memperhatikan sesuatu yang tidak ada: bekas perjuangan di sisi jalan. Sembilan sandera dibawa dua belas mil tanpa meninggalkan tanda perlawanan. Mereka tidak dipukul pingsan — mereka dikendalikan. Itu butuh pengalaman dan sistem.
+
+Pada mil keenam, dataran berubah.
+Bukit-bukit hijau yang landai digantikan oleh tebing-tebing batu yang menjulang seperti tulang yang patah menembus kulit tanah. Plateau berbatu mencuat lima puluh hingga seratus kaki di atas sekitarnya. Di antara mereka: tanah datar yang dipotong-potong oleh ngarai sempit dan sungai dangkal. Di sisi-sisi plateau, gua-gua menganga di antara bongkahan batu yang runtuh.
+Vegetasi menipis. Udara lebih kering. Angin yang tadi membawa aroma rumput sekarang membawa sesuatu yang berbeda — asap masak, bau hewan, dan di baliknya, sangat samar, bau kotoran yang berasal dari kerumunan yang terlalu besar untuk sebuah tempat.
+Ini adalah tanah yang memilih penghuninya, bukan sebaliknya.
+
+DM NOTE — Tempo Perjalanan: Jangan percepat perjalanan dua belas mil ini menjadi satu kalimat. Ini adalah jeda sebelum intensitas perkemahan. Gunakan percakapan antar-karakter di sini. Beri mereka ruang untuk merencanakan, untuk berbicara tentang apa yang baru saja mereka alami di Greenest, untuk merasakan tanah berubah di bawah kaki mereka. GRRM: beban ditunjukkan melalui tubuh — kaki yang mulai berat, bahu yang tidak sepenuhnya lurus, cara seseorang berhenti sejenak di puncak bukit sebelum terus berjalan.
+
+Pertemuan Pertama: Para Penyerah
+Dari jarak dua mil, kalian sudah melihatnya: asap tipis berwarna pucat naik dari balik gundukan batu rendah. Terlalu tipis untuk unggun besar. Terlalu stabil untuk kebakaran.
+Seseorang sedang memasak.
+[Nama Fighter] — kau berhenti. Tanganmu tidak ke senjata. Ke wajah anggota kelompok kalian, satu per satu. Pertanyaan diam: kita dekati, atau kita hindari?
+
+Dengan pendekatan hati-hati dan berhasil melakukan uji Stealth yang cukup, kalian bisa mengamati dari balik bongkahan batu:
+Empat manusia dalam pakaian yang berbeda-beda — tidak ada seragam, tidak ada lambang yang jelas — sedang berbantahan tentang cara memanggang ayam hutan dengan cara yang tidak memerlukan pengetahuan memasak. Delapan kobold duduk agak jauh dari mereka, masing-masing memegang tongkat bambu dengan daging yang masih setengah mentah. Senjata manusia itu tersandar di batu, jauh dari jangkauan.
+Keempat manusia itu terlalu lelah untuk berjaga. Salah satu tertidur sambil duduk. Yang lain mengobrol dengan cara orang-orang yang tidak yakin apakah mereka mau mengobrol atau tidak.
+Para kobold tidak memperhatikan manusia. Para manusia tidak memperhatikan kobold. Ini bukan persatuan — ini dua kelompok yang dipaksa berbagi api unggun.
+
+DM NOTE — Penyerang atau Dihindari: Ini adalah pilihan taktis nyata, bukan pertempuran wajib. Menghindari kelompok ini sepenuhnya adalah pilihan yang cerdas — dan Nesim sudah memberi petunjuk bahwa ada penjaga belakang di depan. Jika pemain memilih untuk menyerang, kobold berpencar ke empat arah setelah manusia terakhir jatuh — mereka tidak setia, hanya oportunistis. Jika pemain memilih untuk berdialog atau mengintimidasi, manusia ini akan berbicara dengan DC 15 Intimidasi. Mereka tahu ada penjaga belakang sekitar satu mil ke depan, di celah antara dua tebing. Mereka tidak tahu berapa kuat penjaga itu.
+Satu hal yang mereka tahu dan akan ungkapkan jika ditekan: "Kami mengumpulkan emas, batu permata, barang berharga. Kami diperintahkan tidak menjarah untuk diri sendiri. Semuanya untuk Hoard — untuk menghormati Sang Ratu Naga." Mereka menyebutnya dengan nada yang campuran antara keyakinan dan kebiasaan — seperti seseorang yang sudah berulang kali mengucapkan kalimat itu sampai ia berhenti memikirkan maknanya.
+Kobold yang tertangkap berbicara bebas dan hampir semuanya bohong. Bukan karena berniat menyesatkan — mereka akan mengatakan apa saja yang bisa membeli kebebasan mereka, termasuk hal yang mereka sendiri tidak yakini kebenarannya.
+
+Jika pemain berinteraksi dengan kelompok ini dan berhasil mendapat informasi:
+Satu dari empat manusia itu — yang rambutnya sudah mulai beruban, yang cara duduknya seperti seseorang yang pernah punya pangkat dan sekarang tidak — memberikan informasi dengan nada seseorang yang menyerahkan sesuatu yang tidak terlalu berharga:
+Kultis Tua (tanpa menatap mata kalian): "Satu mil ke depan. Celah di antara dua tebing besar. Ada yang menunggu di sana — bukan seperti kami. Mereka adalah penjaga sungguhan. Uniformnya hitam, tidak seperti kami yang memakai apa saja."
+Ia menatap api.
+"Perkemahan ada di balik plateau berbentuk tapal kuda. Masih berjalan. Hari ini masih berantakan — semua orang kelelahan setelah semalam. Besok lusa, situasinya berbeda."
+Diam sebentar.
+"Ada seorang setengah-elf diikat di dalam. Saya dengar ia memang menginginkan itu — ikut dengan sukarela. Tapi yang Rezmir lakukan pada orang yang 'sukarela' tidak terlihat berbeda dari yang dilakukan pada tawanan."
+
+DM NOTE — "Rezmir": Ini adalah penyebutan pertama nama Rezmir kepada pemain. Jangan beri penjelasan tambahan. Biarkan nama itu menggantung — siapa Rezmir, apa pangkatnya, mengapa namanya diucapkan bahkan oleh kultis kelas bawah ini dengan nada yang berbeda dari yang lain.
+
+Pertemuan Kedua: Penjaga Belakang
+Satu mil dari perkemahan, jalur itu menyempit.
+Dua tebing besar mengapit jalan dari kiri dan kanan, menciptakan celah yang tidak lebih dari sepuluh meter lebarnya. Batu-batu besar runtuhan di kedua sisi menyediakan banyak posisi tinggi yang menghadap ke jalur.
+Tempat yang sempurna untuk menunggu seseorang yang mengikuti.
+
+[Nama Fighter] — kau berhenti dua ratus meter sebelum celah itu. Tidak ada yang bergerak di sana. Tapi sesuatu tentang cara batu-batu itu tersusun tidak terasa alami. Terlalu rapi di tepi yang seharusnya acak.
+
+DM NOTE — Deteksi Penjaga Belakang:
+Jika pemain sudah mendapat deskripsi lokasi dari penyerah: uji Persepsi DC 10 dari 200 meter untuk mengenali celah itu sebagai titik penyergapan.
+Jika hanya tahu ada penjaga tapi tidak tahu lokasi pasti: uji Persepsi DC 15 dari 100 meter.
+Jika tanpa peringatan sama sekali: uji Persepsi DC 20 dari 20 meter — dan mereka sudah terlalu dekat.
+Jika pemain menyatakan sedang waspada terhadap penyergapan: berikan Advantage.
+
+Sembilan orang di atas batu. Satu veteran dengan dua akolit, enam kultis — semua dalam tunik kulit hitam dengan mantel hitam yang melebar di bahunya. Ini bukan pakaian lapangan. Ini seragam. Masing-masing membawa tombak yang bisa digunakan jarak jauh maupun dekat.
+Mereka tidak tidur. Mereka tidak berbicara. Mereka menunggu dengan cara orang-orang yang sudah sangat terlatih untuk menunggu.
+
+Jika pemain berhasil mengamati sebelum terdeteksi:
+Ada perbedaan yang jelas antara kelompok tadi dan ini. Postur mereka berbeda. Cara mereka memegang senjata berbeda. Ini adalah orang-orang yang percaya pada apa yang mereka lakukan — bukan orang-orang yang melakukannya untuk bayaran.
+[Nama Cleric] — saat kau mengamati mereka dari kejauhan, kau merasakan sesuatu yang familiar. Keyakinan yang terstruktur. Ritual yang dijalankan bahkan dalam cara mereka berdiri. Ini bukan tentara bayaran. Ini jemaat.
+
+Jika penyergapan tidak terdeteksi dan pemain berjalan ke dalam celah:
+Batu pertama jatuh dari ketinggian dua belas kaki.
+Kemudian batu kedua. Ketiga.
+Sebelum kalian sempat berlari ke tepi, gelombang pertama tombak melayang dari kedua sisi.
+Inisiatif, semuanya!
+
+Saat veteran itu akhirnya terdesak dan serangan terakhir mendarat:
+[Nama Pemain], penjaga ini sudah kehabisan opsi — tapi matanya tidak menunjukkan menyerah. Hanya seseorang yang sudah menerima bahwa ia tidak akan melihat kemah hari ini. Bagaimana kau ingin mengakhiri ini?
+
+DM NOTE — Kultis Tertangkap: Tidak ada yang mau berbicara dengan DC di bawah 20. Bahkan dengan DC 20 pun, mereka hanya mengonfirmasi tiga hal: nama pemimpin (Rezmir, Frulam Mondath, Langdedrosa Cyanwrath), bahwa serangan pada Greenest adalah untuk mengumpulkan harta, dan bahwa harta itu untuk sesuatu yang mereka sebut sebagai "the great hoard." Mereka tidak akan mengkhianati lokasi detail di dalam kemah. Mereka tidak takut mati — tapi cara mereka berkata "Rezmir" berbeda dari cara mereka menyebut dua nama lainnya. Lebih rendah. Lebih hati-hati.
+Seragam hitam mereka adalah aset: jika disimpan dan dipakai, memberikan penampilan kredibel sebagai kultis berpangkat. Tapi ini juga risiko — tidak ada yang kembali ke kemah dalam seragam lengkap kecuali mereka yang memang bertugas.
+
+Perkemahan: Tapal Kuda dari Batu
+Akhirnya, kalian berdiri di tepi bukit yang menghadap ke bawah.
+Di sana.
+Plateau berbentuk tapal kuda itu terbuka di satu sisi menghadap ke selatan. Di dalamnya, seperti sesuatu yang sedang menunggu di dalam mangkuk batu, sebuah perkemahan.
+Pertama yang kalian perhatikan bukan jumlah orang atau tenda atau api unggun.
+Yang pertama kalian perhatikan adalah kebisingan. Suara ratusan orang yang hidup dalam ruang yang sama — percakapan, hewan, suara besi yang diasah, seseorang yang tertawa terlalu keras, seseorang yang berteriak dalam bahasa kobold. Kebisingan dari sesuatu yang besar dan terorganisir dan hidup.
+Kemudian skala. Semakin lama kalian menatap ke bawah, semakin banyak yang terlihat. Tenda di mana-mana. Dua menara penjagaan. Kobold di bagian bawah, tenda kultis yang lebih rapi di bagian tengah. Dan di sudut belakang, satu tenda besar yang dikelilingi ruang kosong yang tidak alami — seperti semua orang sudah memutuskan secara tak terucap untuk tidak terlalu dekat.
+Di bagian belakang kemah, di area terbuka di antara deretan tenda, sebuah tiang kayu yang ditancapkan ke tanah. Dan terikat di sana — sosok yang dari ketinggian ini kalian tidak bisa lihat wajahnya, tapi bisa kalian lihat cara tubuhnya ditahan tali.
+[Nama Cleric] — denyut resonansi yang sudah kalian kenal sejak Stormwreck muncul lagi. Tipis, hampir tidak ada. Tapi ia ada. Dari arah tenda besar di sudut belakang yang dikelilingi ruang kosong itu.
+
+DM NOTE — Kondisi Kemah Hari Pertama: Ini adalah hari pertama setelah serangan Greenest. Semua orang kelelahan dan euforia. Keamanan longgar. Tidak ada kata sandi, tidak ada pemeriksaan identitas. Orang-orang yang kembali terlambat masih berdatangan sepanjang siang. Pemain bisa berjalan masuk dengan percaya diri dan hampir tidak akan ditantang.
+Ini adalah jendela waktu yang terbatas. Jika pemain menunggu lebih dari satu hari sebelum masuk: kemah menjadi lebih terorganisir. Penjaga kembali ke rutinitas. Masuk tanpa cerita yang meyakinkan (DC 10 Persuasi atau Tipu Daya) tidak mungkin dilakukan.
+Aturan pengenalan: setiap karakter lempar d20. Hasil di bawah 5 berarti seseorang di kemah mengenali wajah mereka dari pertempuran di Greenest — tidak harus langsung, tapi pada momen yang paling tidak menguntungkan. Karakter yang pernah berduel dengan Cyanwrath mendapat penalti -4. Jika wajah Cyanwrath terlihat di kemah, pengenalan otomatis.
+Seragam hitam penjaga belakang memberi penampilan yang lebih meyakinkan tapi meningkatkan risiko pengenalan — kultis berpangkat tidak seharusnya baru tiba siang bolong.
+
+Memasuki Kemah: Pilihan Pendekatan
+Kalian punya waktu untuk berunding di balik bukit sebelum turun.
+Tiga jalur:
+Berjalan masuk dari mulut kemah — mengikuti arus orang-orang yang masih berdatangan. Jalur paling mulus jika kalian bisa meyakinkan diri untuk berjalan seperti orang yang memiliki hak berada di sana.
+Mendaki plateau dari sisi timur — lebih panjang, lebih berat, tapi memberi akses ke area atas yang menghadap langsung ke dalam kemah dari ketinggian. Risiko: penjaga menara di puncak. Keuntungan: dari atas, kalian bisa melihat seluruh kemah sebelum turun.
+Menyusup melalui celah batu di sisi barat — sempit, penuh semak yang tajam, tapi tidak ada penjaga di sana. Langsung ke area kobold di pinggir kemah. Risikonya: kobold tidak suka orang asing yang tiba dari arah yang tidak masuk akal.
+
+[Nama Rogue] — sebelum kalian memutuskan, ada satu hal yang kau perhatikan dari atas: pola pergerakan orang di dalam kemah. Ada area yang semua orang hindari secara natural. Ada area yang terlalu ramai untuk alasan yang tidak jelas. Dan ada satu penjaga yang berjalan dalam pola yang terlalu teratur untuk penjaga yang lelah — ia sedang mengawasi sesuatu yang spesifik, bukan semua orang.
+
+DM NOTE — Pendekatan Terbaik (bukan wajib diungkapkan): Berjalan masuk dari mulut kemah pada siang hari pertama adalah pilihan paling aman secara mekanis. Paradoks yang disengaja: semakin tidak sembunyi-sembunyi, semakin aman. Menyusup secara overt lebih meyakinkan daripada merangkak di antara semak. Jika pemain bertanya pada Nighthill sebelum berangkat, ia akan mengatakan hal yang sama: "Masuk seperti kalian memiliki hak untuk ada di sana. Orang yang tidak punya hak cenderung bersembunyi."
+
+Di Dalam Kemah: Lima Titik Perhatian
+Area 1 — Tenda Kobold
+Bagian paling bawah dari kemah itu hiruk pikuk. Tenda-tenda kobold dibangun dari tongkat dan tulang hewan yang ditutupi kulit yang tidak sepenuhnya disamak — baunya setara dengan bau penghuninya. Tengkorak hewan digantung di depan pintu masing-masing.
+Kobold bergerak dalam kelompok kecil, berbicara dalam bahasa mereka sendiri, sesekali berdebat dengan cara yang hampir berakhir berkelahi sebelum seseorang mengalah. Mereka membawa hasil jarahan dari Greenest dengan cara yang tidak efisien — beberapa dibawa tiga orang sekaligus, beberapa ditinggalkan begitu saja karena pemiliknya lupa ke mana ia meletakkannya.
+Di antara tenda-tenda itu, delapan orang — tangan terikat tapi masih bisa berjalan — sedang disuruh mengangkut tumpukan kayu. Empat kultis berpangkat mengawasi mereka dengan cara seseorang yang sudah bosan mengawasi sebelum tugasnya dimulai.
+[Nama Paladin] — kau menghitung delapan orang. Bukan sembilan. Di mana yang kesembilan?
+
+Area 2 — Tenda Besar Rezmir
+Di ujung atas kemah, satu tenda yang ukurannya dua kali tenda lain berdiri dengan ruang kosong sekitar sepuluh meter di sekelilingnya. Tidak ada tanda, tidak ada bendera. Tapi empat orang dengan pedang di tangan dan empat ekor kadal besar yang berjalan dengan cara yang membuktikan mereka terlatih untuk berdiri diam — mereka mengelilingi tenda itu dalam pola yang tidak pernah kosong di sisi mana pun.
+Tidak ada yang mendekati tenda itu kecuali dua orang yang kalian lihat masuk dan keluar dengan wajah yang tidak memperlihatkan apa yang baru saja mereka alami di dalam.
+[Nama Wizard] — dari jarak yang aman, kau merasakan sesuatu dari arah tenda itu. Bukan mantra aktif. Lebih seperti residu — seperti sesuatu yang digunakan di dalam sana sudah lama sebelum kalian tiba, dan sisa energinya masih menempel di udara sekitarnya. Drakonik. Tua. Tidak seperti Sparkrender yang muda dan ambisius — ini sesuatu yang sudah tahu persis apa yang dilakukannya.
+
+DM NOTE — Frulam Mondath: Mondath adalah pemimpin lapangan operasi ini — tapi bukan puncak rantai komando, dan ia tahu itu. Ambisinya adalah kekuatan paling berguna yang bisa dieksploitasi pemain. Ia frustrasi karena semua keputusan penting harus lewat Rezmir terlebih dahulu, tapi tidak cukup bodoh untuk menunjukkan frustrasi itu secara terbuka. Suaranya selalu lebih lambat dari pikirannya — kebiasaan seseorang yang sudah belajar bahwa kata-kata yang keluar terlalu cepat sering harus dibayar mahal.
+Langdedrosa Cyanwrath: Selalu dekat dengan Mondath. Cara berjalannya: terlalu lurus, seperti seseorang yang memutuskan bahwa ia tidak akan membungkuk karena alasan apa pun. Kode kehormatan internalnya konsisten — dan itu adalah kelemahannya. Ia akan menghormati tantangan langsung lebih dari yang seharusnya dilakukan oleh seorang pejuang yang cerdas.
+Rezmir: Tidak terlihat di luar tenda pada chapter ini. Kehadirannya hanya terasa dari cara orang lain berubah saat namanya disebut — cara orang berhenti bergerak sejenak, cara suara turun setengah oktaf, cara mata beralih ke tanah.
+
+Area 3 — Tiang Tawanan: Leosin Erlanthar
+Di bagian belakang kemah, di antara tenda kultis dan batu tebing, sebuah tiang kayu ditancapkan dalam.
+Terikat di sana: seorang setengah-elf. Rambut abu-abu, wajah yang menunjukkan beberapa hari tanpa air dan makan yang cukup, dan luka lebam di sepanjang rahang dan tulang pipinya yang baru mengering. Jubah biksu yang sudah compang-camping tidak cukup untuk cuaca malam ini, apalagi malam-malam sebelumnya.
+Tapi matanya terbuka. Dan saat ia mendengar langkah kalian — bahkan di antara suara kemah yang hiruk pikuk — ia mendongak.
+Ia menilai kalian dalam dua detik.
+Lalu, sangat pelan, ia menggelengkan kepala.
+
+Jika kalian mendekati Leosin dengan cukup aman untuk berbicara tanpa didengar penjaga:
+Leosin Erlanthar (suaranya seperti seseorang yang sudah belajar berbicara tanpa menggerakkan bibir terlalu banyak): "Dari Nesim. Saya tahu."
+Ia menarik napas pelan.
+"Saya tidak mau pergi. Belum."
+Sebelum ada yang sempat merespons:
+"Dengarkan saya. Saya masih punya tiga hal yang belum saya konfirmasi, dan jika saya pergi sekarang, tidak ada yang bisa menyelesaikannya. Rezmir belum tahu seberapa banyak yang sudah saya temukan di Candlekeep — dan selama Rezmir tidak tahu itu, pertanyaan-pertanyaan itu akan terus datang dengan cara yang memberi saya akses pada jawaban."
+Matanya setengah tertutup — bukan karena mengantuk, tapi karena rasa sakit yang sudah lama tidak diakui.
+"Tapi jika kalian memaksa — saya tidak punya cukup kekuatan untuk melawan. Jadi terserah kalian."
+
+[Nama Paladin] — seseorang yang dengan sukarela memilih untuk tinggal dalam kondisi ini bukan orang yang punya naluri bertahan hidup yang baik. Atau ia punya sesuatu yang dianggap lebih penting dari bertahan hidup. Kedua kemungkinan itu sama-sama sulit untuk kau terima.
+[Nama Rogue] — kau memperhatikan tali yang mengikat Leosin. Simpulnya benar — tapi ada cara tertentu menali simpul yang sekaligus mengikat dengan kuat dan memungkinkan pelepasan cepat jika tahu cara menaruh jari yang tepat. Seseorang yang melatih diri untuk keluar dari ikatan sudah berlatih sejak lama.
+
+DM NOTE — Dilema Leosin: Ini bukan pertanyaan mekanis — ini pertanyaan naratif. Jika pemain memaksanya keluar: Leosin pergi tapi tidak membicarakan apa yang ia temukan sampai mereka kembali ke Greenest. Jika pemain menghormati keinginannya dan meninggalkannya: ia melarikan diri sendiri dalam dua hari — tapi pemain tidak mendapat informasi dari interaksi langsung dengannya. Keduanya punya konsekuensi berbeda pada chapter berikutnya.
+Jika pemain ikut tertangkap dan dirantai bersama Leosin: ia punya pisau kecil di dalam sepatunya. Ia tidak langsung memberitahukan ini. Ia menunggu untuk melihat apakah ada yang berpikir cukup tenang untuk bertanya pada orang yang sudah di sini lebih lama darinya.
+
+Area 4 — "Pembibitan": Gua Terlarang
+Di dinding tebing di bagian paling belakang kemah, ada sebuah gua yang mulutnya dihalangi oleh batu besar dan penjaga yang berjaga dalam shift yang tidak pernah kosong. Tidak ada tanda. Tidak ada penjelasan.
+Tapi namanya beredar di kemah seperti sesuatu yang semua orang tahu tapi tidak semua orang berani menyebut dengan suara penuh: "pembibitan."
+[Nama Cleric] — denyut yang kau rasakan dari arah gua itu berbeda dari yang berasal dari tenda Rezmir. Ini lebih hangat. Lebih dalam. Seperti sesuatu yang sedang tumbuh, bukan sesuatu yang sedang berencana.
+
+DM NOTE — Gua: Pintu masuk tidak bisa ditembus tanpa konfrontasi langsung pada chapter ini. Penjaganya mengenal wajah satu sama lain — tidak ada cara masuk tanpa izin eksplisit dari Mondath atau Rezmir. Yang bisa pemain lakukan adalah mengumpulkan informasi dari percakapan dengan kultis lain tentang apa yang ada di dalam. Informasi itu tidak lengkap dan sengaja tidak lengkap: "telur," "naga," "Rezmir yang mengaturnya." Tidak ada yang tahu berapa banyak, berapa lama, atau apa artinya ini dalam skala yang lebih besar.
+
+Area 5 — Percakapan di Kemah
+Sebagai kultis yang berjalan di antara tenda, kalian bisa berbicara dengan penghuni kemah dengan hati-hati.
+Yang perlu dijaga: jangan terlihat terlalu penasaran. Di lingkungan seperti ini, orang yang bertanya terlalu banyak diingat.
+
+Beberapa kultis junior — yang bergabung baru-baru ini dan masih cukup antusias untuk berbicara pada orang asing — bisa mengungkapkan hal-hal berikut, masing-masing satu per percakapan yang berhasil:
+"Ini kemah Kultus Naga — pujilah kemuliaan Tiamat." (setiap kali nama itu disebut, nada suaranya seperti seseorang yang mengulang mantra, bukan seseorang yang berbicara)
+
+
+"Tidak semua orang di sini anggota penuh. Banyak yang masih inisiat, banyak yang tentara bayaran. Bedanya mudah dilihat kalau kau tahu apa yang harus dicari."
+
+
+"Kobold di sini karena mereka menyembah naga. Bukan karena mereka berguna. Mondath tidak suka mereka, tapi Rezmir bilang mereka punya fungsi."
+
+
+"Serangan Greenest bukan yang terbesar. Tapi yang paling menguntungkan. Pujilah kemuliaan Tiamat."
+
+
+"Tahanan dipakai untuk kerja paksa. Beberapa sudah 'bergabung.' Kebanyakan mati kelelahan. Yang mati dibawa ke gua atau digunakan untuk pakan kadal."
+
+
+"Setengah-elf yang diikat itu — Rezmir minta dia hidup-hidup. Saya tidak tahu kenapa. Tapi Rezmir jarang mau repot-repot mempertahankan seseorang secara pribadi."
+
+
+"Gua di belakang itu — 'pembibitan.' Tidak ada yang masuk kecuali yang dapat izin langsung. Rencananya sudah berjalan berbulan-bulan."
+
+
+"Mondath menangani operasi sehari-hari. Rezmir hanya keluar kalau ada sesuatu yang penting. Kalau Rezmir keluar, semua orang diam."
+
+
+"Cyanwrath selalu di dekat Mondath. Ia punya kode kehormatan yang kaku. Jangan tantang dia kecuali kalian serius."
+
+
+
+DM NOTE — Mekanik Penggalian Informasi: Setiap percakapan yang berhasil = satu informasi dari daftar di atas. Urutan bebas sesuai alur percakapan alami. Jika pemain terlalu nosy atau mengajukan pertanyaan yang tidak masuk akal untuk seseorang yang seharusnya sudah tahu hal ini, minta uji Karisma (Tipu Daya) DC 12. Gagal: lawan bicara berhenti berbicara dan mulai memperhatikan mereka.
+Setiap informasi yang dikonfirmasi sendiri oleh pemain (bukan dari Leosin): 25 XP per karakter.
+
+Bahaya: Tertangkap
+Jika situasi memburuk dan pemain tertangkap:
+Mereka dilucuti, tangan diikat, dan dibawa ke hadapan satu orang.
+Frulam Mondath tidak berdiri saat kalian masuk. Ia duduk di kursi lipat di depan peta yang dibentangkan di atas meja rendah, dengan cangkir teh di tangannya yang belum diminum. Ia menutup peta sebelum kalian cukup dekat untuk membacanya.
+Cara ia menatap kalian: bukan marah, bukan penasaran. Lebih seperti seseorang yang sedang memutuskan apakah masalah ini cukup besar untuk mengalihkan perhatiannya dari pekerjaan yang lebih penting.
+Frulam Mondath (suaranya lebih lambat dari yang kalian harapkan): "Dari Greenest?"
+Bukan pertanyaan — ia sudah tahu. Yang ia tanyakan adalah apakah kalian akan mengakuinya atau tidak, dan seberapa kreatif kebohongan kalian jika kalian memilih berbohong.
+
+DM NOTE — Skenario Tertangkap:
+Jika dikenali dari Greenest: Tidak ada yang bisa dikatakan yang mengubah hasilnya. Mondath menjatuhkan hukuman mati untuk esok pagi. Satu malam bersama Leosin di tiang. Leosin punya pisau di sepatunya. Ini informasi yang ia berikan hanya jika pemain tidak menemukan cara lain dan sudah hampir menyerah mencari.
+Jika mengaku dari Greenest atau musuh kultus: Efek sama dengan dikenali.
+Jika berbohong dengan cukup meyakinkan: Bandingkan Tipu Daya vs Wawasan Mondath. Advantage atau Disadvantage tergantung kualitas kebohongannya. Yang berhasil meyakinkan Mondath: dilepas tapi diawasi dan tidak boleh meninggalkan kemah. Yang tidak berhasil: dihukum mati bersama yang lain.
+Mondath percaya atau tidak percaya secara individual — bukan sebagai kelompok. Ini sengaja memecah kelompok pemain, masing-masing harus mempertanggungjawabkan diri mereka sendiri.
+
+Meninggalkan Kemah
+Saat kalian sudah mendapat apa yang kalian butuhkan — atau saat kalian harus keluar sebelum situasi memburuk — ada dua cara.
+Keluar dari mulut kemah — paling mudah jika tidak ada yang curiga. Jika ada yang curiga, ini jalur yang paling terlihat.
+Mendaki plateau dari dalam — ada tangga kayu yang terikat ke tebing di sisi timur kemah untuk penjaga menara atas. Naik ke atas, turun dari sisi luar plateau yang tidak ada orang di sana.
+
+Jika Leosin dibawa keluar:
+Ketidakhadirannya diketahui dalam lima menit jika tidak ada yang menyamarkannya.
+Sebuah boneka atau benda besar yang diikat di tiang itu memperpanjang jendela menjadi dua puluh menit.
+Seseorang — atau sesuatu — yang diikat di tiang itu dengan postur yang mirip Leosin: dua jam penuh sebelum ada yang cukup dekat untuk memeriksa.
+
+DM NOTE — Alarm Kemah: Jika ada kultis yang terbunuh dan tubuhnya ditemukan, alarm berbunyi. Satu kobold mati tidak menimbulkan kepanikan — tapi tiga kobold mati dalam satu waktu akan. Jika kemah masuk ke status siaga: setiap karakter wajib DC 15 Karisma. Gagal = seseorang mengenali mereka sebagai orang asing. Hasil 10 ke bawah = dikenali dari Greenest. Ada kerumunan kultis yang jumlahnya jauh melebihi kemampuan bertarung kelompok kalian — jika pemain memilih untuk bertarung cara keluar, berikan lima ronde sebelum gelombang berikutnya datang. Tidak lebih dari itu.
+
+Kembali ke Greenest
+Jalan kembali terasa lebih panjang dari jalan datang.
+Bukan karena jaraknya berbeda. Tapi karena kalian sekarang tahu apa yang ada di balik bukit itu — dan pengetahuan itu beratnya tidak sama dengan ketidaktahuan.
+
+Saat kalian akhirnya melihat dinding benteng Greenest di kejauhan, Nighthill sudah ada di atas tembok. Ia pasti sudah berdiri di sana sejak lama.
+Ia tidak berteriak. Tidak melambaikan tangan. Hanya berdiri, melihat ke arah kalian datang, menghitung siapa yang kembali.
+
+Di dapur benteng yang masih berbau abu, Nighthill duduk di depan kalian untuk pertama kalinya dalam posisi yang benar-benar mendengarkan — bukan seseorang yang sedang berpikir tentang hal berikutnya.
+Ia mendengar semua yang kalian laporkan.
+Lalu ia mendorong kantong koin ke arah kalian — kali ini langsung, bukan ke tengah meja.
+Nighthill (pelan): "Dua ratus lima puluh per kepala. Seperti yang saya janjikan."
+Ia berdiri. Tangannya kembali ke belakang punggungnya.
+"Uldoon Trail tidak bisa menghadapi malam kedua seperti malam tadi. Dan dari apa yang kalian ceritakan — malam tadi bukan percobaan. Itu adalah pengiriman logistik."
+Ia menatap jendela, ke arah tenggara.
+"Seseorang perlu membawa informasi ini ke orang yang bisa melakukan sesuatu dengannya. Seseorang dengan koneksi yang cukup untuk membangun respons sebelum kemah itu bergerak ke target berikutnya."
+Diam sebentar.
+"Apakah ada di antara kalian yang tahu ke mana membawa sesuatu seperti ini?"
+
+[Nama Fighter] — tabel yang kau susun. Thundertree. Stormwreck. Greenest. Pola yang sama. Sekarang kau punya nama, kau punya lokasi, kau punya bukti bahwa ini terorganisir. Ulder Ravengard — komandan Lords' Alliance — perlu mendengar analisis taktis, bukan kesaksian korban. Dan kau sekarang punya keduanya.
+[Nama Rogue] — CROWN-7. Naerytar. Kode yang sama muncul di Seagrow Caves, di manifest di Greenest, dan sekarang kau mendengarnya lagi dari kultis-kultis yang berbicara tanpa sadar mereka memberi kalian peta. Koin tembaga Tarak di sakumu menunggu seseorang yang akan mengenalinya. Waktunya semakin dekat.
+[Nama Wizard] — Rath Modar ada di Greenest malam itu dan melihatmu. Sekarang kau tahu nama dari gulungan tersegel itu sudah bergerak lebih cepat dari kalian. Apa yang ada di dalam kemah itu — "pembibitan," Dragon Masks, koordinat astral dari Stormwreck — semuanya bergerak menuju sesuatu yang sudah punya jadwalnya sendiri.
+[Nama Cleric] — denyut Draakhorn tidak berhenti. Ia bergerak ke utara. Ke arah yang sama dengan di mana logistik kemah itu mengarah.
+[Nama Paladin] — Leosin memilih untuk tinggal. Cyanwrath menghormati duelnya. Mondath memimpin dengan disiplin yang tidak kau harapkan dari seseorang yang menyembah dewa kekacauan. Musuhmu lebih kompleks dari yang kau bayangkan, dan itu lebih berbahaya dari musuh yang sederhana.
+
+Di sudut dapur, Nesim Waladra duduk dengan kaki kirinya diluruskan. Ia tidak bertanya tentang gurunya sebelum kalian selesai berbicara dengan Nighthill.
+Tapi saat kalian berbalik ke arahnya, ia sudah menatap kalian.
+Ia tidak butuh laporan panjang. Matanya sudah membaca jawaban dari cara kalian berjalan masuk.
+Nesim (pelan): "Ia masih hidup."
+Bukan pertanyaan.
+Kalian mengangguk.
+Ia tidak berkata apa-apa lagi untuk beberapa saat. Hanya duduk dengan cara seseorang yang baru diizinkan untuk melepas sesuatu yang sudah ia tahan terlalu lama.
+Kemudian:
+Nesim: "Ia tidak mau keluar."
+Lagi-lagi bukan pertanyaan.
+"Itu berarti ia masih menemukan sesuatu yang layak untuk dipertahankan di sana."
+Ia menarik napas.
+"Bantuan dari Berdusk butuh waktu. Tapi informasi yang kalian bawa malam ini tidak perlu menunggu bantuan itu."
+
+Karakter kalian naik ke Level 4 setelah menyelesaikan chapter ini.
+
+Rewards dan Konsekuensi
+XP:
+100 XP per karakter: masuk dan keluar tanpa memicu alarm.
+100 XP tambahan per karakter: masuk dan keluar tanpa menimbulkan kecurigaan sama sekali.
+250 XP per karakter: menyelamatkan Leosin.
+50 XP tambahan per karakter: meninggalkan penyamaran di tiang.
+25 XP per karakter: setiap tahanan tambahan yang dibawa keluar hidup-hidup.
+25 XP per karakter: setiap informasi dari daftar "Area 5" yang dikonfirmasi sendiri tanpa bantuan Leosin.
+
+Konsekuensi Jangka Panjang:
+Keputusan
+Dampak di Chapter Berikutnya
+Leosin dibawa keluar
+Ia berbagi semua informasinya di Greenest. Faksi-faksi mendapat intelijen awal.
+Leosin ditinggalkan (sesuai keinginannya)
+Ia melarikan diri sendiri dalam dua hari — dengan informasi tambahan yang lebih dalam, tapi terlambat satu langkah.
+Pemain tertangkap lalu lolos
+Kemah dalam status siaga. Level eskalasi naik satu tahap. Kultus lebih waspada di operasi berikutnya.
+Pemain mengungkap CROWN-7 → Naerytar
+Rogue mendapat konfirmasi lintas-chapter. Zhentarim meningkatkan kepercayaan jika koneksi ini dilaporkan.
+Pemain membawa bukti pola serangan ke Fighter
+Tabel Thundertree vs Greenest kini lengkap dengan data Greenest. Siap untuk Council of Waterdeep.
+Gua "pembibitan" tidak ditembus
+Ini disengaja — chapter berikutnya membuka gua itu sebagai lokasi tersendiri.
+
+
+DM NOTE — Penutup Naratif: Greenest sudah memberi kalian nama-nama: Rezmir, Mondath, Cyanwrath. Kemah sudah memberi kalian peta dan pola. Leosin — di dalam atau di luar — membawa pengetahuan yang akan mengubah skala dari "raider lokal" menjadi "konspirasi kontinental."
+Yang belum kalian ketahui: ke mana logistik CROWN-7 berujung, siapa yang duduk di puncak rantai komando yang berada di atas Rezmir, dan apa yang ada di dalam gua itu yang membuat bahkan kultis senior menghindari membicarakannya terlalu keras.
+Itu adalah pertanyaan yang akan dijawab di utara. Di Castle Naerytar. Di Well of Dragons.
+Mereka sudah mulai perjalanan itu — bahkan sebelum mereka tahu mereka sedang menempuhnya.
+
+"Bagaimana kau ingin mengakhiri ini?"
+— Pertanyaan yang menutup setiap pertempuran besar.

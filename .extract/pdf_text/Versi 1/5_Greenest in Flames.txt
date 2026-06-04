@@ -1,0 +1,167 @@
+Berlayar Menuju Api — Greenest in Flames
+Kampanye Terpadu: Stormwreck Isle → Tyranny of Dragons Chapter 4 — Bridging Tyranny + Tyranny of Dragons Chapter 1
+
+PANDUAN FORMAT CHAPTER INI Teks tanpa tanda khusus = narasi yang dibacakan DM ke pemain, dengan suara langsung. Teks dalam > blok ini = instruksi dan catatan untuk DM saja, tidak dibacakan. [Nama Pemain] = DM menyebut nama karakter yang relevan secara langsung. Teks miring di luar dialog = deskripsi fisik atau aksi yang DM gambarkan pelan-pelan.
+
+BAGIAN I — BERLAYAR MENUJU API
+Keberangkatan
+Matahari meredup di ufuk barat, namun yang menanti di depan bukan ketenangan senja.
+Saat perahu dayung kalian membelah ombak, menolehlah ke belakang sekali lagi. Stormwreck Isle perlahan ditelan kabut putih tebal — kabut Runara yang menutupi pulau itu seolah menariknya kembali ke dalam lembaran legenda. Biara itu, patung Bahamut, kenangan perlindungan sang naga perunggu — semuanya menghilang. Kalian sendirian di lautan luas.
+Kayu perahu terasa hangat di telapak tangan kalian, tapi getarannya berbeda dari sebelumnya. Bukan lagi hantaman ombak biasa — ada denyut rendah yang merambat dari dasar laut ke sela-sela jari.
+[Nama Cleric] — ini bukan resonansi yang bisa kau abaikan. Sesuatu yang besar sudah berpindah ke daratan. Dan frekuensinya bergerak ke arah yang sama dengan kalian.
+Lalu udara berubah. Bau garam berganti dengan aroma tajam ozon dan uap belerang yang terbawa angin timur. Di lidah kalian — rasa logam yang sangat kuat, seperti sebelum Clifftop Observatory, tapi lebih besar. Lebih dekat.
+
+Pesisir Greenfields
+Awalnya hanya desisan angin.
+Kemudian kepakan sayap — begitu besar hingga suara ombak pun bungkam sesaat. Di atas awan yang menghitam, sebuah bayangan raksasa melintas cepat ke arah daratan utama. Kalian tidak melihat sosoknya secara utuh. Tapi kilatan petir biru dari balik awan itu mengonfirmasi sesuatu: kuno, besar, dan sedang menuju suatu tempat dengan tujuan yang jelas.
+
+Kalian mendarat di pesisir Sword Coast saat senja. Mengikuti petunjuk dari Ledger logistik yang kalian sita di Clifftop Observatory, kalian menapaki jalan berkelok melintasi padang rumput Greenfields yang bergelombang. Matahari hampir tenggelam ketika kalian mencapai puncak bukit — dan dari sana, kalian melihat kota Greenest hanya beberapa mil di bawah.
+Kalian berharap melihat cahaya lampu kota yang hangat.
+Yang kalian lihat adalah kepulan asap hitam dari bangunan yang terbakar, sosok-sosok berlari yang dari kejauhan tampak seperti titik-titik kecil yang panik, dan sebuah bentuk gelap bersayap yang berputar rendah di atas benteng di pusat kota.
+Greenest sedang diserang oleh seekor naga.
+
+Saat Kalian Tiba di Puncak Bukit
+[Nama Fighter] (genggaman tangan pada pedang mengeras, mata mencerminkan api di bawah): "Petir itu... asap itu... ini persis seperti Thundertree. Tapi kali ini aku bukan anak kecil yang berlari. Kita punya informasi, kita punya senjata. Kita turun."
+[Nama Paladin] (mengangkat perisai, simbol Bahamut menghadap ke bawah — ke kota yang terbakar): "Runara bilang siklus kekerasan telah dimulai kembali. Orang-orang di bawah sana adalah tanggung jawab kita sekarang. Sumpahku bukan pada hukum kota — tapi pada kehidupan mereka."
+[Nama Wizard] (membuka gulungan Thayan, membandingkan dengan api di bawah): "Lihat koordinat astral ini — ritual Sparkrender di pulau hanyalah baterai. Ini adalah sumbu utamanya. Jika kita tidak menghentikan logistik mereka di sini, apa yang akan terjadi di daratan utama tidak bisa dihentikan."
+"Suara Draakhorn kini bukan lagi gema di kepala kalian, [Nama Cleric] — melainkan teriakan perang yang nyata dari arah kota di bawah."
+
+DM NOTE — Greenest: Ini adalah momen pertama nama "Greenest" diucapkan secara eksplisit kepada pemain. Mereka sudah mengetahui kota ini akan diserang dari manifest CROWN-7 di Seagrow Caves dan petunjuk tidak langsung di chapter sebelumnya — tapi ini adalah konfirmasinya. Biarkan momen ini berdiri sendiri. Biarkan pemain merespons sebelum melanjutkan ke Misi 1.
+Rogue di chapter transisi ini: Arc Rogue berjalan diam di Bridging — kode CROWN-7 yang ia bawa dari Stormwreck belum memiliki pasangannya sampai Misi 2 di chapter ini. Biarkan Rogue mengamati. Itu konsisten dengan karakternya.
+
+BAGIAN II — GREENEST IN FLAMES
+
+DM NOTE — Latar Kota: Greenest adalah satu-satunya kota besar di sepanjang Uldoon Trail, jalur perdagangan yang menghubungkan kota-kota timur Dragon Coast dengan Coast Way ke selatan. Nilai strategisnya adalah logistik — karavan yang melewatinya membawa emas, dan emas adalah bahan bakar kultus. Kota ini didirikan oleh Dharva Scatterheart, halfling yang bermimpi menjadi ratu Greenfields. Ia mati sebelum mencapainya. Kotanya bertahan.
+Gubernur Tarbaw Nighthill: Pria enam puluh tahun yang tidak pernah bisa berdiam diri. Mannerism khasnya: selalu bergerak, mondar-mandir, tangan di belakang punggung — kebiasaan seseorang yang terbiasa membuat keputusan sambil berjalan. Malam ini separuh wajah dan kepalanya dibalut perban yang sudah kecokelatan. Lengan kanannya di gendongan improvised dari ikat pinggang orang lain. Tunik biru mudanya berlumuran darahnya sendiri. Luka dari awal serangan yang belum sempat disentuh siapa pun.
+Kastilan Escobert si Merah: Kurcaci dengan rambut merah terang yang kusut seperti sarang burung, selalu memegang seikat kunci besi dan kuningan. Ketika berbicara, ia tidak menatap wajah orang — ia menatap pintu, dinding, celah. Kebiasaan seseorang yang terbiasa menilai titik lemah sebuah bangunan.
+Kondisi Kota: Serangan berlangsung dari pukul sembilan malam hingga empat pagi. Api sebagian besar dari tumpukan jerami dan lumbung, bukan rumah atau toko — kultis tidak cukup efisien. Sungai di kota dangkal, jarang lebih dari tiga kaki, bisa digunakan sebagai jalur perlindungan.
+
+Turun ke Kota
+Kalian berlari menuruni bukit menuju gerbang selatan Greenest. Asap sudah bisa kalian rasakan di tenggorokan dari jarak ini — bukan asap kayu biasa, ada campuran belerang yang menempel di lidah. Di atas kota, naga biru itu berputar rendah, sesekali menyambar menara benteng dengan petir yang membuat langit malam terang sebentar lalu gelap lagi.
+Jalanan Greenest dikuasai pasukan yang bergerak tanpa rasa takut — kobold dengan obor di tangan, penyembah berpakaian gelap yang menjarah rumah warga sambil berjalan. Mereka tidak berlari, tidak sembunyi. Mereka berjalan seperti ini adalah pekerjaan biasa.
+Seperti mereka sudah melakukan ini sebelumnya.
+
+DM NOTE — Pertemuan di Jalanan: Jika pemain menggunakan perlindungan dan penyamaran, minta uji Stealth DC 10 per karakter. Jalur sungai memberi Advantage. Tanpa penyamaran, lempar d8 setiap 100 kaki — hasil 5 atau lebih berarti bertemu perampok. Perampok dan kobold punya kemungkinan 50% membawa harta curian (lempar d6, kali 10 untuk nilai dalam keping emas).
+
+Misi 1: Pintu Masuk Neraka
+Di persimpangan pertama, di antara rumah yang atapnya sudah menghitam dan satu gerobak yang terbalik di tengah jalan, kalian melihatnya.
+Seorang perempuan berdiri dengan tombak patah di tangan. Gagang kayunya sudah retak di tengah — tapi ia tetap mengangkatnya. Di belakangnya: seorang pria terduduk di tanah, tangan menutupi perutnya, dan tiga anak yang berdiri diam. Tujuh kobold mengepung mereka.
+Perempuan itu melihat kalian datang, menilai kalian dalam satu detik, lalu berteriak:
+Linan Swift: "Benteng! Kita harus ke benteng!"
+Bukan permintaan. Instruksi. Dari seseorang yang sudah memutuskan ke mana ia pergi dan hanya butuh waktu untuk tiba di sana.
+
+[Nama Fighter] — pemandangan ini bukan sekadar pertempuran. Ini adalah Thundertree yang terulang, tapi kali ini kau sudah tiba tepat waktu. Linan Swift berdiri di sini dengan tombak patah karena tidak ada yang datang lebih dulu. Ini ujian pertama komandomu di daratan utama — bukan ujian keberanianmu, tapi ujian keputusanmu.
+[Nama Paladin] — jeritan warga terdengar dari segala penjuru. Kau tidak bisa menjangkau semua orang. Memutuskan siapa yang bisa diselamatkan dan siapa yang harus kalian lewati untuk mencapai benteng adalah ujian pertama sumpahmu di luar Stormwreck. Tidak ada jawaban yang benar di sini. Hanya pilihan dengan harga yang berbeda.
+[Nama Wizard] — saat kalian berlari, kau merasakan sesuatu di udara yang mirip dengan anomali drakonik di Clifftop Observatory. Ada pola di sini: mereka menarget tempat penyimpanan, tidak merusak jembatan, tidak membakar sumur. Mereka memanen, bukan menghancurkan.
+[Nama Cleric] — getaran yang kau rasakan di laut kini bermutasi menjadi suara rendah yang menggetarkan tulang. Sesuatu yang sudah lama kau dengar di kejauhan kini ada di sini. Sangat dekat.
+
+Kalian tidak harus bertarung terbuka. Kalian bisa mencoba menyelinap membawa keluarga ini melalui jalur belakang, menyamar sebagai bagian dari kultus, atau mengalihkan perhatian kobold. Setiap pilihan punya biaya.
+Tapi setiap menit yang kalian habiskan di sini, ada warga lain yang tidak punya tombak patah pun untuk bertahan.
+
+DM NOTE — Mekanik Misi 1:
+Linan: +2 serangan, 1d6 kerusakan tikaman, 8 HP. Ia akan bertarung — jangan jadikan ia NPC pasif.
+Cuth, suaminya: kondisi kritis, 2 HP. Tidak bisa bergerak tanpa dibantu.
+Anak-anak: bergerak lebih lambat. Karakter yang menggendong anak mendapat Disadvantage untuk lemparan serangan dan tidak bisa menggunakan senjata dua tangan.
+Penyamaran: Stealth DC 10 untuk kelompok. Advantage kalau menggunakan jalur sungai.
+Tiga kelompok perampok di jalur utama: masing-masing 1d6 kobold dan 1d4 kultis. Jika muncul enam kobold, satu di antaranya adalah Winged Kobold — ancaman dari udara.
+Setiap kali kalian memilih jalur alternatif dan menghindari pertempuran, 1d6 warga lain bergabung dengan rombongan. Setiap 4 warga tambahan menarik satu kelompok perampok baru.
+
+Bertemu Nighthill
+Kalian tiba di benteng dengan siapa pun yang berhasil kalian bawa. Gerbang menutup di belakang kalian.
+Di atas tembok, seorang pria mondar-mandir dengan cara orang yang tidak bisa berhenti bergerak — bukan karena panik, tapi karena diam terasa seperti menyerah. Saat ia berbalik dan melihat kalian, kalian melihat separuh wajahnya dibalut kain yang sudah kecokelatan. Lengannya di gendongan improvised dari ikat pinggang seseorang yang lebih kecil dari dia.
+Ia tidak berhenti berjalan. Hanya mengubah arah menuju kalian.
+Gubernur Nighthill (suaranya serak tapi tidak ragu): "Kalian bukan dari sini. Bagus. Orang dari sini sudah terlalu sibuk takut untuk berpikir. Aku butuh orang yang bisa berpikir."
+Ia berhenti sebentar — pertama kalinya malam ini ia benar-benar berdiri diam.
+"Ada berapa yang bisa kalian jangkau malam ini?"
+
+Sebelum kalian bisa menjawab, Escobert si Merah muncul dari tangga dalam — rambut merahnya berantakan, seikat kunci berbunyi di pinggangnya. Ia tidak menatap wajah kalian. Matanya langsung ke dinding, ke pintu, ke celah di langit-langit.
+Escobert (sambil meraba-raba kunci di gantungannya): "Ada terowongan lama di bawah. Ke tepi sungai. Belum dibuka bertahun-tahun, tapi masih ada. Kalau kalian bisa membukanya dari dalam, kita bisa memasukkan warga tanpa melalui gerbang utama."
+Ia akhirnya menatap kalian — sebentar, seperti menaksir bobot batu bata.
+"Pintunya berkarat. Butuh tangan yang tahu apa yang mereka lakukan."
+
+Misi 2: Terowongan Lama
+Di ruang bawah tanah benteng yang berbau tanah lembap dan besi tua, Escobert membuka sebuah pintu rendah di balik rak penyimpanan. Di baliknya: kegelapan yang berbau tikus dan waktu.
+Escobert: "Lorong ini ke tepi sungai. Pintu ujungnya berkarat. Kalau kalian bisa membukanya tanpa ribut-ribut, warga bisa masuk dari sana. Kalau ribut..."
+Ia menatap langit-langit dengan cara orang yang menghitung berapa lama atap akan bertahan.
+
+Lorong itu sempit — kalian harus bergerak satu per satu. Lantai batu licin oleh kelembapan. Di atas, kadang-kadang, kalian bisa mendengar derap kaki kultis yang berpatroli.
+Kemudian, dari kegelapan di depan, ribuan titik merah kecil.
+[Nama Cleric] — suara cicitan itu bergema seperti sesuatu yang pernah kau dengar di mimpimu di Dragon's Rest.
+Sebelum kalian sempat bergerak, dua gerombolan tikus menyerbu dari celah-celah dinding.
+Inisiatif, semuanya!
+
+Di tepi sungai, pintu besi itu ada — berkarat seperti yang Escobert katakan. Di sela-sela peti lama yang menghalangi pintu, [Nama Rogue] — instingmu mengatakan sesuatu tidak beres.
+Periksa tanda-tanda logistik di peti itu.
+Dan kalau kau menemukannya, ini yang tertulis di dalamnya:
+Manifest ini mencatat bahwa hasil jarahan tidak disimpan di Greenest — ada jadwal pengiriman ke utara. Tujuannya dikodekan: hanya koordinat kasar dan satu kata: CROWN-7.
+
+DM NOTE — CROWN-7: Jika Rogue menemukan Manifest Fragment 1 di B3 Seagrow Caves, ia langsung mengenali kode ini — momen validasi intelijen lintas chapter. Jika tidak, kode ini menjadi misteri yang menggantung hingga Chapter 4-6. Jangan sebut nama Naerytar di sini.
+Mekanik pintu: Membuka gerendel berkarat secara diam-diam memerlukan uji Thieves' Tools DC 10. Jika gagal dengan selisih 5 atau lebih, alat patah di dalam. Mendobrak paksa (DC 15 Strength) membuat suara keras — dan gambarkan: Lennithon di atas sana tiba-tiba berhenti menggeram dan menoleh ke arah sungai.
+Di tepi sungai: dua kultis dan enam kobold berpatroli. Jika pertempuran berlangsung lebih dari 4 ronde, satu kultis meniup peluit — 10 menit kemudian, pasukan tambahan tiba (2 kultis, 10 kobold, 1 Ambush Drake).
+
+Misi 3: Pintu Samping yang Jebol
+Tengah malam. Sebuah dentuman keras dari dinding barat.
+Para raider berhasil menjebol pintu samping benteng. Escobert berteriak mencari bantuan — sekelompok kultis dan seekor Ambush Drake merangsek masuk ke halaman dalam.
+Drake itu berbeda dari kobold. Ia tidak mengejar siapa yang terlihat. Ia mengejar siapa yang berlari.
+Kalian harus membersihkan halaman dalam dan menahan gelombang kedua sementara Escobert memperbaiki pintu dengan cara apa pun yang ada.
+[Nama Paladin] — di halaman yang sama ini, ada warga yang baru tiba dari misi terowongan. Mereka berlindung di sudut. Kalian harus memilih: membersihkan Drake dulu, atau memastikan warga ke tempat yang aman dulu. Kalian tidak bisa melakukan keduanya sekaligus.
+
+Misi 4: Amarah Lennithon
+Menjelang tengah malam. Udara statis meledak — bulu kuduk kalian berdiri sebelum kalian mendengar suaranya.
+Bau belerang dan ozon membakar hidung. Kemudian bayangan masif menutupi cahaya bulan.
+Lennithon, naga biru dewasa, bertengger di atas menara benteng. Sisiknya berkilau seperti logam basah. Petir biru menyambar dari rahangnya, merobek atap dan menghanguskan para penjaga di samping kalian. Ia tidak menyerang untuk membunuh — ia menyerang untuk mematahkan semangat.
+Ada perbedaan antara keduanya. Dan kalian bisa merasakannya.
+[Nama Cleric] — getaran Draakhorn mencapai puncaknya saat naga itu mengepak. Resonansi yang kau dengar sejak Stormwreck — naga ini adalah bagian dari frekuensi yang sama. Ia bukan di sini karena kebetulan. Ia di sini karena seseorang memerintahkannya.
+[Nama Fighter] — kau pernah berdiri di bawah bayang-bayang naga sebelumnya. Di Thundertree, kau berlari. Di sini, kau punya pedang, kau punya kawan, dan kau punya alasan. Pertanyaannya bukan apakah kau bisa — tapi apakah kau mau menanggung biayanya.
+
+DM NOTE — Lennithon: Naga ini tidak bertarung sampai mati. Cukup berikan kerusakan yang signifikan atau satu pukulan kritis — dan ia akan pergi, terbang ke tenggara menuju perkemahan raider. Ia adalah sinyal bahwa sesuatu yang jauh lebih terorganisir sedang terjadi — bukan akhir dari pertempuran.
+
+Misi 5: Interogasi di Tengah Api
+Nighthill butuh informasi: siapa mereka, dan mengapa Greenest?
+Kalian harus menangkap hidup-hidup seorang pemimpin atau kultis berpangkat — seseorang yang tahu lebih dari sekadar diperintah.
+Kultis yang tertangkap akhirnya berbicara. Mereka mengumpulkan upeti — tapi bukan untuk siapa pun yang hidup di dunia ini. Dan ada sesuatu di gua raider yang dijaga lebih ketat dari semua emas yang mereka bawa.
+[Nama Wizard] — saat kalian menangkap kultis itu, kau melihat seseorang di ujung gang yang segera menghilang ke dalam kegelapan. Jubah merah. Lambang yang kau kenali dari gulungan tersegel di Clifftop Observatory. Rath Modar. Ia ada di sini — dan ia melihatmu melihatnya.
+
+Misi 6: Lumbung yang Terbakar
+Dari atas tembok, kalian melihat lumbung gandum kota mulai berasap. Nighthill berhenti mondar-mandir untuk pertama kalinya jam ini:
+Nighthill: "Tanpa gandum itu, kota ini akan kelaparan bahkan kalau kita selamat malam ini."
+Tapi sesuatu tidak benar. Api itu terlalu kecil untuk lumbung sebesar itu. Terlalu terkontrol.
+[Nama Wizard] — kau memperhatikan pola api itu. Api yang sungguh-sungguh menyebar ke atas, ke samping, mengikuti bahan bakar. Api ini berdiri di tempat. Ini bukan kebakaran. Ini umpan.
+Frulam Mondath — komandan lapangan raider — merancang ini. Para perampok berpura-pura membakar untuk memancing kalian keluar dari benteng ke dalam penyergapan di luar tembok.
+[Nama Fighter] — kau sudah melihat taktik ini. Bukan di Thundertree, tapi dalam laporan yang pernah kau baca tentang bagaimana pasukan terorganisir mengelola pertempuran kota. Ini bukan gerombolan perampok. Ini tentara dengan pemimpin yang tahu cara berpikir.
+
+Misi 7: Pengepungan Kuil Chauntea
+Ratusan warga terjebak di dalam Kuil Chauntea. Dari sini, kalian bisa mendengar pintu depannya mulai retak dihantam balok kayu besar. Tiga kelompok perampok mengepung seluruh bangunan.
+Mereka tidak bisa keluar dari depan. Tapi ada jalur belakang — sempit, melalui taman kuil yang sudah hangus — yang para kultis belum tutup. Belum.
+[Nama Paladin] — di sinilah sumpahmu diuji bukan oleh monster, tapi oleh matematika. Ada berapa yang bisa kalian selamatkan sebelum jalur itu tertutup? Siapa yang pergi pertama — anak-anak atau yang terluka? Pemuka agama atau yang bisa berjalan sendiri? Tidak ada jawaban suci di sini. Hanya pilihan, dan konsekuensinya.
+
+Misi Final: Duel Kehormatan
+Fajar mulai menyingsing. Para raider mundur.
+Mundur, bukan kabur. Mereka bergerak terorganisir, perlahan, seperti tentara yang menyelesaikan misi dan pulang — bukan seperti gerombolan yang dikalahkan. Dan dari barisan yang mundur itu, satu sosok memisahkan diri.
+Setinggi tujuh kaki. Sisik biru di sepanjang rahang dan lengannya. Jubah ungu yang tidak compang-camping — dirawat, dicuci, dipakai dengan sadar oleh seseorang yang memiliki standar bahkan dalam situasi seperti ini.
+Di tangannya, empat orang. Sandera. Salah satunya seragam penjaga benteng — saudari Sersan Markguth. Kalian tahu itu dari seseorang di belakang kalian yang langsung menahan napas.
+Langdedrosa Cyanwrath berdiri di tengah lapangan terbuka di depan gerbang. Ia tidak berteriak. Suaranya keras karena ia berbicara dengan cara seseorang yang sudah sangat terbiasa didengar.
+Cyanwrath: "Pembela Greenest. Kirimkan jawara terbaik kalian. Jika ia berdiri lebih lama dari yang kuharapkan — sandera ini dibebaskan."
+Ia berhenti. Matanya menyapu wajah-wajah di atas tembok, satu per satu, dengan cara seseorang yang sedang mencari sesuatu yang spesifik.
+"Saya tidak menjanjikan kemenangan bagi kalian. Saya menjanjikan keadilan yang jujur."
+Ia menunggu. Tidak ada yang terburu-buru dalam caranya berdiri.
+
+[Nama Fighter] — ini adalah momen legitimasimu. Bukan karena kemenangan dijamin — tapi karena seseorang harus maju, dan seseorang yang maju di saat seperti ini adalah seseorang yang dipercaya orang lain untuk maju lagi. Menang atau kalah tidak sepenting keberanianmu berdiri di depan sosok ini di hadapan kota yang menyaksikan. Lords' Alliance tidak akan melupakan nama orang yang melakukannya.
+
+Duel itu berlangsung. Cyanwrath bertarung dengan cara seseorang yang menikmati pertarungan — tidak terburu-buru, tidak kejam, tapi juga tidak menahan diri. Ia ingin melihat seberapa jauh jawaramu bisa bertahan.
+Saat pertarungan berakhir — apapun hasilnya — Cyanwrath menghormati perjanjiannya. Ia melepaskan sandera. Lalu ia berbalik dan berjalan kembali ke barisan yang sudah menunggu.
+Ia tidak menoleh.
+
+Matahari terbit di atas kota yang masih membara. Kalian berdiri di atas tembok benteng, menatap ke arah tenggara — ke mana raider itu pergi. Di sana, di balik ufuk, ada kemah yang belum kalian sentuh. Dan di balik kemah itu, sesuatu yang jauh lebih besar.
+Nighthill berdiri di sebelah kalian. Untuk pertama kalinya malam ini, ia tidak mondar-mandir.
+Nighthill (pelan, menatap asap yang masih mengepul dari kota di bawah): "Saya tidak tahu dari mana kalian datang. Tapi saya tahu bahwa tanpa kalian, tidak ada yang tersisa untuk dipertahankan."
+Ia berbalik. Kembali ke pekerjaannya.
+
+Karakter kalian kini naik ke Level 4 setelah menyelesaikan Chapter 1 dan 2 Tyranny of Dragons.
+
+DM NOTE — Penyelarasan Karakter (sampaikan sebelum sesi berikutnya atau sebagai pembuka):
+[Nama Fighter] — kau melihat pola yang sama untuk ketiga kalinya: Thundertree, Stormwreck, Greenest. Selalu kota kecil. Selalu terisolasi. Selalu terlambat mendapat bantuan dari pusat. Tapi kali ini ada manifest, ada nama, ada kode. Data itu ada di tanganmu. Dan Ulder Ravengard — komandan Lords' Alliance — perlu mendengar analisis taktis, bukan cerita tentang trauma masa kecil.
+[Nama Paladin] — Cyanwrath berduel dengan jujur dan menepati janjinya. Ia adalah musuhmu, tapi ia adalah musuh yang memegang kata-katanya sendiri. Itu lebih dari yang bisa dikatakan tentang banyak orang yang mengklaim berpihak padamu. Kau tidak harus menyukainya. Tapi kau akan mengingatnya.
+[Nama Wizard] — Rath Modar ada di sini malam ini. Orang yang membunuh rekanmu ada di kota yang sama denganmu, dan ia melihatmu. Itu berarti ia tahu kamu mengenal namanya. Orang yang tahu hal seperti itu biasanya tidak membiarkan saksinya hidup terlalu lama.
+[Nama Rogue] — CROWN-7 muncul lagi. Di Seagrow Caves, di manifest karavan ini. Kode yang sama, sistem yang sama. Dan koin tembaga Tarak di sakumu belum punya pasangannya. Semua ini terhubung — kau hanya belum melihat titik mana yang menjadi pusatnya.
+[Nama Cleric] — resonansi Draakhorn tidak berhenti. Ia semakin kuat, bergerak ke arah yang sama dengan pergerakan raider. Ke utara. Kau tidak lagi mendengar gema — kau mendengar sumber.

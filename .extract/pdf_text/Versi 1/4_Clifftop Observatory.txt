@@ -1,0 +1,243 @@
+Clifftop Observatory
+Kampanye Terpadu: Stormwreck Isle → Tyranny of Dragons Chapter 3 — Setelah Seagrow Caves & Cursed Shipwreck
+
+PANDUAN FORMAT CHAPTER INI Teks tanpa tanda khusus = narasi yang dibacakan DM ke pemain, dengan suara langsung. Teks dalam > blok ini = instruksi dan catatan untuk DM saja, tidak dibacakan. [Nama Pemain] = DM menyebut nama karakter yang relevan secara langsung. Teks miring di luar dialog = deskripsi fisik atau aksi yang DM gambarkan pelan-pelan.
+
+Sebelum Berangkat: Briefing Runara
+Pagi itu, Runara menunggu kalian di tepi tebing Kuil Bahamut. Ia tidak duduk. Ia berdiri menghadap ke arah tenggara — ke puncak tebing tempat menara tua itu berdiri — dengan cara seseorang yang sudah lama memikirkan apa yang akan ia katakan dan akhirnya memutuskan bahwa tidak ada cara yang mudah.
+Saat langkah kalian mendekatinya, ia tidak menoleh.
+Runara (tanpa berbalik): "Semalam aku bilang ada waktu yang tepat untuk setiap kebenaran. Pagi ini adalah waktunya."
+Ia berbalik. Di tangannya, sebuah benda kecil — kunci berbentuk bulan sabit, terbuat dari batu biru berkilauan yang terasa hangat saat kalian menerimanya, seperti sesuatu yang sudah dipegang terlalu lama.
+Runara: "Moonstone Key. Ada lekukan heksagonal di dasar patung-patung naga di teras pengamat — di ujung tenggara pulau. Kunci ini akan membuka jalan kalian. Di dalam observatorium itu, ada yang perlu diselamatkan, dan ada yang perlu dihentikan."
+Ia berhenti. Lalu menambahkan, lebih pelan — suara seseorang yang memilih kata dengan sangat hati-hati:
+Runara: "Ketika kalian kembali... aku akan menjelaskan mengapa aku benar-benar peduli pada pulau ini. Dan mengapa aku tidak bisa pergi sendiri."
+Ia kembali menatap ke arah tenggara. Percakapan selesai.
+
+DM NOTE — Runara Protocol: Tidak ada penjelasan lebih lanjut dari Runara tentang identitasnya, kemampuannya, atau alasan mengapa ia tidak bisa pergi sendiri. Semua itu adalah janji yang akan ditepati di akhir chapter ini. Jika pemain menekan dengan pertanyaan: "Belum waktunya. Pergi dulu."
+
+Pilihan Jalur
+Kalian punya tiga cara menuju ujung tenggara pulau.
+Jalur Perahu — Menggunakan perahu dayung Dragon's Rest, mengitari sisi timur pulau. Setiap dayungan memicu pendaran bioluminesensi di bawah air — indah dan aneh, warna biru kehijauan yang bergerak terlambat seperti sesuatu yang sedang bermimpi. Di atas kalian, langit mulai berdenyut oranye dari arah yang tidak ada mataharinya.
+Jalur Pesisir — Enam mil, sekitar dua jam berjalan. Di sepanjang kolam pasang surut, kalian melewati apa yang terlihat seperti luka bakar di vegetasi — batang-batang pohon hangus membentuk pola radial yang tidak bisa dijelaskan oleh kilat biasa. [Nama Wizard], pola kristalisasi pada batu-batu di sini searah dengan sesuatu yang jauh di depan. Semua mengarah ke satu titik.
+Jalur Darat — Satu jam lebih cepat, tapi medan berat. Rasa logam kuat di lidah, dan senjata logam kalian berdengung pelan saat digenggam. [Nama Cleric], saat kalian mendaki, kau merasakan resonansi tumpul itu lagi — bukan dari Compass Rose, bukan dari laut. Ini dari atas. Dari depan. Seperti sesuatu di ujung pulau ini sedang menangkap frekuensi yang sama dan memperkuatnya.
+
+D1: Overlook — Teras Pengamat
+Jalan setapak yang hancur berakhir di tepi jurang. Di depan kalian berdiri dua patung naga marmer putih berurat emas, mulut menganga dalam raungan bisu ke arah laut. Bau ozon sangat pekat di sini — bukan bau hujan yang akan datang, melainkan bau udara yang sudah terbakar.
+Komet King-Killer Star tampak lebih besar dari kemarin. Lebih merah. Seperti mata yang sedang membuka.
+Kalian tidak sempat berdiri lama.
+Sebuah raungan melengking merobek langit tepat di atas kepala kalian. Bayangan biru yang berkilauan — besar, bergerak terlalu cepat untuk sesuatu sebesar itu — meluncur menembus kabut laut. Petir kecil menari di antara sisiknya. Ia mendarat di puncak menara di seberang jurang, lalu diam. Ia tidak melihat ke bawah. Tapi kalian merasakan detak waktu di dada kalian seperti jam yang sedang berdetak menuju nol.
+Di dasar salah satu patung, ada lekukan heksagonal. Pas dengan Moonstone Key di tangan kalian.
+[Nama Wizard] (melihat lekukan itu, melihat langit, melihat komet): "Koordinat astral yang dicatat agen Thay di gua itu — semuanya mengarah ke posisi komet ini. Ini bukan ritual lokal. Ini uji lapangan untuk sesuatu yang jauh lebih besar."
+[Nama Fighter]: "Masukkan kuncinya. Kita tidak boleh membiarkan tempat ini menjadi Thundertree berikutnya."
+Saat Moonstone Key dimasukkan ke lekukan itu, cahaya biru elektrik meledak dari mata patung. Seberkas energi berwarna-warni merentang menyeberangi jurang — membentuk jembatan transparan yang bergetar hebat. Solid seperti batu. Tapi di bawahnya, ombak yang ganas. Tiga puluh kaki.
+[Nama Rogue] — saat kau berdiri di tepi jembatan itu, kau menyadari sesuatu: logistik yang kau lacak dari Compass Rose berakhir di sini. Ini titik terakhir sebelum pengiriman keluar pulau. Berarti di dalam sana ada bukti tentang ke mana semuanya pergi.
+
+D2: Rotunda — Reruntuhan Pusat
+Langkah kalian di atas jembatan energi memicu percikan statis di ujung sepatu. Angin laut kencang membawa uap belerang dari bawah pilar basalt.
+Saat kalian tiba di sisi lain, plaza terbuka menyambut kalian — dan suasananya sangat berbeda dari biara.
+Di pusat plaza, sebuah mesin astronomi raksasa berputar dengan gerakan yang patah-patah dan mengeluarkan suara gesekan logam yang menyerupai rintihan. Ia menggambarkan Toril, Selûne, dan komet King-Killer Star dalam orbit yang tidak seimbang. Lantai marmer retak dipenuhi fragmen patung. Di sekelilingnya berdiri lima bongkah batu yang dipahat kasar menjadi bentuk naga — Astalagan, Clyssavar, Eldenemir, Sharruth, dan Turadaer — nama masing-masing terukir kasar di alas batu.
+Setiap kali komet pada mesin itu berputar melewati posisi Toril, kilatan statis ungu meloncat ke Dragon Effigies di sekitarnya.
+Dan di tengah itu semua, dua kobold bersayap dengan sapuan cat biru di wajah mereka sedang dikerubuti delapan Stirge.
+Enam dari makhluk penghisap darah itu menyadari kehadiran kalian. Mereka melepaskan dua kobold yang sudah setengah pingsan dan meluncur ke arah kalian dengan paruh berlumuran merah.
+Inisiatif, semuanya!
+
+Setelah Stirge dibersihkan, dua kobold itu — Mek dan Minn — bangkit dari lantai dengan mata yang masih berputar. Mereka mengenakan baju kulit yang terlalu besar dan memegang tombak setengah patah. Saat mereka melihat kalian dengan jelas, tangan mereka mengencang di senjata.
+Tapi jika kalian menyebut nama Myla — pengrajin di Dragon's Rest, dengan sayap yang tidak bisa terbang — kedua kobold itu membeku.
+Mek (suaranya serak, ragu-ragu, seperti seseorang yang baru menyadari bahwa keputusannya mungkin salah): "Kalian kenal si sayap lumpuh? Kami meninggalkannya. Sparkrender bilang hanya yang kuat yang pantas melayani Mahkota Bersisik. Tapi dia... dia tidak pernah menyakiti siapa pun."
+Ia menatap lantai.
+"Mengapa kalian datang ke sini?"
+
+Jika kalian menyelidiki mesin astronomi — uji Kecerdasan (Arkan) DC 15:
+Mesin ini bukan alat pengamat biasa. Ia sedang dikalibrasi — disetel untuk menyelaraskan energi komet King-Killer Star saat melintas paling dekat dengan Toril. Ini kunci mekanis dari sebuah ritual.
+[Nama Wizard] — kau mengenali cara mesin ini dibangun. Ini bukan karya Sparkrender. Ini karya seseorang yang memiliki pemahaman mekanika langit yang jauh melampaui wyrmling biru yang sombong. Ada tangan lain di balik ini.
+Di sisi barat dan barat daya rotunda, ada sepasang patung naga marmer identik dengan yang ada di teras pengamat. Moonstone Key bisa digunakan di sini untuk membuka jembatan kedua — menuju menara terisolasi di D4 tanpa harus turun ke jurang.
+Kemudian, dari atas menara utama, sebuah raungan menggelegar. Percikan petir biru menyambar puncak menara.
+Mek dan Minn (berbisik bersamaan): "Tuan Biru sudah tahu ada tamu. Ritual dimulai saat komet menyentuh puncaknya. Kalian harus memilih — pergi ke bawah dan bebaskan naga yang ditawan, atau hadapi langit sekarang."
+
+DM NOTE: Jika pertempuran di D3 berlangsung lebih dari 3 ronde, raungan peringatan Sparkrender dari D5 akan bergema — menggetarkan seluruh menara dan memberi sinyal bahwa ia sudah sepenuhnya sadar ada tamu.
+
+D3: Kamp Kobold — Loyalitas yang Sesat
+Menara yang hancur ini ditambal kasar dengan papan dan kain perca. Bau reptil bercampur dengan uap belerang. Di dalamnya, tiga kobold — Ekrash, Erp, Hev — dan dua Kobold Bersayap — Nuhro, Snirke — sedang mengasah amunisi sambil berbisik dalam bahasa Draconic. Nada ketakutan yang tidak bisa disembunyikan meski mereka mencoba.
+Mereka berteriak saat kalian masuk.
+Ekrash (serak, gemetar, mencoba terdengar lebih besar dari dirinya): "Berhenti, Kulit Halus! Tuan Biru tidak ingin diganggu saat bintang besar mendekat. Pergi sekarang atau kalian menjadi tumbal pertama saat kekuasaan Mahkota Bersisik dimulai!"
+Tapi kalian bisa melihat tangannya. Ia memegang tombak terlalu erat.
+[Nama Paladin] — ini bukan pertempuran yang kalian bayangkan. Lima makhluk kecil yang ketakutan, melayani sesuatu yang jelas jauh lebih besar dari yang bisa mereka pahami. Uji Karisma (Persuasi) DC 15 untuk meyakinkan mereka bahwa Sparkrender hanya menggunakan mereka sebagai pengorbanan ritual. Mereka tidak akan langsung percaya. Tapi mata Ekrash akan bergerak — ke arah Mek dan Minn, jika dua kobold itu ada bersama kalian.
+[Nama Rogue] — jika kalian menggeledah kamp ini, di antara amunisi dan remah makanan ada tumpukan kain sutra Neverwinter yang dicuri dari karavan pesisir. Bukan rampasan acak. Ada manifest kecil yang terselip di lipatannya, dengan tanda pengiriman yang sama dengan yang kalian temukan di Compass Rose.
+
+D4: Menara Terisolasi
+Jembatan energi kedua bergetar di bawah langkah kalian. Angin kencang bertiup dari utara — angin yang terasa bermuatan, seperti udara sebelum petir menyambar tapi petirnya tidak pernah datang.
+[Nama Cleric] — saat kau melangkah ke tengah jembatan, resonansi Draakhorn bergema sekali lagi di dalam kepalamu. Kali ini berbeda. Ini bukan peringatan. Ini penyelarasan — seperti dua alat musik yang disetem ke nada yang sama. Sesuatu di menara depan sedang menangkap frekuensi itu.
+Menara ini berdiri di atas pilar batu basalt terpisah. Lantainya dipenuhi tumpukan kertas yang sudah menjadi bubur. Rak-rak runtuh. Tapi di tengah kehancuran itu, sebuah buku kecil berwarna hitam masih terkunci rapat — satu-satunya benda yang masih utuh di ruangan ini.
+[Nama Wizard] — kau merasakan pendaran energi transmutasi yang lemah namun stabil dari buku itu. Rune arkan pada lubang kuncinya. Uji Kebijaksanaan (Persepsi) DC 15 atau mantra Detect Magic untuk membukanya.
+Isinya tulisan tangan yang kau kenali.
+Ini catatan rekanmu yang tewas.
+
+Jika kalian memeriksa dinding menara dengan teliti — uji Investigasi DC 15:
+Ada bata yang bergeser. Di baliknya: Potion of Resistance (Lightning) dan kantong berisi 10 keping emas. Seseorang menyembunyikannya di sini — seseorang yang tahu akan ada orang yang datang setelahnya, dan memutuskan bahwa orang itu akan membutuhkan ini.
+
+D5: Menara Observatorium — Tidur Sang Badai
+Menara ini berdiri empat puluh lima kaki di atas permukaan laut, lima belas kaki lebih tinggi dari rotunda. Lift katrol kasar buatan kobold berderit saat kalian naik. Angin di ketinggian ini membawa uap air asin yang membeku saat menyentuh energi statis di sekitar bangunan — dingin yang terasa seperti gigitan.
+Begitu kepala kalian melewati ambang lantai atas, kalian bisa melihatnya.
+Garis-garis emas di lantai memetakan konstelasi kuno. Cahaya komet King-Killer Star membuat inlay permata di setiap titik konstelasi berdenyut merah tua — berirama, seperti detak jantung yang sangat besar. Di sudut timur laut, meringkuk di atas tumpukan koin dan perhiasan, Sparkrender, sang Wyrmling Biru. Petir kecil meloncat sesekali dari tanduk dan moncongnya, menyambar koin di bawahnya.
+Ia tidur.
+Dan di tengah ruangan, bagian lantai yang runtuh — dari sana, terdengar erangan tertahan yang jelas bukan milik manusia.
+Kalian berdiri di ambang pintu yang hancur. Di bawah, Aidron. Di depan, naga yang menginginkan kematiannya.
+
+[Nama Fighter] (berbisik, satu tangan di gagang senjata): "Dia ada di sana. Kita bisa menghabisinya sebelum dia sempat mengepakkan sayap. Kesempatan ini tidak datang dua kali."
+[Nama Wizard] (menatap empat patung sarjana di sudut-sudut ruangan, masing-masing menghadap ke arah berbeda — lalu melihat alur di bawah kaki patung-patung itu): "Tunggu. Ingat tulisan di buku rekanku — 'arahkan mata mereka ke cahaya sang naga.' Patung-patung ini bisa diputar. Kalau kita menyelaraskan pandangan mereka ke konstelasi Dragon of Dawn di kuadran tenggara lantai... mekanisme di bawah akan terbuka. Kita bisa turun tanpa membangunkannya."
+
+Dua pilihan:
+Kalian bisa menyerang saat Sparkrender tidur — uji Stealth DC 14 untuk mendekat tanpa terdeteksi, mendapat ronde kejutan. Tapi Sparkrender bukan wyrmling yang bodoh. Begitu ia terbangun, Lightning Breath langsung digunakan, dan ia tahu cara bertarung di ruangan sempit.
+Atau kalian bisa memutar keempat patung ke tenggara secara diam-diam — karakter yang memutar patung paling dekat dengan Sparkrender wajib melakukan uji Stealth DC 14 secara individu. Suara gesekan batu bisa membangunkannya.
+
+Jika Sparkrender terbangun, atau kalian memilih konfrontasi langsung:
+Sparkrender (kilatan petir di matanya, suaranya bergema dengan arogansi yang sangat khas makhluk muda yang baru merasakan kekuasaan): "Hama kecil... kalian datang ke sini hanya untuk mati? King-Killer Star sudah mendekat. Kekuatan naga-naga purba pulau ini akan menjadi milikku. Kalian akan menjadi tumbal pertama bagi kebangkitan Mahkota Bersisik!"
+Jika ada karakter yang fasih bahasa Draconic — [Nama Paladin] atau [Nama Wizard] — mereka punya satu kesempatan sebelum serangan pertama. Uji Karisma DC 12. Naga muda suka didengarkan — biarkan ia berbicara tentang betapa besarnya rencana ini, betapa kecilnya kalian di hadapannya. Itu bisa membeli satu ronde.
+
+DM NOTE — Harta Sparkrender: Setelah dikalahkan atau diselunduri: 4.500 cp, 2.200 sp, 130 gp. Lima kuarsa biru pucat (10 gp masing-masing), lima batu jasper biru (50 gp masing-masing). Kipas sutra biru (25 gp), seruling kasar, jam pasir dengan pasir berkilau, tujuh tempat lilin.
+[Nama Rogue] — di antara tumpukan koin, ada manifest pengiriman. Emas yang dikumpulkan di sini dijadwalkan ke Naerytar. Ini bukan operasi Sparkrender. Wyrmling ini hanya satu simpul dalam jaringan yang jauh lebih besar dari yang ia sadari.
+
+Begitu patung terakhir berputar ke posisinya, suara mekanisme batu bergeser di bawah kaki kalian. Lantai bagian tengah mulai bercahaya pelan, lalu turun — membentuk tangga spiral yang menganga ke dalam kegelapan di bawah.
+
+D6: Perpustakaan Rahasia — Kebenaran yang Terkubur
+Kalian turun ke ruangan yang belum pernah tersentuh udara segar selama puluhan tahun. Bau apek kertas tua dan perkamen yang menguning. Rak-rak menjulang dua puluh kaki, dipenuhi gulungan naskah. Di tengah ruangan, meja besar hancur berkeping-keping — dan di antara pecahan kayu dan kacanya, seekor naga perunggu seukuran beruang sedang mencoba bangkit.
+Aidron (suaranya lemah, tapi matanya tajam — naga yang sudah belajar membedakan mana yang berbahaya dan mana yang tidak): "Kalian... bukan pesuruh kobold itu. Kalian membawa bau dupa dari Dragon's Rest."
+Ia terbatuk. Sisiknya kusam dan kehilangan kilaunya.
+"Sparkrender tidak hanya ingin menguasai pulau ini. Ia menggunakan kematianku sebagai bahan bakar bagi ritual yang jauh lebih besar dari yang ia pahami sendiri."
+
+Di antara rak-rak ini, [Nama Wizard] — kau menemukan apa yang dicari rekanmu. Sebuah gulungan tersegel dengan lambang yang kau kenal dari sketsa-sketsa di mejanya.
+
+GULUNGAN TERSEGEL — RED WIZARDS OF THAY
+"Koordinat astral Stormwreck dikonfirmasi. Ley lines dari titik kematian Sharruth sejajar dengan parameter ritual utama. Penyelarasan komet King-Killer Star akan memperkuat proses pengisian Lima Dragon Masks. Data ini dikirim kepada Rath Modar untuk finalisasi. — R.M."
+
+SCHOLAR'S JOURNAL — ENTRI TERAKHIR
+"Seseorang mengetahui bahwa aku menemukan hubungan antara pergerakan Kultus dan komet ini. Seseorang yang mengenakan jubah merah. Jika aku tidak kembali, bawa catatan ini kepada mereka yang bisa menggunakannya. Tujuan sesungguhnya bukan di sini — Stormwreck hanyalah batu baterai. Cari nama: Rath Modar."
+
+[Nama Wizard] (tangannya gemetar saat membaca, suaranya pelan): "Ini... ini yang ia cari sebelum dibunuh. Sparkrender hanyalah penguji lapangan. Data komet di sini dikumpulkan untuk menyempurnakan ritual di daratan utama. Rekanku dibunuh karena ia menyadari lebih dulu."
+Nama Rath Modar muncul dalam dua dokumen independen — gulungan Thay dan jurnal rekanmu. Ini bukan ambisi seekor wyrmling. Ini sesuatu yang jauh lebih terorganisir.
+
+DM NOTE — Rath Modar: Nama ini muncul signifikan di Chapter 8 Tyranny of Dragons. Saat karakter bertemu dengannya nanti, mereka sudah mengenal namanya — mengubah pertemuan dari "NPC baru" menjadi konfrontasi personal bagi Wizard.
+
+Aidron, setelah mendengarkan semua ini, menunjuk ke bagian dinding yang tampak padat — tanda terima kasih dari naga yang sudah menghabiskan waktu penawanannya dengan mengatalogkan isi ruangan ini.
+Uji Investigasi DC 15: di balik dinding itu tersimpan +1 battleaxe yang berkilau, atau spell scroll of hold person. Dan sebuah arsip yang memetakan jalur logistik dari simpul-simpul pengiriman menuju Castle Naerytar — memvalidasi setiap hal yang kalian temukan sejak Seagrow Caves.
+
+Adegan Puncak: Ritual Bintang Pembunuh Raja
+Saat kalian kembali ke Rotunda dengan Aidron, atau jika kalian terlalu lama di Perpustakaan Rahasia — lantai menara bergetar hebat.
+Suara putaran mekanis dari mesin astronomi semakin keras, menembus dinding batu seperti mesin itu sedang menjerit.
+[Nama Cleric] — getaran Draakhorn di dadamu tiba-tiba berubah frekuensi. Bukan lagi peringatan. Ini koneksi yang dipaksa — seperti sesuatu menarik frekuensi itu keluar dari tulang dadamu dan menggunakannya sebagai bahan bakar.
+Aidron (menatap ke atas dengan ekspresi yang tidak bisa disembunyikan bahkan oleh naga): "Komet itu... dia sudah di puncaknya. Ritualnya dimulai sekarang."
+
+Saat kalian tiba di Rotunda, udara jenuh ozon dan belerang yang membakar tenggorokan. Di langit, komet King-Killer Star tampak seperti luka merah yang menganga di dada angkasa, membiaskan cahaya jingga di atas reruntuhan marmer.
+Di puncak mesin astronomi yang berputar gila, Sparkrender berdiri dengan sayap terbentang. Kilat biru menari di antara tanduknya, matanya putih membuta karena ekstasi kekuasaan. Di bawah kakinya, Aidron — atau jika Aidron sudah bersama kalian, maka rantai-rantai itu masih ada, mengambang di udara, menunggu korban baru.
+Aliran cahaya memancar dari lima Dragon Effigies: merah darah, emas murni, kuningan, biru elektrik, perunggu. Ini bukan sekadar sihir. Ini roh-roh naga yang dipaksa bangkit dari peristirahatan mereka.
+[Nama Wizard] (menganalisis aliran energi, suaranya menahan sesuatu yang terasa seperti panik): "Lihat pola sihirnya — ini menyelaraskan Stormwreck dengan sesuatu yang jauh di daratan utama. Jika kita tidak memutus aliran ini sekarang, ritual pemanggilan di utara mendapat penguat yang mereka butuhkan!"
+[Nama Paladin] (mengangkat perisai, simbol Bahamut menghadap ke depan): "Runara mengajarkan bahwa perdamaian adalah kekuatan. Tapi hari ini, keadilan menuntut pembalasan. Kau bukan naga, Sparkrender. Kau parasit yang mencuri warisan yang tidak kau pahami."
+Aidron (tersengal-sengal, rantai hitam berpendar di kulitnya): "Pahlawan... jangan biarkan dia menyelesaikan Ikatan Lima Lapis itu. Bebaskan rantai ini — atau pulau ini menjadi makam bagi kita semua."
+
+Fase 1: Interupsi Ritual
+Inisiatif dimulai. Sparkrender tidak turun dari puncak mesin — ia menggunakan Breath Weapon setiap kali tersedia untuk menghalau siapa pun yang mendekati Aidron atau Dragon Effigies.
+[Nama Fighter] — saat kau menerjang maju, kau melihat sesuatu yang pernah kau lihat sebelumnya. Bukan hanya api ritual. Bukan hanya naga. Ini pola yang sama. Sumber daya terisolasi. Jauh dari bantuan. Kali ini kau tidak terlambat.
+
+Fase 2: Gema Roh Naga
+Di akhir setiap ronde (Initiative Count 0), lempar d6 dan gunakan tabel di bawah. Setiap Dragon Effigy yang dihancurkan atau dilempar ke laut menghapus efek roh naga tersebut secara permanen dari pertempuran.
+d6
+Nama Efek
+Efek Mekanis
+Roh
+Narasi DM
+1
+Astalagan's Blessing
+Semua karakter dan Aidron pulihkan 1d4+4 HP
+Naga Perunggu
+Cahaya perunggu hangat menyelimuti area. Kehangatan seperti sinar matahari yang menerobos awan.
+2
+Clyssavar's Fire
+Sparkrender DC 12 Dex saving throw atau terkena 7 (2d6) fire damage
+Naga Emas
+Kilatan emas menyambar dari langit. Roh naga emas melawan balik sang penghianat ritual.
+3
+Eldenemir's Gift
+Breath Weapon Sparkrender langsung recharge — wajib digunakan giliran berikutnya
+Naga Biru
+Cahaya biru elektrik membalut Sparkrender. Leluhurnya memberinya kekuatan — tapi memaksanya menyerang tanpa pilih.
+4
+Sharruth's Fury
+Semua karakter DC 12 Dex saving throw atau terkena 3 (1d6) fire damage
+Naga Merah
+Lantai bergetar, retakan merah menyala muncul. Naga merah yang terkubur di bawah menumpahkan amarahnya ke semua yang hadir.
+5
+Turadaer's Trick
+Aidron dan semua karakter Advantage pada attack rolls DAN saving throws hingga akhir ronde berikutnya
+Naga Kuningan
+Cahaya kuningan berkilau menari. Roh naga kuningan membelokkan takdir agar berpihak pada keberanian.
+6
+Stillness
+Tidak ada efek
+—
+Hening. Bahkan roh-roh naga tampak menahan napas, menonton.
+
+DM NOTE — Effigy Rule: Jika karakter menggunakan aksi untuk menghancurkan atau melempar Dragon Effigy ke laut, efek roh naga tersebut tidak akan pernah muncul lagi dalam pertempuran ini — termasuk efek yang menguntungkan. Ini pilihan taktis nyata yang harus dipikirkan pemain.
+Twist naratif: Jika Sharruth's Fury muncul, deskripsikan tanah bergetar karena naga merah yang dipenjara jauh di bawah vulkanik mencoba merobek penjara bawah tanahnya. Jika Astalagan's Blessing muncul, [Nama Cleric] merasakan getaran Draakhorn yang tadinya mengancam berubah menjadi sesuatu yang terasa seperti dukungan — naga perunggu purba yang pernah hidup di pulau ini, masih peduli pada mereka yang berdiri di sini.
+
+Fase 3: Sabotase
+[Nama Rogue] — di tengah kekacauan ini, instingmu menangkap sesuatu. Segel logistik yang sama dengan di Compass Rose ada di antara persembahan Sparkrender. Ini simpul pusat. Jika kau menghancurkan Dragon Effigies satu per satu, kau tidak hanya memutus ritual — kau menyabotase aliran energi menuju sesuatu yang jauh di utara.
+
+Mengakhiri Sparkrender
+Saat serangan terakhir mendarat:
+[Nama Pemain], Sparkrender ada di ujung kemampuannya — petir di tanduknya padam satu per satu, sayapnya melipat. Bagaimana kau ingin mengakhiri ini?
+
+Tubuh Sparkrender terlempar dari puncak mesin astronomi. Petir di tubuhnya meledak keluar, menghancurkan sisa ritual. Komet King-Killer Star tampak meredup sejenak di langit — seolah ditarik paksa dari jalurnya. Rantai hitam di sekitar Aidron hancur menjadi debu arkan. Ia menarik napas dalam untuk pertama kali tanpa rasa sakit.
+Aidron (suaranya berwibawa, tapi ada sesuatu yang hancur di dalamnya — seperti seseorang yang baru menyadari bahwa kemenangan ini tidak gratis): "Kalian telah membebaskanku. Tapi ritual itu... bukan kegagalan total bagi mereka. Aku merasakannya saat energi terhubung — sesuatu yang jauh dari sini sudah bergerak. Rencana yang lebih besar hanya sedikit bergeser karena kalian ada di sini."
+Ia menatap kalian satu per satu.
+"Sedikit. Tapi itu cukup untuk diperhatikan."
+
+Penutup: Gerbang Menuju Daratan
+Cahaya komet merah memudar. Fajar dingin tapi jernih muncul di horison timur.
+[Nama Cleric] — getaran Draakhorn di dadamu tidak berhenti setelah ritual hancur. Ia justru semakin kuat, bergerak ke arah barat. Ke daratan utama. Seperti kompas yang baru menemukan utaranya setelah lama tersesat.
+
+Di tepi tebing, tepat di mana mereka meninggalkannya, Runara menunggu.
+Ia berdiri membelakangi kalian, dan saat ia mendengar langkah kalian, ia berbalik — dan ada sesuatu yang berbeda dalam cara ia berdiri sekarang. Bukan lebih tinggi. Bukan lebih besar. Hanya lebih jujur. Seperti seseorang yang sudah lama berdiri dengan punggung yang sedikit membungkuk karena menyembunyikan sesuatu, dan akhirnya diizinkan untuk berdiri tegak.
+Kemudian kilatan cahaya perak-biru yang sunyi. Tidak ada ledakan, tidak ada suara dramatis — hanya cahaya yang datang dan pergi, seperti halaman buku yang dibalik.
+Sosok perempuan tua itu tidak ada lagi.
+Di tempatnya berdiri seekor naga perunggu dewasa. Sisiknya berkilau keemasan di bawah cahaya fajar. Sayapnya terlipat rapi. Matanya — matanya hazel yang sama, berwarna seperti tanah basah setelah hujan — menatap kalian dengan sesuatu yang bukan sekadar pengakuan. Seperti seseorang yang akhirnya diizinkan untuk berterima kasih dengan cara yang sebenarnya.
+Ia menundukkan kepalanya yang besar.
+Runara (suaranya kini bergema, dalam, berbeda dari semua yang pernah kalian dengar darinya — tapi kata-katanya tetap seperti Runara): "Kalian telah mengakhiri siklus kekerasan di pulau ini. Tapi kalian baru saja membuka tabir konspirasi yang jauh lebih besar. Ledger dan gulungan yang kalian temukan adalah bukti — ada kekuatan yang sedang ditarik dari kegelapan di balik gerbang besi."
+"Pergilah ke barat. Di sana, di sebuah kota perdagangan di Uldoon Trail, gema itu sudah terdengar. Bawalah semua yang kalian temukan di sini — setiap catatan, setiap nama, setiap segel."
+Kepalanya terangkat. Matanya menatap ke barat, ke arah daratan utama.
+"Aku sudah menjaga pulau ini selama lebih dari yang bisa kau bayangkan. Tapi yang datang berikutnya — itu bukan sesuatu yang bisa dijaga dari satu pulau. Itu sesuatu yang harus dihentikan dari dalam."
+
+DM NOTE — Hadiah Akhir:
+Masing-masing satu Potion of Healing
+Sebuah mutiara indah senilai 100 gp per karakter
+Draconic Gift dari Runara (opsional — jika menggunakan elemen Fizban's Treasury of Dragons, momen ini adalah tempat yang tepat. Pilih yang paling sesuai dengan arc karakter, terutama Cleric atau Paladin)
+
+Karakter kalian kini mencapai Level 3. Stormwreck Isle sudah memberikan semua yang bisa diberikannya. Yang ada di depan kalian bukan lagi pulau terpencil — tapi benua yang sedang terbakar perlahan, menunggu seseorang yang mau melihatnya.
+
+DM NOTE — Penyelarasan Karakter (gunakan sebagai pembuka sesi berikutnya atau renungkan bersama pemain setelah sesi):
+[Nama Wizard] — saat kau memegang gulungan Red Wizards of Thay, kau menyadari koordinat astral di sini terhubung langsung dengan lokasi bernama Well of Dragons. Rekanmu mati karena ia melihat ini lebih dulu. Kau hidup karena kau datang terlambat. Sekarang kau harus memutuskan apa yang akan kau lakukan dengan informasi itu.
+[Nama Rogue] — manifest pengiriman di tumpukan koin bukan lagi daftar barang. Ini peta. Dan nama-nama yang tertulis di dalamnya adalah nama orang yang perlu ditemui — atau dihindari — di perjalanan yang akan datang.
+[Nama Fighter] — kau melihat pola yang sama untuk kedua kalinya. Kota kecil. Infrastruktur dihancurkan. Upeti dikumpulkan sebelum serangan utama. Thundertree bukan kecelakaan dan bukan yang terakhir. Kali ini kau sampai sebelum api menyala. Pertanyaannya: apakah kau bisa sampai lagi tepat waktu di kota berikutnya?
+[Nama Paladin] — integritasmu diuji tiga kali di sini: kobold yang ketakutan, wyrmling yang sombong, dan naga tua yang memintamu pergi ke perang. Mana yang kau ikuti — dan dengan alasan apa?
+[Nama Cleric] — getaran Draakhorn tidak lagi terasa seperti ancaman. Ia terasa seperti panggilan. Dan untuk pertama kali, kau tidak takut menjawabnya.
+
+DM NOTE — Tabel Analisis Lapangan untuk Fighter (simpan sampai Council of Waterdeep):
+Elemen
+Thundertree (masa lalu)
+Stormwreck / Kota di Barat (sekarang)
+Serangan awal
+Naga menyerang tanpa peringatan, menarget infrastruktur
+Lennithon menyerang benteng; kultis menarget lumbung dan kuil
+Pola penjarahan
+Emas diambil secara selektif
+Upeti dikumpulkan dengan manifest — ada jadwal logistik
+Tanda ritual
+Ditemukan di reruntuhan bertahun-tahun kemudian
+Tanda identik ditemukan segar di batu gua Stormwreck
+Agen tersembunyi
+Tidak teridentifikasi saat kejadian
+Red Wizards mengoperasikan jaringan sebelum serangan
+Target strategis
+Kota kecil, rentan, jauh dari pusat kekuasaan
+Kota perdagangan di Uldoon Trail — nilai logistik tinggi
+
+Ini adalah bukti fisik yang mengubah klaim Fighter dari "trauma personal" menjadi "analisis intelijen yang valid" di hadapan Council of Waterdeep.
