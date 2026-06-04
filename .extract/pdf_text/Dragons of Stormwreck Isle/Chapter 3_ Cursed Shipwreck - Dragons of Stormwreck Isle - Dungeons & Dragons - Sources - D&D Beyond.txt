@@ -1,0 +1,221 @@
+CHAPTER 2: SEAGROW CAVES CHAPTER 4: CLIFFTOP OBSERVATORY
+Chapter 3: Cursed Shipwreck
+This chapter assumes the characters come here before Seagrow Caves and are still 1st level. It also includes instructions to scale up the danger in
+combat encounters if the characters complete chapter 2, “Seagrow Caves,” before coming here and are now 2nd level.
+Shipwreck Overview
+Ever since the violent death of a gold dragon on the rocky shoal on the north side of Stormwreck Isle, the bone-strewn rocks have been the site of
+many shipwrecks through the centuries. One such shipwreck left a lasting mark on the island.
+About forty years ago, a ship named Compass Rose carrying passengers bound for the cloister wrecked on the shoal, killing all aboard. To the horror
+of the cloister’s residents, those who drowned found their way ashore as shambling zombies. Since the loss of that ship, each new shipwreck has
+brought a fresh wave of zombie sailors to the island’s shore. Fortunately, wrecks are rare—or they were, until recently.
+Not long ago, a harpy settled into the wreck of Compass Rose. With its magically entrancing voice, the harpy has been luring ships to crash on the
+shoal and feasting on the unlucky sailors. The sailors who escape the harpy’s talons end up as zombies menacing the people of Dragon’s Rest.
+The harpy is only the most immediate problem lurking in the wrecked hull of Compass Rose. The greater threat is a cursed talisman held in the ship’s
+hold, imbued with magic by a long-dead sailor’s desperate prayers to a demon lord. This curse is responsible for the drowned sailors animating as
+zombies. Most of the sailors who were aboard the ship when it wrecked are long gone, but some zombies have been trapped in the wreck for years.
+2/8/26, 12:25 AM Chapter 3: Cursed Shipwreck - Dragons of Stormwreck Isle - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/dosi/cursed-shipwreck 1/7
+
+Shipwreck Features
+The wreck of Compass Rose is located at the northern end of a long spur of sharp rocks and dragon bones jutting from the ocean waves, about 2½
+miles from the cloister. It remains mostly above the water, held up by the ancient bones that tore its hull. The wreck has the following features:
+Walls. The soggy wooden walls are aged to a sickly black and green. Algae and barnacles grow on walls throughout the wreck.
+Ceilings. The ceilings in the ship are 8 feet high.
+Doors. The doorways are 6 feet high, and the doors are in the same waterlogged condition as the walls.
+Light. During the day, the sun ﬁlls the upper deck and main deck with bright light and the lower deck with dim light. Sunlight doesn’t reach into the
+hold, and the whole wreck is dark at night. See “Vision” in the Basic Rules.
+Running This Chapter
+Dragon’s Rest has a rowboat the characters can take to visit the wreck of Compass Rose. The trip of 2½ miles takes about 1 hour and 40 minutes to
+row. When the characters arrive, read this text:
+If the characters pull the rowboat up to the south (starboard) side of the ship, they can easily tie up the little boat to the derelict’s rigging and climb
+onto the main deck (area C1). However, they’re free to explore other possibilities for getting aboard, such as swimming through the hole in the hold
+(area C9).
+Shipwreck Locations
+The following locations are keyed to map 4, which shows the layout of the shipwreck.
+MAP 4: THE WRECK OF COMPASS ROSE
+VIEW PLAYER VERSION
+Waves lap against a derelict ship lodged against a ridge of rocks and enormous dragon bones. A faint odor of rot wafts on the sea air, along with the sound ofscreeching seagulls and the roar of the surf. A tangled mess of tattered sails and rigging hangs off the starboard side of the main deck, offering one possible way
+to climb aboard. At the stern, you can make out a gaping hole in the hull beneath the water line.
+2/8/26, 12:25 AM Chapter 3: Cursed Shipwreck - Dragons of Stormwreck Isle - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/dosi/cursed-shipwreck 2/7
+
+C1: Main Deck
+Crow’s Nest. A rope ladder runs up the mast to the crow’s nest, secure despite the condition of the wreck. The mast sways alarmingly as characters
+climb, and at the top of the 50-foot climb the characters ﬁnd that they are leaning out over the water on the port (north) side of the ship.
+The crow’s nest now serves as a nest for the harpy that has made Compass Rose its lair. The basket-shaped area is stuffed with wood shavings, dry
+grass, and shredded canvas from ships’ sails. Bits of bones, tufts of hair, and shiny baubles are also visible in the harpy’s nest.
+Harpy’s Return. When the characters arrive at the shipwreck, the harpy is out looking for another ship to lure onto the rocks. It returns after the
+characters have spent some time aboard, as described in “Harpy’s Return” later in this chapter.
+Treasure. Characters who search through the crow’s nest ﬁnd a small gold bracelet worth 25 gp, a single gold hoop earring worth 25 gp, two small
+tiger eye gems worth 10 gp each, and one bloodstone gem worth 50 gp.
+C2: Forecastle
+The ballista no longer works. There’s nothing of interest to ﬁnd here.
+C3: Quarterdeck
+The wheel bears the name of the ship—Compass Rose—engraved and inlaid with mother-of-pearl, though in the wheel’s current position the name is
+upside down. If a character turns the wheel, it snaps free of its axle and falls. If the character tries to catch the wheel before it hits the deck, ask the
+player to make a DC 10 Dexterity saving throw. On a successful save, the character catches the wheel. On a failed save, the wheel hits the deck with a
+loud thud that catches the attention of the zombies in area C4. A moment later, the thud is answered by a loud crash against the door to C4, which
+repeats every 10 to 15 seconds.
+C4: Captain’s Quarters
+The door to the captain’s quarters is barricaded from the inside, though the heavy wooden bar blocking the door is half rotten. A character who tries
+to force the door open can break it down with a successful DC 10 Strength check.
+If the characters dropped the wheel in area C3 or needed more than one Strength check to open the door into this room, the two zombies are beside
+the door when it opens. Otherwise, they’re aimlessly shuﬄing around the cabin. In either case, they move to attack the characters right away.
+Hole to the Hold. The hole beside the captain’s bed formed when the rotting ﬂoorboards collapsed under the weight of the captain’s sea chest. It
+broke through the ﬂoor of the lower deck (area C8) as well, coming to rest in the hold (area C9).
+Treasure. Two small drawers in the desk hold a pouch containing 50 gp, a set of cartographer’s tools, and a dagger. The compass set in the desktop
+can easily be pried free; it is worth 25 gp.
+The moldering wood of the deck is slick with algae and seawater. Amid the tangle of rigging, splintered railings, and stray seaweed, you spot boots, bones, and bits
+of gore that seem considerably more recent than the wreck of this ship.
+Stairs lead to upper decks at fore and aft, and doors lead into cabins under those decks. The mainmast remains intact and mostly upright, topped with a crow’s
+nest overﬂowing with debris. A staircase near the mast and a large hatch on the port side both lead down into the hold.
+The broken foremast leans out across a broken railing, with a tangle of rigging and tattered canvas trailing down to the rocks and dragon bones below. A rustedand rotting ballista stands near the broken mast.
+The splintered remains of a mast jut up from this rear deck like a broken spear. The ship’s wheel is askew, dislodged from its mechanism.
+The door crashes open to reveal two drowned sailors in a cabin that must once have been luxurious. A bookcase, half collapsed, holds waterlogged and
+disintegrating books and scrolls. The polished wood desk leans awkwardly on three legs; it has an ornate compass set in its center. The bed is covered in rottingbedding and sags in the middle. A jagged hole gapes in the ﬂoor beside the bed.
+2/8/26, 12:25 AM Chapter 3: Cursed Shipwreck - Dragons of Stormwreck Isle - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/dosi/cursed-shipwreck 3/7
+
+2nd-Level Characters. If the characters are 2nd level, add a third zombie to this encounter.
+C5: Galley
+Small, harmless crabs are crawling over the skeletal remains, causing the illusion of movement.
+C6: Crew Quarters
+The portrait shows a young couple smiling and embracing. Written across the bottom of the portrait are the words “Aleitha and Brastos—together
+forever.” The black-haired woman wears a sailor’s uniform similar to the tatters worn by the zombies aboard this ship. The blond-haired man wears a
+merchant’s ﬁne clothes.
+Floorboard Stash. A character who searches the cabin and succeeds on a DC 10 Wisdom (Perception) check notices a ﬂoorboard in the middle of the
+room that is raised slightly above its neighbors. A character who lifts the ﬂoorboard triggers a trap: a tiny dart shoots up, making an attack against the
+character. Its attack bonus is +5. If it hits, it deals 2 (1d4) piercing damage, and the character must succeed on a DC 11 Constitution saving throw or
+take 3 (1d6) poison damage. Once the trap is triggered, it does not trigger again unless a character resets it. (If the characters ﬁgure out a way to lift
+the ﬂoorboard from a safe distance, the dart misses.)
+Treasure. A sack full of 200 gp rests in a small compartment beneath the raised ﬂoorboard.
+C7: Mess Hall
+There’s nothing of interest to ﬁnd here.
+C8: Lower Deck
+The zombie is an obvious threat, but another Undead monster—a ghoul—lurks in the aft part of the hold. Much more cunning than the zombies, the
+ghoul waits to attack until the characters are busy with the zombie. It hopes to paralyze a character with its Claw attack, then drag the paralyzed
+character away to feast on while the other characters contend with the zombie. Unlike the zombies, the ghoul is not a former member of the ship’s
+crew, but a vile scavenger drawn by the presence of decaying ﬂesh.
+The water on the ﬂoor ranges from about 6 inches deep on the starboard (south) side of the ship to 18 inches deep on the port (north) side. The
+water makes the entire lower deck diﬃcult terrain (see “Diﬃcult Terrain” in the Basic Rules).
+Hole to the Hold. A hole in the ceiling in the northwest part of the area leads up to the captain’s quarters (area C4). It’s matched by a similar hole
+directly below it. The holes were caused by the captain’s chest falling through the ﬂoorboards all the way to the hold, where it came to rest (see area
+C9).
+2nd-Level Characters. If the characters are 2nd level, add two zombies to this encounter.
+Treasure. Some of the goods in the crates here remain valuable. Using a crowbar, a character can pry open a crate in 1 minute; without a crowbar, it
+takes 10 minutes. When a character opens a crate, roll a d6 and consult the Crate Contents table to determine what’s inside. The characters can ﬁnd
+A long-dead, headless skeleton sits propped up against a counter to the right, but the galley is otherwise empty. Unless… did the skeleton just move?
+Six double bunks line the edges of this cabin. Personal effects are strewn about the room, and a faded, painted portrait hangs on one wall.
+A long table takes up most of this cabin, which must have served as a mess hall. Decaying chairs are scattered about, and broken glass and crockery litter the
+ﬂoor.
+The descent to the lower deck is chilly, wet, and unsettling. Seawater obscures the ﬂoor and sloshes against the hull. Decaying crates and barrels are scattered
+around, some ﬂoating freely and others stacked into corners. You hear splashing as a walking corpse lumbers toward you, wading in water that doesn’t quite reachits knees.
+2/8/26, 12:25 AM Chapter 3: Cursed Shipwreck - Dragons of Stormwreck Isle - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/dosi/cursed-shipwreck 4/7
+
+each item on the table once.
+Crate Contents
+d6 Contents
+1 Five bottles of ﬁne wine (worth 10 gp each) packed in straw, plus one broken bottle
+2 A 20-pound sack of whole cloves, worth 60 gp
+3 Ten small, 1-pound bars of silver (worth 5 gp each)
+4 A pair of candlestick holders carved from bone to resemble dragons, worth 25 gp each
+5 A ﬁne lute with mother-of-pearl inlay, worth 50 gp
+6 A spell scroll of command (see appendix A), sealed in a leather case
+C9: Hold
+See “Climbing, Swimming, and Crawling” and “Suffocating” in “The Environment” in the Basic Rules as the characters venture into the submerged
+hold. Fortunately for them, unless something goes wrong, there’s no signiﬁcant time pressure on the characters as they swim around here. They can
+surface (at the hole in area C8’s ﬂoor, or at the top of the stairs up to C8) to breathe as often as they need to.
+Captain’s Chest. A heavy iron chest lies on the ﬂoor of the hold, directly beneath the hole it fell through. If a character opens the chest here, a large air
+bubble rushes out, and a packet, wrapped and sealed in waxed fabric, rises up after it. Though the chest is heavy (about 125 pounds), the characters
+can also carry it to the surface before opening it.
+The chest contains a pouch holding 55 gp and three turquoise stones (worth 10 gp each), as well as a pair of boots of elvenkind. The ﬂoating packet
+contains the captain’s journal, which has been keep safe from the water by its wrapping. A braid of hair is stuck in the pages like a bookmark,
+indicating the log’s last entry. The last entry reads as follows:
+As the cold water engulfs you, a strange undersea world is revealed. Colorful seaweed grows over the shattered hull, especially around the gaping hole in the stern
+of the ship. Tiny ﬁsh dart among hunks of debris and cargo.
+19 Tarsakh
+Our journey is ended, though I fear my own is to continue in the most horrible way imaginable. Compass Rose wrecked on a shoal south of Neverwinter. Manysailors perished with the initial impact, and Aleitha was gravely injured. As I tended her wounds, she clutched her talisman and breathed soft prayers. I asked her
+what the talisman signiﬁed. She told me love. Her husband waits for her at Dragon’s Rest, having pledged his service to the dragon there. The talisman is madefrom locks of their hair, woven together as a promise to be reunited no matter what fate might befall them. It might have been a beautiful story, had it not been for
+Aleitha’s gruesome end—and the words of the prayer I heard as she breathed her last. For she was begging Orcus, the Prince of Undeath, to reunite her with herhusband.
+I held her hands as the breath left her, and I felt a horrible chill pass through her. Next I knew, she was sinking her teeth into my neck. At the same moment, I heard
+moans begin to rise from the dead sailors all around us. What curse has she brought on us all?
+Already I feel a creeping chill overtaking my body. I am securing her talisman with this book in my chest, in the hope that someone who comes after us may end
+this nightmare by bringing Aleitha’s talisman to her husband.
+2/8/26, 12:25 AM Chapter 3: Cursed Shipwreck - Dragons of Stormwreck Isle - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/dosi/cursed-shipwreck 5/7
+
+The talisman is formed from long locks of hair—some blonde, some black—braided together and knotted around two small ﬁnger bones. If a
+character casts detect magic, the talisman is revealed to carry magic of the school of necromancy. See “Ending This Chapter” for more about the
+talisman.
+Tarsakh is a month in the calendar of the Forgotten Realms, roughly corresponding to April. No year is speciﬁed in the log.
+About Orcus. Known as the Demon Prince of Undeath and the Blood Lord, the demon lord Orcus is a ﬁend whose power rivals that of the gods. Ruling
+over hordes of demons in the nightmarish plane of existence called the Abyss, Orcus yearns to transform the multiverse into a ghastly place of death.
+Many Undead creatures (like ghouls) worship him or seek to bargain with him in exchange for some fragment of his power over undeath.
+A New Threat. After the characters ﬁnd the captain’s chest, when they come up from the hold to the lower deck, they hear a heavy thump on the deck
+above them as the harpy lands on the main deck. See “Harpy’s Return” below.
+Harpy’s Return
+The harpy that makes its lair in the crow’s nest (area C1) returns to the ship when one of these conditions is met:
+The characters ﬁnd the captain’s chest in the hold (area C9) and return to the lower deck (area C8).
+The characters ﬁnish a short or long rest on the ship.
+The next time the characters show themselves on the main deck, the harpy confronts them:
+On its ﬁrst turn, the harpy uses its Luring Song in an attempt to charm the characters and draw them up to the crow’s nest. A character charmed by
+the harpy’s Luring Song thinks it’s the most beautiful sound they have ever heard. It’s easy to imagine how a ship might be lured off course to get
+closer to the source of this music.
+Talking to the Harpy
+The harpy is cruel and hungry for ﬂesh, but it speaks Common and can be reasoned with. It’s not easy to convince the bloodthirsty monster to change
+its ways and leave the wreck of Compass Rose, but if the players come up with a strong argument (possibly supported with high rolls on Charisma
+checks), the harpy cooperates. These tactics are the most likely to convince the harpy to leave:
+If the characters have already reduced the harpy to fewer than half its hit points, it might ﬂee.
+If the characters claimed the treasure from the crow’s nest while the harpy was absent, it might agree to leave in exchange for the return of its
+treasure.
+If the characters are 2nd level and two harpies are present (see below), characters can play on the distrust between the two harpies and might
+convince them to part ways and leave the area.
+2nd-Level Characters
+If the characters are 2nd level, add a second harpy to the encounter. This harpy initially perches on the ballista in area C2 and uses its own Luring
+Song. Although they’re allies, the harpies don’t trust each other.
+Ending This Chapter
+If the characters defeat the harpy, one problem is solved: no more ships will be lured to the rocks, and shipwrecks will once again be a rarity.
+If the characters ﬁnd Aleitha’s talisman in the hold, they can solve the zombie problem entirely. If they bring the talisman to Runara and explain what
+they found in the captain’s log, Runara nods sadly. She remembers Aleitha’s husband, Brastos, but he died many years ago. He was laid to rest in the
+graveyard atop the cliffs at the northern point of the island, northwest of Dragon’s Rest.
+The graves in the little clifftop cemetery are covered in white wildﬂowers and marked with simple wooden slabs. If the characters lay the talisman on
+Brastos’s grave, bury it in the soil over the grave, or burn it atop the grave, the wind seems to sigh in relief. Thick fog forms around the rocks north of
+the island. The fog lingers overnight, and when it disperses, no trace of Compass Rose remains.
+A terrifying monster perches on the top of the crow’s nest, spreading its scraggly wings and screeching harshly. Its wings and legs resemble those of a mangyvulture, while its head, torso, and arms look almost human. It clutches a large bone like a club and ﬂexes its talons.
+2/8/26, 12:25 AM Chapter 3: Cursed Shipwreck - Dragons of Stormwreck Isle - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/dosi/cursed-shipwreck 6/7
+
+Our Terms of Service and Privacy Notice have recently been updated to provide greater clarity as to how disputes are handled and transparencyregarding the collection and use of personal data. Please review them here: Terms of Service, Privacy Notice. By continuing to use the services,you agree to the new Terms.
+SUPPORT
+Help Portal
+Support Forum
+System Status
+Do Not Sell or ShareMy PersonalInformation
+Your PrivacyChoices
+Cookie Notice
+System ReferenceDocument (SRD)
+ABOUT
+Contact Us
+Careers
+Wizards of theCoast
+FIND US ON SOCIALMEDIA
+ DOWNLOAD THE D&D BEYONDAPP
+© 2017-2026 WIZARDS OF THE COAST LLC | ALL RIGHTS RESERVED
+Dungeons & Dragons, D&D Beyond, D&D, Wizards of the Coast, the dragon ampersand, and all other Wizards of the Coast
+product names, campaign settings, their respective logos, and The World's Greatest Roleplaying Game are © and
+trademark Wizards of the Coast in the U.S.A. and other countries. © 2026 Wizards.
+PRIVACY POLICYTERMS OF SERVICE
+The characters might also disregard the words of the captain’s journal and destroy the talisman while aboard the ship. This also breaks the curse—the
+characters still feel something like a sigh in the air, fog rises up to engulf the wreck while the characters are rowing away, and the ship is gone when
+the fog lifts the next day.
+If the characters undo the talisman’s curse, the next time they sleep, the cleric character has another dream. Read this text to the cleric’s player:
+Gain a Level
+After they complete this chapter of the adventure, the characters gain a level. If they visited Compass Rose before Seagrow Caves, they advance to
+2nd level. The residents of Dragon’s Rest urge them to visit Seagrow Caves next (see “Sea Caves”). If the characters have already explored the caves,
+they advance to 3rd level and are ready to visit Clifftop Observatory in chapter 4. See “Lost Wyrmling”.
+The character sheets explain what happens when characters gain a level.
+In your dream, you are once again on the deck of the ship that brought you here, and you see Stormwreck Isle shrouded in darkness, just as it was in your earlierdreams. As you sail closer, the darkness breaks, and a dazzling ray of sunlight shines down over the island. A gentle plume of white smoke rises up from the island
+as the darkness is driven away. Then the darkness and the smoke are gone, the light swells to enfold you as well, and you feel the love and approval of your god.
+2/8/26, 12:25 AM Chapter 3: Cursed Shipwreck - Dragons of Stormwreck Isle - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/dosi/cursed-shipwreck 7/7

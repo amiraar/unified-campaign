@@ -1,0 +1,136 @@
+DRAGONTOOTH DAGGER
+APPENDIX B: COUNCIL SCORECARD TABLE OF CONTENTS APPENDIX D: MONSTERS
+Appendix C: Magic Items
+The magic items introduced in this book are detailed here in alphabetical order, along with a section on dragon masks, which have a suite of shared properties.
+Dragontooth Dagger
+Weapon, rare
+A dagger fashioned from the tooth of a dragon. While the blade is obviously a fang or predator’s tooth, the handle
+is leather wrapped around the root of the tooth, and there is no cross-guard.
+You gain a +1 bonus to attack rolls and damage rolls you make with this weapon. On a hit with this weapon, the
+target takes an extra 1d6 acid damage.
+Draconic Potency. Against enemies of the Cult of the Dragon, the dagger’s bonus to attack rolls and damage rolls
+increases to +2, and the extra acid damage increases to 2d6.
+Hazirawn
+24/03/2026, 08:47 Magic Items - Tyranny of Dragons - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/tod/magic-items 1/7
+
+Weapon (greatsword), legendary (requires attunement)
+A sentient (neutral evil) greatsword, Hazirawn is capable of speech in Common and Netherese. Even if you aren’t attuned to the sword, you gain a +1 bonus on attack
+rolls and damage rolls made with this magic weapon. If you aren’t attuned to Hazirawn, you deal an extra 1d6 necrotic damage when you hit with it.
+Increased Potency. While you are attuned to this weapon, its bonus on attack rolls and damage rolls increases to +2, and a hit deals an extra 2d6 necrotic damage
+(instead of 1d6).
+Spells. Hazirawn has 4 charges to cast spells. As long as the sword is attuned to you and you are holding it in your hand, you can use an action to expend the required
+number of charges to cast one of the following spells from the sword: detect magic (1 charge), detect evil and good (1 charge), or detect thoughts (2 charges). Each
+night at midnight, Hazirawn regains 1d4 expended charges.
+Wounding. While you are attuned to the weapon, any creature that you hit with Hazirawn can’t regain hit points for 1 minute. The target can make a DC 15 Constitution
+saving throw at the end of each of its turns, ending this effect early on itself on a success.
+Insignia of Claws
+Wondrous item, uncommon
+The jewels in this insignia of the Cult of the Dragon ﬂare with purple light when you enter combat, empowering your natural ﬁsts or natural weapons.
+While wearing the insignia, you gain a +1 bonus to the attack rolls and the damage rolls you make with unarmed strikes and natural weapons. Such attacks are
+considered to be magical.
+Tankard of Plenty
+Wondrous item, common
+This golden stein is decorated with dancing dwarves and grain patterns.
+24/03/2026, 08:47 Magic Items - Tyranny of Dragons - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/tod/magic-items 2/7
+
+If you speak the command word (“Illefarn”) while grasping the handle, the tankard ﬁlls with three pints of rich dwarven ale. The tankard has 3 charges. Using the
+tankard’s property expends 1 charge, and the tankard regains all expended charges daily at dawn.
+Wand of Winter
+Wand, rare (requires attunement)
+This wand looks and feels like an icicle.
+The wand has 7 charges, which are used to fuel the spells within it. With the wand in hand, you can use your action to cast one of the following spells from the wand,
+even if you are incapable of casting spells: ray of frost (no charges, or 1 charge to cast at 5th level; +5 to hit with ranged spell attack), sleet storm (3 charges; spell
+save DC 15), or ice storm (4 charges; spell save DC 15). No other components are required.
+The wand regains 1d6 + 1 expended charges each day at dawn. If you expend the wand’s last charge, roll a d20. On a 20, the wand melts away, forever destroyed.
+WAND OF WINTER
+Dragon Masks
+Each dragon mask is a legendary wondrous item that reshapes to ﬁt the face and head of a wearer attuned to it. While you are wearing any dragon mask and attuned
+to it, you gain the following beneﬁts.
+Damage Absorption. You have resistance against the mask’s damage type. If you already have resistance to that damage type from another source, you instead have
+immunity to that damage type. If you already have immunity to that damage type from another source, whenever you are subjected to damage of that type, you take
+24/03/2026, 08:47 Magic Items - Tyranny of Dragons - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/tod/magic-items 3/7
+
+none of that damage and regain a number of hit points equal to half the damage dealt of that type.
+Draconic Majesty. While you are wearing no armor, you can add your Charisma bonus to your Armor Class.
+Dragon Breath. If you have a breath weapon that requires rest to recharge, it gains a recharge of 6.
+Dragon Sight. You gain darkvision out to 60 feet, or to an additional 60 feet if you already have that sense. Once per day, you can gain blindsight out to 30 feet for 5
+minutes.
+Dragon Tongue. You can speak and understand Draconic. You also have advantage on any Charisma check you make against dragons that share the mask’s color.
+Legendary Resistance (1/Day). If you fail a saving throw, you can choose to succeed instead.
+Black Dragon Mask
+Wondrous item, legendary (requires attunement)
+This horned mask of glossy ebony has a skull-like mien. Its damage type is acid. While you wear the mask, you gain the following beneﬁt, in addition to those the
+dragon masks share.
+Water Breathing. You can breathe underwater.
+Blue Dragon Mask
+Wondrous item, legendary (requires attunement)
+This mask of glossy azure has spikes around its edges and a ridged horn in its center. Its damage type is lightning. While you wear the mask, you gain the following
+beneﬁt, in addition to those the dragon masks share.
+Lingering Shock. If you deal lightning damage to a creature, it can’t take reactions until its next turn.
+24/03/2026, 08:47 Magic Items - Tyranny of Dragons - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/tod/magic-items 4/7
+
+Green Dragon Mask
+Wondrous item, legendary (requires attunement)
+This mottled green mask is surmounted by a frilled crest and has leathery spiked plates along its jaw. Its damage type is poison. While you wear the mask, you gain the
+following beneﬁt, in addition to those the dragon masks share.
+Water Breathing. You can breathe underwater.
+Red Dragon Mask
+Wondrous item, legendary (requires attunement)
+This mask of glossy crimson has swept-back horns and spiked cheek ridges. Its damage type is ﬁre. While you wear the mask, you gain the following beneﬁt, in
+addition to those the dragon masks share. (Severin’s stat block incorporates properties from this mask.)
+Dragon Fire. If you deal ﬁre damage to a creature or ﬂammable object, it starts burning. At the start of each of its turns, a creature burning in this way takes 1d6 ﬁre
+damage. A creature that can reach the burning target can use an action to extinguish the ﬁre.
+White Dragon Mask
+Wondrous item, legendary (requires attunement)
+This gleaming mask is white with highlights of pale blue and is topped by a spined crest. Its damage type is cold. While you wear the mask, you gain the following
+beneﬁt, in addition to those the dragon masks share.
+Winter’s Fury. While your current hit points are equal to or less than half your hit point maximum, you deal an extra 1d8 cold damage with your melee attacks.
+24/03/2026, 08:47 Magic Items - Tyranny of Dragons - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/tod/magic-items 5/7
+
+Our Terms of Service and Privacy Notice have recently been updated to provide greater clarity as to how disputes are handled and transparency regarding the
+collection and use of personal data. Please review them here: Terms of Service, Privacy Notice. By continuing to use the services, you agree to the new Terms.
+Mask of the Dragon Queen
+Wondrous item, artifact (requires attunement)
+Individually, the ﬁve dragon masks resemble the dragons they are named for.
+When two or more of the dragon masks are assembled, however, they transform
+magically into the Mask of the Dragon Queen. Each mask shrinks to become the
+modeled head of a chromatic dragon, appearing to roar its devotion to Tiamat
+where all the masks brought together are arranged crown-like on the wearer’s
+head. Below the ﬁve masks, a new mask shapes itself, granting the wearer a
+draconic visage that covers the face, neck, and shoulders.
+While you are attuned to and wear this mask, you can have any of the properties
+from any one mask. Additionally, you gain the Damage Absorption from each of
+the ﬁve dragon masks, and you gain ﬁve uses of the Legendary Resistance
+property.
+MASK OF THE DRAGON QUEEN
+24/03/2026, 08:47 Magic Items - Tyranny of Dragons - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/tod/magic-items 6/7
+
+SUPPORT
+Help Portal
+Support Forum
+System Status
+Do Not Sell or Share My
+Personal Information
+Your Privacy Choices
+Cookie Notice
+System Reference Document
+(SRD)
+ABOUT
+Contact Us
+Careers
+Wizards of the Coast
+FIND US ON SOCIAL MEDIA
+ DOWNLOAD THE D&D BEYOND APP
+© 2017-2026 WIZARDS OF THE COAST LLC | ALL RIGHTS RESERVED
+Dungeons & Dragons, D&D Beyond, D&D, Wizards of the Coast, the dragon ampersand, and all other Wizards of the Coast product names, campaign settings,
+their respective logos, and The World's Greatest Roleplaying Game are © and trademark Wizards of the Coast in the U.S.A. and other countries. © 2026
+Wizards.
+PRIVACY POLICY TERMS OF SERVICE
+24/03/2026, 08:47 Magic Items - Tyranny of Dragons - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/tod/magic-items 7/7

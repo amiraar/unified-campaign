@@ -1,0 +1,1022 @@
+APPENDIX C: MAGIC ITEMS TABLE OF CONTENTS APPENDIX E: CONCEPT GALLERY
+Appendix D: Monsters
+This appendix details creatures and nonplayer characters that are mentioned in this book and that don’t appear in the Monster Manual. That book’s introduction
+explains how to interpret stat blocks.
+The creatures are presented in alphabetical order.
+Ambush Drake
+AMBUSH DRAKE
+Medium dragon, unaligned
+Armor Class 13 (natural armor)
+Hit Points 22 (4d6 + 8)
+Speed 30 ft.
+STR
+13 (+1)
+DEX
+15 (+2)
+CON
+14 (+2)
+INT
+4 (–3)
+WIS
+11 (+0)
+CHA
+6 (–2)
+Skills Perception +4, Stealth +4
+Damage Resistances poison
+Senses darkvision 60 ft., passive Perception 14
+Languages understands Draconic but can’t speak it
+Challenge 1/2 (100 XP)
+Pack Tactics. The drake has advantage on an attack roll against a creature if at least one of
+the drake’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+Surprise Attack. If the drake surprises a creature and hits it with an attack during the ﬁrst
+round of combat, the target takes an extra 7 (2d6) damage from the attack.
+Actions
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing
+damage.
+24/03/2026, 08:47 Monsters - Tyranny of Dragons - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/tod/monsters 1/27
+
+Azbara Jos
+AZBARA JOS
+Medium humanoid (human), lawful evil
+Armor Class 13 (16 with mage armor)
+Hit Points 39 (6d8 + 12)
+Speed 30 ft.
+STR
+9 (–1)
+DEX
+16 (+3)
+CON
+14 (+2)
+INT
+16 (+3)
+WIS
+13 (+1)
+CHA
+11 (+0)
+Saving Throws Int +5, Wis +3
+Skills Arcana +5, Deception +2, Insight +3, Stealth +5
+Senses passive Perception 11
+Languages Common, Draconic, Infernal, Primordial, Thayan
+Challenge 4 (1,100 XP)
+Special Equipment. Azbara has two spell scrolls of mage armor.
+Potent Cantrips. When Azbara casts an evocation cantrip and misses, or the target
+succeeds on its saving throw, the target still takes half the cantrip’s damage but suffers no
+other effect.
+Sculpt Spells. When Azbara casts an evocation spell that affects other creatures that he
+can see, he can choose a number of them equal to 1 + the spell’s level to succeed on their
+saving throws against the spell. Those creatures take no damage if they would normally
+take half damage from the spell.
+Spellcasting. Azbara is a 6th-level spellcaster that uses Intelligence as his spellcasting
+ability (spell save DC 13, +5 to hit with spell attacks). Azbara has the following spells
+prepared from the wizard spell list:
+Cantrips (at will): mage hand, prestidigitation, ray of frost, shocking grasp
+1st level (4 slots): fog cloud, magic missile, shield, thunderwave
+2nd level (3 slots): invisibility, misty step, scorching ray
+3rd level (3 slots): counterspell, dispel magic, ﬁreball
+Actions
+Dagger. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or ranged 20 ft./60 ft., one
+target. Hit: 5 (1d4 + 3) piercing damage.
+24/03/2026, 08:47 Monsters - Tyranny of Dragons - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/tod/monsters 2/27
+
+Blagothkus
+BLAGOTHKUS
+Huge giant (cloud giant), neutral evil
+Armor Class 17 (splint)
+Hit Points 138 (12d12 + 60)
+Speed 40 ft.
+STR
+26 (+8)
+DEX
+13 (+1)
+CON
+20 (+5)
+INT
+16 (+3)
+WIS
+15 (+2)
+CHA
+15 (+2)
+Saving Throws Con +9, Wis +6, Cha +6
+Skills Arcana +7, Insight +6, Intimidation +6, Perception +6
+Senses passive Perception 16
+Languages Common, Draconic, Giant
+Challenge 9 (5,000 XP)
+Keen Smell. Blagothkus has advantage on Wisdom (Perception) checks that rely on smell.
+Innate Spellcasting. Blagothkus can innately cast the following spells (spell save DC 15),
+requiring no material components:
+3/day each: fog cloud, levitate
+Spellcasting. Blagothkus is a 5th-level spellcaster that uses Intelligence as his spellcasting
+ability (spell save DC 15, +7 to hit with spell attacks). Blagothkus has the following spells
+prepared from the wizard spell list:
+Cantrips (at will): light, mage hand, prestidigitation
+1st level (4 slots): detect magic, identify, magic missile, shield
+2nd level (3 slots): gust of wind, misty step, shatter
+3rd level (2 slots): ﬂy, lightning bolt
+Actions
+Multiattack. Blagothkus attacks twice with his morningstar.
+Morningstar. Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 21 (3d8 + 8)
+piercing damage.
+24/03/2026, 08:47 Monsters - Tyranny of Dragons - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/tod/monsters 3/27
+
+Captain Othelstan
+CAPTAIN OTHELSTAN
+Medium humanoid (human), lawful evil
+Armor Class 19 (splint, shield)
+24/03/2026, 08:47 Monsters - Tyranny of Dragons - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/tod/monsters 4/27
+
+Hit Points 93 (11d10 + 33)
+Speed 30 ft.
+STR
+19 (+4)
+DEX
+10 (+0)
+CON
+16 (+3)
+INT
+13 (+1)
+WIS
+14 (+2)
+CHA
+12 (+1)
+Saving Throws Str +7, Con +6
+Skills Athletics +7, Intimidation +4, Perception +5, Religion +4
+Senses passive Perception 15
+Languages Common, Draconic, Giant
+Challenge 5 (1,800 XP)
+Action Surge (Recharges when Othelstan Finishes a Short or Long Rest). On his turn,
+Othelstan can take one additional action.
+Tiamat’s Blessing of Retribution. When Othelstan takes damage that reduces him to 0 hit
+points, he immediately regains 20 hit points. If he has 20 hit points or fewer at the end of
+his next turn, he dies.
+Actions
+Multiattack. Othelstan attacks twice with his ﬂail or spear, or makes two ranged attacks
+with his spears.
+Flail. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) bludgeoning
+damage.
+Spear. Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or ranged 20 ft./60 ft., one
+target. Hit: 7 (1d6 + 4) piercing damage.
+24/03/2026, 08:47 Monsters - Tyranny of Dragons - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/tod/monsters 5/27
+
+Dragonclaw
+DRAGONCLAW
+Medium humanoid (human), neutral evil
+Armor Class 14 (leather armor)
+Hit Points 16 (3d8 + 3)
+Speed 30 ft.
+STR
+9 (–1)
+DEX
+16 (+3)
+CON
+13 (+1)
+INT
+11 (+0)
+WIS
+10 (+0)
+CHA
+12 (+1)
+Saving Throws Wis +2
+Skills Deception +3, Stealth +5
+Senses passive Perception 10
+24/03/2026, 08:47 Monsters - Tyranny of Dragons - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/tod/monsters 6/27
+
+Dragonfang
+Languages Common, Draconic
+Challenge 1 (200 XP)
+Dragon Fanatic. The dragonclaw has advantage on saving throws against being charmed
+or frightened. While the dragonclaw can see a dragon or higher-ranking Cult of the Dragon
+cultist friendly to it, the dragonclaw ignores the effects of being charmed or frightened.
+Fanatic Advantage. Once per turn, if the dragonclaw makes a weapon attack with
+advantage on the attack roll and hits, the target takes an extra 7 (2d6) damage of the
+weapon’s type.
+Pack Tactics. The dragonclaw has advantage on an attack roll against a creature if at least
+one of the dragonclaw’s allies is within 5 feet of the creature and the ally isn’t
+incapacitated.
+Actions
+Multiattack. The dragonclaw attacks twice with its scimitar.
+Scimitar. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing
+damage.
+24/03/2026, 08:47 Monsters - Tyranny of Dragons - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/tod/monsters 7/27
+
+Dragonsoul
+DRAGONFANG
+Medium humanoid (human), neutral evil
+Armor Class 15 (studded leather)
+Hit Points 78 (12d8 + 24)
+Speed 30 ft.
+STR
+11 (+0)
+DEX
+16 (+3)
+CON
+14 (+2)
+INT
+12 (+1)
+WIS
+12 (+1)
+CHA
+14 (+2)
+Saving Throws Wis +4
+Skills Deception +5, Stealth +6
+Damage Resistances one of the following: acid, cold, ﬁre, lightning, or poison
+Senses passive Perception 11
+Languages Common, Draconic, Infernal
+Challenge 5 (1,800 XP)
+Dragon Fanatic. The dragonfang has advantage on saving throws against being charmed
+or frightened. While the dragonfang can see a dragon or higher-ranking Cult of the Dragon
+cultist friendly to it, the dragonfang ignores the effects of being charmed or frightened.
+Fanatic Advantage. Once per turn, if the dragonfang makes a weapon attack with
+advantage on the attack roll and hits, the target takes an extra 10 (3d6) damage of the
+weapon’s type.
+Limited Flight. The dragonfang can use a bonus action to gain a ﬂying speed of 30 feet
+until the end of its turn.
+Pack Tactics. The dragonfang has advantage on an attack roll against a creature if at least
+one of the dragonfang’s allies is within 5 feet of the creature and the ally isn’t
+incapacitated.
+Actions
+Multiattack. The dragonfang attacks twice with its shortsword.
+Shortsword. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing
+damage plus 7 (2d6) damage of the type to which the dragonfang has damage resistance.
+Orb of Dragon’s Breath (2/Day). Ranged Spell Attack: +5 to hit, range 90 ft., one target. Hit:
+22 (5d8) damage of the type to which the dragonfang has damage resistance.
+DRAGONSOUL
+Medium humanoid (human), neutral evil
+Armor Class 16 (studded leather)
+Hit Points 110 (17d8 + 34)
+Speed 30 ft.
+STR
+11 (+0)
+DEX
+18 (+4)
+CON
+14 (+2)
+INT
+13 (+1)
+WIS
+12 (+1)
+CHA
+16 (+3)
+Saving Throws Wis +4
+Skills Deception +6, Stealth +7
+Damage Resistances one of the following: acid, cold, ﬁre, lightning, or poison
+24/03/2026, 08:47 Monsters - Tyranny of Dragons - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/tod/monsters 8/27
+
+Dragonwing
+Senses passive Perception 11
+Languages Common, Draconic, Infernal
+Challenge 6 (2,300 XP)
+Dragon Fanatic. The dragonsoul has advantage on saving throws against being charmed or
+frightened. While the dragonsoul can see a dragon or higher-ranking Cult of the Dragon
+cultist friendly to it, the dragonsoul ignores the effects of being charmed or frightened.
+Fanatic Advantage. Once per turn, if the dragonsoul makes a weapon attack with
+advantage on the attack roll and hits, the target takes an extra 10 (3d6) damage of the
+weapon’s type.
+Limited Flight. The dragonsoul can use a bonus action to gain a ﬂying speed of 30 feet
+until the end of its turn.
+Pack Tactics. The dragonsoul has advantage on an attack roll against a creature if at least
+one of the dragonsoul’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+Actions
+Multiattack. The dragonsoul attacks twice with its shortsword.
+Shortsword. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing
+damage plus 10 (3d6) damage of the type to which the dragonsoul has damage resistance.
+Orb of Dragon’s Breath (3/Day). Ranged Spell Attack: +7 to hit, range 90 ft., one target. Hit:
+27 (6d8) damage of the type to which the dragonsoul has damage resistance.
+DRAGONWING
+Medium humanoid (human), neutral evil
+Armor Class 14 (leather armor)
+Hit Points 33 (6d8 + 6)
+Speed 30 ft.
+STR
+11 (+0)
+DEX
+16 (+3)
+CON
+13 (+1)
+INT
+11 (+0)
+WIS
+11 (+0)
+CHA
+13 (+1)
+Saving Throws Wis +2
+Skills Deception +3, Stealth +5
+Damage Resistances one of the following: acid, cold, ﬁre, lightning, or poison
+Senses passive Perception 10
+Languages Common, Draconic
+Challenge 2 (450 XP)
+Dragon Fanatic. The dragonwing has advantage on saving throws against being charmed
+or frightened. While the dragonwing can see a dragon or higher-ranking Cult of the Dragon
+cultist friendly to it, the dragonwing ignores the effects of being charmed or frightened.
+Fanatic Advantage. Once per turn, if the dragonwing makes a weapon attack with
+advantage on the attack roll and hits, the target takes an extra 7 (2d6) damage of the
+weapon’s type.
+Limited Flight. The dragonwing can use a bonus action to gain a ﬂying speed of 30 feet
+until the end of its turn.
+Pack Tactics. The dragonwing has advantage on an attack roll against a creature if at least
+one of the dragonwing’s allies is within 5 feet of the creature and the ally isn’t
+incapacitated.
+24/03/2026, 08:47 Monsters - Tyranny of Dragons - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/tod/monsters 9/27
+
+Dralmorrer Borngray
+Actions
+Multiattack. The dragonwing attacks twice with its scimitar.
+Scimitar. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing
+damage plus 3 (1d6) damage of the type to which the cultist has damage resistance.
+[Tooltip Not Found]
+24/03/2026, 08:47 Monsters - Tyranny of Dragons - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/tod/monsters 10/27
+
+DRALMORRER BORNGRAY
+Medium humanoid (high-elf), neutral evil
+Armor Class 16 (studded leather armor, shield)
+Hit Points 52 (7d10 + 14)
+Speed 30 ft.
+STR
+18 (+4)
+DEX
+14 (+2)
+CON
+14 (+2)
+INT
+16 (+3)
+WIS
+10 (+0)
+CHA
+8 (–1)
+Saving Throws Str +6, Con +4
+Skills Arcana +5, Deception +1, Insight +2, Perception +2, Religion +5
+Senses darkvision 60 ft., passive Perception 12
+Languages Common, Bullywug, Draconic, Elvish, Goblin, Sylvan
+Challenge 3 (700 XP)
+Fey Ancestry. Dralmorrer has advantage on saving throws against being charmed, and
+magic can’t put him to sleep.
+Spellcasting. Dralmorrer is a 7th-level spellcaster that uses Intelligence as his spellcasting
+ability (spell save DC 13, +5 to hit with spell attacks). Dralmorrer has the following spells
+prepared from the wizard spell list:
+Cantrips (at will): ﬁre bolt, prestidigitation, shocking grasp
+1st level (4 slots): longstrider, magic missile, shield, thunderwave
+2nd level (2 slots): magic weapon, misty step
+War Magic. When Dralmorrer uses his action to cast a cantrip, he can also take a bonus
+action to make one weapon attack.
+Weapon Bond. Provided his longsword is on the same plane, Dralmorrer can take a bonus
+action to teleport it to his hand.
+Actions
+Multiattack. Dralmorrer attacks twice, either with his longsword or dagger.
+Longsword. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing
+damage.
+Dagger. Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or ranged 20 ft./60 ft., one
+target. Hit: 6 (1d4 + 4) piercing damage.
+24/03/2026, 08:47 Monsters - Tyranny of Dragons - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/tod/monsters 11/27
+
+Frulam Mondath
+Guard Drake
+FRULAM MONDATH
+Medium humanoid (human), lawful evil
+Armor Class 16 (chain mail)
+Hit Points 44 (8d8 + 8)
+Speed 30 ft.
+STR
+14 (+2)
+DEX
+10 (+0)
+CON
+13 (+1)
+INT
+11 (+0)
+WIS
+18 (+4)
+CHA
+15 (+2)
+Saving Throws Wis +6, Cha +4
+Skills Deception +4, History +2, Religion +2
+Senses passive Perception 14
+Languages Common, Draconic, Infernal
+Challenge 2 (450 XP)
+Spellcasting. Frulam is a 5th-level spellcaster that uses Wisdom as her spellcasting ability
+(spell save DC 14, +6 to hit with spell attacks). Frulam has the following spells prepared
+from the cleric spell list:
+Cantrips (at will): light, sacred ﬂame, thaumaturgy
+1st level (4 slots): command, cure wounds, healing word, sanctuary
+2nd level (3 slots): calm emotions, hold person, spiritual weapon
+3rd level (2 slots): mass healing word, spirit guardians
+Actions
+Multiattack. Frulam attacks twice with her halberd.
+Halberd. Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 7 (1d10 + 2)
+bludgeoning damage.
+GUARD DRAKE
+Medium dragon, unaligned
+Armor Class 14 (natural armor)
+Hit Points 52 (7d8 + 21)
+Speed 30 ft.
+STR
+16 (+3)
+DEX
+11 (+0)
+CON
+16 (+3)
+INT
+4 (–3)
+WIS
+10 (+0)
+CHA
+7 (–2)
+Skills Perception +2
+Senses darkvision 60 ft., passive Perception 12
+24/03/2026, 08:47 Monsters - Tyranny of Dragons - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/tod/monsters 12/27
+
+Ice Toad
+Jamna Gleamsilver
+Languages understands Draconic but can’t speak
+Challenge 2 (450 XP)
+Actions
+Multiattack. The guard drake makes one Bite attack and one Tail attack.
+Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing
+damage.
+Tail. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning
+damage.
+ICE TOAD
+Medium monstrosity, neutral
+Armor Class 12 (natural armor)
+Hit Points 32 (5d8 + 10)
+Speed 30 ft., swim 30 ft.
+STR
+13 (+1)
+DEX
+10 (+0)
+CON
+14 (+2)
+INT
+8 (–1)
+WIS
+10 (+0)
+CHA
+6 (–2)
+Skills Perception +2
+Damage Immunities cold
+Senses darkvision 60 ft., passive Perception 12
+Languages Ice Toad
+Challenge 1 (200 XP)
+Amphibious. The toad can breathe air and water.
+Cold Aura. While the toad is alive, any creature that starts its turn within 5 feet of the toad
+takes 3 (1d6) cold damage.
+Standing Leap. The toad’s long jump is up to 20 feet and its high jump is up to 10 feet, with
+or without a running start.
+Actions
+Bite. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) piercing
+damage plus 4 (1d8) cold damage. If the target is a Medium or smaller creature, it is
+grappled (escape DC 11). Until this grapple ends, the toad can’t bite another target.
+JAMNA GLEAMSILVER
+Small humanoid (gnome), neutral
+Armor Class 15 (leather armor)
+24/03/2026, 08:47 Monsters - Tyranny of Dragons - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/tod/monsters 13/27
+
+Langdedrosa Cyanwrath
+Hit Points 22 (4d6 + 8)
+Speed 25 ft.
+STR
+8 (–1)
+DEX
+17 (+3)
+CON
+14 (+2)
+INT
+15 (+2)
+WIS
+10 (+0)
+CHA
+12 (+1)
+Saving Throws Dex +5, Int +4
+Skills Acrobatics +5, Deception +3, Insight +2, Perception +4, Persuasion +3, Stealth +7
+Senses darkvision 60 ft., passive Perception 14
+Languages Common, Gnomish, Goblin, Sylvan
+Challenge 1 (200 XP)
+Cunning Action. Jamna can take a bonus action to take the Dash, Disengage, or Hide
+action.
+Gnome Cunning. Jamna has advantage on Intelligence, Wisdom, and Charisma saving
+throws against magic.
+Spellcasting. Jamna is a 4th-level spellcaster that uses Intelligence as her spellcasting
+ability (spell save DC 12, +4 to hit with spell attacks). Jamna has the following spells
+prepared from the wizard spell list:
+Cantrips (at will): mage hand, minor illusion, prestidigitation, ray of frost
+1st level (3 slots): charm person, color spray, disguise self, longstrider
+Actions
+Multiattack. Jamna attacks twice with her shortswords.
+Shortsword. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing
+damage, or 9 (1d6 + 3 plus 1d6) piercing damage if the target is Medium or larger.
+24/03/2026, 08:47 Monsters - Tyranny of Dragons - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/tod/monsters 14/27
+
+Naergoth Bladelord
+LANGDEDROSA CYANWRATH
+Medium humanoid (half-blue dragon), lawful evil
+Armor Class 17 (splint)
+Hit Points 57 (6d12 + 18)
+Speed 30 ft.
+STR
+19 (+4)
+DEX
+13 (+1)
+CON
+16 (+3)
+INT
+10 (+0)
+WIS
+14 (+2)
+CHA
+12 (+1)
+Saving Throws Str +6, Con +5
+Skills Athletics +6, Intimidation +3, Perception +4
+Damage Resistances lightning
+Senses blindsight 10 ft., darkvision 60 ft., passive Perception 14
+Languages Common, Draconic
+Challenge 4 (1,100 XP)
+Action Surge (Recharges when Langdedrosa Finishes a Short or Long Rest). On his turn,
+Langdedrosa can take one additional action.
+Improved Critical. Langdedrosa’s weapon attacks score a critical hit on a roll of 19 or 20.
+Actions
+Multiattack. Langdedrosa attacks twice, either with his greatsword or spear.
+Greatsword. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4)
+slashing damage.
+Spear. Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or ranged 20 ft./60 ft., one
+target. Hit: 7 (1d6 + 4) piercing damage.
+Lightning Breath (Recharge 5–6). Langdedrosa breathes lightning in a 30-foot line that is 5
+feet wide. Each creature in the line must make a DC 13 Dexterity saving throw, taking 22
+(4d10) lightning damage on a failed save, or half as much damage on a successful one.
+24/03/2026, 08:47 Monsters - Tyranny of Dragons - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/tod/monsters 15/27
+
+NAERGOTH BLADELORD
+Medium undead, neutral evil
+Armor Class 18 (plate)
+Hit Points 135 (18d8 + 54)
+Speed 30 ft.
+STR
+20 (+5)
+DEX
+12 (+1)
+CON
+16 (+3)
+INT
+12 (+1)
+WIS
+14 (+2)
+CHA
+16 (+3)
+Saving Throws Dex +5, Wis +6
+Skills Perception +6, Stealth +5
+Damage Resistances necrotic; bludgeoning, piercing, and slashing from nonmagical
+weapons that aren’t silvered
+Damage Immunities poison
+Condition Immunities exhaustion, poisoned
+Senses darkvision 60 ft., passive Perception 16
+Languages Common, Draconic
+Challenge 11 (7,200 XP)
+Sunlight Sensitivity. While in sunlight, Naergoth has disadvantage on attack rolls, as well
+as on Wisdom (Perception) checks that rely on sight.
+Actions
+Multiattack. Naergoth makes three attacks, either with his longsword or longbow. He can
+use Life Drain in place of one longsword attack.
+Life Drain. Melee Weapon Attack: +9 to hit, reach 5 ft., one creature. Hit: 20 (5d6 + 3)
+necrotic damage. The target must succeed on a DC 15 Constitution saving throw or its hit
+point maximum is reduced by an amount equal to the damage taken. This reduction lasts
+until the target ﬁnishes a long rest. The target dies if this effect reduces its hit point
+maximum to 0.
+A humanoid slain by this attack rises 24 hours later as a zombie under Naergoth’s control,
+unless the humanoid is restored to life or its body is destroyed. Naergoth can have no more
+than twelve zombies under his control at one time.
+Longsword. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) slashing
+damage, or 10 (1d10 + 5) slashing damage if used with two hands, plus 10 (3d6) necrotic
+damage.
+Longbow. Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. Hit: 5 (1d8 + 1)
+piercing damage plus 10 (3d6) necrotic damage.
+24/03/2026, 08:47 Monsters - Tyranny of Dragons - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/tod/monsters 16/27
+
+Neronvain
+NERONVAIN
+Medium humanoid (elf), neutral evil
+Armor Class 17 (Charisma bonus)
+Hit Points 117 (18d8 + 36)
+24/03/2026, 08:47 Monsters - Tyranny of Dragons - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/tod/monsters 17/27
+
+Pharblex Spattergoo
+Speed 30 ft.
+STR
+8 (–1)
+DEX
+17 (+3)
+CON
+15 (+2)
+INT
+16 (+3)
+WIS
+13 (+1)
+CHA
+18 (+4)
+Saving Throws Constitution +5, Wisdom +4
+Skills Arcana +6, Perception +4
+Damage Immunities poison
+Condition Immunities charmed, frightened, poisoned
+Senses darkvision 60 ft., passive Perception 14
+Languages Common, Draconic, Elvish, Infernal
+Challenge 6 (2,300 XP)
+Draconic Majesty. Neronvain adds his Charisma bonus to his AC.
+Fey Ancestry. Magic can’t put Neronvain to sleep.
+Actions
+Multiattack. Neronvain makes two attacks, either with his shortsword or Eldritch Arrow.
+Shortsword. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing
+damage plus 13 (3d8) poison damage.
+Eldritch Arrow. Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 11 (2d10) force
+damage plus 9 (2d8) poison damage.
+Poisonous Cloud (2/Day). Poison gas ﬁlls a 20-foot-radius sphere centered on a point
+Neronvain can see within 50 feet of him. The gas spreads around corners and remains until
+the start of Neronvain’s next turn. Each creature that starts its turn in the gas must succeed
+on a DC 15 Constitution saving throw or be poisoned for 1 minute. A creature can repeat
+the saving throw at the end of each of its turns, ending the effect on itself on a success.
+PHARBLEX SPATTERGOO Medium humanoid (bullywug), chaotic evil
+24/03/2026, 08:47 Monsters - Tyranny of Dragons - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/tod/monsters 18/27
+
+Rath Modar
+Armor Class 15 (studded leather armor, shield)
+Hit Points 59 (7d8 + 28)
+Speed 20 ft., swim 40 ft.
+STR
+15 (+2)
+DEX
+12 (+1)
+CON
+18 (+4)
+INT
+11 (+0)
+WIS
+16 (+3)
+CHA
+7 (–2)
+Saving Throws Str +4, Con +6
+Skills Perception +5, Religion +2, Stealth +3
+Senses passive Perception 15
+Languages Common, Bullywug
+Challenge 3 (700 XP)
+Amphibious. Pharblex can breathe air and water.
+Poison Strike (3/Day). Once per turn, when Pharblex hits with a melee attack, he can
+expend a use of this trait to deal an extra 9 (2d8) poison damage.
+Spellcasting. Pharblex is a 6th-level spellcaster that uses Wisdom as his spellcasting
+ability (spell save DC 13, +5 to hit with spell attacks). Pharblex has the following spells
+prepared from the druid spell list:
+Cantrips (at will): druidcraft, guidance, poison spray
+1st level (4 slots): cure wounds, entangle, healing word, thunderwave
+2nd level (3 slots): barkskin, beast sense, spike growth
+3rd level (3 slots): plant growth, water walk
+Standing Leap. As part of his movement and without a running start, Pharblex can long
+jump up to 20 feet and high jump up to 10 feet.
+Swamp Camouﬂage. Pharblex has advantage on Dexterity (Stealth) checks made to hide in
+swampy terrain.
+Actions
+Multiattack. Pharblex attacks twice, once with his bite and once with his spear.
+Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing
+damage.
+Spear. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or ranged 20 ft./60 ft., one
+target. Hit: 5 (1d6 + 2) piercing damage.
+24/03/2026, 08:47 Monsters - Tyranny of Dragons - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/tod/monsters 19/27
+
+Rezmir
+RATH MODAR
+Medium humanoid (human), lawful evil
+Armor Class 13 (16 with mage armor)
+Hit Points 71 (11d8 + 22)
+Speed 30 ft.
+STR
+11 (+0)
+DEX
+16 (+3)
+CON
+14 (+2)
+INT
+18 (+4)
+WIS
+14 (+2)
+CHA
+10 (+0)
+Saving Throws Int +7, Wis +5
+Skills Arcana +7, Deception +3, Insight +5, Stealth +6
+Senses passive Perception 12
+Languages Common, Draconic, Infernal, Primordial, Thayan
+Challenge 6 (2,300 XP)
+Special Equipment. Rath has a staff of ﬁre and three spell scrolls: dimension door, feather
+fall, and ﬁreball.
+Spellcasting. Rath is an 11th-level spellcaster. His spellcasting ability is Intelligence (spell
+save DC 15, +7 to hit with spell attacks). He has the following wizard spells prepared:
+Cantrips (at will): ﬁre bolt, minor illusion, prestidigitation, shocking grasp
+1st level (4 slots): chromatic orb, color spray, mage armor, magic missile
+2nd level (3 slots): detect thoughts, mirror image, phantasmal force
+3rd level (3 slots): counterspell, ﬁreball, major image
+4th level (3 slots): confusion, greater invisibility
+5th level (2 slots): mislead, seeming
+6th level (1 slot): globe of invulnerability
+Actions
+Quarterstaff. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 3 (1d6)
+bludgeoning damage, or 4 (1d8) bludgeoning damage when used with two hands.
+Reactions
+Illusory Self (Recharges after a Short or Long Rest). When a creature Rath can see makes
+an attack roll against him, he can interpose an illusory duplicate between the attacker and
+himself. The attack automatically misses Rath, then the illusion dissipates.
+REZMIR
+Medium humanoid (half-black dragon), neutral evil
+Armor Class 13 (15 with the Black Dragon Mask)
+Hit Points 90 (12d8 + 36)
+Speed 30 ft.
+STR
+18 (+4)
+DEX
+16 (+3)
+CON
+16 (+3)
+INT
+15 (+2)
+WIS
+12 (+1)
+CHA
+14 (+2)
+Saving Throws Dex +6, Wis +4
+Skills Arcana +5, Stealth +9
+24/03/2026, 08:47 Monsters - Tyranny of Dragons - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/tod/monsters 20/27
+
+Severin
+Damage Immunities acid
+Condition Immunities charmed, frightened
+Senses blindsight 10 ft., darkvision 120 ft., passive Perception 11
+Languages Common, Draconic, Infernal, Giant, Netherese
+Challenge 7 (2,900 XP)
+Special Equipment. Rezmir has the Black Dragon Mask, Hazirawn, and an insignia of claws
+(see appendix C for all items).
+Amphibious. Rezmir can breathe air and water.
+Cruel Advantage. Once per turn, Rezmir can deal an extra 10 (3d6) damage when she hits
+with a weapon attack, provided Rezmir has advantage on the attack roll.
+Draconic Majesty. While wearing no armor and wearing the Black Dragon Mask, Rezmir
+adds her Charisma bonus to her AC (included).
+Immolation. When Rezmir is reduced to 0 hit points, her body disintegrates into a pile of
+ash.
+Legendary Resistance (1/Day). If Rezmir fails a saving throw while wearing the Black
+Dragon Mask, she can choose to succeed instead.
+Actions
+Greatsword (Hazirawn). Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 13 (2d6
++ 6) slashing damage plus 7 (2d6) necrotic damage. If the target is a creature, it can’t
+regain hit points for 1 minute. The target can make a DC 15 Constitution saving throw at
+the end of each of its turns, ending this effect early on itself on a success.
+Caustic Bolt. Ranged Spell Attack: +8 to hit, range 90 ft., one target. Hit: 18 (4d8) acid
+damage.
+Acid Breath (Recharge 5–6). Rezmir exhales acid in a 30-foot line that is 5 feet wide. Each
+creature in the line must make a DC 14 Dexterity saving throw, taking 22 (5d8) acid damage
+on a failed save, or half as much damage on a successful one.
+Legendary Actions
+If she is wearing the Black Dragon Mask, Rezmir can take up to two legendary actions
+between each of her turns, taking the actions all at once or spreading them over the round.
+A legendary action can be taken only at the start or end of a turn. Rezmir has the following
+legendary action options, some of which expend more than one action when taken:
+Darkness (Costs 2 Actions). A 15-foot radius of magical darkness extends from a point
+Rezmir can see within 60 feet of her and spreads around corners. The darkness lasts as
+long as Rezmir maintains concentration, up to 1 minute. A creature with darkvision can’t
+see through this darkness, and no natural light can illuminate it. If any of the area overlaps
+with an area of light created by a spell of 2nd level or lower, the spell creating the light is
+dispelled.
+Melee Attack. Rezmir makes one melee attack.
+Hide. Rezmir takes the Hide action.
+SEVERIN
+Medium humanoid (human), neutral evil
+Armor Class 16 (Charisma bonus)
+Hit Points 150 (20d8 + 60)
+24/03/2026, 08:47 Monsters - Tyranny of Dragons - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/tod/monsters 21/27
+
+Speed 30 ft.
+STR
+10 (+0)
+DEX
+13 (+1)
+CON
+16 (+3)
+INT
+17 (+3)
+WIS
+12 (+1)
+CHA
+20 (+5)
+Saving Throws Dexterity +5, Wisdom +5
+Skills Arcana +7, Religion +7
+Damage Immunities* ﬁre
+Damage Resistances* acid, cold, lightning, poison; bludgeoning, piercing, and slashing
+damage from nonmagical weapons
+Condition Immunities* charmed, frightened, poisoned
+Senses darkvision 60 ft.,* passive Perception 11
+Languages Common, Draconic, Infernal
+Challenge 11 (7,200 XP)
+*Severin has these features while wearing the Mask of the Dragon Queen.
+Special Equipment. Severin has the Mask of the Dragon Queen (see appendix C).
+Draconic Majesty. Severin adds his Charisma bonus to his AC.
+Ignite Enemy. If Severin deals ﬁre damage to a creature while wearing the Mask of the
+Dragon Queen, the target catches ﬁre. At the start of each of its turns, the burning target
+takes 5 (1d10) ﬁre damage. A creature within reach of the ﬁre can use an action to
+extinguish it.
+Legendary Resistance (5/Day). While wearing the Mask of the Dragon Queen, if Severin
+fails a saving throw, he can choose to succeed instead.
+Actions
+Burning Touch. Melee Spell Attack: +9 to hit, reach 5 ft., one target. Hit: 18 (4d8) ﬁre
+damage.
+Flaming Orb. Ranged Spell Attack: +9 to hit, range 90 ft., one target. Hit: 40 (9d8) ﬁre
+damage.
+Scorching Burst. Severin chooses a point he can see within 60 feet of him. Each creature
+within 5 feet of that point must make a DC 17 Dexterity saving throw, taking 18 (4d8) ﬁre
+damage on a failed save, or half as much damage on a successful one.
+Legendary Actions
+If Severin is wearing the Mask of the Dragon Queen, he can take 3 legendary actions,
+choosing from the options below. Only one legendary action option can be used at a time
+and only at the end of another creature’s turn. Severin regains spent legendary actions at
+the start of his turn.
+Attack. Severin makes one attack.
+Fiery Teleport (Costs 2 Actions). Severin, along with any objects he is wearing or carrying,
+teleports up to 60 feet to an unoccupied space he can see. Each creature within 5 feet of
+Severin before he teleports takes 5 (1d10) ﬁre damage.
+Hellish Chains (Costs 3 Actions). Severin targets one creature he can see within 30 feet of
+him. The target is wrapped in magical chains of ﬁre and restrained. The restrained target
+takes 21 (6d6) ﬁre damage at the start of each of its turns. At the end of its turns, the target
+can make a DC 17 Strength saving throw, ending the effect on itself on a success.
+24/03/2026, 08:47 Monsters - Tyranny of Dragons - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/tod/monsters 22/27
+
+Talis the White
+24/03/2026, 08:47 Monsters - Tyranny of Dragons - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/tod/monsters 23/27
+
+Tiamat
+TALIS THE WHITE
+Medium humanoid (half-elf), lawful evil
+Armor Class 18 (+1 scale mail, shield)
+Hit Points 58 (9d8 + 18)
+Speed 30 ft.
+STR
+14 (+2)
+DEX
+12 (+1)
+CON
+14 (+2)
+INT
+10 (+0)
+WIS
+16 (+3)
+CHA
+16 (+3)
+Saving Throws Wis +6, Cha +6
+Skills Deception +6, Insight +6, Perception +6, Persuasion +6
+Senses darkvision 60 ft., passive Perception 16
+Languages Common, Draconic, Elvish, Infernal
+Challenge 5 (1,800 XP)
+Special Equipment. Talis has +1 scale mail and a wand of winter (see appendix C).
+Fey Ancestry. Talis has advantage on saving throws against being charmed, and magic
+can’t put her to sleep.
+Spellcasting. Talis is a 9th-level spellcaster that uses Wisdom as her spellcasting ability
+(spell save DC 14, +6 to hit with spell attacks). Talis has the following spells prepared from
+the cleric spell list:
+Cantrips (at will): guidance, resistance, thaumaturgy
+1st level (4 slots): command, cure wounds, healing word, inﬂict wounds
+2nd level (3 slots): blindness/deafness, lesser restoration, spiritual weapon (spear)
+3rd level (3 slots): dispel magic, mass healing word, sending
+4th level (3 slots): death ward, freedom of movement
+5th level (1 slot): insect plague
+Winter Strike (3/Day). Once per turn, when Talis hits with a melee attack, she can expend a
+use of this trait to deal an extra 9 (2d8) cold damage.
+Actions
+Spear. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or ranged 20 ft./60 ft., one
+target. Hit: 6 (1d6 + 2) piercing damage.
+TIAMAT
+Gargantuan ﬁend, chaotic evil
+Armor Class 25 (natural armor)
+Hit Points 615 (30d20 + 300)
+Speed 60 ft., ﬂy 120 ft.
+STR
+30 (+10)
+DEX
+10 (+0)
+CON
+30 (+10)
+INT
+26 (+8)
+WIS
+26 (+8)
+CHA
+28 (+9)
+Saving Throws Strength +19, Dexterity +9, Wisdom +17
+Skills Arcana +17, Perception +26, Religion +17
+24/03/2026, 08:47 Monsters - Tyranny of Dragons - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/tod/monsters 24/27
+
+Damage Immunities acid, cold, ﬁre, lightning, poison; bludgeoning, piercing, and slashing
+from nonmagical weapons
+Condition Immunities blinded, charmed, deafened, frightened, poisoned, stunned
+Senses darkvision 240 ft., truesight 120 ft., passive Perception 36
+Languages Common, Draconic, Infernal
+Challenge 30 (155,000 XP)
+Discorporation. When Tiamat drops to 0 hit points or dies, her body is destroyed but her
+essence travels back to her domain in the Nine Hells, and she is unable to take physical
+form for a time.
+Innate Spellcasting (3/Day). Tiamat can innately cast divine word (spell save DC 26). Her
+spellcasting ability is Charisma.
+Legendary Resistance (5/Day). If Tiamat fails a saving throw, she can choose to succeed
+instead.
+Limited Magic Immunity. Unless she wishes to be affected, Tiamat is immune to spells of
+6th level or lower. She has advantage on saving throws against all other spells and magical
+effects.
+Magic Weapons. Tiamat’s weapon attacks are magical.
+Multiple Heads. Tiamat can take one reaction per turn, rather than only one per round. She
+also has advantage on saving throws against being knocked unconscious. If she fails a
+saving throw against an effect that would stun a creature, one of her unspent legendary
+actions is spent.
+Regeneration. Tiamat regains 30 hit points at the start of her turn.
+Actions
+Multiattack. Tiamat can use her Frightful Presence. She then makes three attacks: two with
+her claws and one with her tail.
+Claw. Melee Weapon Attack: +19 to hit, reach 15 ft., one target. Hit: 24 (4d6 + 10) slashing
+damage.
+Tail. Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 28 (4d8 + 10) piercing
+damage.
+Frightful Presence. Each creature of Tiamat’s choice that is within 240 feet of Tiamat and
+aware of her must succeed on a DC 26 Wisdom saving throw or become frightened for 1
+minute. A creature can repeat the saving throw at the end of each of its turns, ending the
+effect on itself on a success. If a creature’s saving throw is successful or the effect ends
+for it, the creature is immune to Tiamat’s Frightful Presence for the next 24 hours.
+Legendary Actions
+Tiamat can take 5 legendary actions, choosing from the options below. Only one legendary
+action option can be used at a time and only at the end of another creature’s turn. Tiamat
+regains spent legendary actions at the start of her turn.
+Tiamat’s legendary action options are associated with her ﬁve dragon heads (a bite and a
+breath weapon for each). Once Tiamat chooses a legendary action option for one of her
+heads, she can’t choose another one associated with that head until the start of her next
+turn.
+Bite. Melee Weapon Attack: +19 to hit, reach 20 ft., one target. Hit: 32 (4d10 + 10) slashing
+damage plus 14 (4d6) acid damage (black dragon head), lightning damage (blue dragon
+head), poison damage (green dragon head), ﬁre damage (red dragon head), or cold damage
+(white dragon head).
+Black Dragon Head: Acid Breath (Costs 2 Actions). Tiamat exhales acid in a 120-foot line
+that is 10 feet wide. Each creature in that line must make a DC 27 Dexterity saving throw,
+taking 67 (15d8) acid damage on a failed save, or half as much damage on a successful
+one.
+Blue Dragon Head: Lightning Breath (Costs 2 Actions). Tiamat exhales lightning in a 120-
+foot line that is 10 feet wide. Each creature in that line must make a DC 27 Dexterity saving
+throw, taking 88 (16d10) lightning damage on a failed save, or half as much damage on a
+successful one.
+Green Dragon Head: Poison Breath (Costs 2 Actions). Tiamat exhales poisonous gas in a
+90-foot cone. Each creature in that area must make a DC 27 Constitution saving throw,
+taking 77 (22d6) poison damage on a failed save, or half as much damage on a successful
+one.
+24/03/2026, 08:47 Monsters - Tyranny of Dragons - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/tod/monsters 25/27
+
+Red Dragon Head: Fire Breath (Costs 2 Actions). Tiamat exhales ﬁre in a 90-foot cone.
+Each creature in that area must make a DC 27 Dexterity saving throw, taking 91 (26d6) ﬁre
+damage on a failed save, or half as much damage on a successful one.
+White Dragon Head: Cold Breath (Costs 2 Actions). Tiamat exhales an icy blast in a 90-foot
+cone. Each creature in that area must make a DC 27 Dexterity saving throw, taking 72
+(16d8) cold damage on a failed save, or half as much damage on a successful one.
+24/03/2026, 08:47 Monsters - Tyranny of Dragons - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/tod/monsters 26/27
+
+Our Terms of Service and Privacy Notice have recently been updated to provide greater clarity as to how disputes are handled and transparency regarding the
+collection and use of personal data. Please review them here: Terms of Service, Privacy Notice. By continuing to use the services, you agree to the new Terms.
+SUPPORT
+Help Portal
+Support Forum
+System Status
+Do Not Sell or Share My
+Personal Information
+Your Privacy Choices
+Cookie Notice
+System Reference Document
+(SRD)
+ABOUT
+Contact Us
+Careers
+Wizards of the Coast
+FIND US ON SOCIAL MEDIA
+ DOWNLOAD THE D&D BEYOND APP
+© 2017-2026 WIZARDS OF THE COAST LLC | ALL RIGHTS RESERVED
+Dungeons & Dragons, D&D Beyond, D&D, Wizards of the Coast, the dragon ampersand, and all other Wizards of the Coast product names, campaign settings,
+their respective logos, and The World's Greatest Roleplaying Game are © and trademark Wizards of the Coast in the U.S.A. and other countries. © 2026
+Wizards.
+PRIVACY POLICY TERMS OF SERVICE
+24/03/2026, 08:47 Monsters - Tyranny of Dragons - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/tod/monsters 27/27

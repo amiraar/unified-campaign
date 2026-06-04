@@ -1,0 +1,244 @@
+CHAPTER 1: DRAGON’S REST
+Running the Adventure
+This is for the Dungeon Master. It contains a complete Dungeons & Dragons adventure, as well as descriptions for the magic items and creatures in
+the adventure. It also teaches you how to run a D&D game.
+Overview
+A D&D adventure is a collection of locations, quests, and challenges that inspire you to tell a story. The outcome of that story is determined by the
+actions and decisions of the adventurers—and the luck of the dice.
+Dragons of Stormwreck Isle draws the characters into the midst of an ancient war among dragons as they explore an island that has long been a
+battleﬁeld in that conﬂict. Here’s an overview of what you’ll ﬁnd:
+Running the Adventure. The adventure starts with an overview. Then it takes a look at the role of the Dungeon Master in a game of D&D, and some
+tips to help you in this role.
+Adventure Sites. The four chapters of the adventure describe locations on Stormwreck Isle where characters can explore, interact with various
+creatures, and pursue their goals. The ﬁrst site, Dragon’s Rest, serves as the characters’ home base during the adventure, where they can rest and get
+supplies between their visits to the other sites.
+Magic Items and Monsters. Two appendixes describe rules for magic items and monsters that characters might ﬁnd in the course of the adventure.
+Getting Started
+Before you get started, get familiar with the contents of this adventure. If you think there are elements your players might ﬁnd scary or might make
+them uncomfortable, check in with the players before you start playing. Without giving away the story that awaits them, talk about the potentially
+troubling aspects and discuss how you’d like to handle them. This check-in is an important part of making sure everyone has a safe and fun time
+playing the game.
+Premade Characters
+To get started, have each player choose one character to play.
+Dwarf Cleric
+You trained as a soldier on the island of Mintarn and joined a mercenary company. You traveled to the city of Neverwinter with your company to serve
+in both the army and city watch. Over time, you grew disillusioned with many of your fellow soldiers. They seemed to enjoy their authority at the
+expense of the people they’re supposed to protect.
+P R EV  C H A P TER
+ARTIST: SHAWN WOOD
+2/8/26, 12:25 AM Running the Adventure - Dragons of Stormwreck Isle - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/dosi/running-the-adventure 1/8
+
+Recently you’ve had dreams of a shadow creeping across the sea like a shroud, swallowing an island in darkness. Though you dismissed the dreams
+at ﬁrst, you began to hear a voice calling you to stand against death’s endless hunger. Certain of your deity’s wishes, you resigned your post and set
+out on your quest.
+Personal Goal: Banish a Shadow of Death. Researching images from your dreams pointed you to Stormwreck Isle, not far from Neverwinter. A remote
+cloister there holds a temple to the dragon god Bahamut, who is a patron of heroes and a champion of justice. Someone at the cloister may hold the
+key to the impending doom your deity wishes you to avert.
+VIEW CHARACTER SHEET
+Downloadable PDF
+Elf Fighter
+Your parents lived in the prosperous village of Thundertree, east of the city of Neverwinter and at the edge of the Neverwinter Wood. But when nearby
+Mount Hotenow erupted thirty years ago, your parents ﬂed, perhaps carrying you in your infancy (depending on how old you are). Your family drifted
+from village to village around the region, ﬁnding work as laborers where they could.
+You’ve spent the last few years in Neverwinter as a carpenter working at the city’s bustling docks. But it’s clear to you and everyone around you that
+you are destined for much more. You stood up to an abusive ship captain once, so other dockworkers look up to you. Someday, you’ll come into your
+own. You’ll be a hero.
+Personal Goal: Determine Your Destiny. In the remote cloister of Dragon’s Rest lives an old sage who is supposed to possess great wisdom—or
+possibly supernatural insight. The cloister holds a temple to the dragon god Bahamut, who is a patron of heroes and a champion of justice. Maybe
+Elder Runara can help you determine exactly what your heroic destiny is and set you on the right path to fulﬁll it, so you can become the hero you
+know you’re meant to be.
+VIEW CHARACTER SHEET
+Downloadable PDF
+Elf Wizard
+ARTIST: SHAWN WOOD
+ARTIST: RICHARD WHITTERS
+2/8/26, 12:25 AM Running the Adventure - Dragons of Stormwreck Isle - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/dosi/running-the-adventure 2/8
+
+Your parents identiﬁed your magical talent early in your long elven life and arranged for you to be apprenticed to a kindly wizard in the city of
+Neverwinter. You excelled at your studies and forged friendships and rivalries with other apprentices. You always had a particular knack for wielding
+ﬂashy, energetic forces, and you focused your study on the school of evocation.
+After graduating from your apprenticeship, you and your peers went your separate ways to focus on your own studies. Recently, you received a letter
+from one of your colleagues, pointing you toward a source of lost knowledge. Shortly after the letter arrived, you learned tragic news: your friend died
+under mysterious circumstances.
+Personal Goal: Discover Lost Knowledge. The letter spoke of an arcane observatory built on a nearby island by wizards long gone, and it hinted at
+powerful magic hidden there. A small cloister known as Dragon’s Rest also resides on the island. The caretaker of the cloister’s temple to the dragon
+god Bahamut, who is a patron of heroes and a champion of justice, must have information regarding the observatory. This Elder Runara can set you
+on the path to discovering the knowledge your friend never found.
+VIEW CHARACTER SHEET
+Downloadable PDF
+Halﬂing Rogue
+You fell in with a thieves’ guild called the Gilded Gallows at an early age. The guild has prospered in recent years, and its inﬂuence is spreading across
+the Sword Coast. You followed that expansion, hoping to ﬁnd your fortune in the city of Neverwinter.
+ARTIST: SHAWN WOOD
+2/8/26, 12:25 AM Running the Adventure - Dragons of Stormwreck Isle - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/dosi/running-the-adventure 3/8
+
+Fortunes in Neverwinter have been fair but not the fast riches you hoped for. You heard a story from a smuggler about a high-ranking member of the
+Gilded Gallows who turned traitor, killed their partner, and ﬂed with a sovereign’s ransom in treasure. Thanks to details you’ve picked up here and there
+that corroborate the story, you’re certain it’s more than just a rumor.
+Personal Goal: Find the Lost Fortune. Whoever that Gilder was who skipped out with the gold, they’ve covered their tracks well. The trail went cold in
+Neverwinter, but recently you’ve learned of a remote island cloister called Dragon’s Rest. The cloister holds a temple to the dragon god Bahamut, who
+is a patron of heroes and a champion of justice. There is also a community of hermits who live there now, the perfect place to hide for someone
+wishing to escape their past. If that treasure’s there, you’ll ﬁnd it.
+VIEW CHARACTER SHEET
+Downloadable PDF
+Human Paladin
+Your family is no stranger to wealth, power, and privilege. In the glory days of Neverwinter, your parents ruled the county of Corlinn Hill, located in the
+hills northeast of the city. But Mount Hotenow erupted thirty years ago, devastating Neverwinter and erasing Corlinn Hill. Instead of growing up on an
+estate, you were raised in a small townhouse in Waterdeep. As an adult, you stand to inherit only a title.
+ARTIST: SHAWN WOOD
+2/8/26, 12:25 AM Running the Adventure - Dragons of Stormwreck Isle - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/dosi/running-the-adventure 4/8
+
+Since swearing your oath to Bahamut, you’ve returned to Neverwinter and have been a champion to those who are overlooked by the institutions that
+exist to protect them. Recently, your resolve has been shaken by corruption in the city guard and ruling aristocrats.
+Personal Goal: Rejuvenating Pilgrimage. Seeking to reinvigorate your resolve, you learned of a remote cloister, Dragon’s Rest, on a tiny island. The
+cloister holds a temple to the dragon god Bahamut. You feel drawn to contemplate your place in the world there.
+VIEW CHARACTER SHEET
+Downloadable PDF
+Tell the players to read over the character sheets; give their characters names; and invent the details of their characters’ personality and appearance.
+Encourage the players to write on the character sheets to make these characters their own.
+The Forgotten Realms
+The Forgotten Realms is a world of high fantasy, populated by elves, dwarves, halﬂings, humans, and other folk—one of many such worlds in the vast
+multiverse of the D&D game. In the Realms, ﬁghters dare the crypts of the fallen dwarf kings of Delzoun, seeking glory and treasure. Rogues prowl the
+dark alleyways of teeming cities such as Neverwinter and Baldur’s Gate. Clerics in the service of gods wield mace and spell, defending against the
+terrifying powers that threaten the land. Wizards plunder the ruins of the fallen Netherese empire, delving into secrets too sinister for the light of day.
+The roads and rivers of the Realms carry minstrels and peddlers, merchants and guards, soldiers and sailors. Bold adventurers follow tales of
+strange, glorious, faraway places. Good maps and clear trails can take even an inexperienced youth with dreams of glory far across the world, but
+these paths are never safe. Travelers in the Realms face fell magic and deadly monsters. Even farms and freeholds a day’s walk from a city can fall
+prey to monsters, and no place is safe from the wrath of a dragon.
+This adventure takes place on Stormwreck Isle, a small island in a region called the Sword Coast. This region is a place of adventure, where daring
+souls delve into ancient strongholds and explore the ruins of long-lost kingdoms. Amid a lawless wilderness of jagged, snow-capped peaks, alpine
+forests, bitter winds, and roaming monsters, the coast holds renowned bastions of civilization such as the city of Neverwinter, in the shadow of the
+fuming volcano known as Mount Hotenow.
+Adventure Background
+According to legend, two families of dragons came into being in the very ﬁrst days of the world’s creation. Bahamut, the noble Platinum Dragon, made
+the metallic dragons—gold, silver, bronze, brass, and copper. Cruel, ﬁve-headed Tiamat made the chromatic dragons—red, blue, green, black and
+white. The metallic and chromatic dragons share a mutual animosity that originates in the enmity between Bahamut and Tiamat (Bahamut is often
+called the King of Metallic Dragons in the world of the Forgotten Realms, and Tiamat the Queen of Chromatic Dragons. In other worlds they have
+different names, and like all gods, they are beyond gender.)
+The origin of Dragon’s Rest is rooted in that animosity. Ages ago, a ﬁre-breathing red dragon called Sharruth rampaged up and down the Sword Coast.
+Three metallic dragons joined forces to battle Sharruth and imprisoned her beneath the ocean ﬂoor, believing seawater would quench her ﬁre and
+keep her bound forever. But Sharruth’s fury, legend says, caused the undersea volcanic activity that formed Stormwreck Isle.
+In all likelihood, Sharruth is long dead and entombed beneath the island, but chromatic dragons whisper that she still lives and will one day emerge
+from her prison. One fact is undeniable: the powerful magic embodied in such an ancient dragon has left a permanent mark on Stormwreck Isle. That
+magic has drawn other dragons to the island throughout the centuries, making it a recurring battleﬁeld in the conﬂict between chromatic and metallic
+dragons. Several of these dragons have died there, each leaving behind a spiritual scar that causes unpredictable magical effects.
+2/8/26, 12:25 AM Running the Adventure - Dragons of Stormwreck Isle - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/dosi/running-the-adventure 5/8
+
+A hundred years ago, a blue dragon tried to harness this destructive magic. A bronze dragon named Runara pleaded with him to abandon his
+schemes. When he refused, Runara killed him, adding one more dragon grave to the island.
+Runara has grown weary of strife, and Stormwreck Isle’s wounds are a constant reminder to her of the cost of such conﬂict. Devoting herself to peace
+and reconciliation, she established the cloister of Dragon’s Rest as a safe haven from violence. Living in human guise, Runara now serves as the
+leader of a tiny group of hermits and ascetics.
+But the ageless conﬂict between chromatic and metallic dragons threatens to disrupt the serenity of Dragon’s Rest—and this is where the adventure
+begins!
+Adventure Outline
+In Dragons of Stormwreck Isle, the characters experience the magical scars left behind by the death of dragons. Faced with the evil schemes of one
+living dragon and the righteous anger of another, they’ll have the chance to explore whether peace between the feuding dragon families is possible—
+or if they must resort to violence to resolve the conﬂict on this isle.
+This adventure has four chapters:
+Chapter 1, “Dragon’s Rest,” introduces Runara’s cloister and its inhabitants and provides the characters the opportunity to learn about the problems
+facing the island. It also describes additional encounters you can use in the course of the adventure, including a magical hot spring with mysterious
+guardians at the site of a brass dragon’s death.
+Chapter 2, “Seagrow Caves,” describes how the grave of Sharruth spawns magical connections to the Elemental Plane of Fire that threaten a
+community of mushroom-like myconids.
+Chapter 3, “Cursed Shipwreck,” details a ship that crashed alongside the bones of a gold dragon and the horrible curse within the ship’s hold.
+Chapter 4, “Clifftop Observatory,” brings the characters to the site where Runara killed a blue dragon—and where that blue dragon’s grandson has
+made his lair. There they’ll also ﬁnd a bronze wyrmling who rejected Runara’s teachings of peace, now held prisoner in the blue dragon’s lair.
+Adventure Maps
+The maps in this adventure are for the DM’s eyes only. These maps show secret doors and other elements the players aren’t meant to see.
+MAP 1: STORMWRECK ISLE
+VIEW PLAYER VERSION
+2/8/26, 12:25 AM Running the Adventure - Dragons of Stormwreck Isle - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/dosi/running-the-adventure 6/8
+
+When the characters arrive at a location marked on a map, describe it to give them a clear mental picture of the location. You can also draw what they
+see on paper, copying what’s on your map while omitting secret details. It’s not important that your hand-drawn map perfectly match what’s in the
+adventure. Try to get the basic shape and dimensions correct and leave the rest to the players’ imaginations.
+The Dungeon Master
+The Dungeon Master has a special role in D&D games.
+The DM is a storyteller. The DM presents the challenges and encounters that the characters must overcome. The DM is the players’ interface to the
+D&D world, who reads (and sometimes also writes) the adventure and describes what happens in response to the characters’ actions.
+The DM is a referee. When it’s not clear what ought to happen next, the DM decides how to apply the rules and keep the story going.
+The DM is a roleplayer. The DM plays the monsters in the adventure, choosing their actions and rolling dice for their attacks. The DM also plays all the
+other people the characters meet, including helpful ones.
+DM Tips
+The most important part of being a good DM is facilitating the fun of everyone at the table. Keep these tips in mind to help things go smoothly:
+Embrace the shared story. D&D is about telling a story as a group, so let the players contribute to the outcome through the words and deeds of their
+characters. If some players are reluctant to speak up, ask them what their characters are doing.
+It’s not a competition. The DM isn’t competing against the player characters. Your job is to referee the rules, run monsters, and keep the story moving.
+Be fair and ﬂexible. Treat your players in a fair, impartial manner. The rules help you do this, but you can make your own rulings to ensure everyone is
+having fun.
+Modify the adventure to suit your tastes. The adventure has no prescribed outcome. You can alter any encounter to make it more interesting and fun
+for your players.
+Keep a notepad handy. Use it to track details such as the characters’ and monsters’ initiative order.
+Sharing Information
+As Dungeon Master, one of your most important tasks is ﬁguring out how much to tell the players and when. All the information the players need to
+make choices comes from you. Within the rules of the game and the limits of the characters’ knowledge and senses, tell players everything they need
+to know.
+You don’t have to reveal every aspect of a situation or hazard in one go. Boxed text typically describes everything the characters see, hear, or smell at
+ﬁrst glance. As characters search rooms, make Wisdom (Perception) or Intelligence (Investigation) checks, open drawers and chests, and generally
+examine things more closely, give players more details about what their characters ﬁnd.
+Creature Stat Blocks. Whenever the adventure text presents a creature’s name in bold type, that’s a visual cue directing you to the creature’s stat
+block in appendix B. Those stat blocks are intended for your eyes only. However, as the characters ﬁght monsters, you can reveal certain information
+to help them make smart choices in combat:
+Hit Points. You can give players a sense of how well they’re doing against a creature by describing, in narrative terms, how hurt the creature is. For
+example, if the creature has fewer than half its hit points remaining, you can describe it as being badly wounded. Such information gives the players a
+sense of progress and might spur them to press the attack. On the other hand, if the characters aren’t damaging the creature much, let the players
+know that the creature looks like it can take a lot more punishment. That might encourage the players to change their plan.
+Abilities, Strengths, and Weaknesses. As they ﬁght a creature, characters should learn more about the creature’s abilities. Share information with the
+players as it becomes apparent. For example, if the wizard casts ﬂaming sphere (a spell that deals ﬁre damage) against a ﬁre snake (a creature that’s
+immune to ﬁre damage), let the wizard’s player know the spell doesn’t seem to bother the creature at all. Players might correctly guess that a ﬁre
+snake probably isn’t harmed by ﬁre; feel free to subtly conﬁrm their guesses (perhaps smiling and saying, “That sounds reasonable”).
+Text that appears in a box like this is meant to be read aloud or paraphrased to the players when their characters ﬁrst arrive at a location or under a speciﬁccircumstance, as described in the text. It usually describes locations or presents scripted dialogue, so the players know what’s up and have a sense of what their
+characters’ options are.
+2/8/26, 12:25 AM Running the Adventure - Dragons of Stormwreck Isle - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/dosi/running-the-adventure 7/8
+
+Our Terms of Service and Privacy Notice have recently been updated to provide greater clarity as to how disputes are handled and transparencyregarding the collection and use of personal data. Please review them here: Terms of Service, Privacy Notice. By continuing to use the services,you agree to the new Terms.
+SUPPORT
+Help Portal
+Support Forum
+System Status
+Do Not Sell or ShareMy PersonalInformation
+Your PrivacyChoices
+Cookie Notice
+System ReferenceDocument (SRD)
+ABOUT
+Contact Us
+Careers
+Wizards of theCoast
+FIND US ON SOCIALMEDIA
+ DOWNLOAD THE D&D BEYONDAPP
+© 2017-2026 WIZARDS OF THE COAST LLC | ALL RIGHTS RESERVED
+Dungeons & Dragons, D&D Beyond, D&D, Wizards of the Coast, the dragon ampersand, and all other Wizards of the Coast
+product names, campaign settings, their respective logos, and The World's Greatest Roleplaying Game are © and
+trademark Wizards of the Coast in the U.S.A. and other countries. © 2026 Wizards.
+PRIVACY POLICYTERMS OF SERVICE
+Story Information. A location description might include important information not in boxed text. Often you’re meant to reveal such information when
+the characters examine particular areas or interact with creatures.
+As the DM, you roleplay the creatures that the characters encounter. The adventure offers guidance to help you decide what these creatures know and
+how willing they are to share information with the characters. Beyond that, improvise and bring these creatures to life as best you can. For example,
+the adventure describes Runara (the disguised bronze dragon who leads the cloister of Dragon’s Rest) as wise and peace-loving, but you get to decide
+what her voice sounds like and how she reacts to a given situation. You can also ignore what the text says and roleplay Runara or any other creature
+as you see ﬁt.
+Treasure. When characters ﬁnd treasure, tell them how many coins they ﬁnd and how much any gems and art objects are worth. Sometimes treasure
+includes magic items, whose names are presented in italic type. Appendix A describes these items and their properties, as well as the rules for how
+characters ﬁgure out what a magic item does.
+Making Mistakes
+Dungeon Masters are fallible, just like everyone else, and even experienced DMs make mistakes. If you overlook, forget, or misrepresent something,
+correct yourself and move on. No one expects you to memorize every part of this adventure and all the rules in the Basic Rules. As long as your
+players are having fun, everything will be just ﬁne.
+Improvising Ability Checks
+The adventure often tells you what ability checks characters might try in certain situations and the Diﬃculty Class (DC) of those checks. But
+sometimes characters try things that the adventure can’t anticipate. In that case, you decide how to handle it.
+Ability checks are for situations where a character’s success or failure isn’t guaranteed. If anyone can easily accomplish a task, don’t ask for an ability
+check. Just tell the player what happens. And if there’s no way anyone could accomplish the task, just tell the player it doesn’t work.
+When you decide an ability check is required, consult the “Ability Checks” section of the Basic Rules and the table of Typical Diﬃculty Classes. Most
+of the time, choose a DC that is easy (DC 10), moderate (DC 15), or hard (DC 20).
+2/8/26, 12:25 AM Running the Adventure - Dragons of Stormwreck Isle - Dungeons & Dragons - Sources - D&D Beyond
+https://www.dndbeyond.com/sources/dnd/dosi/running-the-adventure 8/8
