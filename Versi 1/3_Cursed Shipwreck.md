@@ -474,9 +474,9 @@ Varnoth menemui salah satu pemain di perpustakaan malam itu, atau di tepi kuil.
 
 ---
 
-**Tarak — hari berikutnya:**
+**Tarak — hari berikutnya (The Egg Protocol — Momen 3: Ketergantungan Terbalik):**
 
-*Tarak mencari pemain di kebunnya. Pagi, masih ada embun.*
+*Tarak mencari pemain di kebunnya. Pagi, masih ada embun. Cara dia bekerja sama seperti biasa — membungkuk, tangan di tanah — tapi ada sesuatu berbeda tentang cara dia tidak segera berbicara ketika seseorang mendekat.*
 
 > **Tarak:** *(sambil bekerja, tidak menoleh)* "Rix cerita tentang Brastos." *(berhenti sebentar)* "Saya tidak pernah tahu nama suaminya. Aleitha — dia mati sebelum saya sampai ke pulau ini. Tapi Brastos..." *(akhirnya menoleh)* "Dia pernah cerita tentang istrinya. Setiap kali dia bicara tentang laut."
 
@@ -484,59 +484,94 @@ Varnoth menemui salah satu pemain di perpustakaan malam itu, atau di tepi kuil.
 
 > "Setiap kali. Selalu laut. Seperti dia yakin suatu hari jawaban tentang Aleitha akan datang dari arah sana."
 
-*Dia kembali ke pekerjaannya.*
+*Dia kembali ke pekerjaannya. Diam lebih lama dari biasanya.*
 
 > "Terima kasih sudah memberi dia jawaban itu. Meski terlambat."
 
+*Beat. Dia tidak berhenti mencabut gulma.*
+
+> *(lebih pelan, seperti keputusan yang sudah lama dipertimbangkan)* "Ada satu hal lagi."
+
+*Dia berdiri. Menghadap pemain sepenuhnya — bukan cara orang yang mau memberi perintah, tapi cara orang yang tidak terbiasa meminta.*
+
+> "Observatorium di tenggara itu — Runara bilang kalian akan pergi ke sana." *(berhenti)* "Di sekitar area itu ada formasi kristal yang sangat spesifik. Saya sudah coba mendapatkan sampelnya selama dua tahun. Setiap kali saya mendekati area itu, ada sesuatu yang..." *(melirik ke kaki prostetiknya, lalu kembali ke pemain)* "...menghalangi."
+
+*Dia mengeluarkan sesuatu dari saku jubahnya — wadah kecil dari kulit yang dilapisi timah, bentuknya seperti tabung dengan tutup berulir.*
+
+> "Kalau kalian ketemu formasi kristal biru-abu di sekitar observatory — yang sudah lepas sendiri dari batuan induknya, bukan yang masih menempel — masukkan ke sini. Yang sudah jatuh sendiri sudah stabil, tidak reaktif." *(menaruh wadah di tangan siapapun yang paling dekat)* "Saya tidak bisa minta ini ke Runara. Dan saya tidak bisa minta ke siapapun yang tidak saya percaya untuk tidak merusaknya di jalan."
+
+*Jeda. Cara dia bicara tentang percaya terasa seperti sesuatu yang jarang dia katakan.*
+
+> "Ini bukan untuk ramuan biasa. Ini untuk sesuatu yang sudah lama saya kerjakan." *(sedikit ragu, lalu)* "Sesuatu yang mungkin berguna buat kalian juga, suatu hari nanti."
+
+*Dia tidak menjelaskan lebih. Dia kembali ke kebunnya.*
+
+*DM: Jika pemain membawa kembali kristal dari area Observatory (protrusi yang ditemukan di rute overland atau pesisir) — setelah Observatory selesai, Tarak menyerahkan hasilnya: satu **Potion of Resistance (Lightning)** buatannya, lebih efektif dari potion standar yang ditemukan di D4.*
+
 ---
 
-## BAGIAN X: LEVEL UP DAN TRANSISI KE CHAPTER 4
+## BAGIAN X: LONG REST DAN MOONSTONE KEY
 
-*Setelah chapter ini selesai — Compass Rose hilang, talisman diselesaikan, harpy pergi — berikan level up ke 3.*
-
-*Cara DM menyampaikannya:*
-
-> "Ada titik dalam sebuah perjalanan ketika kamu berhenti hanya merespons dunia dan mulai memahaminya. Bukan karena kamu sudah tahu segalanya — justru sebaliknya. Karena kamu sudah cukup salah dan cukup benar untuk mulai tahu perbedaannya. Malam ini, sesuatu dalam dirimu mencapai titik itu."
+*Malam setelah Compass Rose. Dragon's Rest terasa berbeda — tidak karena ada yang berubah secara fisik, tapi karena ada sesuatu yang sudah tidak ada lagi. Tegangan di udara yang sudah terbiasa hadir sampai terasa normal.*
 
 ---
 
-**Runara memanggil mereka ke kuil sehari setelah resolusi:**
+**Runara — moonstone key:**
 
-> "Runara ada di tengah kuil ketika kalian naik. Tidak di pintu, bukan menunggu di tepi — di tengah, berdiri di depan patung Bahamut, membelakangi kalian. Dia tidak menoleh ketika kalian masuk. Tapi dia berbicara."
+*Dia menemui grup di koridor atau di dekat pintu sel sebelum malam selesai. Tidak di kuil, tidak di tepi tebing — cara yang tidak seremonial, lebih seperti seseorang yang mengingat sesuatu yang harus diberikan sebelum besok.*
 
-> **Runara:** "Duduk."
+> **Runara:** *(menyodorkan sesuatu tanpa preamble)* "Ini."
 
-*Mereka duduk. Dia masih membelakangi.*
+*Prisma heksagonal kecil, tiga inci panjangnya, dengan kepala naga diukir di satu ujungnya. Permukaannya halus seperti sudah dipegang sangat lama — atau tidak pernah dipegang sama sekali.*
 
-> "Ada sesuatu yang harus saya tunjukkan kepada kalian. Dan sesuatu yang harus saya katakan dulu sebelum menunjukkannya."
+> "Kunci untuk observatorium di tenggara. Kalian akan membutuhkannya untuk membuka jembatan ke reruntuhan." *(berhenti)* "Ada seorang wyrmling perunggu muda di sana — namanya Aidron. Dia pergi lima hari lalu." *(nada yang datar tapi matanya tidak)* "Tolong bawa dia pulang."
 
-*Dia berbalik.*
+*Tidak ada penjelasan lebih tentang siapa Aidron, kenapa Runara tidak pergi sendiri, atau apa yang ada di observatory. Ada hal-hal yang lebih baik dimengerti dengan melakukan daripada dengan mendengarkan.*
 
-> "Pulau ini punya luka yang sangat lama. Beberapa dari kalian sudah menyentuhnya — di gua selatan, di kapal karam, di sini setiap malam ketika kalian tidur di tanah ini." *(berhenti)* "Setiap luka itu berasal dari kematian naga. Dan setiap kematian itu meninggalkan sesuatu di tempat terjadinya."
+*Dia pergi sebelum ada yang bisa bertanya lebih banyak.*
 
-*Jeda yang terasa seperti keputusan.*
+---
 
-> "Saya sudah hidup dengan beban ini sangat lama. Saya pikir saya bisa menyelesaikannya sendiri. Saya salah." *(menatap satu per satu)* "Sekarang ada satu masalah lagi. Dan kali ini, saya tidak bisa bahkan mendekati tempatnya — karena kehadiran saya di sana akan membuka luka yang lebih lama dari luka yang ada di kapal karam itu."
+*Malam. Ini adalah Long Rest pertama sejak landing di Stormwreck Isle.*
 
-*Kilat tanpa suara.*
+*DM: ini adalah satu-satunya Long Rest yang diizinkan sebelum Observatory selesai (System Instructions §11). Pemain harus merasakan bobotnya — bukan sekadar mechanic, tapi momen pertama tubuh dan pikiran bisa beristirahat dari sesuatu yang sudah berjalan lama.*
 
-*Runara sudah tidak ada. Di tempatnya berdiri, seekor naga perunggu besar — sayap terlipat, kepala miring ke kiri dengan cara yang familiar.*
+---
 
-> "Sekarang kalian melihat saya seperti sebenarnya."
+**MIMPI PER KARAKTER:**
 
-*Beat. Biarkan pemain merespons.*
+*DM sampaikan satu per satu, pelan. Setelah semua mimpi selesai, lanjutkan ke Chapter 4.*
 
-> **Runara (dalam wujud aslinya):** "Ada seorang wyrmling perunggu muda yang pergi lima hari lalu. Namanya Aidron. Dia marah pada saya — tentang hal yang benar dan hal yang salah, dengan cara yang hanya bisa dilakukan oleh seseorang yang masih cukup muda untuk yakin bahwa kebenaran selalu jelas." *(kepala miring)* "Saya pikir dia pergi ke observatorium di tenggara. Dan di sana, ada sesuatu yang jauh lebih berbahaya dari yang dia siapkan untuk dihadapi."
+---
 
-*Dia menaruh sesuatu di lantai dengan sangat hati-hati — seolah objek itu lebih rapuh dari yang terlihat.*
+**Cleric:**
+> "Getaran sangat rendah di tulang dada. Bukan sakit — lebih seperti lonceng sangat besar berhenti berdentang di suatu tempat yang sangat jauh. Bukan suara yang kamu dengar. Sesuatu yang kamu rasakan di tulangmu. Terasa seperti undangan. Ke mana, kamu tidak tahu. Tapi ada arah. Barat."
 
-> "Ini kunci moonstone. Kalian akan membutuhkannya untuk masuk."
+---
 
-*Kunci itu berbentuk prisma heksagonal, tiga inci panjangnya, dengan kepala naga diukir di satu ujungnya.*
+**Wizard:**
+> "Tangan rekan akademismu menulis sangat cepat di atas permukaan yang tidak bisa kamu lihat dengan jelas. Tulisannya bukan catatan biasa — ini berbeda, lebih tergesa-gesa, seperti orang yang menulis karena tahu waktunya habis. Setiap kali kamu mencondongkan tubuh untuk membaca, lilin yang tidak ada sumbernya padam. Kamu bangun dengan satu kata yang tertinggal di kepala. Bukan nama. Bukan lokasi. Hanya: *pergi.*"
 
-> **Runara:** "Tolong bawa Aidron pulang."
+---
 
-*Bukan perintah. Bukan permintaan dengan kompensasi. Hanya kata-kata dari seseorang yang sudah kehabisan cara lain untuk meminta tolong.*
+**Fighter:**
+> "Tidak ada mimpi. Kamu kebangun dua kali — pertama sekitar tengah malam, lalu menjelang fajar. Kedua kalinya karena suara dari selatan yang tidak ada sumbernya. Bukan keras. Tapi konsisten. Dan bau belerang tipis yang datang dari arah yang tidak ada api. Kamu berbaring lagi dan tidak tidur sampai pagi."
+
+---
+
+**Rogue:**
+> "Mimpi tentang koin tembaga — satu koin, tapi terasa sangat berat. Saat bangun, tanganmu tergenggam erat seolah memegang sesuatu yang tidak ada. Kamu buka genggaman pelan-pelan. Kosong. Tapi telapak tanganmu hangat."
+
+---
+
+**Paladin:**
+> "Mimpi tentang seseorang yang kamu tinggal di Neverwinter — bukan tempatnya, bukan kotanya. Hanya cara orang itu menatapmu saat kamu pergi. Ekspresi yang tidak marah dan tidak sedih. Hanya... mencatat. Seperti mengatakan: 'Ini siapa kamu sekarang, dan aku akan ingat itu.' Kamu bangun dan cukup lama hanya duduk dalam gelap sebelum bergerak."
+
+---
+
+*Pagi. Sarapan singkat. Dragon's Rest masih sama. Tapi kalian pergi ke tempat berbeda hari ini.*
+
+*Observatorium menunggu di tenggara. → Lanjut ke Chapter 4.*
 
 ---
 
@@ -544,16 +579,18 @@ Varnoth menemui salah satu pemain di perpustakaan malam itu, atau di tepi kuil.
 
 *DM catat untuk chapter-chapter selanjutnya:*
 
-**Untuk Rogue:** CROWN-7 sudah ada. Di Chapter 4 (Clifftop Observatory, area D6), kode yang sama muncul di fragmen ketiga. Ketika Rogue mengenalinya, jangan umumkan — biarkan mereka yang menghubungkan.
+**Untuk Rogue:** CROWN-7 sudah ada. Di Chapter 4 (Clifftop Observatory, area D4), kode yang sama muncul di fragmen ketiga. Ketika Rogue mengenalinya, jangan umumkan — biarkan mereka yang menghubungkan.
 
-**Untuk Cleric:** Mimpi sudah selesai — untuk sekarang. Tapi "undangan" yang terasa di tulang dada di Chapter 1 belum pernah dijelaskan. Itu akan relevan di transisi ke Tyranny of Dragons.
+**Untuk Cleric:** Mimpi tentang undangan ke "barat" adalah foreshadowing Tyranny of Dragons. Greenest ada di barat daratan — ini tidak perlu dijelaskan sekarang.
 
-**Untuk Wizard:** Nama *Rath Modar* pertama kali muncul di fragmen ketiga (D6). Pertemuan itu — saat Wizard mengenali nama yang tertulis di buku rekannya — adalah personal confrontation, bukan "NPC baru."
+**Untuk Wizard:** Nama *Rath Modar* pertama kali muncul di Chapter 4, area D4. Pertemuan itu — saat Wizard mengenali tulisan tangan rekannya — adalah personal confrontation, bukan "NPC baru."
 
-**Untuk Varnoth dan Tarak:** The Egg Protocol sudah lengkap untuk keduanya. Konsekuensi bisa dijatuhkan kapanpun setelah ini.
+**Untuk Tarak:** Egg Protocol tiga momen sudah lengkap. Konsekuensi GRRM bisa dijatuhkan kapanpun setelah ini. Jika pemain membawa kristal → Tarak memberikan Potion of Resistance (Lightning) setelah Observatory selesai.
 
-**Untuk Runara:** Reveal dalam wujud aslinya adalah *narrative reward*, bukan pembuka lore. Pemain merasakannya lebih bermakna karena mereka sudah tiga chapter membangun kepercayaan dengan perempuan tua dalam jubah putih yang supnya terlalu asin.
+**Untuk Varnoth:** Egg Protocol tiga momen sudah lengkap. Konsekuensi bisa dijatuhkan kapanpun setelah ini.
+
+**Untuk Runara:** Reveal wujud asli BELUM terjadi. Ini adalah *narrative reward* yang disimpan untuk akhir Chapter 4 (setelah Observatory selesai). Pemain membawa moonstone key tapi belum tahu siapa sebenarnya yang mempercayakannya kepada mereka.
 
 ---
 
-*Dokumen ini adalah panduan. Jurnal kapten harus dibaca oleh DM berkali-kali sebelum sesi — bukan untuk dihafalkan, tapi untuk dipahami beratnya. Talisman adalah objek fisik yang punya nyawa moral. Dan Runara yang menjadi naga di hadapan pemain bukan kejutan — itu konfirmasi dari sesuatu yang, kalau campaign berjalan dengan benar, sebagian pemain sudah mulai curigai.*
+*Dokumen ini adalah panduan. Jurnal kapten harus dibaca oleh DM berkali-kali sebelum sesi — bukan untuk dihafalkan, tapi untuk dipahami beratnya. Talisman adalah objek fisik yang punya nyawa moral. Dan Runara yang menjadi naga di hadapan pemain bukan kejutan — itu konfirmasi dari sesuatu yang, kalau campaign berjalan dengan benar, sebagian pemain sudah mulai curigai. Tapi konfirmasi itu disimpan untuk Chapter 4.*
