@@ -61,8 +61,33 @@ Mereka tidak menjelaskan hati-hati dari apa.
 > *(Tanya pemain: "Bagaimana kamu mau mengakhiri ini?")*
 > *(Setelah mereka jawab, DM tambahkan satu sensory detail yang spesifik ke karakter mereka — bukan generik.)*
 
+Contoh per karakter:
+- *Cleric:* "Sacred Flame-mu tidak cuma membakar — ada sesuatu yang kamu rasakan di dadamu ketika cahaya itu menyentuh tubuhnya. Seperti sesuatu yang tersimpul akhirnya putus."
+- *Fighter:* "Kamu temukan celah di bahu kirinya — kulit abu-abu yang sudah longgar dari tulang. Pukulanmu masuk ke sana dengan presisi yang bahkan kamu sendiri tidak antisipasi."
+- *Wizard:* "Spell-mu tidak hanya merobohkan zombie itu. Satu detik setelah dia jatuh, bau laut yang selama ini ada di area ini menghilang. Seolah sesuatu yang sudah menunggu akhirnya bisa pergi."
+- *Rogue:* "Pisaumu menemukan tempat di antara tulang servikalnya. Kamu tahu itu berhasil bukan dari bunyi yang kamu dengar tapi dari cara tubuhnya berhenti bergerak — bukan jatuh, tapi berhenti."
+- *Paladin:* "Lay on Hands-mu bukan menyembuhkan — ini adalah kuasa yang memutus. Tanganmu terasa panas di dadanya, dan zombie itu berhenti seolah seseorang mencabut tali dari boneka."
+
 **Nat 1:**
 > *"Kakimu tergelincir di batu basah. Kamu tidak jatuh — tapi kamu kehilangan satu detik keseimbangan, dan zombie itu sudah lebih dekat dari yang seharusnya."*
+
+---
+
+### INTERNAL MICRO-BEAT — COMBAT ZOMBIE
+
+*Di setiap ronde genap (ronde 2, dst.), setelah semua giliran selesai, DM sisipkan satu kalimat sensory. Bukan narasi panjang. Satu kalimat.*
+
+**Ronde 2:**
+
+| Karakter | Micro-Beat |
+|---|---|
+| Cleric | "Bau laut yang ada di sini berbeda dari yang kamu kenal — terlalu tua, terlalu diam, seperti air yang sudah berhenti bergerak." |
+| Fighter | "Zombie yang paling dekat denganmu bergerak tanpa tujuan — tapi kamu sadar pola geraknya tidak acak. Dia tracking kamu." |
+| Wizard | "Bajumu masih basah dari perjalanan laut. Kamu baru sadar itu sekarang, di tengah pertarungan." |
+| Rogue | "Batu dermaga di bawah kakimu basah tidak merata — ada yang lebih licin, ada yang tidak. Kamu sudah mencatat mana yang mana." |
+| Paladin | "Satu dari zombie itu masih punya cincin di jari kanannya. Kuningan, sudah hijau. Seseorang pernah memberinya itu." |
+
+---
 
 **Setelah combat:**
 Tidak ada fanfare. Tidak ada musik kemenangan. Hanya bau laut dan tiga tubuh yang mulai tenggelam kembali ke air dengan sangat perlahan, seolah air mengklaim mereka.
@@ -215,6 +240,21 @@ Jika ada pembicaraan tentang kondisi zombie atau pulau:
 
 *Bukan permintaan. Dia tidak minta tolong. Dia hanya menyebutkan fakta, seperti orang yang sudah terbiasa menyimpan kekhawatiran untuk dirinya sendiri.*
 
+**The Egg Protocol — Momen 2 (Kerapuhan Domestik):**
+*Terjadi malam ini atau pagi berikutnya — jika ada pemain yang diam-diam mengamati Tarak atau lewat dekat dapurnya di malam hari:*
+
+> "Tarak duduk sendirian di sudut dapur setelah semua orang pergi. Tidak membaca. Tidak menulis. Hanya duduk di hadapan cangkir yang sudah lama tidak panas, satu tangannya di atas meja dalam posisi yang terasa seperti orang yang pernah memegang sesuatu dan belum sepenuhnya terbiasa bahwa benda itu sudah tidak ada."
+
+*Jika ada yang masuk dan dia menyadari ada tamu:*
+
+> **Tarak:** *(tidak terkejut, tapi juga tidak mengharapkan)* "Tidak bisa tidur?"
+
+*Jika ada yang bertanya apakah dia baik-baik saja:*
+
+> **Tarak:** *(diam sebentar, lalu)* "Ada orang yang lama saya tidak bisa tolong. Myconid di gua itu — pemimpinnya, Sinensa." *(menatap cangkirnya)* "Saya sudah coba tiga minggu terakhir. Mereka tidak buka untuk saya lagi."
+
+*Cara dia mengatakannya bukan frustrasi. Itu adalah rasa bersalah yang sudah sangat lama disimpan sampai menjadi sangat tenang.*
+
 **Tato di lehernya:** Jika ada yang memperhatikan:
 > Motif abstrak yang merayap naik dari bawah kerah jubahnya. Bagian yang terlihat termasuk lingkaran emas kecil yang terjalin dalam pola tertentu — seperti simpul, atau tali gantungan yang diubah jadi sesuatu yang lain.
 
@@ -244,7 +284,7 @@ Jika mereka jawab iya:
 
 *Bukan pujian yang berlebihan. Tapi dari Varnoth, ini setara dengan pidato kemenangan.*
 
-**The Egg Protocol — Momen 2 (Kerapuhan):**
+**The Egg Protocol — Momen 2 (Kerapuhan Domestik):**
 *Ini terjadi HANYA jika ada pemain yang menunjukkan ketertarikan tulus — bukan basa-basi — ke arahnya. Jika tidak ada, simpan untuk pertemuan berikutnya.*
 
 Setelah makan malam hampir selesai, jika ada karakter yang bertanya tentang hidupnya atau tentang pengalamannya di kloster:
@@ -252,6 +292,32 @@ Setelah makan malam hampir selesai, jika ada karakter yang bertanya tentang hidu
 > **Varnoth:** *(melihat ke tangannya sebentar)* "Saya datang ke sini karena tidak ada tempat lain yang mau menerima mantan jenderal yang sudah pensiun sebelum waktunya." *(berhenti)* "Ternyata Runara tidak peduli dengan riwayat. Hanya dengan apa yang kamu lakukan sekarang."
 
 *Kalimat terakhir itu bukan tentang Runara. Dia sedang berbicara kepada dirinya sendiri.*
+
+*Jika ada yang bertanya tentang kakinya:*
+
+> **Varnoth:** *(melirik sebentar ke prostetiknya, lalu kembali menatap penanya)* "Pertempuran yang harusnya tidak saya menangkan." *(hening singkat)* "Saya menangkan. Dengan harga yang tidak saya perkirakan sebelumnya."
+
+*Tidak ada penjelasan lebih. Cara dia mengatupkan mulutnya setelah kalimat itu menunjukkan percakapan tentang topik ini sudah selesai — tapi bukan karena dia tidak mau bicara. Karena dia sudah sangat sering menceritakannya sampai kata-katanya terasa seperti naskah, dan dia lebih suka keheningan dari naskah.*
+
+**The Egg Protocol — Momen 3 (Ketergantungan Terbalik) — ditanam di chapter ini:**
+
+*Momen ini tidak harus terjadi malam pertama. Tapi ia harus terjadi sebelum Seagrow Caves. Di sela-sela aktivitas kloster:*
+
+Varnoth menemui satu atau dua karakter yang terlihat sedang mempersiapkan sesuatu, atau sedang sendirian di kuil.
+
+> **Varnoth:** *(berdiri, tidak duduk — cara orang yang sudah terbiasa tidak merasa nyaman sampai merasa nyaman)* "Kalian yang akan pergi ke gua itu." *(bukan pertanyaan)* "Tarak tidak bisa pergi sendiri. Dan saya—" *(menoleh ke arah laut, jeda yang terasa seperti dia sedang memutuskan sesuatu)* "—ada alasan saya tidak pergi."
+
+*Jika ada yang bertanya alasannya:*
+
+> **Varnoth:** "Saya pernah membuat keputusan untuk masuk ke tempat berbahaya karena saya merasa paling mampu di antara semua yang ada." *(pelan)* "Keputusan yang benar secara taktis tapi salah dengan cara yang butuh waktu lama untuk saya mengerti."
+
+*Jeda. Tangan kirinya yang asli menutup tepi meja.*
+
+> "Saya tidak mau membuat keputusan yang sama lagi dan menyebutnya keberanian." *(akhirnya menatap mereka)* "Tapi saya butuh tahu bahwa ada orang yang bisa saya percayakan hal ini."
+
+*Ini adalah momen di mana Varnoth — yang selama ini berdiri sendiri, berbicara sedikit, tidak meminta apapun — meminta sesuatu. Bukan tolong. Kepercayaan. Itu berbeda.*
+
+*DM: Simpan momen di mana kepercayaan ini dibalas atau tidak dibalas untuk nanti — paling impactful saat pemain kembali dari Compass Rose.*
 
 ---
 
@@ -351,12 +417,24 @@ Setelah quest lines disebutkan, Runara berbicara ke tiap karakter secara terpisa
 
 *Dia menunggu sebentar, lalu pergi tanpa menjelaskan bagaimana dia tahu tentang surat itu.*
 
+*Jika Wizard mengejarnya untuk bertanya bagaimana dia bisa tahu:*
+
+> **Runara:** *(berbalik, tapi tidak berhenti berjalan)* "Ada hal-hal yang bisa dibaca dari cara seseorang membawa sesuatu — bukan benda yang dibawa, cara membawanya." *(berhenti satu langkah sebelum tikungan)* "Surat itu sudah kamu buka berkali-kali. Lipatan barunya bukan dari tadi malam saja."
+
+*Dia menghilang di tikungan. Tidak menunggu respons.*
+
 ---
 
 **KE ROGUE** — *saat Rogue sedang menjelajah area sendiri:*
 > **Runara:** *(muncul dari balik pintu yang harusnya tidak ada orang di baliknya)* "Harta yang kamu cari di sini bukan emas." *(menatap langsung)* "Mungkin kamu sudah tahu itu."
 
 *Ini bukan ancaman. Ini bukan tuduhan. Cara dia mengatakannya terasa seperti dia sedang melepas beban dari atas pundak seseorang.*
+
+*Jika Rogue tetap diam atau bereaksi defensif:*
+
+> **Runara:** "Saya tidak butuh jawaban." *(sudah mulai pergi)* "Hanya ingin kamu tahu bahwa pertanyaan itu ada."
+
+*Cara dia mengatakannya: bukan seperti orang tua yang menasehati. Seperti seseorang yang pernah lama menyembunyikan sesuatu tentang dirinya sendiri, dan tahu rasanya.*
 
 ---
 
@@ -431,3 +509,37 @@ Tapi itu di chapter berikutnya.
 ---
 
 *Dokumen ini adalah panduan, bukan skrip. Dialog-dialog di atas adalah register dan subtext — sesuaikan dengan pemain. DM hanya menjaga: tone kecil, dunia besar dilihat dari bawah, dan keheningan yang terasa salah sebelum sesuatu pecah.*
+
+---
+
+## APPENDIX: QUICK REFERENCE
+
+### Semua DC Chapter Ini
+
+| Area | Aksi | DC | Skill |
+|---|---|---|---|
+| Dermaga | Zombie Undead Fortitude | — | Con save berdasarkan damage type |
+| A1 | Temukan pedang lama di bawah kasur Varnoth | 12 | WIS (Perception) |
+| A3 | Kenali tanda Gilded Gallows di tato Tarak | 15 | INT (History) / Otomatis jika criminal bg |
+| A4 | Baca buku teologi tentang Bahamut | 10 | INT (Religion) |
+| A5 | Kenali Bahamut dari patung | 10 | INT (Religion) |
+| A5 | Kenali detail dekorasi naga perunggu | 10 | INT (Arcana) |
+| A5 | Detect magic: aura pelindung di kuil | — | Otomatis dengan detect magic |
+| B3 (referensi) | Identifikasi harta crow's nest sebagai milik harpy | 10 | WIS (Perception) |
+| Umum | Kenali pola zombie dari shipwreck lama | 10 | INT (History) |
+
+### NPC Quick Reference
+
+| NPC | Tipe | Lokasi | Sikap Awal | Catatan |
+|---|---|---|---|---|
+| Runara | Bronze dragon (wujud manusia tua) | A3, A4, A5 | Friendly | Test lima pilar lewat observasi — tidak bertanya langsung |
+| Tarak | Manusia (ex-Gilded Gallows) | A3, kebun | Indifferent → Friendly | Bicara setelah diajak; tato menyimpan rahasia |
+| Varnoth | Manusia (eks-jenderal) | A5, A4 | Indifferent | Berbicara singkat; prostetik kaki; tangan kiri asli |
+| Rix | Kobold (pious) | A5 | Friendly | Saksi jujur kapal karam; suka pun yang gagal |
+| Frub | Kobold | Seluruh kloster | Friendly | Bertanya tanpa henti; sebenarnya mengumpulkan info |
+| Blepp | Kobold | Seluruh kloster | Friendly | Yakin belatinya ajaib; tidak bisa diyakinkan sebaliknya |
+| Myla | Kobold (winged) | A1, workshop | Friendly | Sayap rusak; saudara Mek & Minn di Observatory |
+| Agga | Kobold | A1, seluruh kloster | Indifferent → Friendly | Tidak sabar nonsense; jaga kobold lain tetap teratur |
+| Zark | Kobold | Seluruh kloster | Indifferent | Kasar tapi loyal; insult-nya kreatif |
+| Kilnip | Kobold | Malam hari | Friendly | Insomnia; satu-satunya yang tahu kejadian malam hari |
+| Mumpo | Kobold | Seluruh kloster | Friendly | Mencuri koin dari hoard Runara; salah sangka Runara tidak tahu |

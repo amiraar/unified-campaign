@@ -9,6 +9,14 @@ Prolog ini berlangsung di **Pelabuhan Neverwinter**, malam sebelum keberangkatan
 
 **Jangan** buat malam ini terasa seperti "pertemuan pahlawan." Tidak ada yang saling mengenal. Mereka berkumpul di tempat yang sama karena kebetulan — atau karena kebetulan itu sengaja diatur oleh seseorang yang tidak hadir.
 
+**Tiga hal yang DM jaga di prolog ini:**
+
+1. **Tidak ada karakter yang menjelaskan dirinya sendiri.** Pengenalan terjadi lewat tindakan kecil, bukan percakapan "kenalannya" — cara duduk, cara memesan minuman, cara merespons insiden mabuk, apa yang dilakukan dengan tangan saat tidak ada yang dikatakan.
+
+2. **Orryn tahu lebih dari yang dia katakan.** Dia orang pelabuhan — dia sudah melihat terlalu banyak orang pergi ke tempat berbahaya untuk peduli lagi. Tapi ada sesuatu tentang Dragon's Rest yang masih membuatnya menahan informasi. Biarkan itu terasa, jangan jelaskan.
+
+3. **Subtext mendahului teks.** Setiap dialog di bagian ini harus punya sesuatu yang *tidak* dikatakan yang lebih penting dari yang dikatakan. Kalau satu NPC atau karakter bicara dan tidak ada yang tersembunyi di balik kata-katanya — potong kalimat itu.
+
 **Tone benchmark:** Dunk beli zirahnya bekas dari penjual kuda.
 
 ---
@@ -186,6 +194,10 @@ Berikut adalah dialog-dialog yang bisa DM gunakan sebagai panduan — bukan skri
 
 *Bukan pertanyaan. Bukan judging. Hanya observasi dari orang yang terbiasa hidup di antara orang-orang yang tidak menjelaskan diri mereka.*
 
+*Jeda. Fighter tidak pergi langsung. Dia minum satu teguk, meletakkan gelas, baru berdiri.*
+
+*DM: Ini adalah saat pertama dua karakter ini berbagi ruang secara sadar. Fighter yang tidak bertanya — dan Wizard yang tidak menawarkan. Itu sendiri sudah menjadi awal dari sesuatu.*
+
 ---
 
 **Momen Cleric — jika tidak ada yang menyapa:**
@@ -197,6 +209,20 @@ Lalu melipatnya kembali. Memasukkan ke dalam jubahnya.
 Berdiri. Membawa cangkirnya. Duduk di meja yang lebih dekat ke orang-orang lain — bukan *bersama* mereka, tapi tidak *jauh* dari mereka lagi.
 
 *Itu saja. DM tidak perlu mendeskripsikan lebih. Pemain yang memperhatikan akan mencatat.*
+
+---
+
+**Momen Rogue — jika ada yang menyadari dia sudah ada sebelum semua orang masuk:**
+
+*Rogue tidak menjelaskan ini kecuali ditanya langsung. Tapi jika ditanya:*
+
+> **Rogue:** *(tanpa berhenti melempar koin)* "Saya tiba lebih awal."
+
+*Jika ditanya berapa lama:*
+
+> **Rogue:** *(melirik ke gelas yang sudah setengah kosong, lalu ke orang yang bertanya)* "Cukup lama untuk tahu bahwa kamu juga sendirian waktu masuk."
+
+*Bukan ancaman. Bukan ramah. Hanya fakta yang dikembalikan dengan cara yang membuat jelas: dia memperhatikan hal-hal.*
 
 ---
 
@@ -218,6 +244,18 @@ Dia tidak melanjutkan. Dia tidak menjelaskan apa reputasinya. Dia hanya menaruh 
 
 ---
 
+**Jika ada pemain yang mengejar Orryn ke belakang untuk bertanya lebih:**
+
+*Orryn tidak kabur. Dia hanya sedang mencuci gelas. Tapi cara dia mendengarkan pertanyaan — dengan punggungnya — sebelum akhirnya berbalik menunjukkan bahwa dia sudah antisipasi ini.*
+
+> **Orryn:** *(pelan, tapi bukan bisik)* "Ada orang-orang yang pergi ke pulau itu dan tidak balik. Ada orang-orang yang balik tapi nggak pernah benar-benar pulang." *(menaruh gelas)* "Saya tidak tahu kamu yang mana."
+
+*Dia tidak menunggu respons. Kembali ke cuciannya.*
+
+*DM: Orryn tidak tahu lebih dari ini. Tapi cara dia mengatakannya — seperti orang yang sudah menghitung berapa banyak yang dia bisa katakan tanpa harus menanggung konsekuensinya — membuat kata-katanya terasa lebih berat dari yang seharusnya.*
+
+---
+
 ## BAGIAN VI: SUBUH — KEBERANGKATAN
 
 Pagi, sebelum matahari benar-benar naik. Pelabuhan masih sepi kecuali aktivitas bongkar muat awal. Udara dingin, kabut tipis di atas air.
@@ -229,6 +267,20 @@ Saat kapal mulai bergerak meninggalkan dermaga, satu dari dua pelaut yang menoga
 > **Pelaut:** "...angin dari timur laut. Bagus. Atau tidak bagus. Tergantung."
 
 Tidak ada yang bertanya tergantung apa.
+
+---
+
+*Satu momen terakhir sebelum Neverwinter menghilang di balik kabut:*
+
+*DM lirik ke masing-masing pemain — secara bergantian, tidak semua sekaligus — dan tanya satu pertanyaan. Pilih yang paling sesuai dengan karakter:*
+
+- *Ke Cleric:* "Surat itu yang kamu pegang tadi malam — masih ada di sakumu?"
+- *Ke Fighter:* "Kapak kecil di pinggangmu. Kamu pakai setiap hari sebelum ini. Apa bedanya sekarang?"
+- *Ke Wizard:* "Kamu sudah baca surat dari rekanmu lebih dari satu kali semalam. Apa yang kamu cari yang pertama kali kamu baca masih tidak kamu temukan?"
+- *Ke Rogue:* "Koin itu masih ada di tanganmu?"
+- *Ke Paladin:* "Seseorang yang kamu tinggalkan di Neverwinter — apakah mereka tahu kamu pergi?"
+
+*DM tidak memaksa jawaban. Ini adalah pertanyaan yang dibiarkan menggantung di antara mereka dan daratan yang menghilang. Kapal bergerak ke timur laut. Stormwreck Isle menunggu.*
 
 ---
 

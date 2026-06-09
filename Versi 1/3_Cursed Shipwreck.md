@@ -203,6 +203,16 @@ Varnoth berbalik dari pandangannya ke laut utara. Cara dia berjalan ke tengah �
 
 ---
 
+**C5 — DAPUR:**
+
+> "Satu kerangka tanpa kepala duduk tersandar di konter dengan cara yang terlalu simetris untuk kebetulan — postur orang yang kelelahan bukan orang yang mati. Di sekitar kakinya, kepiting-kepiting kecil merayap di antara tulang-tulang iga yang sudah tercerai-berai. Satu kepiting mengangkat setengah kunci di capitnya dan membawanya pergi dengan cara yang sangat punya tujuan."
+
+*Tidak ada bahaya di sini. Tidak ada treasure yang relevan. Tapi bau dari dapur ini berbeda dari bagian lain kapal — ada sisa makanan yang sudah sangat lama membusuk tapi juga ada sesuatu yang lebih baru. Mungkin harpy makan di sini juga.*
+
+*Jika ada yang memeriksa dapur lebih lanjut:* DC 10 Wisdom (Perception) — mereka menemukan dua piring yang tampaknya sudah dibersihkan baru-baru ini. Bukan oleh zombie. Terlalu rapi untuk itu.
+
+---
+
 **C6 — KAMAR AWAK:**
 
 > "Enam ranjang susun. Barang-barang pribadi yang sudah menjadi abu waktu — tapi di dinding, satu potret masih bisa dibaca. Cat minyak di kanvas kayu yang sudah menggelap, tapi gambarnya masih jelas: seorang perempuan berambut hitam dalam seragam pelaut, dan seorang pria berambut pirang dalam pakaian pedagang. Keduanya tersenyum. Di bawah potret itu, tulisan tangan: *Aleitha dan Brastos — bersama selamanya.*"
@@ -226,6 +236,51 @@ Varnoth berbalik dari pandangannya ke laut utara. Cara dia berjalan ke tengah �
 Di bawahnya:
 
 > "Kantong berisi 200 gp."
+
+---
+
+**C7 — RUANG MAKAN:**
+
+> "Meja panjang yang sudah patah di tengah, kursi-kursi berserakan. Di satu sisi ada rak piring yang masih tersusun rapi — cara yang terasa tidak masuk akal untuk kapal karam. Seperti seseorang yang masih menaruh piring dengan tertib bahkan ketika semuanya sudah jelas akan tenggelam."
+>
+> "Di bawah meja, satu peti kayu kecil yang terkunci."
+
+*DC 10 Dexterity (Thieves' Tools) atau DC 12 Strength untuk membuka peti:*
+
+Isi peti — DM pilih atau roll d6:
+
+| d6 | Isi |
+|---|---|
+| 1 | Lima botol anggur berkualitas dalam jerami (10 gp masing-masing) |
+| 2 | 20 pounds cengkeh utuh senilai 60 gp |
+| 3 | Sepuluh bar perak kecil satu pound (5 gp masing-masing) |
+| 4 | Sepasang tempat lilin dari tulang berbentuk naga (25 gp masing-masing) |
+| 5 | Lute dengan inlay mother-of-pearl (50 gp) |
+| 6 | Spell scroll of command, disegel dalam wadah kulit |
+
+*Tidak ada bahaya di C7. Ini adalah satu-satunya ruangan di kapal yang terasa seperti tidak ada yang pernah panik di sini.*
+
+---
+
+**C8 — GELADAK BAWAH:**
+
+> "Turun ke geladak bawah berarti turun ke air. Dingin, gelap, dan punya bau yang lebih tua dari bau air biasa. Kedalaman bervariasi: enam inci di sisi selatan, delapan belas inci di sisi utara. Difficult terrain seluruh area."
+
+*Satu zombie terlihat langsung — wading di air setinggi lutut, membentur dinding berulang kali. Cara makhluk yang sudah lama tidak punya instruksi baru.*
+
+**Yang DM jaga:** Zombie itu adalah umpan. **Ghoul** bersembunyi di bagian belakang — lebih pintar, menunggu sampai pemain sibuk dengan zombie, lalu Claw attack ke karakter yang paling terisolasi untuk mencoba Paralyze dan membawanya ke sudut gelap.
+
+Ghoul bukan sisa awak kapal. Dia scavenger yang tertarik oleh daging membusuk — tidak terikat kutukan Aleitha, hanya lapar.
+
+*Darkvision atau cahaya diperlukan; kargo menghalangi line of sight bahkan dengan darkvision.*
+
+*Short Rest tersedia di sini sebelum menyelam ke C9 — setelah zombie dan ghoul dikalahkan.*
+
+**Setelah combat:**
+
+> "Keheningan kembali ke ruangan ini. Air bergerak dari momentum pertarungan, lalu diam. Dan di keheningan itu, dari bawah geladak ini — dari kedalaman yang disebut palka — kamu dengar sesuatu yang bukan erangan dan bukan air. Lebih seperti getaran benda berat yang sudah sangat lama menunggu diganggu."
+
+*Lubang di lantai — bekas jatuhnya peti kapten — terlihat jika ada cahaya.*
 
 ---
 
@@ -318,6 +373,32 @@ Ini adalah trigger untuk internal contradiction mereka. Diam dan biarkan pemain 
 *DC 11 Wisdom saving throw terhadap Luring Song harpy — yang gagal menjadi charmed.*
 
 *Harpy mendarat di crow's nest. Suaranya penuh dengan kemenangan yang sudah terbiasa.*
+
+---
+
+### COMBAT HARPY — INTERNAL MICRO-BEAT PER RONDE
+
+*Catat karakter dengan Passive Perception tertinggi — DM gunakan karakter itu sebagai "kamera" untuk deskripsi taktis harpy.*
+
+**Ronde 1 — setelah Luring Song:**
+> *(Karakter Passive Perception tertinggi)* "Dari atas crow's nest, kamu lihat cara harpy itu menggeser beratnya — dia tidak akan turun ke dek. Dia akan tetap di atas dan menyanyi."
+
+**Ronde 2 — Internal Micro-Beat:**
+
+| Karakter | Micro-Beat |
+|---|---|
+| Cleric | "Dek kayu di bawah kakimu bergerak seperti bernapas — angin laut yang masuk dari bawah lambung. Kamu di atas sesuatu yang terus-menerus mencoba tenggelam." |
+| Fighter | "Harpy itu terbang tinggi. Jangkauan jarak dekat tidak efisien dari bawah. Kamu sudah menghitung ini dan kamu tidak suka hitungannya." |
+| Wizard | "Di antara nyanyian harpy, ada nada yang terasa familiar — tidak dalam artinya, tapi dalam cara ia menyentuh sesuatu di bagian belakang kepalamu yang biasanya tidak tersentuh." |
+| Rogue | "Tali-tali rigging yang menggantung masih cukup kuat untuk naik. Kamu sudah ukur jarak dan sudut. Mungkin." |
+| Paladin | "Seseorang yang charmed melihat ke atas dengan ekspresi yang kamu pernah lihat sebelumnya — bukan kebahagiaan, tapi ketidaksadaran bahwa mereka sedang kehilangan diri mereka sendiri." |
+
+**Ronde 4 — Internal Micro-Beat:**
+
+*Satu kalimat, pilih yang paling relevan dengan kondisi battle saat ini:*
+- "Langit di barat mulai berubah warna — sore mendekati sore akhir. Di kapal ini, gelap berarti harpy punya advantage."
+- "Nyanyian itu tidak berhenti. Bahkan saat kamu memukul kembali, nyanyian itu tidak berhenti. Dia menyanyikannya sambil bertempur."
+- "Satu dari tali rigging yang kamu pakai tadi mulai retak di sambungannya."
 
 ---
 
@@ -594,3 +675,39 @@ Varnoth menemui salah satu pemain di perpustakaan malam itu, atau di tepi kuil.
 ---
 
 *Dokumen ini adalah panduan. Jurnal kapten harus dibaca oleh DM berkali-kali sebelum sesi — bukan untuk dihafalkan, tapi untuk dipahami beratnya. Talisman adalah objek fisik yang punya nyawa moral. Dan Runara yang menjadi naga di hadapan pemain bukan kejutan — itu konfirmasi dari sesuatu yang, kalau campaign berjalan dengan benar, sebagian pemain sudah mulai curigai. Tapi konfirmasi itu disimpan untuk Chapter 4.*
+
+---
+
+## APPENDIX: QUICK REFERENCE
+
+### Semua DC Chapter Ini
+
+| Area | Aksi | DC | Skill |
+|---|---|---|---|
+| C1 (Dek Utama) | Kenali bekas darah baru (bukan 40 tahun) | 10 | WIS (Perception) |
+| C1 (Crow's Nest) | Panjat ke crow's nest | 12 | STR (Athletics) / tali rigging |
+| C3 (Quarterdeck) | Tangkap roda sebelum jatuh | 10 | DEX save |
+| C4 (Kamar Kapten) | Dobrak pintu barricade | 10 | STR |
+| C5 (Dapur) | Mengenali tulang tanpa kepala (bukan ancaman) | — | Otomatis |
+| C6 (Kamar Awak) | Temukan papan lantai yang terangkat | 10 | WIS (Perception) |
+| C6 (Kamar Awak) | Angkat papan dari jarak aman (dart meleset) | — | Kreativitas player |
+| C7 (Ruang Makan) | Buka peti terkunci (thieves' tools) | 10 | DEX (Thieves' Tools) |
+| C7 (Ruang Makan) | Paksa peti (strength) | 12 | STR |
+| C8 (Geladak Bawah) | Kenali ghoul sebagai bukan zombie | 12 | WIS (Perception) atau INT (Arcana) |
+| C9 (Palka) | Angkat peti kapten sendirian | 15 | STR |
+| C9 (Palka) | Identifikasi Boots of Elvenkind | — | Identify / Short Rest sentuh |
+| C9 (Palka) | Detect magic pada talisman | — | Otomatis — aura necromancy |
+| Harpy | Luring Song | 11 | WIS save atau charmed |
+| Makam Brastos | Temukan lokasi makam (tanpa Runara) | 12 | INT (History) atau WIS (Insight) dari jurnal |
+
+### NPC Quick Reference
+
+| NPC | Tipe | Lokasi | Sikap Awal | Catatan |
+|---|---|---|---|---|
+| Harpy | Harpy (berbicara Common) | C1/Crow's Nest | Hostile | Bisa diajak bicara; tidak mau fight ke titik mati; kabur di <½ HP |
+| Zombie (C1 / C8) | Zombie | C1, C8 | Hostile | Undead Fortitude; tidak respond ke negosiasi |
+| Ghoul (C8) | Ghoul | C8 (tersembunyi) | Hostile | Lebih taktis dari zombie; tunggu momen untuk paralyze |
+| Runara | Bronze dragon (wujud manusia) | Dragon's Rest | Friendly | Ingat Brastos; tahu lokasi makam; reveal bentuk asli di chapter 4 |
+| Varnoth | Manusia (eks-jenderal) | Dragon's Rest | Friendly | Egg Protocol momen 3 selesai di chapter ini |
+| Tarak | Manusia (ex-Gilded Gallows) | Dragon's Rest | Friendly | Egg Protocol momen 3 sudah lengkap sejak chapter 2 |
+| Rix | Kobold (pious) | Kuil A5 | Friendly | Saksi pertama kapal karam; laporan akurat |

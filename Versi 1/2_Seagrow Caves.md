@@ -439,9 +439,23 @@ Setengah jalan pulang, Rogue punya satu momen untuk memikirkan ini sendirian:
 
 ---
 
-**Jika Wizard membawa catatan tambahan tentang Sharruth:**
+**Jika Cleric membawa respon dari momen Rapport Spore Sinensa:**
 
-Di akhir perjalanan, dalam keheningan:
+Di perjalanan pulang, waktu yang cukup untuk duduk dan diam:
+
+> "Nama *Sharruth* yang datang dari Rapport Spore Sinensa tadi — kamu sudah dengar itu sebelumnya. Atau lebih tepatnya, kamu sudah *rasakan* sebelumnya, dalam doa-doa yang kadang tidak terasa seperti kamu yang mengucapkan tapi seperti kamu yang diucapi. Ada yang lebih tua dari naga manapun yang pernah kamu pelajari tertidur di bawah pulau ini. Dan Bahamut — tuhan yang kamu layani — punya hubungan langsung dengan apa yang mengurungnya di sana."
+
+*DM tidak menjelaskan lebih. Biarkan ini menjadi beban yang dibawa sendiri.*
+
+---
+
+**Jika Paladin merasakan sesuatu setelah membersihkan gua dari violet fungi dan membantu Sinensa:**
+
+> "Ada satu momen tadi — ketika Sinensa akhirnya duduk dan Rapport Spore-nya menjangkau seluruh gua — di mana kamu merasakan sesuatu yang tidak ada dalam buku sumpahmu. Bukan perintah. Bukan tugas. Sesuatu yang lebih sederhana dan lebih sulit dari itu: pilihan yang sudah dibuat oleh orang lain, yang mungkin tidak sempurna, tapi yang dibuat dari tempat yang kamu kenali."
+
+*Bukan tentang Sinensa. Tentang seseorang lain yang dibiarkan di Neverwinter. Tapi kamu belum siap untuk kata-kata itu sekarang.*
+
+---
 
 > "Rekan akademismu pernah menyebut Sharruth sekali, dalam surat yang sudah kamu baca berkali-kali. Bukan sebagai legenda — sebagai *variabel*. 'Jika dia masih ada, seluruh kalkulasi berubah.' Kamu ingat kalimat itu sekarang dengan cara yang tidak pernah kamu rasakan relevan sebelumnya."
 
@@ -491,12 +505,65 @@ Tarak menunggu di kebunnya. Sudah sore, cahaya mulai keemasan. Dia tidak berlari
 
 *Setelah chapter ini selesai — setelah Crystal Cave dibuka, setelah kembali ke Dragon's Rest, setelah Tarak menerima Ruby Morel — berikan level up ke 2.*
 
-*Cara DM menyampaikannya:*
+*Cara DM menyampaikannya — per karakter, bukan satu narasi generik:*
 
-> "Kamu berbaring malam itu dan ada sesuatu yang berbeda. Bukan tentang hari ini, bukan tentang zombie atau octopus atau ular api — tentang kamu sendiri. Sesuatu yang sudah kamu bangun selama ini tanpa sadar sudah mencapai titik di mana ia bisa menjadi sesuatu yang lebih. Kamu belum bisa menamainya. Tapi besok pagi, kamu akan tahu."
+**Cleric:**
+> "Kamu tidur lebih dalam dari yang pernah kamu rasakan sejak meninggalkan Neverwinter. Dan di tengah kedalaman itu, bukan mimpi — hanya keheningan. Keheningan yang terasa seperti sesuatu sedang memutuskan untuk percaya kepadamu. Kamu bangun dan tangan kananmu terasa lebih pasti dari kemarin."
+
+**Fighter:**
+> "Tidak ada yang spesial tentang pagi ini. Tapi saat kamu berdiri dan mengangkat pedangmu — cara tanganmu memegang gagangnya berbeda. Bukan lebih kuat. Lebih benar. Seperti ada sesuatu yang akhirnya masuk ke tempatnya."
+
+**Wizard:**
+> "Kamu bermimpi tentang rumus yang sudah lama kamu pelajari tapi tidak pernah benar-benar mengerti. Malam ini, kamu mengerti. Bukan karena ada yang mengajarimu — karena kamu akhirnya sudah cukup melihat dunia untuk memahami kenapa rumus itu ada."
+
+**Rogue:**
+> "Ada momen di gua itu — kamu tidak tahu momen mana yang spesifik — di mana sesuatu berubah dalam cara kamu memproses informasi. Bukan lebih pintar. Lebih cepat. Seperti ada celah-celah yang dulu kamu hitung sekarang sudah kamu hafalkan."
+
+**Paladin:**
+> "Sumpahmu terasa beda malam ini. Bukan karena kamu lebih yakin — tapi karena kamu sudah cukup melihat konsekuensi untuk tahu bahwa yakin saja tidak cukup. Dan anehnya, itu membuat sumpahmu terasa lebih nyata, bukan lebih rapuh."
 
 *Kemudian: Runara akan memanggil mereka. Ada kapal yang karam di utara yang perlu diselidiki. Dan Compass Rose menunggu.*
 
 ---
 
 *Dokumen ini adalah panduan. Myconid tidak bicara dengan kata-kata — mereka bicara dengan gambar dan emosi. Fume drake tidak jahat — mereka hanya ada di tempat yang salah karena ada yang tersumbat. Dan bau belerang yang tidak hilang sepenuhnya setelah Chapter 2 selesai adalah fitur, bukan bug. Sesuatu di bawah pulau ini masih ada. Mereka baru saja mengendusnya untuk pertama kali.*
+
+---
+
+## APPENDIX: QUICK REFERENCE
+
+### Semua DC Chapter Ini
+
+| Area | Aksi | DC | Skill |
+|---|---|---|---|
+| Rute Perahu | Kenali anomali warna air | 10 | WIS (Perception) / INT (Nature) |
+| Rute Overland | Identifikasi batu panas dari Draconic Spark | 10 / 15 | INT (Nature) |
+| B1 | Spore Servant Octopus | — | Lihat stat block |
+| B1 | Identifikasi spore servant sebagai buatan myconid | 12 | INT (Nature) |
+| B2 | Temukan violet fungi tersembunyi aktif | 12 | WIS (Perception) / INT (Nature) |
+| B2 | Harvest heart cap mushrooms | 12 | INT (Nature) / WIS (Survival) |
+| B3 | Identifikasi sarang stirge | 15 | INT (Nature) |
+| B3 | Baca Fragmen Kultus (kode CROWN-7) | — | Otomatis jika dibuka |
+| B3 | Mengenali format kode profesional (Rogue) | 10 | INT (History) / Otomatis criminal bg |
+| B4 | Merasakan "nada" dari myconid meld | — | Duduk diam; tidak butuh roll |
+| B5 | Identifikasi Ruby Morel | 12 | INT (Nature) |
+| B6 | Fume Drake encounter | — | Lihat stat block |
+| B6 | Con save dari fumes (long rest di dalam) | 13 | CON save |
+| B6 | Identifikasi kristal oranye sebagai sumber masalah | 10 | INT (Nature) / WIS (Perception) |
+| B6 | Fire snake hatches setelah kristal pecah | — | Otomatis |
+| B6 | Death burst fume drake | 11 | CON save — ½ poison damage |
+
+### NPC Quick Reference
+
+| NPC | Tipe | Lokasi | Sikap Awal | Catatan |
+|---|---|---|---|---|
+| Tarak | Manusia (ex-Gilded Gallows) | Kebun, B2 (informasi) | Friendly | Egg Protocol 3 momen; tahu CROWN-7 |
+| Molen | Myconid sprout | B2 | Hostile → Indifferent | Lebih diam dari Kraz |
+| Kraz | Myconid sprout | B2 | Hostile → Indifferent | Bergerak duluan |
+| Hipsiz | Myconid adult | B2 | Hostile → Indifferent | Pimpin respons B2 |
+| Rugoso | Myconid adult | B2 | Hostile → Indifferent | Selalu di belakang Hipsiz |
+| Agric | Myconid adult | B4 | Hostile | Jaga myconid dalam meld |
+| Omphalo | Myconid adult | B4 | Hostile | Jaga myconid dalam meld |
+| Auranta | Myconid adult | B5 | Hostile → Indifferent | Jaga Sinensa |
+| Enok | Myconid adult | B5 | Hostile → Indifferent | Jaga Sinensa; mendekat untuk kasih info |
+| Sinensa | Myconid sovereign | B5 | N/A (tidak sadar) | Sadar besok pagi setelah vent dibuka |
