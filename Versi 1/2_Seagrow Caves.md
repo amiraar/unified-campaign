@@ -39,15 +39,20 @@ Dia menunggu di kebun kecil di lereng bawah kloster — beberapa petak bunga, he
 
 > "Ada octopus di pintu masuk. Besar. Sudah mati tapi bergerak. Sinensa yang membuatnya." *(berhenti)* "Artinya situasinya buruk cukup sampai dia mengambil tindakan itu sebelum tidak sadar."
 
-*Dia tidak bicara tentang dirinya sendiri. Tapi cara dia menyebutkan nama Sinensa — bukan 'pemimpin mereka', selalu 'Sinensa' — memberi tahu sesuatu.*
+*Catatan DM: Perhatikan cara Tarak selalu menyebut "Sinensa", bukan "pemimpin myconid". Ini menunjukkan kedekatan personal.*
 
-**The Egg Protocol — Momen 2 (Ketergantungan Terbalik):**
+*Catatan DM — Shadow Line Tarak (diucapkan saat ia berdiri membersihkan tangannya):*
+> **Tarak:** *(melihat ke selatan, tidak menatap pemain)* "Saya sudah terlalu lama berharap orang lain tidak harus menanggung akibat dari pilihan saya."
 
-*Hanya jika ada karakter yang bertanya mengapa dia tidak ikut:*
+*Catatan DM: Ucapkan kalimat ini sambil lalu. Tidak perlu didramatisir. Ini adalah Shadow Line yang akan menjadi relevan di masa depan.*
+
+**Momen Meminta Tolong (Ketergantungan):**
+
+*Hanya jika pemain bertanya mengapa Tarak tidak ikut masuk ke gua:*
 
 > **Tarak:** *(diam sebentar)* "Saya punya... riwayat dengan tempat tertutup dan situasi yang tidak bisa saya kontrol." *(menatap tangannya sendiri)* "Lebih berguna di sini."
 
-*Ini adalah kebohongan kecil dan kebenaran besar sekaligus. Tarak punya alasan lain — satu yang tidak dia ucapkan. DM tahu: dia takut dia akan melakukan sesuatu yang tidak bisa ditarik kembali kalau situasinya buruk. Bukan karena dia pengecut. Karena dia pernah.*
+*Catatan DM: Tarak setengah berbohong. Alasan sebenarnya ia menolak masuk adalah trauma masa lalunya; ia takut kehilangan kendali dan melakukan sesuatu yang fatal jika terdesak di ruang tertutup. DM tidak perlu menyampaikan ini ke pemain.*
 
 **The Egg Protocol — Momen 2 untuk Rogue — secara terpisah:**
 
@@ -92,7 +97,10 @@ Setengah jalan, Fighter (atau siapapun dengan passive Perception tertinggi) mera
 
 > "Batu di bawah kakimu terasa hangat. Bukan hangat seperti terkena matahari — hangat dari dalam, seperti ada sesuatu yang bernapas di bawahnya. Kamu berdiri di atas basalt yang harusnya dingin karena tidak pernah kena sinar langsung."
 
-*DC 10 Intelligence (Nature): ini bukan fenomena alam biasa. DC 15: resonansi termal dari sumber panas jauh di bawah — vulkanik, tapi tidak ada aktivitas vulkanik yang diketahui di area ini.*
+*DC 10 Intelligence (Nature) atau otomatis dengan latar belakang relevan.*
+- *Sukses DC 10: Mengerti bahwa ini bukan fenomena alam biasa.*
+- *Sukses DC 15: Mengidentifikasi resonansi termal dari sumber vulkanik di bawah, padahal area ini seharusnya tidak vulkanik.*
+- *Gagal (Failing Forward): Karakter mengira panas ini berasal dari monster buas bawah tanah yang sedang tidur dan hampir terbangun, memicu kepanikan atau kehati-hatian ekstra yang memperlambat mereka.*
 
 Satu atau dua ratus meter kemudian:
 
@@ -208,7 +216,9 @@ Ketika grup bergerak ke dalam:
 
 > "Kamu perhatikan bahwa beberapa jamur di sini terlihat sakit — warna yang lebih pucat, tutup yang mengeriput, bintik-bintik hitam yang seperti kerusakan dari dalam. Itu tidak sama dengan jamur yang kamu lihat tadi. Yang itu *berbeda jenis sakitnya*."
 
-*DC 12 Wisdom (Perception) atau Intelligence (Nature): beberapa di antaranya terlihat terlalu simetris untuk jamur alami. Teratur. Seperti sesuatu yang menunggu.*
+*DC 12 Wisdom (Perception) atau Intelligence (Nature).*
+- *Sukses: Menyadari jamur-jamur ini tumbuh terlalu simetris dan teratur, seolah sengaja ditanam sebagai jebakan atau peringatan.*
+- *Gagal (Failing Forward): Karakter secara tidak sengaja menginjak spora jamur yang menempel di sepatunya, memancarkan bau unik yang membuat myconid di dalam gua tahu dari mana arah pergerakan pemain.*
 
 **Ketika violet fungi pertama menyerang:**
 
@@ -407,6 +417,14 @@ Mereka melihat ke atas ketika grup masuk. Tidak menyerang. Rapport Spore mereka 
 
 *Ini adalah pertama kalinya nama itu muncul dengan berat yang sesungguhnya. Tidak ada penjelasan lebih dari ini.*
 
+**Villain Sympathy Checkpoint — adaptasi untuk Sinensa:**
+
+*Sebelum Sinensa menyerahkan Ruby Morel, dia melepaskan satu Rapport Spore yang berbeda dari yang sebelumnya — lebih panjang, lebih personal. DM sampaikan ini dengan pelan:*
+
+> "Dari Rapport Spore terakhir Sinensa, ada gambar yang tidak berhubungan dengan Sharruth atau penyakit gua: Tarak. Datang setiap minggu dengan sisa makanan dalam tas yang baunya tidak menyenangkan. Tidak pernah meminta apapun sebagai imbalan. Tidak pernah berhenti datang bahkan ketika koloni tidak mau membukakan pintu. Kamu tidak bisa membaca motivasinya dari gambar itu — kamu hanya bisa merasakan bahwa Sinensa mengingat setiap kunjungan itu. Setiap satu."
+
+*DM: Ini adalah Villain Sympathy Checkpoint yang diadaptasi — Sinensa bukan villain, tapi strukturnya sama: sebelum pemain 'selesai' dengan chapter ini dan pergi, ada satu momen yang menunjukkan bahwa Sinensa punya kehidupan internal yang lebih dalam dari sekadar 'myconid sovereign yang sakit.' Cara dia menyimpan kenangan tentang Tarak adalah cara dia menyimpan kepercayaan. DM tidak menjelaskan ini. Biarkan pemain membawanya sendiri.*
+
 **Sinensa memberikan Ruby Morel:**
 
 > "Dia bergerak ke arah jamur merah besar yang selama ini dipakai untuk menjaganya. Mengambilnya dengan cara yang terasa seperti melepaskan sesuatu, lalu menaruhnya di depanmu.*
@@ -527,6 +545,26 @@ Tarak menunggu di kebunnya. Sudah sore, cahaya mulai keemasan. Dia tidak berlari
 ---
 
 *Dokumen ini adalah panduan. Myconid tidak bicara dengan kata-kata — mereka bicara dengan gambar dan emosi. Fume drake tidak jahat — mereka hanya ada di tempat yang salah karena ada yang tersumbat. Dan bau belerang yang tidak hilang sepenuhnya setelah Chapter 2 selesai adalah fitur, bukan bug. Sesuatu di bawah pulau ini masih ada. Mereka baru saja mengendusnya untuk pertama kali.*
+
+---
+
+## CATATAN DM — EMOTIONAL MEMORY LOG (Seagrow Caves)
+
+Detail dari chapter ini yang masuk ke Emotional Memory Log:
+
+| Karakter | Detail Sensorik | Kapan Dipanggil Lagi |
+|---|---|---|
+| Semua | Bau belerang yang tidak hilang sepenuhnya setelah gua dibuka | Setiap kali encounter yang berhubungan dengan Sharruth atau Draakhorn di Tyranny |
+| Semua | "Nada" dari myconid meld — berat di tulang selangkang, bukan sesuatu yang didengar | Saat Paladin pertama menyaksikan corruption skala besar di kota — sama beratnya, beda sumbernya |
+| Cleric | Cara Sinensa siuman — sangat perlahan, seperti sesuatu yang telah berbaring sangat lama menemukan kembali cara gravitasi bekerja | Saat Cleric harus membangunkan seseorang dari kondisi putus asa — ingat betapa lama proses itu |
+| Rogue | Kulit kering tua di B3, tali yang diikat dengan presisi — bau tinta dan format kode profesional | Saat dokumen Cultus of the Dragon muncul lagi — bau dan tekstur yang sama |
+| Wizard | "Gambar yang lebih baru, lebih gelap: akar sakit, kolom basalt yang terasa panas dari dalam" — dari Rapport Spore Sinensa | Saat membaca catatan rekan akademis di D4 Observatory — kata 'Sharruth' yang tadinya legenda sekarang sudah ada wujudnya |
+
+## CATATAN DM — FACTION FRACTURE SEEDS (Seagrow Caves)
+
+- **Cultus of the Dragon (benih pertama)**: CROWN-7 di B3 adalah tanda pertama operasi Cultus di Stormwreck Isle. Cara Rogue merespons — menyimpan, berbagi, atau mengabaikan — adalah data untuk bagaimana dia berposisi saat faksi ini muncul secara eksplisit di Tyranny. Jika dibawa ke Tarak dan Tarak mengenalinya: Tarak punya riwayat dengan jaringan semacam ini. Fault line-nya adalah: apakah Rogue percaya kepada orang yang pernah ada di dalam jaringan serupa?
+- **Zhentarim (via Gilded Gallows)**: Tarak menyebut "orang-orang yang memakai sistem kode seperti ini" tanpa menyebut nama. Zhentarim kadang beroperasi dengan format yang mirip Gilded Gallows untuk menutupi jejak. Ini adalah fault line Tarak yang belum terbuka — simpan untuk momen yang tepat di arc Tyranny.
+- **Harper (benih)**: Myconid sebagai intelligence network alami — koloni mereka terhubung lewat Rapport Spore dalam radius yang sangat luas. Harper tahu ini. Tapi cara pemain berinteraksi dengan koloni Sinensa (dengan hormat atau sebagai resource) adalah data untuk apakah Harper akan percaya kepada mereka. Belum ada representasi Harper di Stormwreck — tapi reputasi dibentuk sebelum perkenalan.
 
 ---
 

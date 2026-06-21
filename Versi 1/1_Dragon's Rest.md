@@ -253,14 +253,21 @@ Jika ada pembicaraan tentang kondisi zombie atau pulau:
 
 > **Tarak:** *(diam sebentar, lalu)* "Ada orang yang lama saya tidak bisa tolong. Myconid di gua itu — pemimpinnya, Sinensa." *(menatap cangkirnya)* "Saya sudah coba tiga minggu terakhir. Mereka tidak buka untuk saya lagi."
 
-*Cara dia mengatakannya bukan frustrasi. Itu adalah rasa bersalah yang sudah sangat lama disimpan sampai menjadi sangat tenang.*
+*Catatan DM: Tarak mengatakan ini tanpa emosi meluap-luap. Ia sudah memendam rasa bersalah ini sejak lama.*
+
+*Catatan DM — Shadow Line Tarak:*
+> **Tarak:** *(pelan, menunduk ke cangkirnya)* "Ada orang yang pergi dan ada orang yang ditinggal. Saya sudah jadi keduanya."
+
+*Catatan DM: Ucapkan kalimat ini dengan datar seolah ia bergumam sendiri. Jangan diberi penekanan khusus, agar kalimat ini baru terasa maknanya di kemudian hari.*
 
 **Tato di lehernya:** Jika ada yang memperhatikan:
 > Motif abstrak yang merayap naik dari bawah kerah jubahnya. Bagian yang terlihat termasuk lingkaran emas kecil yang terjalin dalam pola tertentu — seperti simpul, atau tali gantungan yang diubah jadi sesuatu yang lain.
 
-*DC 15 Intelligence (History): Ini simbol Gilded Gallows. DC otomatis untuk karakter dengan criminal background.*
+*DC 15 Intelligence (History).*
+- *Sukses (atau karakter punya criminal background): Karakter tahu bahwa itu adalah simbol Gilded Gallows.*
+- *Gagal (Failing Forward): Karakter salah mengartikannya sebagai lambang sekte mematikan, sehingga memicu kecurigaan yang salah arah terhadap Tarak.*
 
-*DM tidak menjelaskan ini. DM hanya describe. Biarkan pemain yang menghubungkan titik-titiknya.*
+*Catatan DM: DM hanya mendeskripsikan informasi sesuai hasil roll. Biarkan pemain yang menarik kesimpulan sendiri.*
 
 ---
 
@@ -295,9 +302,9 @@ Setelah makan malam hampir selesai, jika ada karakter yang bertanya tentang hidu
 
 *Jika ada yang bertanya tentang kakinya:*
 
-> **Varnoth:** *(melirik sebentar ke prostetiknya, lalu kembali menatap penanya)* "Pertempuran yang harusnya tidak saya menangkan." *(hening singkat)* "Saya menangkan. Dengan harga yang tidak saya perkirakan sebelumnya."
+> **Varnoth:** *(melirik sebentar ke prostetiknya, lalu menatap penanya)* "Pertempuran yang harusnya tidak saya menangkan." *(hening singkat)* "Saya menangkan. Dengan harga yang tidak saya perkirakan sebelumnya."
 
-*Tidak ada penjelasan lebih. Cara dia mengatupkan mulutnya setelah kalimat itu menunjukkan percakapan tentang topik ini sudah selesai — tapi bukan karena dia tidak mau bicara. Karena dia sudah sangat sering menceritakannya sampai kata-katanya terasa seperti naskah, dan dia lebih suka keheningan dari naskah.*
+*Catatan DM: Varnoth tidak akan menjelaskan lebih lanjut. Setelah mengucapkan ini, ia menutup mulut rapat-rapat. Ia sudah terlalu sering menceritakan hal ini di masa lalu dan tidak ingin membahasnya lagi.*
 
 **The Egg Protocol — Momen 3 (Ketergantungan Terbalik) — ditanam di chapter ini:**
 
@@ -315,9 +322,14 @@ Varnoth menemui satu atau dua karakter yang terlihat sedang mempersiapkan sesuat
 
 > "Saya tidak mau membuat keputusan yang sama lagi dan menyebutnya keberanian." *(akhirnya menatap mereka)* "Tapi saya butuh tahu bahwa ada orang yang bisa saya percayakan hal ini."
 
-*Ini adalah momen di mana Varnoth — yang selama ini berdiri sendiri, berbicara sedikit, tidak meminta apapun — meminta sesuatu. Bukan tolong. Kepercayaan. Itu berbeda.*
+*Catatan DM: Varnoth jarang meminta tolong. Di sini ia tidak meminta bantuan fisik, melainkan meminta kepercayaan pemain.*
 
-*DM: Simpan momen di mana kepercayaan ini dibalas atau tidak dibalas untuk nanti — paling impactful saat pemain kembali dari Compass Rose.*
+*Catatan DM: Ingat apakah pemain membalas kepercayaan ini atau tidak. Ini akan berdampak pada interaksi mereka setelah kembali dari misi.*
+
+*Catatan DM — Shadow Line Varnoth (diucapkan saat ia berbalik pergi):*
+> **Varnoth:** "Keputusan yang paling susah bukan yang jelas salah. Yang paling susah adalah yang terasa benar sampai terlambat untuk mundur."
+
+*Catatan DM: Ucapkan dengan datar sebagai pernyataan fakta, bukan nasihat sok bijak. Tujuannya agar kalimat ini relevan saat Varnoth menghadapi nasibnya nanti.*
 
 ---
 
@@ -509,6 +521,39 @@ Tapi itu di chapter berikutnya.
 ---
 
 *Dokumen ini adalah panduan, bukan skrip. Dialog-dialog di atas adalah register dan subtext — sesuaikan dengan pemain. DM hanya menjaga: tone kecil, dunia besar dilihat dari bawah, dan keheningan yang terasa salah sebelum sesuatu pecah.*
+
+---
+
+## CATATAN DM — NPC PERSONAL ANCHOR (Dragon's Rest)
+
+**Runara → Cleric (Personal Anchor aktif):**
+Runara adalah satu-satunya orang yang memperlakukan Cleric sebagai manusia — bukan sebagai fungsi, bukan sebagai "Cleric Order." Cara dia tidak berkomentar soal tanda resimen di pergelangan Cleric, cara dia mengisi cangkir tanpa ditanya — itu adalah momen utilitas dan kerapuhan domestik yang sudah ada dalam satu interaksi. Anchor-nya sudah ditanam di chapter ini. Kalau Runara mati atau berkhianat: ini adalah Tragic Trigger terdalam untuk Cleric, bukan karena Runara penting secara plot, tapi karena Cleric akan kehilangan satu-satunya orang yang pernah tidak memintanya membuktikan apapun.
+
+**Aidron → Fighter (Personal Anchor kandidat, ditanam di Chapter 4):**
+Aidron belum muncul di chapter ini. Tapi Fighter sudah "bertemu" prinsipnya lewat Runara: cara Runara mengenali kepemimpinan tanpa meminta demonstrasi. Saat Fighter bertemu Aidron di Chapter 4, DM tahu bahwa koneksi itu potensial — persiapkan momen kecil di D6 antara Fighter dan Aidron. Bukan friendship yang langsung. Hanya satu momen di mana Aidron mengatakan sesuatu yang Fighter tidak bisa jawab tapi tidak bisa lupakan.
+
+**Nesim → Wizard (Personal Anchor, muncul di arc Tyranny):**
+Nesim disebutkan di konteks Leosin. Nesim adalah orang yang percaya pada rekan akademis Wizard sebelum ada bukti — dan kini kepercayaan yang sama dia berikan ke Wizard. Perkenalan Nesim di Ch.1 Tyranny harus punya minimal satu momen kerapuhan domestik sebelum dia bisa jadi anchor yang sesungguhnya.
+
+## CATATAN DM — EMOTIONAL MEMORY LOG (Dragon's Rest)
+
+Detail dari chapter ini yang masuk ke Emotional Memory Log:
+
+| Karakter | Detail Sensorik | Kapan Dipanggil Lagi |
+|---|---|---|
+| Semua | Sup ikan Runara — terlalu asin, mangkuk kayu retak di satu sisi | Momen pertama Cleric harus merawat korban perang Greenest — ingat ini adalah satu-satunya makanan hangat yang tersedia |
+| Semua | Cara Runara berdiri — tanpa pegangan, seperti seseorang yang tidak perlu pegangan | Saat bertemu Ulder Ravengard — cara kekuasaan yang tahu dirinya tidak perlu membuktikan apapun |
+| Rogue | Tato Tarak — lingkaran emas terjalin seperti simpul, atau tali gantungan yang diubah jadi sesuatu yang lain | Saat Rogue pertama kontak dengan Zhentarim di Tyranny Ch.4 |
+| Fighter | Cara Varnoth menyebut "pertempuran yang harusnya tidak saya menangkan" — cara mulutnya mengatup setelah kalimat itu | Sebelum duel Cyanwrath — definisi "menang" yang bukan tentang survive |
+| Cleric | Cara Runara mengisi cangkir tanpa ditanya, tanpa diminta | Saat Tragic Trigger aktif — momen pertama ada yang melakukan sesuatu untuk Cleric tanpa syarat di tengah krisis |
+
+## CATATAN DM — FACTION FRACTURE SEEDS (Dragon's Rest)
+
+Chapter ini terjadi sebelum faksi besar hadir. Tapi keputusan yang dibuat di sini akan diingat:
+
+- **Order of the Gauntlet**: Runara adalah naga Bahamut — tapi Order of the Gauntlet tidak tahu itu. Cara Cleric berinteraksi dengan Runara (menghormati atau menantang) akan mencerminkan bagaimana dia berinteraksi dengan otoritas religius di Greenest. Order akan menilai Cleric bukan dari doktrinnya — dari bagaimana dia memperlakukan otoritas yang dia tidak sepenuhnya mengerti.
+- **Lords' Alliance**: Fighter yang menunjukkan kepemimpinan di Dragon's Rest (cara merespons kobold, cara mengambil keputusan di encounter zombie) adalah data untuk Ulder Ravengard nantinya. DM catat keputusan apa yang dibuat, bagaimana caranya. Ravengard menilai dari tindakan, bukan klaim.
+- **Zhentarim**: Koneksi Tarak ke Gilded Gallows adalah hint pertama bahwa ada jaringan di bawah yang tidak terlihat. Cara Rogue merespons informasi ini — berbagi ke party atau tidak — adalah data untuk bagaimana Zhentarim akan memperlakukan Rogue saat mereka bertemu di daratan.
 
 ---
 

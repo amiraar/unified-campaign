@@ -132,7 +132,9 @@ Varnoth berbalik dari pandangannya ke laut utara. Cara dia berjalan ke tengah �
 
 > "Dek itu licin dengan alga, tapi tidak berbahaya kalau kamu berhati-hati. Sisa-sisa tali dan layar yang sudah hancur tersebar di mana-mana. Di antara itu semua, ada sesuatu yang lebih baru — boot, tulang, bekas darah yang masih terlalu merah untuk beberapa bulan. *Ini bukan sisa dari empat puluh tahun lalu.*"
 
-*DC 10 Wisdom (Perception): bekas ini tidak lebih dari beberapa hari. Ada yang mati di kapal ini baru-baru ini.*
+*DC 10 Wisdom (Perception).*
+- *Sukses: Bekas ini tidak lebih dari beberapa hari. Ada yang mati di kapal ini baru-baru ini.*
+- *Gagal (Failing Forward): Pemain melihat darah tersebut namun tertipu warna alga yang mencampurnya, mengira itu sudah berusia berbulan-bulan, sehingga kewaspadaan mereka justru turun.*
 
 **Jika lewat lambung yang bolong (ke C9 — palka):**
 
@@ -187,7 +189,11 @@ Varnoth berbalik dari pandangannya ke laut utara. Cara dia berjalan ke tengah �
 
 *Pintu diblokir dari dalam, kayu sudah setengah busuk.*
 
-> "Pintu ini diblokir dari dalam. Kayunya sudah melapuk — dengan satu hentakan yang cukup keras, kamu bisa menembus masuk." *(DC 10 Strength)*
+> "Pintu ini diblokir dari dalam. Kayunya sudah melapuk — dengan satu hentakan yang cukup keras, kamu bisa menembus masuk."
+
+*DC 10 Strength untuk mendobrak.*
+- *Sukses: Pintu terbuka dengan cepat dan relatif pelan (suara kayu patah diredam).*
+- *Gagal (Failing Forward): Pintu berhasil didobrak, namun karakter terpeleset dan membanting pintu ke dinding dengan suara SANGAT keras. Semua makhluk undead di ruangan ini (dan di bawah) kini sadar ada penyusup dan tidak bisa di-surprise.*
 
 *Di dalam:*
 
@@ -245,7 +251,9 @@ Di bawahnya:
 >
 > "Di bawah meja, satu peti kayu kecil yang terkunci."
 
-*DC 10 Dexterity (Thieves' Tools) atau DC 12 Strength untuk membuka peti:*
+*DC 10 Dexterity (Thieves' Tools) atau DC 12 Strength untuk membuka peti.*
+- *Sukses: Peti terbuka tanpa masalah.*
+- *Gagal (Failing Forward): Peti berhasil dibuka, tapi kunci macet sehingga pemain harus merusaknya. Alat Thieves' Tools patah (perlu diperbaiki/beli baru nanti), ATAU jika didobrak dengan STR, isinya tumpah berantakan menimbulkan suara bising.*
 
 Isi peti — DM pilih atau roll d6:
 
@@ -348,7 +356,9 @@ Ghoul bukan sisa awak kapal. Dia scavenger yang tertarik oleh daging membusuk �
 >
 > *Di sekeliling saya, saya mendengar erangan dimulai dari tubuh-tubuh yang sudah terbaring diam. Kutukan apa yang sudah dia panggil kepada kami semua.*
 >
-> *Saya mengamankan talismannya bersama catatan ini. Kalau ada yang menemukan ini — bawa talisman ke suaminya, Brastos. Dia dikuburkan di pemakaman di tepi tebing, barat laut Dragon's Rest. Tanam ini di tanahnya, bakar di atasnya, hancurkan di dekatnya — apapun yang bisa mengakhiri ini.*
+> *Saya mengamankan talismannya bersama catatan ini. Saya tidak tahu apakah ada yang akan menemukan ini. Tapi saya harap, kalau ada — mereka datang ketika masih ada yang bisa diselesaikan.*
+>
+> *Kalau ada yang menemukan ini — bawa talisman ke suaminya, Brastos. Dia dikuburkan di pemakaman di tepi tebing, barat laut Dragon's Rest. Tanam ini di tanahnya, bakar di atasnya, hancurkan di dekatnya — apapun yang bisa mengakhiri ini.*
 >
 > *Saya sudah merasakan dingin itu menjalar ke pergelangan tangan saya. Tidak banyak waktu lagi.*
 >
@@ -408,9 +418,12 @@ Ini adalah trigger untuk internal contradiction mereka. Diam dan biarkan pemain 
 
 *Jika ada yang bertahan melawan charm dan mencoba berbicara:*
 
-> **Harpy:** *(dari atas, suaranya serak tapi masih bisa dipahami)* "Tamu baru. Kapal ini sudah lama tidak punya tamu yang bisa berjalan sendiri." *(kepalanya miring)* "Kenapa kalian di sini?"
+**Catatan DM — Villain Sympathy Checkpoint (Harpy):**
+*Deskripsikan gestur harpy sebelum ia menjawab. Beri jeda sebentar untuk menunjukkan bahwa harpy ini sudah lama hidup sendirian dan tidak terbiasa berbicara dengan orang hidup.*
 
-*Dia tidak benar-benar bertanya karena ingin tahu. Dia bertanya karena dia menilai seberapa menarik jawabannya dibanding hanya menyerang.*
+> **Harpy:** *(dari atas, suaranya serak tapi masih bisa dipahami)* "Tamu baru. Kapal ini sudah lama tidak punya tamu yang bisa berjalan sendiri." *(kepalanya miring, menggeser cangkang kecil di sarangnya)* "Kenapa kalian di sini?"
+
+*Catatan DM: Harpy bertanya bukan karena peduli, tapi untuk menilai apakah jawaban pemain lebih menarik daripada langsung menyerang mereka.*
 
 **Kondisi di mana harpy bisa diajak bicara:**
 
@@ -675,6 +688,25 @@ Varnoth menemui salah satu pemain di perpustakaan malam itu, atau di tepi kuil.
 ---
 
 *Dokumen ini adalah panduan. Jurnal kapten harus dibaca oleh DM berkali-kali sebelum sesi — bukan untuk dihafalkan, tapi untuk dipahami beratnya. Talisman adalah objek fisik yang punya nyawa moral. Dan Runara yang menjadi naga di hadapan pemain bukan kejutan — itu konfirmasi dari sesuatu yang, kalau campaign berjalan dengan benar, sebagian pemain sudah mulai curigai. Tapi konfirmasi itu disimpan untuk Chapter 4.*
+
+---
+
+## CATATAN DM — EMOTIONAL MEMORY LOG (Cursed Shipwreck)
+
+Detail dari chapter ini yang masuk ke Emotional Memory Log:
+
+| Karakter | Detail Sensorik | Kapan Dipanggil Lagi |
+|---|---|---|
+| Semua | Kalimat terakhir Kapten di jurnal: "ketika masih ada yang bisa diselesaikan" | Saat kembali ke Neverwinter dan menyadari ada sesuatu yang sudah telat untuk diselamatkan |
+| Semua | Cara talisman terasa di tangan — tidak berbobot lebih, tapi ada yang mendengarkan | Setiap kali memegang magic item yang memiliki sentience atau kutukan di arc Tyranny |
+| Semua | Wildflower putih di sekitar makam Brastos yang tumbuh sendiri | Saat melihat sisa-sisa keindahan kecil di tengah reruntuhan kota Greenest |
+| Semua | Angin laut yang datang saat talisman diselesaikan — napas yang akhirnya dilepas | Saat sebuah kutukan atau masalah besar akhirnya dipecahkan di daratan |
+
+## CATATAN DM — FACTION FRACTURE SEEDS (Cursed Shipwreck)
+
+- **Lords' Alliance**: Kapal yang karam adalah kapal logistik/transportasi. Di dalam jurnal, jika pemain memperhatikan, ada gambaran tentang jalur pelayaran yang tidak aman. Lords' Alliance peduli pada keamanan rute perdagangan. Cara pemain mengelola atau menceritakan kembali kisah Compass Rose akan menunjukkan apakah mereka peduli pada keamanan sipil atau sekadar mencari harta. 
+- **Zhentarim**: Harta di kapal karam sering jadi sengketa. Apa yang pemain ambil dari kapal (terutama kantong gp atau alat kartografi/barang mewah) bisa dijual di daratan. Zhentarim punya mata di pasar gelap. Menjual barang peninggalan dari kapal terkutuk bisa memancing perhatian mereka atau menjadi jalur masuk.
+- **Order of the Gauntlet**: Pilihan moral terkait Talisman (menghancurkan demi solusi cepat atau membawa ke Brastos demi penutupan emosional) adalah indikator etika. Order akan menilai Cleric dan Paladin dari keputusan ini. Menyelesaikan masalah saja tidak cukup bagi Order; cara penyelesaiannya yang dihitung.
 
 ---
 

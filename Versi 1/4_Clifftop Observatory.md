@@ -439,6 +439,13 @@ Tidak ada roll yang diperlukan. Lanjutkan ke D4 atau D5.
 
 > **Sparkrender:** *(bergerak turun dari timbunan hoardnya, tidak terburu-buru)* "Kalian pikir kalian datang untuk mencegah sesuatu. Tapi kalian tidak mengerti apa yang sebenarnya terjadi di sini." *(memutar kepala, mengamati mereka satu per satu)* "Warisan ini milikku secara sah. Kekuatan yang tertinggal di pulau ini — dari naga-naga yang sudah mati di sini — tidak akan hilang begitu saja. Seseorang akan mengambilnya. Kenapa bukan aku?"
 
+**Villain Sympathy Checkpoint — Sparkrender:**
+*DM sisipkan momen ini jika pemain menyudutkan argumennya dengan fakta bahwa Runara ingin melindungi keseimbangan.*
+
+> **Sparkrender:** *(berhenti bergerak, suaranya sangat datar)* "Saya lahir di pulau ini. Orang tua saya mati di sini. Satu-satunya hal yang tersisa adalah kekuatan yang mereka tinggalkan." *(satu detik)* "Dan sekarang kalian datang atas nama naga tua yang tidak pernah kehilangan apapun untuk mengatakan kepada saya bahwa saya tidak berhak."
+
+*Ini bukan justifikasi. Tapi ini membuat confrontation-nya bukan lagi sekadar "monster harus dikalahkan." Sparkrender melihat dirinya sebagai anak yatim piatu yang warisannya dirampok oleh otoritas yang stagnan.*
+
 *Jika pemain berargumen bahwa ritual ini berbahaya:*
 
 > **Sparkrender:** "Berbahaya untuk siapa? Untuk kalian yang tidak punya hak atas apapun di sini? Untuk naga tua itu yang menghabiskan hidupnya menyembunyikan kekuatan daripada menggunakannya?" *(nada yang meningkat sedikit)* "Kakek moyang saya mati di pulau ini. Saya punya hak untuk warisan itu."
@@ -461,7 +468,9 @@ Combat dimulai.
 
 *Setelah melihat peta bintang di lantai:*
 
-*DC 10 Intelligence (Investigation):* Menemukan konstelasi yang bentuknya seperti naga di kuadran tenggara lantai. Nama di bawahnya: *Dragon of Dawn.*
+*DC 10 Intelligence (Investigation).*
+- *Sukses: Langsung menemukan konstelasi berbentuk naga di kuadran tenggara lantai. Nama di bawahnya: Dragon of Dawn.*
+- *Gagal (Failing Forward): Butuh waktu 10 menit untuk menemukannya. Penundaan waktu ini memberikan satu ekstra putaran patroli bagi kobold (kesempatan lebih besar ketahuan).*
 
 *DC 15 Wisdom (Perception) — jika tidak mencari aktif:* Melihat alur-alur aus di dasar patung, menunjukkan patung-patung bisa diputar.
 
@@ -507,6 +516,9 @@ Combat dimulai.
 **Ronde 5+:**
 > *(Saat HP Sparkrender di 10 atau di bawah)* "Ini belum berakhir! Aku bersumpah demi Eldenemir dan lima kepala Mahkota Bersisik — kalian akan membayar penghinaan ini!"
 
+*Shadow Line Sparkrender — diucapkan sangat datar sebelum dia lepas landas (atau jika dia dikalahkan, dengan napas terakhirnya):*
+> **Sparkrender:** "Kalian menang hari ini karena kalian lebih banyak. Tapi kekuatan yang ada di pulau ini tidak akan hilang hanya karena saya kalah. Sesuatu yang lebih besar dari saya sudah tahu tempat ini ada."
+
 *Sparkrender mengambil Disengage action lalu terbang meninggalkan menara — keluar lewat lubang kubah yang sudah retak. Tidak mengejar pemain jika mereka juga mundur.*
 
 ---
@@ -550,7 +562,10 @@ Combat dimulai.
 
 > **Aidron:** *(sedikit defensif)* "Saya tahu apa yang ada di sini. Saya pikir saya bisa... mengamankannya sebelum seseorang memanfaatkannya." *(diam)* "Saya salah."
 
-*Beat. Cara dia mengatakannya tidak seperti penyesalan yang dipaksakan — lebih seperti seseorang yang baru pertama kali belajar bahwa 'tahu tentang sesuatu' dan 'siap menghadapi sesuatu' adalah dua hal yang berbeda.*
+*Catatan DM: Aidron tulus menyesal. Ia baru sadar bahwa mengetahui sebuah masalah tidak sama dengan mampu menghadapinya.*
+
+**Catatan DM — NPC Personal Anchor (Aidron & Fighter):**
+*Saat Aidron mengucapkan kalimat penyesalan di atas, arahkan pandangan Aidron kepada karakter Fighter. Hal ini karena sifat Aidron mirip dengan Fighter yang terlalu percaya diri. Beri jeda 2 detik. Jika Fighter bereaksi (misalnya menanggapi secara verbal atau mengangguk), catat respons tersebut. Aidron akan menjadi Personal Anchor bagi Fighter di masa depan.*
 
 > **Aidron:** *(pelan)* "Runara pasti sangat marah padaku."
 
@@ -570,8 +585,9 @@ Combat dimulai.
 
 ### TREASURE D6
 
-*DC 15 Intelligence (Investigation):*
-> "Di antara reruntuhan rak, ada kotak besi kecil yang tertutup rapat. Di dalamnya, terbungkus kain tebal: **+1 battleaxe** atau **spell scroll of hold person** (DM pilih sesuai komposisi party)."
+*DC 15 Intelligence (Investigation).*
+- *Sukses: Di antara reruntuhan rak, menemukan kotak besi kecil tertutup rapat. Di dalamnya: +1 battleaxe atau spell scroll of hold person (DM pilih).*
+- *Gagal (Failing Forward): Menemukan kotaknya, tetapi karena terburu-buru menariknya dari bawah batu, sistem pelindung tua aktif. Karakter terkena semburan debu beracun purba (1d4 poison damage) sebelum kotak terbuka.*
 
 *Detect Magic:* Otomatis menemukan lokasi keduanya tanpa roll.
 
@@ -767,7 +783,13 @@ Lempar ke laut atau hancurkan — efek itu tidak akan terpicu lagi selama encoun
 
 > "Ini nama orang yang bisa dipercaya di Beregost dan di Elturel. Kalau kalian butuh informasi tentang pergerakan di perbatasan barat — mereka tahu lebih dari yang mereka katakan ke sembarangan orang. Tapi mereka akan bicara ke orang yang membawa nama saya."
 
-*Kemudian, sangat singkat, hampir bukan informasi — lebih seperti isyarat:*
+**NPC Personal Anchor Rogue — Hint Uldoon Trail:**
+*Tarak, yang berdiri agak di belakang Runara, melangkah maju dan memberikan satu tambahan khusus kepada Rogue. Bukan di depan yang lain, tapi saat Rogue menaikkan barang ke perahu:*
+
+> **Tarak:** "Perjalanan ke Greenest lewat Uldoon Trail panjang. Di pertengahan jalan, ada pos pedagang kecil. Namanya Dalan." *(berhenti sebentar, memastikan Rogue mengerti berat namanya)* "Dalan pernah hutang nyawa pada orang-orang dengan koin yang sama seperti yang kamu bawa. Dia tidak akan bertanya banyak. Tapi dia akan mendengarkan."
+*(DM: Ini adalah seed untuk NPC Personal Anchor Rogue di arc Tyranny).*
+
+*Kemudian Runara berbicara lagi, sangat singkat, hampir bukan informasi — lebih seperti isyarat:*
 
 > "Ada kota kecil bernama Greenest, di jalan antara Beregost dan Elturel. Berita yang sampai ke sini mengatakan ada sesuatu yang tidak beres di sana." *(berhenti)* "Bisa jadi tidak ada hubungannya dengan apapun. Bisa jadi ada."
 
@@ -776,6 +798,27 @@ Lempar ke laut atau hancurkan — efek itu tidak akan terpicu lagi selama encoun
 *Pemain berangkat dari Stormwreck Isle.*
 
 *Arc pertama selesai.*
+
+---
+
+## CATATAN DM — EMOTIONAL MEMORY LOG (Clifftop Observatory)
+
+Detail dari chapter ini yang masuk ke Emotional Memory Log:
+
+| Karakter | Detail Sensorik | Kapan Dipanggil Lagi |
+|---|---|---|
+| Semua | Reveal Runara — bukan cahaya dramatis, hanya proporsi ruang yang berubah | Saat bertemu naga asli/berbahaya pertama di Tyranny — skala perbandingan ketakutan |
+| Semua | Cara Aidron mengucapkan "Saya salah" — hanya fakta, bukan penyesalan dramatis | Saat salah satu pemain atau sekutu melakukan kesalahan fatal di arc Tyranny |
+| Fighter | Tatapan Aidron saat mengakui kelemahannya tentang bekerja sendiri | Saat Fighter ditawari kekuasaan absolut tapi sendirian oleh musuh |
+| Wizard | Nama "Rath Modar" dan tulisan tangan rekan yang tergesa-gesa | Saat akhirnya bertemu atau mendengar kabar tentang Rath Modar langsung |
+
+## CATATAN DM — FACTION FRACTURE SEEDS (Clifftop Observatory)
+
+Saat Runara menyebutkan Beregost, Elturel, dan Greenest, DM harus menyadari bahwa ini adalah titik awal faksi-faksi besar akan mulai bergerak:
+
+- **Order of the Gauntlet (Elturel)**: Kota ini adalah basis kuat Order. Keberangkatan party ke arah sana, setelah pengalaman mereka dengan "keadilan" di Stormwreck (membiarkan Aidron hidup/kabur, menyelamatkan myconid), akan diuji langsung oleh rigiditas Elturel.
+- **Lords' Alliance**: Keputusan partai di Observatory — apakah mereka bertarung tanpa berpikir atau mencoba bernegosiasi dengan Sparkrender — adalah data. Ketika mereka tiba di kota besar, agen Lords' Alliance mungkin sudah mendengar versi "rumor" dari insiden ini dan menilai apakah party ini "hero" atau "loose cannon."
+- **Harper (Beregost)**: Kontak Runara di Beregost kemungkinan besar berafiliasi dengan Harper. Harper akan menilai party dari cara mereka menangani rahasia Runara. Jika party menyebarkan rahasia wujud asli Runara di kedai minum, Harper akan menandai mereka sebagai agen yang tidak bisa dipercaya dengan informasi sensitif.
 
 ---
 

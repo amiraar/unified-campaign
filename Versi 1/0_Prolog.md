@@ -252,7 +252,9 @@ Dia tidak melanjutkan. Dia tidak menjelaskan apa reputasinya. Dia hanya menaruh 
 
 *Dia tidak menunggu respons. Kembali ke cuciannya.*
 
-*DM: Orryn tidak tahu lebih dari ini. Tapi cara dia mengatakannya — seperti orang yang sudah menghitung berapa banyak yang dia bisa katakan tanpa harus menanggung konsekuensinya — membuat kata-katanya terasa lebih berat dari yang seharusnya.*
+*Catatan DM: Orryn tidak tahu detail lebih lanjut. Sampaikan dialog ini dengan wajar, tanpa dramatisasi berlebihan.*
+
+> *Catatan DM — Shadow Line Orryn:* Kalimat *"Ada orang-orang yang pergi ke laut dan tidak balik. Ada orang-orang yang balik tapi nggak pernah benar-benar pulang"* adalah Shadow Line. Ucapkan dengan nada datar biasa, bukan seperti orang sedang memberi ramalan. Tujuannya agar kalimat ini baru terasa maknanya nanti di arc Tyranny. DM tidak perlu menggarisbawahi kalimat ini ke pemain.
 
 ---
 
@@ -280,7 +282,9 @@ Tidak ada yang bertanya tergantung apa.
 - *Ke Rogue:* "Koin itu masih ada di tanganmu?"
 - *Ke Paladin:* "Seseorang yang kamu tinggalkan di Neverwinter — apakah mereka tahu kamu pergi?"
 
-*DM tidak memaksa jawaban. Ini adalah pertanyaan yang dibiarkan menggantung di antara mereka dan daratan yang menghilang. Kapal bergerak ke timur laut. Stormwreck Isle menunggu.*
+*Catatan DM: Jangan paksa pemain untuk menjawab. Biarkan pertanyaan ini menggantung jika mereka memilih diam.*
+
+> *Catatan DM — NPC Personal Anchor (Paladin):* Pertanyaan *"Seseorang yang kamu tinggalkan..."* bertujuan untuk memancing Personal Anchor bagi Paladin. NPC ini tidak akan muncul secara fisik, melainkan menjadi motivasi internal. Ingat atau catat jawaban Paladin di sini, karena ini akan berguna untuk menguji moralitasnya nanti di Waterdeep.
 
 ---
 
@@ -300,4 +304,21 @@ Yang mereka tahu: ada dermaga reyot di depan mereka, ada jalan menanjak ke klost
 
 ---
 
-*Dokumen ini adalah prolog — bukan skrip. Biarkan pemain membentuk momen-momen kecil di dalamnya. DM hanya menjaga tone, menjaga subtext tetap hadir, dan tahu kapan harus diam.*
+## CATATAN DM — EMOTIONAL MEMORY LOG (Prolog)
+
+Detail sensorik dari Prolog yang harus masuk ke Emotional Memory Log. DM catat ini dan update log setelah session Prolog selesai.
+
+| Karakter | Detail Sensorik | Kapan Dipanggil Lagi |
+|---|---|---|
+| Rogue | Koin Gilded Gallows — tekstur sisi torehannya, terasa hangat dari gesekan terus-menerus | Saat pertama kontak Zhentarim di Ch.4 Tyranny |
+| Wizard | Surat yang terlipat tidak rapi karena sudah dibaca puluhan kali — tepian sudah lusuh | Saat pertama melihat tulisan tangan rekan akademisnya di D4 Observatory |
+| Cleric | Kertas terlipat dua di meja — tangan di atasnya, tidak membacanya, hanya menahan | Saat Tragic Trigger aktif di Greenest — saat harus memilih antara doktrin dan nyawa |
+| Fighter | Kapak kecil di pinggang — senjata tukang kayu yang dipertajam terlalu sering | Saat duel Cyanwrath — sebelum memutuskan menerima tawaran doa atau tidak |
+| Paladin | Luka di buku jari — baru beberapa hari, bukan luka pertempuran | Saat pertama kali kehilangan kendali moral di arc Tyranny |
+
+## CATATAN DM — FACTION FRACTURE SEEDS (Prolog)
+
+Prologi ini adalah sebelum faksi besar hadir. Tapi ada satu seed yang perlu ditanam:
+
+- **Rogue dan koin Gilded Gallows**: Gilded Gallows adalah jaringan kriminal kecil — tapi punya koneksi ke Zhentarim. Koin yang Rogue bawa bukan kebetulan dia belum buang. Ini adalah tanda keanggotaan yang sudah tidak aktif tapi belum dilepas. Di arc Tyranny, Zhentarim akan mengenali tanda ini sebelum Rogue memperkenalkan diri. Itu adalah momen fault line pertama: antara siapa Rogue *dulu* dan siapa dia *sekarang*.
+- **Order of the Gauntlet dan Cleric**: Tanda resimen di pergelangan tangan Cleric — bekas tentara. Order of the Gauntlet akan melihat tanda ini. Apakah Cleric masih mewakili sesuatu yang dikenal Order, atau dia sudah jadi sesuatu yang lain? Fault line ini terbuka di Greenest.

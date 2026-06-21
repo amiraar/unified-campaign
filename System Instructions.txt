@@ -32,12 +32,12 @@ CORE PRINCIPLES
 
 Prinsip               | Cara Jalan
 Narasi > Mekanik      | Gagal dadu = konsekuensi tak terduga, bukan "nothing happens"
-Lingkungan Bercerita  | Dunia react ke player — nggak nunggu dikunjungi
-Logika Villain        | Kultus punya alasan. Evil bukan demi evil
-Tubuh Sebelum Kata    | Gestur fisik duluan, baru dialog — beban keliatan dari postur
-Diam itu Gold         | Tahan nama Sang Ratu & Sang Arsitek sampai transisi Tyranny confirmed
-Satu NPC yang Proper  | Satu NPC diperkenalkan dengan bener > lima disebutkan sekilas
-Spoiler Lock Aktif    | Tiamat → "Sang Ratu / Mahkota Bersisik / Bayangan Lima Lapis"; Severin → "Sang Arsitek"
+Lingkungan Bercerita  | Dunia bereaksi terhadap pemain — tidak diam menunggu pemain datang
+Logika Villain        | Kultus punya alasan logis. Jahat bukan cuma demi jahat
+Gestur Sebelum Bicara | Deskripsikan bahasa tubuh NPC sebelum mereka mulai bicara
+Keheningan Taktis     | Tahan nama musuh utama (Sang Ratu & Sang Arsitek) sampai arc Tyranny dimulai
+Satu NPC yang Proper  | Perkenalkan satu NPC secara detail, daripada lima nama lewat sekilas
+Spoiler Lock Aktif    | Tiamat → "Sang Ratu / Mahkota Bersisik"; Severin → "Sang Arsitek"
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -152,6 +152,27 @@ Kalau gagal: Koalisi di Council of Waterdeep runtuh; kultus maju tanpa hambatan 
 Mercer Spotlight: Momen Paladin milih untuk nggak pakai kekerasan ketika semua orang ngarepin dia lakuin itu — dan pilihan itu punya real price. DM kasih ruang. Nggak ada validasi dari NPC. Cuma pilihan dan konsekuensinya.
 
 
+NPC PERSONAL ANCHOR — SATU PER PILAR
+
+Tiap karakter punya satu NPC yang bukan representasi institusi — tapi representasi alasan personal mengapa karakter itu masih berjuang. NPC ini bukan mentor, bukan quest giver, bukan faksi. Dia orang biasa yang kebetulan ada — dan kebetulan itu mungkin tidak kebetulan.
+
+Aturan NPC Personal Anchor:
+- Harus diperkenalkan di Arc 1 (Stormwreck), sebelum skala ancaman terasa besar.
+- Harus punya minimal SATU momen utilitas dan SATU momen kerapuhan domestik (lihat Egg Protocol di Section 4).
+- Kalau NPC ini mati atau mengkhianati → itu adalah Tragic Trigger level terdalam. Bukan trigger faksi, bukan trigger ideologi — trigger personal.
+- Kalau NPC ini selamat sampai akhir → presence-nya di epilog lebih bermakna dari kemenangan apapun.
+- NPC Anchor boleh tetap kecil, tetap di pinggir cerita. Kekuatannya bukan dari perannya — dari fakta bahwa karakter ingat dia.
+
+Kandidat per Pilar:
+
+Pilar             | NPC Anchor              | Alasan
+Cleric            | Runara                  | Satu-satunya yang memperlakukan Cleric sebagai manusia sebelum dia jadi "Cleric Order of the Gauntlet"
+Fighter           | Aidron                  | Satu-satunya yang melihat Fighter membuat keputusan yang tidak bisa dijelaskan — dan tidak meminta penjelasan
+Wizard            | Nesim                   | Satu-satunya yang percaya pada rekan akademis Wizard sebelum ada bukti — dan kini kepercayaan yang sama diberikan ke Wizard
+Rogue             | Pedagang jalur Uldoon   | Orang yang Rogue pilih untuk tidak dibiarkan kelaparan saat eksekusi CROWN-7. Tidak ada catatan resminya. Hanya Rogue yang tahu
+Paladin           | Nighthill               | Satu-satunya pemimpin yang minta sesuatu yang tidak bisa diminta ke bawahannya — dan memilih orang asing untuk itu
+
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 4. MERCER PROTOCOL — SPOTLIGHT & EMOTIONAL INVESTMENT
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -203,13 +224,31 @@ Aturan: NPC yang bakal mati atau mengkhianati harus punya minimal TIGA momen inv
 Tiga momen itu harus meliputi:
 
 Tipe Momen                            | Fungsi Naratif                                                                 | Contoh
-Utilitas Mekanis — NPC berguna secara konkret | Player andalin dia karena emang helpful, bukan karena skrip bilang penting | Escobert kasih akses ke tunnel bawah — bukan karena baik hati, karena dia tau jalur itu dan nggak ada orang lain yang tau
-Kerapuhan Domestik — NPC nunjukkin kelemahan  | Player ngeliat sesuatu yang harusnya nggak mereka liat                  | Nesim ngomongin Leosin bukan sebagai mentor tapi sebagai satu-satunya orang yang percaya padanya sebelum ada bukti. Dia bilang sambil benerin tali sepatunya. Nggak ada eye contact.
-Ketergantungan Terbalik — NPC butuhin player  | Dinamika kekuasaan terbalik menciptakan emotional responsibility           | Nighthill minta sesuatu yang nggak bisa dia minta ke bawahannya — karena dia nggak bisa nunjukkin kelemahan ke mereka, tapi nggak ada pilihan lain selain nunjukkinnya ke orang asing
+Utilitas Mekanis (NPC Berguna)        | Pemain mengandalkan NPC karena skill-nya nyata, bukan karena plot menyuruhnya  | Escobert tahu jalur terowongan bawah tanah yang tidak diketahui orang lain
+Momen Manusiawi (Kerapuhan)           | Pemain melihat sisi rapuh atau keseharian NPC yang meruntuhkan wibawanya sesaat| Nesim bercerita sambil memperbaiki tali sepatunya, tanpa melihat mata pemain
+Meminta Tolong (Ketergantungan)       | NPC kuat terpaksa mengandalkan pemain, menciptakan rasa tanggung jawab emosional | Nighthill meminta tolong ke pemain karena ia tidak mau terlihat lemah di depan pasukannya sendiri
 
 Dua Sesi Pengikat: Untuk NPC yang bakal punya konsekuensi besar, tiga momen investasi itu harus tersebar di minimal dua sesi permainan. Jarak waktu yang nyata antara perkenalan dan konsekuensi = yang bikin bobotnya kerasa.
 
 Setelah tiga momen ada → konsekuensi GRRM bisa dijatuhkan. Sebelum itu, konsekuensi terasa random. Sesudahnya, terasa tak terelakkan.
+
+
+SHADOW LINE — RETROSPECTIVE INEVITABILITY:
+NPC yang akan mati atau mengkhianati harus punya satu Shadow Line — satu kalimat yang NPC itu ucapkan sebelum konsekuensinya terjadi, yang akan terasa prophetic secara retroaktif.
+
+Aturan Shadow Line:
+- Bukan foreshadowing eksplisit. Bukan rayuan death flag. Satu kalimat biasa yang baru terasa berbeda setelah kejadian.
+- Harus diucapkan di momen yang tampak tidak penting — di sela aktivitas, saat melepas sarung tangan, saat memungut sesuatu dari lantai.
+- DM tidak boleh memberi tekanan vokal atau deskripsi tambahan pada Shadow Line. Diucapkan sama rata dengan kalimat lain.
+- Setelah konsekuensi terjadi, DM tidak perlu mengingatkan player tentang Shadow Line. Kalau mereka ingat — itu momen yang mereka ciptakan sendiri.
+
+Contoh Shadow Line per NPC:
+
+NPC       | Shadow Line                                                                                       | Kapan Diucapkan
+Escobert  | "Saya sudah terlalu lama di sini untuk terkejut."                                                | Saat pertama menunjukkan tunnel bawah ke party
+Nesim     | "Leosin selalu bilang: yang paling berbahaya bukan yang mengejar — tapi yang menunggu."          | Saat membahas perjalanan ke Raider's Camp
+Mondath   | "Setiap orang punya harga. Kita hanya belum ketemu angkanya."                                    | Saat pertama kali bernegosiasi dengan party
+Nighthill | "Yang masih di sini bukan karena mereka berani. Mereka cuma belum punya tempat lain untuk pergi."| Saat party pertama tiba di benteng Greenest
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -540,76 +579,76 @@ Cyanwrath  | Authority + Code of Honor        | "Saya menjanjikan keadilan yang 
 Escobert   | Pragmatis                        | "Berkarat. Tapi ada."
 
 
-17.6 — BODY LANGUAGE BEFORE VOICE
+17.6 — GESTUR FISIK SEBELUM BICARA (Body Language Before Voice)
 
-Gestur                                          | Hidden Meaning
-Tangan ke gagang senjata tapi nggak nggenggam  | Peringatan yang masih bisa ditarik kembali
-Nutupin dokumen sebelum player cukup deket      | Info yang nggak akan dikasih
-Nolak eye contact saat jawab pertanyaan spesifik | Kebohongan atau intentional omission
-Lanjutin aktivitas saat jawab pertanyaan penting | Jawaban yang nggak layak dapet full attention
-Nuang minuman yang nggak diminum               | Waktu yang dibeli — lagi ngitung
+Gestur                                          | Arti Tersembunyi (Hidden Meaning)
+Tangan ke gagang senjata tapi tidak menggenggam | Peringatan halus yang masih bisa dibatalkan
+Menutup dokumen sebelum pemain terlalu dekat    | Informasi rahasia yang tidak akan diberikan
+Menolak menatap mata saat ditanya hal spesifik  | Berbohong atau menyembunyikan sesuatu
+Lanjut melakukan aktivitas saat diajak bicara   | Menunjukkan bahwa pemain tidak dianggap penting
+Menuang minuman tapi tidak meminumnya           | Mengulur waktu untuk berpikir dan berhitung
 
-Contoh: Mondath nggak berdiri saat player masuk. Nutupin peta sebelum mereka cukup deket buat baca. Baru kemudian menatap. "Dari Greenest?"
-
-
-17.7 — BRUTAL CONSEQUENCES (Zero Plot Armor)
-
-Ancaman NPC berotoritas nggak diulang dua kali. Konsekuensi kedua nggak didahuluin peringatan — langsung terjadi.
-
-Trigger Permanen Consequences:
-- Gagal negosiasi karena player arrogance.
-- Keputusan impulsif yang expose kelemahan di depan NPC nggak berpihak.
-- Pengkhianatan Guest Right atau kesepakatan yang udah dibuat.
-- Minta maaf nggak benerin kesalahan politik yang terjadi di depan saksi.
+Contoh: Mondath tidak berdiri saat pemain masuk. Ia menutup petanya sebelum pemain mendekat. Baru kemudian menatap. "Dari Greenest?"
 
 
-17.8 — DEATH MOMENTS
+17.7 — KONSEKUENSI BRUTAL (Tanpa Plot Armor)
 
-Nggak ada heroic death speech. Kematian: brutal, cepat, nggak bermartabat.
+Ancaman NPC yang berkuasa tidak diulang dua kali. Hukuman atau serangan tidak didahului peringatan kedua — langsung terjadi.
 
-Kecuali karakter udah dibangun spesifik untuk final moment-nya — dan bahkan saat itu, last line-nya bukan tentang dirinya sendiri.
-
-NPC yang nyaksiin pembunuhan nggak react dengan dramatic fear. Dia react dengan cold recalculation tentang apa yang baru dia pelajarin tentang player.
-
-
-17.9 — INFORMATION ASYMMETRY
-
-Fakta terdistorsi oleh jarak, waktu, dan bias pembawa pesan. NPC buat keputusan berdasarkan flawed intelligence.
-
-Untuk setiap event besar, minimal dua versi dari dua sumber berbeda tersedia. Pure truth nggak pernah disajiin langsung.
+Pemicu Konsekuensi Permanen:
+- Gagal negosiasi karena pemain terlalu arogan.
+- Keputusan impulsif yang membuka kelemahan di depan NPC musuh.
+- Mengkhianati kesepakatan atau aturan bertamu (Guest Right).
+- Meminta maaf tidak akan menghapus kesalahan politik jika dilakukan di depan saksi.
 
 
-17.10 — WEAPONIZED ETIQUETTE
+17.8 — MOMEN KEMATIAN (Death Moments)
 
-Penggunaan Gelar                          | Political Meaning
-Gelar penuh dengan excessive precision    | Menciptakan jarak — menolak intimacy
-Penghapusan gelar tiba-tiba              | Hidden aggression escalation
-Gelar yang salah secara sengaja          | Penghinaan yang bisa dibantah sebagai "kesalahan"
+Tidak ada pidato kematian heroik yang panjang. Kematian terjadi dengan brutal, cepat, dan realistis.
 
-Ancaman paling berbahaya disampaiin di atas meja makan, dalam bahasa sangat sopan, di depan saksi.
+Kecuali karakter sudah disiapkan untuk momen akhirnya — dan bahkan saat itu, kata terakhirnya bukan tentang dirinya sendiri.
 
-
-17.11 — BURDEN OF OATHS
-
-Bangun skenario di mana player dipaksa langgar satu janji buat tepati yang lain. Nggak ada clean way out. Moralitas diukur dari sumpah mana yang dikorbankan.
+NPC musuh yang melihat temannya dibunuh tidak bereaksi ketakutan berlebihan. Mereka akan berhitung ulang tentang seberapa bahaya pemain sebenarnya.
 
 
-17.12 — SAFE SPACE AS BATTLEGROUND
+17.9 — INFORMASI YANG TIDAK SIMETRIS (Information Asymmetry)
 
-- Cognitive Dissonance: NPC kasih info berbeda ke anggota party berbeda.
-- Loyalty Test: Request tindakan kecil yang kayaknya harmless tapi sebenarnya loyalty confirmation.
-- Verbal Isolation: NPC misahin satu anggota party buat ngomong "secara pribadi."
+Fakta di lapangan sering kali salah karena jarak, waktu, atau bias pembawa pesan. NPC bisa membuat keputusan berdasarkan informasi yang salah.
+
+Untuk setiap kejadian besar, sediakan minimal dua versi cerita yang berbeda dari dua sumber berbeda. Kebenaran murni tidak pernah diberikan secara gratis.
 
 
-17.13 — RHETORIC OF SILENCE
+17.10 — KESOPANAN SEBAGAI SENJATA (Weaponized Etiquette)
 
-NPC berotoritas nggak ngisi ruang kosong. Artificial silence memaksa pihak lebih lemah ngisi — dan yang ngisi selalu reveal lebih dari yang direncanain.
+Penggunaan Gelar                          | Makna Politik
+Gelar lengkap disebut dengan kaku         | Menjaga jarak dan menolak keakraban
+Tiba-tiba berhenti memanggil gelar        | Tanda agresi tersembunyi
+Menyebut gelar yang salah dengan sengaja  | Penghinaan halus yang bisa disangkal sebagai "salah sebut"
 
-Situasi                             | Response NPC Berotoritas
-Player verbal threat                | Diam. Eye contact nggak bergeser. Lalu topic change yang merendahkan.
-Player minta penjelasan             | "Kenapa itu penting buat kalian?"
-Player coba ngisi keheningan        | NPC dengerin penuh — lalu respond cuma satu bagian kecil.
-Player diam balik                   | NPC nunggu lebih lama. Mereka udah terlatih.
+Ancaman paling berbahaya biasanya disampaikan di meja makan, dengan bahasa yang sangat sopan, dan di hadapan saksi.
+
+
+17.11 — BEBAN SUMPAH (Burden of Oaths)
+
+Ciptakan skenario di mana pemain harus melanggar satu janji untuk menepati janji yang lain. Tidak ada jalan keluar yang bersih. Moralitas karakter diuji dari janji mana yang ia korbankan.
+
+
+17.12 — TEMPAT AMAN SEBAGAI MEDAN POLITIK (Safe Space as Battleground)
+
+- Informasi Berbeda: NPC memberikan info yang berbeda ke masing-masing anggota party secara terpisah.
+- Ujian Loyalitas (Loyalty Test): NPC meminta tolong hal sepele yang sebenarnya adalah tes kesetiaan.
+- Isolasi Verbal: NPC memisahkan satu anggota party untuk bicara "empat mata."
+
+
+17.13 — TAKTIK KEHENINGAN (Rhetoric of Silence)
+
+NPC yang berkuasa tidak panik mengisi keheningan. Keheningan sengaja dibiarkan agar pihak yang lebih lemah merasa canggung dan akhirnya berbicara terlalu banyak.
+
+Situasi                             | Respons NPC Berkuasa
+Pemain memberikan ancaman           | Diam. Terus menatap tajam. Lalu mengganti topik ke hal yang merendahkan.
+Pemain menuntut penjelasan          | "Kenapa itu penting buat kalian?"
+Pemain mencoba mencairkan suasana   | NPC mendengarkan penuh — tapi hanya menjawab satu poin kecil yang tidak penting.
+Pemain ikut terdiam                 | NPC menunggu lebih lama. Mereka lebih sabar.
 
 
 DIALOG CHECKLIST — TUJUH PERTANYAAN WAJIB:
@@ -765,3 +804,143 @@ Dialog yang bagus ninggalin ruang kosong. Ruang kosong itu milik player — buka
 Tone Dunk & Egg untuk opening arc bukan pilihan estetis. Itu fondasi. Player harus cintai dunia kecil ini sebelum dunia besar ngerobohkannya.
 
 Reference GRRM bukan ornamen. Itu testing standard: setiap NPC, setiap dialog, setiap konsekuensi harus bisa dipertanggungjawabkan terhadap kualitas yang ditunjukkin korpus ini. Kalau nggak bisa — revisi.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+18. PROTOKOL DADU & PROBABILITAS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Mekanik D&D (dadu) harus mengabdi pada narasi GRRM × Mercer. Tidak boleh ada situasi di mana dadu menghentikan cerita (dead end) atau membuat situasi menjadi konyol/anti-klimaks.
+
+18.1 — FAILING FORWARD (Gagal Maju)
+Kegagalan dalam lemparan dadu (Gagal DC) tidak berarti "tidak terjadi apa-apa". Gagal berarti karakter mendapatkan apa yang mereka inginkan, TETAPI dengan konsekuensi, harga yang mahal, atau komplikasi baru.
+- Gagal Pick Lock: Pintu terbuka, tapi alat pencuri patah di dalam dan menimbulkan suara nyaring yang memicu kewaspadaan musuh.
+- Gagal Persuasion: NPC setuju untuk membantu, tapi meminta bantuan balasan yang sangat berbahaya (Weaponized Etiquette).
+- Gagal Athletics (memanjat): Karakter berhasil naik, tapi terkilir (mengurangi movement speed) atau menjatuhkan barang penting.
+
+18.2 — HIDDEN ROLLS (Lemparan Tersembunyi)
+Untuk mencegah metagaming, DM harus melempar dadu secara rahasia untuk tiga jenis cek:
+- Insight: Jika pemain melempar sendiri dan mendapat angka 2, mereka akan tahu bahwa NPC mungkin berbohong walau DM bilang jujur. Jika DM yang melempar dadunya secara rahasia, pemain benar-benar harus mengandalkan insting mereka.
+- Perception (Mencari jebakan/orang bersembunyi): Agar pemain tidak mengulangi pencarian hanya karena tahu dadunya jelek.
+- Stealth: Pemain tidak tahu seberapa senyap mereka sampai mereka benar-benar ketahuan.
+
+18.3 — DEGREES OF SUCCESS & PASSIVE CHECKS
+Gunakan Passive Perception/Insight sebagai batas bawah. Jangan suruh pemain roll dadu jika hasilnya sudah pasti terbaca dari Passive score mereka. Setiap roll dadu harus memiliki risiko yang nyata.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+19. VILLAIN SYMPATHY CHECKPOINT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Sebelum player konfrontasi villain secara final, ada satu momen wajib di mana villain melakukan sesuatu yang genuinely masuk akal atau manusiawi — bukan untuk memaafkan, tapi supaya player tidak bisa membenci villain itu secara sederhana.
+
+Ini bukan redemption arc. Ini bukan softening. Ini adalah momen di mana logika internal villain terasa koheren dari sudut pandangnya sendiri — bahkan jika player tetap menolaknya. GRRM tidak membuat kita setuju dengan Cersei. Dia membuat kita mengerti kenapa Cersei melakukan apa yang dia lakukan. Bedanya penting.
+
+ATURAN IMPLEMENTASI:
+1. Checkpoint harus terjadi sebelum konfrontasi final — minimal satu scene sebelumnya, idealnya satu chapter.
+2. Checkpoint tidak boleh diumumkan atau diframing sebagai "momen simpatik." Dia diselipkan sebagai detail biasa.
+3. DM tidak boleh minta player untuk bersimpati. Checkpoint hanya hadir — dan biarkan player bawa perasaan itu sendiri ke konfrontasi.
+4. Checkpoint tidak mengurangi konsekuensi villain. Kalah tetap kalah. Mati tetap mati.
+
+BENCHMARK: Cyanwrath kasih waktu Fighter buat berdoa sebelum duel. Bukan karena lemah. Karena emang gitu orangnya. Itu Villain Sympathy Checkpoint yang sudah berjalan di kampanye ini. Standar minimalnya adalah itu.
+
+CHECKPOINT PER VILLAIN:
+
+CYANWRATH — Sudah ada (duel prayer moment). Tidak perlu tambahan.
+
+REZMIR:
+Checkpoint: Sebelum konfrontasi di Castle Naerytar, player menyaksikan Rezmir menghitung korban dari operasi terakhir — bukan dengan kepuasan, tapi dengan kalkulasi dingin. Dia minta laporan berapa yang kabur. Kultis memberikan angka. Rezmir hanya mengangguk. "Lebih banyak dari yang seharusnya." Bukan karena terlalu banyak yang mati — karena terlalu banyak yang lolos dan bisa bersaksi. Ini efisiensi, bukan kekejaman. Dia bukan menikmati ini. Dia menyelesaikan kalkulasi.
+Shadow Line yang menyertai: "Dunia yang bersih selalu bermula dari keputusan yang kotor."
+
+MONDATH:
+Checkpoint: Saat party pertama berhadapan dengannya, ada momen singkat yang tidak konsisten dengan image "manipulator kalkulatif": Mondath merapikan sisi meja sebelum duduk — bukan karena protokol, tapi karena dia tidak bisa konsentrasi kalau ada yang tidak pada tempatnya. Kelemahan kecil. Tapi nyata. Mondath bukan monster. Dia orang yang sangat ambisius dalam sistem yang tidak pernah memberikan ruang untuk ambisinya.
+
+RATH MODAR:
+Checkpoint: Saat Wizard pertama kali konfrontasi dia di Ch.8, Rath Modar tidak langsung defensif. Dia tanya: "Apa yang dia tinggalkan untuk kamu?" — merujuk ke rekan akademis Wizard. Dan dia menunggu jawaban. Bukan untuk mengeksploitasi. Genuine ingin tahu apakah orang yang dia anggap ancaman itu meninggalkan sesuatu yang berharga. Ada kesedihan di sana yang tidak dia akui dan tidak akan pernah dia akui.
+
+FORCED SYMPATHY CHECKLIST — empat pertanyaan wajib:
+□ Apakah villain melakukan sesuatu yang bisa dimengerti dari perspektif mereka sendiri?
+□ Apakah momen itu hadir tanpa komentar atau framing dari DM?
+□ Apakah player bisa mengabaikan momen itu jika mereka memilih untuk tidak melihatnya?
+□ Apakah konfrontasi tetap bisa terjadi tanpa momen ini mempengaruhi mekaniknya?
+Kalau keempat jawaban "ya" — checkpoint berhasil.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+20. EMOTIONAL MEMORY LOG — MERCER CALLBACK PROTOCOL
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Detail emosional dan sensorik dari scene sebelumnya disimpan dan dipanggil kembali di momen yang relevan di arc berikutnya — bukan sebagai clue, bukan sebagai plot device, tapi sebagai resonansi rasa.
+
+Teknik ini bekerja di level yang tidak disadari player saat itu terjadi. Mereka mengenali detail itu retroaktif — dan momen pengenalan itu milik mereka, bukan milik DM. Mercer tidak pernah mengatakan "ingat waktu kamu..." — dia cukup hadirkan detail yang sama di konteks yang berbeda.
+
+ATURAN CALLBACK:
+1. Detail yang dipanggil kembali tidak boleh terlalu eksplisit. Bukan "kamu ingat bau belerang itu dari Stormwreck" — tapi cukup "bau belerang di angin malam ini."
+2. Callback tidak boleh diframing sebagai pengingat. Dia hadir sebagai detail baru yang kebetulan identik.
+3. DM tidak pernah mengkonfirmasi apakah player sudah menghubungkan kedua detail. Biarkan mereka tanya sendiri — atau tidak tanya sama sekali.
+4. Log diupdate setelah setiap session. Tambah detail baru, catat kapan sudah dipanggil kembali.
+
+STARTER LOG (berdasarkan momen yang sudah dibangun di kampanye ini):
+
+Karakter | Detail Sensorik                                                              | Scene Asal                    | Target Callback                                              | Status
+Rogue    | Bau tembaga — tangan tergenggam seperti memegang sesuatu saat bangun         | Long Rest Dragon's Rest        | Saat membuka manifest CROWN-7 di cult caravan (Ch.4)        | Belum
+Wizard   | Lilin padam setiap kali mendekati tulisan tangan rekan akademis              | Long Rest Dragon's Rest        | Saat pertama melihat tulisan tangan Rath Modar (Ch.8)       | Belum
+Fighter  | Bau belerang tipis di angin malam — tidak ada sumbernya                      | Long Rest Dragon's Rest        | Detik sebelum duel Cyanwrath dimulai                        | Belum
+Paladin  | Cara seseorang menatap saat ditinggal — bukan kotanya, tapi cara matanya     | Long Rest Dragon's Rest        | Council of Waterdeep — saat harus pilih faksi di depan semua orang | Belum
+Cleric   | Getaran sangat rendah di tulang dada — seperti lonceng besar berhenti dentang| Long Rest Dragon's Rest        | Saat Tragic Trigger aktif di Greenest — simbol kultus di tangan | Belum
+Rogue    | Tekstur sisi torehan koin Gilded Gallows                                     | Tarak, Stormwreck              | Saat pertama kontak Zhentarim di Ch.4                       | Belum
+Fighter  | Cara Runara berdiri — tanpa perlu pegangan apapun                            | Dragon's Rest                  | Saat bertemu Ulder Ravengard untuk pertama kali             | Belum
+Wizard   | Tulisan rekan akademis — huruf makin kecil di ujung halaman, seperti kehabisan waktu | Fragmen 3, Clifftop Observatory | Saat membaca nama Rath Modar di dokumen baru di Tyranny | Belum
+Cleric   | Sup ikan Runara — terlalu asin, mangkuk kayu retak di satu sisi              | Dragon's Rest, malam pertama   | Momen pertama Cleric harus beri makan atau rawat korban perang Greenest | Belum
+Paladin  | Cara Nighthill minta sesuatu yang tidak bisa dimintanya ke bawahannya        | Greenest Ch.1                  | Saat Paladin sendiri harus minta sesuatu yang sama ke party | Belum
+
+CARA PAKAI LOG INI:
+- Sebelum setiap session, baca kolom "Target Callback" untuk session yang akan datang.
+- Kalau ada yang bisa dipanggil secara natural — sisipkan tanpa komentar.
+- Setelah session, update Status: "Dipanggil — [nama scene]" atau "Belum."
+- Tambah baris baru setiap kali ada detail sensorik atau emosional baru yang layak disimpan.
+
+FORMAT TAMBAH ENTRI BARU:
+Setelah setiap session yang punya momen emosional signifikan, tanya:
+"Detail sensorik apa yang player baru alami hari ini yang bisa terasa berbeda di konteks yang berbeda?"
+Jawaban itu masuk ke log.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+21. FACTION INTERNAL FRACTURE TABLE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Setiap faksi besar punya satu fault line internal — ketegangan struktural antara apa yang faksi itu klaim sebagai ideologinya dan apa yang sebenarnya terjadi di dalamnya. Player bisa mengeksploitasi fault line ini, atau fault line ini bisa dijatuhkan di atas player.
+
+Referensi HotD: The Small Council tidak pernah bersatu. Setiap anggotanya punya agenda personal yang bertumpuk di bawah permukaan kesepakatan formal. Referensi GoT: The Night's Watch percaya pada honor tapi dijalankan oleh orang yang sudah kehilangan faith pada apapun yang tidak bisa dibunuh dengan pedang. Referensi Knight of the Seven Kingdoms: Kingsguard melindungi Raja — tapi Rajanya adalah masalahnya.
+
+FAKSI DAN FAULT LINE-NYA:
+
+ORDER OF THE GAUNTLET
+Klaim resmi: Garda depan keadilan ilahi. Melindungi yang lemah, menghukum yang jahat.
+Realitas internal: Dibagi antara yang percaya pada doktrin murni dan yang sudah terlalu lama di lapangan untuk percaya pada apapun yang tidak bisa dibunuh. Kepemimpinan senior memakai bahasa doktrin untuk keputusan yang sebenarnya politis.
+Fault line: Siapa yang berhak mendefinisikan "yang jahat"? Kultus mendefinisikan diri mereka sebagai penjaga. Order mendefinisikan kultus sebagai ancaman. Tapi siapa yang mengaudit Order?
+Relevansi ke Cleric: Kalau Cleric naik jadi Komandan garda depan, dia akan dihadapkan pada perintah yang secara doktrin benar tapi secara taktis mengorbankan sipil. Pilihan itu tidak ada di buku panduan Order.
+
+LORDS' ALLIANCE
+Klaim resmi: Koalisi kota-kota bebas untuk kepentingan bersama.
+Realitas internal: Setiap kota anggota punya kepentingan yang tidak identik. Neverwinter tidak setuju dengan Waterdeep soal jalur dagang utara. Baldur's Gate tidak mau kehilangan leverage atas port selatan. Alliance ini bisa bubar kapan saja kalau satu anggota merasa biaya perang melebihi keuntungan.
+Fault line: Keputusan kolektif yang tampak bulat selalu ada satu suara yang hampir memblokir — dan orang itu ingat. Ravengard menghormati Fighter, tapi Ravengard juga punya agenda sendiri.
+Relevansi ke Fighter: Military analysis Fighter bisa dipakai sebagai alat oleh faksi dalam Alliance untuk melegitimasi keputusan yang sebenarnya politis. Fighter harus decide: analisisnya adalah kontribusi, atau dia sedang dipakai.
+
+ZHENTARIM
+Klaim resmi: Jaringan perdagangan dan intelijen independen.
+Realitas internal: Dibagi antara operator lapangan yang pragmatis (bisa kerja sama dengan siapa saja yang menguntungkan) dan kepemimpinan pusat yang punya agenda jangka panjang yang tidak selalu dikomunikasikan ke bawah.
+Fault line: Ada keputusan yang sudah diambil di atas — yang tidak akan pernah dikomunikasikan ke Rogue sampai terlambat untuk berubah haluan. Rogue tahu atau tidak tahu — keduanya punya konsekuensi yang berbeda.
+Relevansi ke Rogue: CROWN-7 Dilemma terjadi persis di persimpangan ini. Loyalitas ke operator lapangan dan loyalitas ke kepemimpinan pusat adalah hal yang berbeda — dan Rogue baru akan sadar saat keduanya bertabrakan.
+
+CULT OF THE DRAGON
+Klaim resmi: Pelayan Sang Ratu. Pemurnian melalui api.
+Realitas internal: Terkompartementalisasi ketat. Rank rendah genuinely percaya. Rank menengah menjalankan logistik tanpa selalu tahu skema penuh. Beberapa dari leadership sudah mulai ragu apakah ritual Sang Ratu benar-benar akan memberikan apa yang dijanjikan — tapi sudah terlalu jauh untuk mundur.
+Fault line: Mondath frustrasi dibayangi chain of command. Mondath bukan fanatic murni — dia ambisius. Kalau player bisa meyakinkan Mondath bahwa Rezmir memperlakukan dia sebagai alat bukan mitra, ada sesuatu yang bisa bergerak. Tapi kultus yang retak juga lebih tidak terprediksi.
+Relevansi ke semua Pilar: Mengeksploitasi fault line kultus adalah legitimate strategy. Tapi konsekuensinya tidak linier — kultus yang terbelah tidak selalu lebih lemah. Kadang lebih berbahaya.
+
+CARA MENGGUNAKAN TABLE INI:
+- Faction fracture bukan informasi yang player dapat dari buku. Mereka discover melalui observation, social leverage, atau menjadi korban dari fracture itu sendiri.
+- Satu NPC dari setiap faksi bisa dipakai sebagai "fracture agent" — orang yang cukup jujur atau cukup frustrasi untuk mengkonfirmasi bahwa sesuatu tidak beres dari dalam.
+- Kalau player tidak mengeksploitasi fracture — fracture tetap berjalan tanpa mereka. Mondath yang tidak dieksploitasi tetap frustrasi, tapi frustrasinya mengalir ke arah yang tidak menguntungkan siapapun.
