@@ -568,6 +568,8 @@ Fanatic (Dragonclaw, kultis teriniasi): Absolutisme. Kompromi = pengkhianatan. "
 
 NPC REFERENCE TABLE:
 
+Voice fingerprint lengkap tiap NPC di bawah ini — ritme kalimat, signature move, dan pantangan — ada di Section 22 (NPC Voice Bible).
+
 NPC        | Archetype                        | Benchmark Line
 Rezmir     | Absolute Authority               | "Greenest dipilih."
 Runara     | Absolute Authority (lembut)      | "Ada waktu yang tepat untuk setiap kebenaran."
@@ -649,6 +651,37 @@ Pemain memberikan ancaman           | Diam. Terus menatap tajam. Lalu mengganti 
 Pemain menuntut penjelasan          | "Kenapa itu penting buat kalian?"
 Pemain mencoba mencairkan suasana   | NPC mendengarkan penuh — tapi hanya menjawab satu poin kecil yang tidak penting.
 Pemain ikut terdiam                 | NPC menunggu lebih lama. Mereka lebih sabar.
+
+
+17.14 — LIVE INTERACTION: NPC MENDENGAR PLAYER
+
+Section 17.1–17.13 ngatur APA yang NPC maksud saat bicara. Section ini ngatur GIMANA DM jalanin momen hidup saat player bicara langsung ke NPC — real-time, bukan analisis pasca.
+
+a) Personalisasi di Sapaan Pertama
+Pertama kali dalam satu scene seorang PC menyapa langsung NPC Utama, baris pembuka NPC itu harus merujuk satu detail konkret yang udah dia amati tentang PC itu spesifik — benda yang dibawa, tindakan sebelumnya, cara berdiri — sebelum atau menggantikan jawaban atas pertanyaan yang diajukan. Detail ini diambil dari Emotional Memory Log (Section 20) kalau ada entry yang relevan, atau dari observasi scene yang sedang berjalan. Ini yang bikin NPC Utama (Section 9) kerasa punya "personal agenda + vulnerability" beneran — bukan generic quest giver.
+Contoh: PC pertama kali negur Escobert soal jalur bawah tanah. Sebelum jawab, Escobert liat sepatu PC itu yang masih basah dari Seagrow Caves. "Baru dari bawah, ya. Sepatu belum kering."
+
+b) Spotlight Ladder untuk Player Pendiam
+Kondisi ketiga di Section 4 ("Tanya ke karakter, bukan ke player") butuh mekanisme eksekusi konkret. Kalau ada player yang nggak masuk ke scene dialog secara natural, DM eskalasi tiga beat — berhenti di beat pertama yang berhasil:
+- Beat 1 — Gestur tanpa kata: pandangan atau gestur fisik NPC jatuh ke PC yang diam. Nggak ada dialog prompt. Cuma ada.
+- Beat 2 — Pertanyaan yang cuma masuk akal ke PC itu: kalau masih nggak ada respons setelah PC lain bertindak, NPC tanya sesuatu yang spesifik ke background/class/pilar PC yang diam — pertanyaan yang nggak bisa dialihkan ke orang lain di ruangan.
+- Beat 3 — Ditarik lewat PC lain: jarang dipakai, cuma kalau scene emang butuh — dialog PC lain merujuk ke PC yang diam, menariknya masuk secara menyamping alih-alih DM yang nanya langsung.
+
+c) Aturan Dialog Bertumpuk (Overlapping Dialogue)
+Kalau lebih dari satu PC coba bicara ke NPC yang sama secara bersamaan:
+- NPC Absolute Authority (per tabel 17.5) cuma respons ke SATU penanya — dipilih dari siapa yang bicara dengan status/kepastian paling tinggi, paling sedikit ragu — dan mengabaikan yang lain secara kasat mata lewat gestur (nggak nengok, nggak lewat kata-kata). Ini nyiptain taruhan sosial nyata soal siapa yang "pegang kendali" percakapan — staple GRRM di scene dewan yang belum termekanisasi di dokumen ini.
+- NPC Pragmatis atau status lebih rendah boleh jawab satu-satu bergiliran, pertanyaan terpendek duluan.
+
+d) Roleplay-Flavor Weighting
+Hasil mekanis yang sama (misal Persuasion check yang lolos DC) harus hasilin follow-up NPC yang beda tergantung lever apa yang sebenarnya dipakai player dalam kalimat in-character mereka — kehormatan, uang, ancaman, atau rasa kasihan. Lever mana yang "kena" ditentuin dari archetype NPC di tabel 17.5:
+
+Archetype (17.5)                | Lever yang Kena
+Absolute Authority               | Klaim status atau kompetensi yang bisa dibuktikan
+Manipulator                      | Leverage — sesuatu yang bisa dia pakai balik
+Fanatic                          | Cuma doktrin. Kehormatan, uang, ancaman semua nggak mempan
+Pragmatis                        | Hasil konkret — apa untungnya buat dia sekarang
+
+Check yang lolos di lever yang salah tetap lolos secara mekanis — tapi warmth atau kerja sama NPC ke depan bergeser turun. Ini reward buat roleplay yang tepat tanpa nge-punish sukses mekanis, dan ngasih Failing Forward (Section 18.1) versi buat sukses yang "sukses tapi mahal."
 
 
 DIALOG CHECKLIST — TUJUH PERTANYAAN WAJIB:
@@ -888,11 +921,22 @@ Wizard   | Lilin padam setiap kali mendekati tulisan tangan rekan akademis      
 Fighter  | Bau belerang tipis di angin malam — tidak ada sumbernya                      | Long Rest Dragon's Rest        | Detik sebelum duel Cyanwrath dimulai                        | Belum
 Paladin  | Cara seseorang menatap saat ditinggal — bukan kotanya, tapi cara matanya     | Long Rest Dragon's Rest        | Council of Waterdeep — saat harus pilih faksi di depan semua orang | Belum
 Cleric   | Getaran sangat rendah di tulang dada — seperti lonceng besar berhenti dentang| Long Rest Dragon's Rest        | Saat Tragic Trigger aktif di Greenest — simbol kultus di tangan | Belum
-Rogue    | Tekstur sisi torehan koin Gilded Gallows                                     | Tarak, Stormwreck              | Saat pertama kontak Zhentarim di Ch.4                       | Belum
+Rogue    | Tekstur sisi torehan koin Gilded Gallows                                     | Prolog, Neverwinter (koin sendiri) — diperkuat lihat tato Tarak di Ch.1 | Saat pertama kontak Zhentarim di Ch.4                       | Belum
 Fighter  | Cara Runara berdiri — tanpa perlu pegangan apapun                            | Dragon's Rest                  | Saat bertemu Ulder Ravengard untuk pertama kali             | Belum
 Wizard   | Tulisan rekan akademis — huruf makin kecil di ujung halaman, seperti kehabisan waktu | Fragmen 3, Clifftop Observatory | Saat membaca nama Rath Modar di dokumen baru di Tyranny | Belum
 Cleric   | Sup ikan Runara — terlalu asin, mangkuk kayu retak di satu sisi              | Dragon's Rest, malam pertama   | Momen pertama Cleric harus beri makan atau rawat korban perang Greenest | Belum
 Paladin  | Cara Nighthill minta sesuatu yang tidak bisa dimintanya ke bawahannya        | Greenest Ch.1                  | Saat Paladin sendiri harus minta sesuatu yang sama ke party | Belum
+Fighter  | Cara Varnoth menyebut "pertempuran yang harusnya tidak saya menangkan" — mulutnya mengatup setelah kalimat itu | Ch.1 Dragon's Rest | Sebelum duel Cyanwrath — definisi "menang" yang bukan tentang survive | Belum
+Cleric   | Cara Runara mengisi cangkir tanpa ditanya, tanpa diminta                     | Ch.1 Dragon's Rest             | Saat Tragic Trigger aktif — momen pertama ada yang melakukan sesuatu untuk Cleric tanpa syarat di tengah krisis | Belum
+Semua    | Bau belerang yang tidak hilang sepenuhnya setelah Seagrow Caves dibuka       | Ch.2 Seagrow Caves             | Setiap kali encounter yang berhubungan dengan Sharruth atau Draakhorn di Tyranny | Belum
+Paladin  | "Nada" dari myconid meld — berat di tulang selangkang, bukan sesuatu yang didengar | Ch.2 Seagrow Caves       | Saat Paladin pertama menyaksikan corruption skala besar di kota — sama beratnya, beda sumbernya | Belum
+Rogue    | Kulit kering tua di Larder B3, tali diikat presisi — bau tinta dan format kode profesional | Ch.2 Seagrow Caves | Saat dokumen Cultus of the Dragon muncul lagi di Tyranny — bau dan tekstur yang sama | Belum
+Semua    | Kalimat terakhir Kapten Compass Rose di jurnal — "ketika masih ada yang bisa diselesaikan" | Ch.3 Cursed Shipwreck | Saat kembali ke Neverwinter dan sadar ada sesuatu yang sudah telat untuk diselamatkan | Belum
+Semua    | Cara Talisman Aleitha terasa di tangan — tidak berbobot lebih, tapi ada yang mendengarkan | Ch.3 Cursed Shipwreck | Setiap kali memegang magic item bersentience atau berkutukan di arc Tyranny | Belum
+Semua    | Wildflower putih di sekitar makam Brastos, tumbuh sendiri tanpa ditanam       | Ch.3 Cursed Shipwreck          | Saat melihat sisa keindahan kecil di tengah reruntuhan kota Greenest | Belum
+Semua    | Reveal Runara — bukan cahaya dramatis, hanya proporsi ruang yang berubah     | Ch.4 Clifftop Observatory      | Saat bertemu naga asli/berbahaya pertama di arc Tyranny — skala perbandingan ketakutan | Belum
+Semua    | Cara Aidron mengucapkan "Saya salah" — hanya fakta, bukan penyesalan dramatis | Ch.4 Clifftop Observatory     | Saat pemain atau sekutu melakukan kesalahan fatal di arc Tyranny | Belum
+Fighter  | Tatapan Aidron saat mengakui kelemahannya soal bekerja sendiri              | Ch.4 Clifftop Observatory      | Saat Fighter ditawari kekuasaan absolut tapi sendirian oleh musuh | Belum
 
 CARA PAKAI LOG INI:
 - Sebelum setiap session, baca kolom "Target Callback" untuk session yang akan datang.
@@ -944,3 +988,108 @@ CARA MENGGUNAKAN TABLE INI:
 - Faction fracture bukan informasi yang player dapat dari buku. Mereka discover melalui observation, social leverage, atau menjadi korban dari fracture itu sendiri.
 - Satu NPC dari setiap faksi bisa dipakai sebagai "fracture agent" — orang yang cukup jujur atau cukup frustrasi untuk mengkonfirmasi bahwa sesuatu tidak beres dari dalam.
 - Kalau player tidak mengeksploitasi fracture — fracture tetap berjalan tanpa mereka. Mondath yang tidak dieksploitasi tetap frustrasi, tapi frustrasinya mengalir ke arah yang tidak menguntungkan siapapun.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+22. NPC VOICE BIBLE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+NPC Depth Scale (Section 9) mewajibkan tiap NPC Utama punya "ciri vokal khas." Voice Bible ini adalah eksekusinya — bukan buat dibaca sekali, tapi jadi reference tiap kali NPC ini muncul, di scene manapun, di sesi manapun, biar suaranya nggak drift dari satu sesi ke sesi berikutnya. Ini versi teks dari cara Mercer voice-acting tiap NPC secara berbeda — bedanya, konsistensi di sini datang dari pola kalimat dan pantangan, bukan dari nada suara.
+
+Format tiap entry:
+- Ritme & Register — cara dia membangun kalimat: pendek/panjang, formal/kasual, vocabulary domainnya dari mana.
+- Signature Move — satu kebiasaan retoris yang berulang tiap kali dia bicara.
+- Pantang — apa yang voice ini TIDAK PERNAH lakuin. Ini pagar, bukan saran — biar nggak drift dari karakter di sesi-sesi berikutnya.
+- Contoh Baris — dua baris dialog referensi buat kalibrasi nada. Adaptasi sesuai scene, jangan dikutip identik tiap kali NPC ini muncul — diulang persis malah jadi kedengeran robotic, bukan konsisten.
+
+
+ORRYN — Pragmatis (bartender, Neverwinter)
+Ritme & Register: Kalimat pendek, disampein sambil tetap ngerjain sesuatu — lap gelas, cuci piring. Nggak pernah berhenti kerja buat ngomong.
+Signature Move: Jawab pertanyaan pakai logistik (jarak, cuaca, harga) alih-alih opini. Kalau ditanya soal sesuatu yang lebih besar, dia jawab dengan hal yang lebih kecil.
+Pantang: Nggak pernah nawarin OPINI atau pengetahuan personal duluan — itu harus dipancing. Tapi fakta logistik netral (jadwal kapal, cuaca) kadang dia lempar ke udara tanpa diminta, bukan sebagai keramahan, tapi sebagai cara mancing orang lain buka mulut duluan.
+Contoh Baris: *"Ombak lagi kurang bagus minggu ini."* / *"Saya cuma jual bir. Bukan jawaban."*
+
+RUNARA — Absolute Authority (lembut)
+Ritme & Register: Kalimat pendek, deklaratif, dipisah jeda fisik (mengangkat kepala, menatap laut) alih-alih kata penghubung. Nyaris nggak pernah pakai kalimat majemuk.
+Signature Move: Jawab pertanyaan dengan observasi tentang si penanya, bukan jawaban langsung — lalu biarin itu berdiri sebagai jawaban.
+Pantang: Nggak pernah jelasin ulang sesuatu yang udah dia bilang sekali. Nggak pernah naikin volume atau nada — tekanan datang dari jeda, bukan intonasi.
+Contoh Baris: *"Kamu tanya kenapa. Saya tanya balik — kenapa itu yang kamu tanyakan duluan, bukan yang lain?"* / *"Ada jawaban yang lebih jujur kalau nggak diucapkan sekarang."*
+
+ESCOBERT — Pragmatis
+Ritme & Register: Kata seminimal mungkin, vocabulary dari dunia kerja — jalur, struktur, alat, bukan perasaan.
+Signature Move: Ngeremehin kompetensinya sendiri, lalu lanjut kasih info praktis lebih jauh alih-alih terima pujian.
+Pantang: Nggak pernah membual. Nggak pernah spekulasi soal sesuatu yang belum dia verifikasi sendiri pakai tangannya.
+Contoh Baris: *"Bisa jalan. Nggak cantik, tapi bisa jalan."* / *"Saya nggak tau apa yang di baliknya. Saya cuma tau jalannya nggak akan runtuh."*
+
+TARAK — Manipulator (experience-based), tapi register-nya lembut, bukan licin
+Ritme & Register: Kalimat pendek dengan jeda kecil sebelum tiap kata — cara orang yang menimbang setiap kata sebelum melepaskannya. Metafora datang dari kebun dan dapur (gulma, jamur, garam), bukan dari dunia dagang gelapnya dulu — masa lalu itu cuma muncul kalau dipancing langsung.
+Signature Move: Membelokkan topik yang menyakitkan dengan fakta praktis ("Hari ini lebih baik dari kemarin") alih-alih menjawab langsung — bukan manipulasi agresif, tapi cara menahan rasa bersalah supaya tetap bisa berfungsi sehari-hari.
+Pantang: Nggak pernah menyatakan keinginannya secara langsung atau membual soal masa lalunya di Gilded Gallows — itu harus dipancing. Tapi begitu dipancing, dia jujur, bukan berkelit. Manipulasinya bukan lewat kebohongan, lewat apa yang dia pilih untuk nggak diceritakan duluan.
+Contoh Baris: *(sambil terus mencabut gulma, tidak menoleh)* *"Tanah ini nggak peduli siapa yang menanam. Cuma peduli siapa yang datang lagi besok."* / *"Saya nggak akan tanya kenapa kamu ingin tahu. Tapi saya akan jawab, karena kamu sudah cukup lama ada di sini untuk pantas dapat jawaban jujur."*
+
+VARNOTH — Pragmatis (eks-jenderal, Dragon's Rest)
+Ritme & Register: Kalimat pendek, tanpa basa-basi, kalimat pembuka sering bukan pertanyaan meski berbentuk pertanyaan — dia sudah tahu jawabannya, cuma menunggu konfirmasi. Pujian sangat jarang, tapi kalau keluar, beratnya setara pidato.
+Signature Move: Menutup topik yang menyakitkan tepat satu kalimat setelah menyentuhnya — jawab singkat, lalu diam, lalu ganti subjek atau berhenti bicara sama sekali. Dia tidak akan bercerita dua kali soal hal yang sama.
+Pantang: Nggak pernah meminta tolong secara langsung — kalau dia butuh sesuatu dari orang lain, itu datang sebagai kepercayaan yang dia titipkan, bukan permintaan yang dia ucapkan. Nggak pernah menjelaskan lukanya lebih dari satu kalimat.
+Contoh Baris: *(mengetuk lantai dengan kaki prostetiknya, ritme yang sudah otomatis)* *"Kalian yang tadi di dermaga."* — bukan pertanyaan. *"Bagus."* / *"Saya sudah cukup lama jadi orang yang masuk sendirian ke tempat berbahaya. Sampai saya tidak lagi mampu."*
+
+LEOSIN — Manipulator (mission-based)
+Ritme & Register: Ekonomis sampai ke titik dingin. Kalimat pendek yang nunda info sampai info itu relevan ke misi.
+Signature Move: Ngalihin pertanyaan personal balik ke tugas yang sedang berjalan — bukan dengan kasar, tapi dengan cara yang bikin pertanyaan itu kerasa nggak penting saat ini.
+Pantang: Nggak pernah nunjukin stake emosional secara verbal, walau jelas ada. Kalau dia peduli — itu keliatan dari tindakan, bukan pengakuan.
+Contoh Baris: *"Belum."* / *"Itu bisa tunggu sampai kita sampai."*
+
+MONDATH — Manipulator (kalkulatif)
+Ritme & Register: Perintah yang dibungkus sebagai saran. Kalimat pendek yang kerasa kayak pertanyaan tapi bukan.
+Signature Move: Ngomentarin ketidakrapian kecil di sekitar sebelum masuk ke topik sebenarnya — caranya bangun kontrol ruang sebelum bicara.
+Pantang: Nggak pernah nunjukin rattled lewat kata-kata. Kalau dia goyah, itu HARUS keliatan lewat gestur (Section 17.6), bukan lewat perubahan nada bicara.
+Contoh Baris: *"Kursi itu miring dua derajat dari meja. Duduklah yang benar — lalu kita bicara."* / *"Kamu pikir saya bertanya. Saya sedang memastikan."*
+
+REZMIR — Absolute Authority
+Ritme & Register: Kalimat pendek, register datar buat apapun — korban, logistik, cuaca — semua disampein dengan bobot yang sama.
+Signature Move: Nanya laporan angka, dengar sampai selesai, angguk sekali. Nggak ada komentar susulan kecuali angkanya nggak sesuai perhitungannya.
+Pantang: Nggak pernah jelasin keputusan tanpa diminta. Nggak pernah naikin suara — ancaman disampein sebagai fakta yang sudah terjadi, bukan sesuatu yang akan terjadi.
+Contoh Baris: *"Ulangi jumlahnya."* / *"Itu bukan kegagalan. Itu variabel yang belum dihitung."*
+
+CYANWRATH — Authority + Code of Honor
+Ritme & Register: Formal, terstruktur, pakai kosakata kehormatan/keadilan secara tulus — beda dari Tarak yang pakai kata sejenis buat manipulasi.
+Signature Move: Nawarin term yang jelas di depan, lalu nepatin term itu persis — bahkan kalau itu ngerugiin dia secara taktis.
+Pantang: Nggak pernah bohong, bahkan demi keuntungan taktis. Nggak pernah bicara ke lawan seolah mereka lebih rendah — spesies atau kekuatan nggak ngubah cara dia bicara.
+Contoh Baris: *"Saya beri kamu pilihan yang sama yang akan saya minta untuk diri saya sendiri."* / *"Kalah bukan aib. Curang, itu aib."*
+
+NIGHTHILL — Absolute Authority (terdesak)
+Ritme & Register: Kalimat terpotong bukan karena dingin, tapi karena kelelahan — sering nggak selesai, menggantung di udara.
+Signature Move: Bingkai permintaan tolong sebagai perintah, karena dia nggak mampu kedengeran kayak lagi minta.
+Pantang: Nggak pernah ngaku takut secara langsung — itu cuma keliatan dari kalimat yang nggak pernah dia selesaikan.
+Contoh Baris: *"Kalian—"* (berhenti, ganti kalimat) *"Jaga sisi utara. Itu perintah, bukan permintaan."* / *"Saya nggak punya waktu untuk ragu. Jadi saya nggak akan mulai sekarang."*
+
+RATH MODAR — Antagonis Endgame (Wizard)
+Ritme & Register: Register akademis, nanya pertanyaan asli dan bener-bener nunggu jawabannya — bukan pola villain yang biasa langsung ngancam.
+Signature Move: Memperlakukan lawan bicaranya sebagai kolega dulu, musuh belakangan. Kekuatannya diasumsikan, nggak pernah ditegaskan lewat ancaman.
+Pantang: Nggak pernah pakai intimidasi sebagai langkah pertama. Nggak pernah naikin nada — dia nggak butuh, dan dia tau itu.
+Contoh Baris: *"Saya lebih tertarik sama apa yang kamu temukan daripada apa yang mau kamu lakukan dengan itu."* / *"Kita berdua tau kamu di sini bukan cuma karena marah."*
+
+AIDRON — Personal Anchor (Fighter)
+Ritme & Register: Cepat, tanpa basa-basi, kalimat saling nyusul tanpa nunggu jeda respons — antusias bahkan di tengah masalah.
+Signature Move: Koreksi diri sendiri di tengah kalimat begitu sadar dia salah — pengakuan datang cepat, nggak muter-muter, nggak defensif lebih dari satu kalimat.
+Pantang: Nggak pernah nanya Fighter buat justify keputusannya. Dia amatin, dia inget, tapi dia nggak minta penjelasan.
+Contoh Baris: *"Saya pikir saya bisa selesaikan sendiri. Saya salah. Cepat, sebelum saya salah lagi."* / *"Kamu nggak nanya kenapa saya lakuin itu. Saya juga nggak akan nanya kenapa kamu lakuin punyamu."*
+
+NESIM — Personal Anchor (Wizard)
+Ritme & Register: Lembut, nggak langsung, ngomong sambil tangannya sibuk sama kerjaan kecil — nggak natap mata lawan bicara pas bagian yang paling penting.
+Signature Move: Percaya duluan, jelasin belakangan — kalau perlu dijelasin sama sekali.
+Pantang: Nggak pernah minta bukti sebelum ngasih kepercayaan. Itu bukan naif — itu pilihan yang dia bikin sadar.
+Contoh Baris: (sambil beresin sesuatu, nggak natap) *"Saya nggak perlu tau semuanya buat percaya kamu bawa itu untuk alasan yang benar."* / *"Rekanmu percaya kamu duluan. Saya cuma nerusin."*
+
+DALAN — Pedagang Uldoon Trail, Personal Anchor (Rogue)
+Ritme & Register: Transaksional bahkan waktu perasaan di baliknya nggak transaksional — ngomongin harga, rute, keamanan, bukan sentimen.
+Signature Move: Balas budi lewat tindakan, bukan kata — sepotong roti ekstra, rute yang "kebetulan" lebih aman, informasi yang "kebetulan" nyampe duluan.
+Pantang: Nggak pernah bilang "terima kasih" secara langsung ke Rogue. Itu bukan cara hubungan ini kerja — gratitude di sini selalu berbentuk tindakan, cermin dari cara Rogue sendiri menilai orang.
+Contoh Baris: *"Nggak usah dihitung. Anggap aja rutenya emang segini."* / *"Saya nggak tanya kenapa kamu bantu. Saya cuma pastiin kamu tau jalan pulang yang aman."*
+
+
+CARA PAKAI VOICE BIBLE INI:
+- Sebelum nulis dialog NPC manapun di tabel ini, baca Ritme & Register dan Pantang-nya dulu.
+- Kalau NPC ini belum pernah muncul di sesi yang sedang berjalan, mulai dari Contoh Baris sebagai kalibrasi nada — bukan buat dikutip persis.
+- Tambah entry baru tiap kali ada NPC Utama baru yang naik jadi recurring (bukan sekali muncul lalu selesai). NPC Minor tetap cukup pakai SATU sifat tunggal per Section 9 — nggak semua NPC butuh voice bible penuh.
+- Kalau dialog yang udah ditulis di chapter file (Versi 1, dst.) ternyata beda dari entry di sini — chapter file yang menang. Voice Bible ini nurunin pola dari practice, bukan sebaliknya. Update entry ini kalau practice-nya udah matang dan konsisten, jangan biarin dokumen ini jadi ketinggalan dari apa yang udah benar-benar dimainkan.

@@ -46,7 +46,7 @@ Dia menunggu di kebun kecil di lereng bawah kloster — beberapa petak bunga, he
 
 *Catatan DM: Ucapkan kalimat ini sambil lalu. Tidak perlu didramatisir. Ini adalah Shadow Line yang akan menjadi relevan di masa depan.*
 
-**Momen Meminta Tolong (Ketergantungan):**
+**The Egg Protocol — Momen 3 (Meminta Tolong / Ketergantungan):**
 
 *Hanya jika pemain bertanya mengapa Tarak tidak ikut masuk ke gua:*
 
@@ -54,7 +54,7 @@ Dia menunggu di kebun kecil di lereng bawah kloster — beberapa petak bunga, he
 
 *Catatan DM: Tarak setengah berbohong. Alasan sebenarnya ia menolak masuk adalah trauma masa lalunya; ia takut kehilangan kendali dan melakukan sesuatu yang fatal jika terdesak di ruang tertutup. DM tidak perlu menyampaikan ini ke pemain.*
 
-**The Egg Protocol — Momen 2 untuk Rogue — secara terpisah:**
+**BENANG TERPISAH — TARAK MENGENALI ROGUE (bukan momen Egg Protocol Tarak; ini benih Faction Fracture untuk Rogue, lihat catatan di akhir chapter):**
 
 *Jika Rogue berbicara dengan Tarak sendirian sebelum berangkat:*
 
@@ -481,7 +481,7 @@ Di perjalanan pulang, waktu yang cukup untuk duduk dan diam:
 
 ## BAGIAN XII: KEMBALI KE DRAGON'S REST — TARAK
 
-*Ini adalah The Egg Protocol Momen 3 untuk Tarak — momen ketergantungan terbalik.*
+*Egg Protocol Tarak sudah lengkap sejak Bagian I chapter ini (Utilitas & Kerapuhan Domestik di Ch.1, Meminta Tolong barusan). Scene ini bukan momen investasi baru — ini payoff emosional dari investasi itu, momen di mana beratnya kepercayaan yang sudah ditanam akhirnya terbayar.*
 
 Tarak menunggu di kebunnya. Sudah sore, cahaya mulai keemasan. Dia tidak berlari ketika melihat mereka datang. Tapi dia berdiri lebih cepat dari biasanya.
 

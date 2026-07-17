@@ -337,6 +337,8 @@ Varnoth menemui satu atau dua karakter yang terlihat sedang mempersiapkan sesuat
 
 *Berikan ini setelah pemain menyatakan karakter mereka tidur. Satu mimpi per karakter, disampaikan pelan.*
 
+*Catatan DM: Ini BUKAN Long Rest (System Instructions §11 — Long Rest pertama baru terjadi setelah Cursed Shipwreck selesai, di Chapter 3). Mimpi malam pertama ini sengaja mirip dengan MIMPI LONG REST DI DRAGON'S REST di §11 — anggap ini gema pertama yang samar dari motif yang sama, bukan pengulangan tidak sengaja. Saat mimpi versi penuh muncul di Chapter 3, biarkan detailnya terasa lebih tajam dan lebih spesifik dari versi malam ini — pemain yang ingat malam pertama akan merasakan sesuatu sudah membangun dirinya sejak awal.*
+
 ---
 
 **CLERIC:**

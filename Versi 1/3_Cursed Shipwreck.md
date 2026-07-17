@@ -568,7 +568,7 @@ Varnoth menemui salah satu pemain di perpustakaan malam itu, atau di tepi kuil.
 
 ---
 
-**Tarak — hari berikutnya (The Egg Protocol — Momen 3: Ketergantungan Terbalik):**
+**Tarak — hari berikutnya (kepercayaan lanjutan; Egg Protocol Tarak sudah lengkap sejak Chapter 2, ini bukan momen investasi baru — ini bukti bahwa kepercayaan itu terus tumbuh):**
 
 *Tarak mencari pemain di kebunnya. Pagi, masih ada embun. Cara dia bekerja sama seperti biasa — membungkuk, tangan di tanah — tapi ada sesuatu berbeda tentang cara dia tidak segera berbicara ketika seseorang mendekat.*
 
