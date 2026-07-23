@@ -265,19 +265,13 @@ Kalau pintu jebol sebelum evakuasi selesai, ini jadi pertarungan brutal melawan 
 
 ---
 
-### MISI TERSEMBUNYI — LEOSIN ERLANTHAR
+### BENANG YANG HILANG — LEOSIN ERLANTHAR
 
-*DM: Ini bisa disisipkan ke misi manapun di atas — paling natural terjadi saat karakter menangkap tawanan atau menyusup dekat kelompok kultis yang lebih besar.*
+*DM: Ini bukan misi yang bisa diselesaikan malam ini — ini benih yang harus tertanam, tidak lebih, agar Chapter 6 (Raider's Camp) punya bobot begitu Nesim muncul.*
 
-Di antara tawanan atau di sudut kamp sementara kultis di dalam kota, seorang pria dalam jubah kotor duduk terikat, wajahnya lebam tapi tenang — terlalu tenang untuk seseorang yang baru ditangkap. Ini **Leosin Erlanthar**, biksu yang menyamar sebagai kultis untuk menyelidiki operasi mereka dari dalam. Dia tertangkap sebelum bisa keluar.
+Di tengah kekacauan, seorang biksu setengah-elf yang selamat dari pertempuran menyebutkan nama sekilas ke siapapun yang bertanya soal orang-orang asing di kota selain warga: seorang biksu lain, **Leosin Erlanthar**, sempat terlihat malam itu — bicara dengan beberapa kultis dengan cara yang terlalu tenang untuk seseorang yang seharusnya ketakutan. Lalu dia menghilang di tengah kekacauan mundurnya penjarah.
 
-Rujuk NPC Voice Bible — Leosin (Manipulator berbasis misi).
-
-> **Leosin:** *(pelan, tidak panik, menilai siapa yang berdiri di depannya sebelum bicara)* "Kalian bukan bagian dari mereka." *(bukan pertanyaan)* "Bagus. Lepaskan ikatan ini sebelum ada yang lihat kalian melakukannya — kita bicara nanti, kalau kita berdua masih hidup untuk itu."
-
-Kalau diselamatkan tanpa membongkar penyamarannya ke kultis yang masih berkeliaran (butuh Stealth atau kecerdikan), Leosin akan sangat berguna nanti sebagai kontak informasi kultus dan penghubung ke Harper. Kalau diselamatkan secara ribut, dia tetap selamat, tapi penyamarannya terbakar — dia tidak akan bisa menyusup lagi, dan mengatakannya terus terang, tanpa menyalahkan siapapun.
-
-> **Leosin:** "Nggak apa. Ada cara lain untuk cari tahu. Selalu ada." *(beat)* "Belum tentu cara yang lebih aman."
+> *DM: Jangan konfirmasi apapun soal Leosin di sini. Cukup biarkan namanya disebut sekali, tanpa penjelasan — sebagai benang yang menggantung. Rekan-rekannya sendiri baru muncul besok pagi, setelah Greenest tenang (lihat Bagian V dan pembuka Chapter 6).*
 
 ---
 
@@ -361,11 +355,9 @@ Dia tidak menjelaskan apa yang dia maksud. Dia hanya menyerahkan sekantung koin 
 
 ### PETUNJUK ARAH BERIKUTNYA
 
-Sebelum party pergi, Leosin (kalau selamat dan penyamarannya belum terbongkar) atau seorang penduduk yang mengikuti arah mundurnya penjarah memberikan informasi: barisan penjarah bergerak ke tenggara, menuju sebuah **kamp** di dekat sungai — kemungkinan tempat mereka menyimpan jarahan dan, kalau rumor tawanan benar, telur-telur naga itu.
+Jejak mundurnya penjarah gampang dilacak — rerumputan yang terinjak lebar membentang ke arah tenggara, menuju wilayah berbukit karang di luar Greenfields. Nighthill ingin tahu siapa dalang di balik semua ini, dan sebuah bayangan wajah familiar akan menemui party besok pagi sebelum mereka berangkat.
 
-> **Leosin:** *(kalau dia ikut)* "Belum." *(saat ditanya apa yang dia tahu)* "Tapi saya tahu ke mana harus mulai mencari tahu. Dan saya nggak akan pergi sendirian kali ini — bukan setelah apa yang baru terjadi."
-
-Party berangkat menuju **Kamp Penjarah** — Raider's Camp.
+Party bersiap menuju **Kamp Penjarah** — Raider's Camp.
 
 ---
 
@@ -419,7 +411,7 @@ Party berangkat menuju **Kamp Penjarah** — Raider's Camp.
 | Linan & Cuth Swift | Commoner | Greenest | Friendly | Keluarga yang diselamatkan di misi pembuka |
 | Tarbaw Nighthill | Human, Gubernur | Greenest Keep | Friendly (terdesak) | Personal Anchor Paladin |
 | Escobert the Red | Dwarf, Castellan | Greenest Keep | Pragmatis, Friendly | Egg Protocol momen #1 — utilitas terowongan |
-| Leosin Erlanthar | Human, biksu menyamar | Greenest (tawanan) | Friendly | Kontak intelijen kultus untuk arc berikutnya |
+| Leosin Erlanthar | Human, biksu menyamar | Hilang sejak malam serangan | — | Tidak ditemukan di Greenest — benang menggantung untuk Chapter 6 |
 | Eadyan Falconmoon | Half-elf, pendeta Chauntea | Kuil Chauntea | Friendly | Kepala dingin, memimpin evakuasi |
 | Frulam Mondath | Human, komandan kultus | Greenest (jarak jauh) | Hostile | Baru terlihat dari jauh; interaksi langsung nanti |
 | Langdedrosa Cyanwrath | Half-blue-dragon | Greenest | Hostile + Kode Kehormatan | Duel satu-lawan-satu; selamat kalau kalah |
