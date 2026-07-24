@@ -35,6 +35,8 @@ Sebuah tembok mengerikan menyambut party begitu naik ke puncak: sepuluh mayat be
 
 Desa Ice Hunters — 20 struktur, dipimpin **Barking Seal** (kepala suku) dan **Bonecarver** (dukun) — menyambut party dengan permusuhan tegang yang tidak biasa untuk suku yang biasanya cuma pemalu, bukan bermusuhan.
 
+> **Barking Seal:** *(berdiri di depan rumahnya, tombak tidak diarahkan tapi juga tidak diturunkan)* "Pergi sekarang, sebelum ada yang melihat kalian bicara dengan kami." *(beat)* "Bukan karena kami benci kalian. Karena kami tahu harganya kalau kalian tinggal."
+
 > *Catatan DM:* Mereka adalah budak ketakutan Arauthator selama beberapa generasi — dipaksa jadi mata dan telinganya di lautan es. Setiap orang yang tinggal di desa ini tahu: siapapun yang membiarkan orang luar menemukan jalan ke gua es berarti hukuman mengerikan untuk seluruh suku.
 
 **Duel Kehormatan:** Kalau party menolak pergi, Barking Seal menawarkan kontes — juara desa **Orcaheart** melawan satu petarung party. Kalau Orcaheart menang, party menyerahkan senjata baja dan pergi selamanya. Kalau party menang, mereka diterima semalam di desa dan Bonecarver menjawab pertanyaan mereka.
@@ -43,7 +45,11 @@ Desa Ice Hunters — 20 struktur, dipimpin **Barking Seal** (kepala suku) dan **
 
 **Kalau Orcaheart kalah:** Ice Hunters "menghormati" janji mereka — menawarkan gubuk gudang sebagai tempat tidur, dan Bonecarver membawa piring ikan mentah yang sedikit busuk. **Ikan ini beracun** (DC 13 Perception untuk mencium/merasakan ada yang salah, atau DC 16 Investigation untuk menyadari pola kecurigaan dari perlakuan Bonecarver) — DC 15 Con save atau 3d8 poison damage + pingsan 8 jam.
 
-**Membujuk Bonecarver:** Dengan roleplay efektif dan **DC 15 Persuasion** (advantage untuk karakter yang jujur memahami kepercayaan totem-nya), Bonecarver bertemu diam-diam dan mengungkap kebenaran penderitaan sukunya. Dia sudah lama bermimpi ada pahlawan yang cukup kuat mengalahkan naga itu — tapi tidak berani mempertaruhkan nyawa sukunya sendiri. Dia menunjukkan jalan masuk ke gua es dan menjelaskan yang dia tahu, termasuk keberadaan "wanita bertanduk" (Maccath).
+**Membujuk Bonecarver:** Dengan roleplay efektif dan **DC 15 Persuasion** (advantage untuk karakter yang jujur memahami kepercayaan totem-nya), Bonecarver bertemu diam-diam dan mengungkap kebenaran penderitaan sukunya.
+
+> **Bonecarver:** *(suara pelan, seperti mengaku dosa)* "Saya sudah dengar orang-orang seperti kalian datang dari jauh untuk hal-hal yang tidak masuk akal buat kami." *(beat)* "Saya sudah lama berharap salah satunya akhirnya cukup nekat untuk benar-benar mencoba."
+
+Dia sudah lama bermimpi ada pahlawan yang cukup kuat mengalahkan naga itu — tapi tidak berani mempertaruhkan nyawa sukunya sendiri. Dia menunjukkan jalan masuk ke gua es dan menjelaskan yang dia tahu, termasuk keberadaan "wanita bertanduk" (Maccath).
 
 ---
 
@@ -53,7 +59,7 @@ Turun dari desa, udara berubah lagi — dari dingin terbuka jadi dingin yang ter
 
 **Maccath the Crimson** ditemukan di sebuah tenda aneh di tengah gua — tawanan yang, meski disekap, terobsesi menyelesaikan terjemahan tulisan sihir curian Arauthator dari Hosttower of the Arcane. Dia menawarkan kesepakatan: dia tidak akan pergi tanpa membawa properti Arcane Brotherhood yang bisa diselamatkan.
 
-> **Maccath:** *(menengadah dari meja tulisnya, ekspresi datar acuh)* "Kalian datang untuk menyelamatkan saya, atau membunuh saya? Toh nggak akan banyak beda antara keduanya."
+> **Maccath:** *(menengadah dari meja tulisnya, tidak benar-benar berhenti membaca)* "Kalian datang untuk menyelamatkan saya, atau untuk mengambil kembali yang dicuri dari Menara?" *(beat)* "Jawab jujur. Saya cuma peduli yang mana yang sebenarnya bawa kalian kemari."
 
 Dia memberi info krusial: lokasi Arauthator, tata letak umum sarangnya, dan konfirmasi bahwa **Draakhorn pernah ada di sini** — enam bulan lalu, sekelompok manusia berjubah kultus datang bernegosiasi dengan Arauthator dan membawanya pergi.
 

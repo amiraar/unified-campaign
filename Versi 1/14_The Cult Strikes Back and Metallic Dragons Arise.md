@@ -115,7 +115,7 @@ Untuk mengamankan kerja sama naga metalik, minimal **tiga dari lima naga** harus
 
 ### ILEUTHRA (Naga Kuningan)
 
-> **Ileuthra:** "Saya sudah lama mengamati ras-ras kecil. Pertanyaannya bukan apakah mereka pantas dibantu — pertanyaannya apakah kalian, duta ini, bisa dipercaya memimpin faksi-faksi itu."
+> **Ileuthra:** *(condong maju sedikit, nadanya lebih ingin tahu daripada menghakimi)* "Saya sudah cukup lama mengamati ras-ras kecil untuk tahu ini bukan soal siapa yang pantas dibantu." *(beat)* "Yang belum ada yang bisa jawab memuaskan buat saya — apakah kalian, duta ini, yang bisa dipercaya memimpin faksi-faksi itu ketika semuanya berantakan. Jadi. Yakinkan saya."
 
 **Sikap awal:** Netral, benar-benar belum memutuskan.
 

@@ -45,10 +45,12 @@ Dia menunggu di kebun kecil di lereng bawah kloster — beberapa petak bunga, he
 
 > "Ada octopus di pintu masuk. Besar. Sudah mati tapi bergerak. Sinensa yang membuatnya." *(berhenti)* "Artinya situasinya buruk cukup sampai dia mengambil tindakan itu sebelum tidak sadar."
 
+*Dia diam sejenak, menatap ke arah gua seperti mengenali sesuatu yang tidak dia harapkan untuk dikenali.*
+
 *Catatan DM: Perhatikan cara Tarak selalu menyebut "Sinensa", bukan "pemimpin myconid". Ini menunjukkan kedekatan personal.*
 
-*Catatan DM — Shadow Line Tarak (diucapkan saat ia berdiri membersihkan tangannya):*
-> **Tarak:** *(melihat ke selatan, tidak menatap pemain)* "Saya sudah terlalu lama berharap orang lain tidak harus menanggung akibat dari pilihan saya."
+*Catatan DM — Shadow Line Tarak (diucapkan pelan, nyaris ke dirinya sendiri, saat ia berdiri membersihkan tangannya):*
+> **Tarak:** *(melihat ke selatan, tidak menatap pemain)* "Sinensa buat pilihan itu supaya murid-muridnya tidak perlu menanggung akibatnya sendiri." *(beat)* "Saya sudah terlalu lama berharap orang lain tidak harus menanggung akibat dari pilihan saya."
 
 *Catatan DM: Ucapkan kalimat ini sambil lalu. Tidak perlu didramatisir. Ini adalah Shadow Line yang akan menjadi relevan di masa depan.*
 

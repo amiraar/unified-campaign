@@ -52,6 +52,10 @@ Lantai kaldera diselimuti tumpukan tulang naga — tempat naga sekarat datang ma
 
 **Naergoth Bladelord**, wight yang dulu memimpin situs ini di era dracolich sebelum Sang Arsitek berkuasa — sekarang tersisih, tapi tetap setia meski takut Sang Ratu akan menghancurkan kultus yang membebaskannya. Bisa jadi encounter roleplay yang kaya, atau bantuan tak terduga kalau party membaca kepedihannya dengan tepat.
 
+> **Naergoth Bladelord:** *(suara kering, menatap ke arah kuil yang menjulang, bukan ke party)* "Saya memimpin tempat ini waktu masih ada yang tersisa untuk dipimpin." *(beat)* "Sekarang saya cuma penjaga gerbang untuk sesuatu yang akan memakan semua orang yang membangunkannya — termasuk saya."
+
+*Catatan DM: Kalau party menawarkan jalan keluar untuknya — bukan pengampunan, cuma pengakuan bahwa dia juga korban dari sesuatu yang lebih besar — dia bisa jadi bantuan tak terduga (info soal jalur dalam kuil, atau mengalihkan penjaga). Kalau party menyerangnya tanpa basa-basi, dia bertarung sampai musnah, karena itu satu-satunya hal yang tersisa untuknya untuk lakukan dengan benar.*
+
 **Draakhorn** sendiri (area 8) — tanduk kuno milik konsort naga merah purba Sang Ratu, digantung rantai, diselubungi rune Draconic yang berpijar ungu. Dijaga air elemental dan stone golem. Siapapun dalam radius 20 kaki pintu harus **DC 18 Strength** untuk terus maju melawan tekanan suaranya; yang masuk ruangan jadi tuli sementara.
 
 **Jalan masuk terlupakan** (area 3): umber hulk secara tidak sengaja menggali kembali terowongan yang dikira runtuh 60 tahun lalu — **DC 16 Investigation/Perception** untuk menemukannya, satu-satunya jalan masuk tak terjaga ke kaldera.
@@ -100,7 +104,7 @@ Kalau kuil diserang, Rath Modar menyerahkan bagian ritualnya ke Red Wizard lain 
 >
 > "Di antara kekacauan sihir dan teriakan, Rath Modar berhenti sejenak begitu melihat wajah Wizard. Sepersekian detik, ekspresinya bukan kewaspadaan pertarungan — itu sesuatu yang lebih dekat dengan pengakuan."
 
-> **Rath Modar:** *(tanpa nada mengancam, seolah melanjutkan percakapan yang terputus)* "Kamu masih membawa apa yang dia tinggalkan untukmu." *(beat)* "Saya harap itu sepadan dengan semua ini."
+> **Rath Modar:** *(tanpa nada mengancam, seolah melanjutkan percakapan yang terputus)* "Kamu masih membawa apa yang dia tinggalkan untukmu." *(beat)* "Apa artinya itu buatmu sekarang — sekarang setelah kamu tahu betapa jauh itu bisa membawamu?"
 
 *Catatan DM: Jangan buat ini jadi pidato panjang. Satu kalimat, lalu dia menyerang penuh. Ini bukan permintaan maaf, bukan tawaran gencatan senjata — ini pengakuan terakhir dari satu cendekiawan ke cendekiawan lain, sebelum salah satu dari mereka berhenti eksis. Apapun yang terjadi setelah ini (dia kalah, kabur, atau party membiarkannya pergi), momen ini adalah penutup untuk pertanyaan yang sudah menghantui Wizard sejak Stormwreck: apakah pengetahuan yang dia warisi dari rekan yang mati itu miliknya untuk dipakai, atau titipan yang harus dia pertanggungjawabkan.*
 
@@ -137,6 +141,12 @@ Setelah 10 ronde ritual berhasil difokuskan (lima+ Red Wizard aktif tiap ronde):
 > "Sang Ratu — Mahkota Bersisik, Bayangan Lima Lapis — akan segera keluar sepenuhnya dari kurungannya di Nine Hells dan memasuki dunia."
 
 Kepala-kepalanya muncul satu per satu selama enam ronde (putih, hitam, hijau, biru, merah) — sampai kepala merahnya mengumumkan kemunculan penuh sang Dewi Naga. Sampai ronde keenam, dia cuma bisa menggigit dan memakai breath weapon — ini kesempatan terakhir party melemahkannya lebih jauh.
+
+Begitu kepala merahnya keluar penuh dan lima kepalanya menoleh bersamaan ke arah party untuk pertama kalinya:
+
+> **Sang Ratu:** *(lima suara berbeda, berbicara nyaris bersamaan, tidak selaras — seolah lima pikiran berbagi satu mulut)* "Kalian menghabiskan begitu banyak nyawa untuk sampai ke sini." *(beat)* "Saya akan menghabiskan kalian lebih cepat."
+
+*Catatan DM: Ini SATU-SATUNYA baris yang dia ucapkan sepanjang pertarungan. Jangan tambah dialog lagi setelahnya — bahkan saat dia turun ke 0 HP dan Discorporation aktif, itu terjadi dalam diam, bukan pidato kekalahan. Kalimatnya singkat justru karena dia tidak butuh meyakinkan siapapun tentang apa yang akan terjadi — beda dengan villain manapun sebelumnya di campaign ini, dia tidak tawar-menawar, tidak menjelaskan, tidak marah. Efek lima suara yang tidak selaras itu sendiri sudah cukup mengerikan; jangan deskripsikan lebih jauh dari itu.*
 
 Begitu muncul penuh, dia menghabiskan waktu melahap para pelayannya sendiri — Rath Modar (kalau masih hidup), Red Wizard yang tersisa, lalu Sang Arsitek (atau jasadnya, selama masih memakai mask) — sebelum berbalik ke party.
 
@@ -176,13 +186,17 @@ Ini tidak harus mengakhiri campaign. Party mungkin selamat untuk melanjutkan per
 
 Kalau arc-nya selesai (Tragic Trigger Greenest dihadapi dengan integritas), Ontharr Frume (atau penerusnya) menawarkan posisi **Komandan garda depan Order of the Gauntlet** — bukan sebagai hadiah, tapi sebagai pengakuan bahwa Cleric sudah membuktikan bedanya antara melayani tuhan dan sekadar mengelola konsekuensi-Nya.
 
+Kalau sebaliknya — Sella tidak terselamatkan, atau Cleric memilih jalan yang lebih mudah waktu itu — Ontharr tidak menariknya keluar dari Order, tapi juga tidak menawarkan komando apapun. Dia cuma bilang, jujur, tanpa menghakimi: sudah waktunya Cleric duduk dengan pertanyaan yang belum terjawab itu, bukan lari mengejar posisi berikutnya. Bukan hukuman — undangan untuk introspeksi yang sama beratnya dengan komando yang tidak jadi ditawarkan.
+
 > *Catatan DM:* Panggil kembali sup ikan Runara yang terlalu asin dari Dragon's Rest — kalau Cleric pernah merawat korban perang dengan cara yang sama sederhananya, biarkan echo itu muncul di sini, di tengah reruntuhan Well of Dragons.
 
 ### FIGHTER — LORDS' ALLIANCE
 
 Ulder Ravengard, kalau kesan pertama di Council of Waterdeep bertahan lewat seluruh campaign, menawarkan Fighter posisi pemimpin militer permanen Lords' Alliance — bukan cuma karena kemampuan bertarung, tapi karena analisis taktis yang sudah terbukti berkali-kali.
 
-> *Catatan DM:* Panggil kembali momen doa Cyanwrath di Greenest. Apapun keputusan Fighter waktu itu, ini saatnya makna keputusan itu terasa penuh — dalam cara dia memimpin, dalam cara pasukan mempercayainya.
+Kalau kesan itu tidak bertahan — Ravengard meragukan penilaian Fighter di titik manapun setelah Council of Waterdeep — dia tetap menghormati Fighter sebagai prajurit, tapi posisi itu jatuh ke perwira karir lain. Dia bilang ini di depan pasukannya, singkat, tanpa basa-basi: Fighter sudah berjasa, dan itu sudah cukup — bukan penghinaan, tapi juga bukan pengangkatan.
+
+> *Catatan DM:* Panggil kembali momen doa Cyanwrath di Greenest — apapun keputusan Fighter waktu itu, biarkan maknanya terasa penuh di cara dia memimpin atau bertarung sekarang. Lalu, terpisah, panggil Aidron — satu-satunya orang yang pernah melihat Fighter membuat keputusan yang tak terjelaskan tanpa pernah meminta alasan. Kalau dia masih hidup, satu pesan pendek darinya sampai di tengah kesibukan pasca-pertempuran — bukan pujian panjang, cuma satu baris yang persis caranya: *"Dengar kalian menang. Saya nggak kaget — saya cuma... oke, saya agak kaget. Sedikit. Jangan pernah bilang saya bilang begitu."* Kalau dia sudah tiada di titik manapun sepanjang campaign, biarkan keheningan itu sendiri jadi penutupnya — Fighter tahu dia akan bangga, karena di antara mereka berdua, tidak pernah ada yang perlu dijelaskan.
 
 ### WIZARD — WARISAN PENGETAHUAN
 
@@ -191,6 +205,10 @@ Dengan Rath Modar kalah atau kabur, dan trilogi Red Wizards (Azbara Jos → Rath
 > *Catatan DM:* Ini bercabang tergantung apa yang Wizard lakukan dengan pengetahuan itu di Castle in the Clouds (Ch.10). **Kalau dia memakainya secara terbuka untuk mengonfrontasi Rath Modar** ("Kamu masih membawa apa yang dia tinggalkan untukmu"), jawabannya di sini datang lewat kepastian — dia sudah membuktikan pengetahuan itu berguna dan dia layak menanggungnya. **Kalau dia memilih menyembunyikannya sepanjang campaign**, jawabannya datang lebih pelan — bukan lewat konfrontasi besar, tapi lewat momen sepi begini, di reruntuhan, di mana akhirnya tidak ada lagi yang perlu disembunyikan. Kedua jalur valid; jangan buat yang menyembunyikan terasa seperti pilihan yang salah.
 
 > Panggil kembali lilin yang padam tiap kali Wizard mendekati tulisan tangan rekannya (Dragon's Rest). Di epilog ini, biarkan lilin menyala penuh untuk pertama kalinya — detail kecil, tidak perlu dijelaskan, cukup ada.
+
+> Panggil juga momen ketiga Nesim yang ditanam sejak Raider's Camp (Ch.6) — Meminta Tolong — yang sampai titik ini belum pernah datang. Kalau ada celah waktu yang masuk akal (surat yang menyusul, atau Nesim sendiri hadir untuk membantu mendokumentasikan reruntuhan), inilah saatnya dia akhirnya minta sesuatu dari Wizard secara langsung — bukan kepercayaan lagi, itu sudah lama selesai, tapi permintaan konkret:
+
+> **Nesim:** *(sambil merapikan lembaran-lembaran yang berserakan, tidak menatap)* "Saya nggak pernah minta apa-apa dari kamu selama ini." *(beat)* "Sekarang saya mau. Bantu saya pastikan nama rekanmu ditulis benar di catatan yang akan orang baca seratus tahun lagi — bukan cuma 'seorang rekan yang hilang.'"
 
 ### ROGUE — BAYANGAN YANG DIAKUI
 
@@ -203,6 +221,8 @@ CROWN-7, dilacak sejak Seagrow Caves lewat Greenest, Raider's Camp, Castle Naery
 ### PALADIN — GREY ZONE YANG DIHADAPI
 
 Guest Right Dilemma di Raider's Camp adalah titik pertama Paladin belajar tidak ada pilihan yang bersih. Kalau kode kehormatannya bertahan sepanjang campaign, epilog ini adalah saat dia menyadari: sumpahnya bukan penjara yang mengekangnya — itu satu-satunya hal yang membuatnya tetap jadi dirinya sendiri di tengah dunia yang terus memaksa kompromi.
+
+Kalau sebaliknya — sumpahnya patah di titik manapun, entah di Guest Right Dilemma atau tekanan-tekanan setelahnya — epilog ini bukan tentang pemulihan penuh. Ini tentang keputusan untuk bersumpah ulang, dari nol, dengan tahu persis seberapa mahal harga melanggarnya. Tidak ada NPC yang datang menawarkan pengampunan mudah di sini; ini murni antara Paladin dan sumpah yang dia pilih ucapkan lagi.
 
 > *Catatan DM:* Panggil kembali Corwin, tawanan yang membagi roti kerasnya di Raider's Camp — kalau nasibnya diketahui, sebutkan sekali lagi di sini, sebagai penutup yang tenang.
 

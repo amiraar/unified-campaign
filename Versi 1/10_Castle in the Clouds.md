@@ -124,7 +124,7 @@ Peti terkunci di mejanya menyimpan **Black Dragon Mask**, koleksi pribadi permat
 
 > *Catatan DM:* Kalau party menangkapnya hidup-hidup, dia menolak bekerja sama sepenuhnya, lebih memilih mati daripada menyerah — terutama untuk melindungi mask itu. Dia orang yang benar-benar percaya pada tujuannya. Tapi perhatikan: teleportasi mask cuma terpicu oleh **kematiannya**, bukan oleh kekalahannya. Kalau party melumpuhkannya secara nonlethal (0 HP tanpa pukulan mematikan) atau dia sempat kabur/pingsan sebelum bisa bunuh diri, peti dan mask di dalamnya tetap di tempat — bisa dijarah utuh. Ini satu-satunya jendela di mana Black Dragon Mask benar-benar bisa lolos dari Well of Dragons, dan itu jadi salah satu syarat "Melemahkan Sang Ratu" di Chapter 17.
 
-> **Rezmir (kalau tertangkap):** "Perjuanganmu sia-sia. Sahabat-sahabatku akan melahap kalian, dan usaha kecil menyedihkan kalian untuk menyangkal keagungan Sang Ratu tidak akan berarti apa-apa."
+> **Rezmir (kalau tertangkap):** *(menatap lurus, tanpa nada terancam)* "Kalian menang ronde ini." *(beat)* "Itu bukan hal yang sama dengan menang."
 
 ---
 

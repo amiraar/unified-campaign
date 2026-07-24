@@ -35,6 +35,8 @@ Tanpa disadari kepemimpinan kultus, salah satu peristiwa kunci yang mempercepat 
 
 Dalam duka, Remallia bersumpah menghancurkan kultus — dialah yang menyatukan faksi-faksi ini untuk Council of Waterdeep.
 
+> **Remallia Haventree:** *(suara rata, terlatih menahan diri di depan publik — hanya tangannya yang mengepal terlalu erat di tepi meja mengkhianatinya)* "Saya tidak memanggil kalian semua ke sini untuk berduka bersama saya." *(beat)* "Saya memanggil kalian karena kultus ini pikir kematian satu Lord Bertopeng akan membuat kita takut, bukan bersatu. Mari kita buktikan mereka salah — satu kali saja, sebelum kesempatan itu hilang."
+
 ### DRAAKHORN BERBUNYI
 
 Segera setelah Skyreach Castle jatuh/direbut, operator kultus meniup **Draakhorn** di Well of Dragons yang jauh — relik kuno yang memanggil naga chromatic ke seluruh Faerûn untuk bergabung dengan tujuan mereka.
@@ -92,15 +94,19 @@ Kalau kesan ini kuat, Lords' Alliance membuka akses lebih awal ke sumber daya mi
 
 Ontharr, sekarang delegasi resmi Order of the Gauntlet, menyambut Cleric dengan hangat dan penuh hormat — lebih dari sekadar rekan seperjalanan.
 
-> **Ontharr:** *(menepuk bahu Cleric, lebih pelan dari biasanya)* "Order butuh orang yang tahu bedanya iman yang sejati dan iman yang cuma alasan buat nggak berpikir. Kau sudah tunjukkan yang mana dirimu di Greenest." *(beat)* "Itu bukan pujian kosong. Itu observasi."
+> **Ontharr:** *(menepuk bahu Cleric, lebih pelan dari biasanya, lalu menahan tangannya di situ sebentar)* "Order butuh orang yang tahu bedanya iman yang sejati dan iman yang cuma alasan buat nggak berpikir." *(tersenyum, agak lelah)* "Saya sudah lihat cukup banyak yang salah pilih di antara keduanya untuk tahu kamu pilih yang benar di Greenest."
 
 *Catatan DM: Ini benih untuk endgame Cleric — "Komandan garda depan Order of the Gauntlet." Jangan tawarkan posisi itu secara eksplisit sekarang; biarkan ini jadi undangan implisit yang akan matang di chapter-chapter berikutnya.*
 
 ### MOMEN PALADIN — SIKAP PUBLIK
 
-Di tengah perdebatan delegasi soal cara terbaik menangani kultus, seorang delegasi (pilih sesuai faksi yang paling relevan dengan arc Paladin) langsung bertanya ke Paladin — bukan ke party secara umum.
+Di tengah perdebatan delegasi soal cara terbaik menangani kultus, seorang delegasi (pilih sesuai faksi yang paling relevan dengan arc Paladin — tiap faksi bawa doktrin sendiri, jangan dicampur) langsung bertanya ke Paladin — bukan ke party secara umum.
 
-> **Delegasi:** "Kalian yang katanya mengutamakan kode kehormatan bahkan di tengah perang. Council ini butuh tahu — kalau harus pilih antara menang cepat dan menang bersih, kalian pilih yang mana?"
+> **Delegasi (Order of the Gauntlet):** "Kode kehormatan itu ringan dipegang waktu damai. Council ini mau tahu — masih seringan itu kalau nyawa warga sipil ada di neraca yang sama?"
+>
+> **Delegasi (Lords' Alliance):** *(tanpa basa-basi)* "Saya sudah kubur cukup banyak prajurit karena menunggu cara yang 'bersih'. Kalian pilih cepat, atau saya catat berapa banyak korban tambahan yang kalian pilih sendiri."
+>
+> **Delegasi (Harpers):** *(suara rendah, hampir tidak terdengar delegasi lain)* "Kami nggak butuh pahlawan yang bersih di depan publik. Kami butuh tahu apa yang benar-benar kalian lakukan waktu nggak ada yang lihat."
 
 *Catatan DM: Ini pertanyaan tanpa jawaban aman. Rujuk Guest Right Dilemma di Ch.6 — kalau Paladin sudah membuat pilihan sulit di sana, momen ini adalah kesempatan konsekuensi itu muncul kembali secara politis, bukan cuma personal. Biarkan jawaban Paladin di sini benar-benar berdampak pada bagaimana faksi tertentu (terutama Order of the Gauntlet dan Lords' Alliance) menilai dia ke depan.*
 

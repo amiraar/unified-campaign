@@ -63,6 +63,10 @@ Di bawah kastil, dia menemukan **portal** yang terhubung ke pondok berburu terbe
 - **Bullywug** — dipimpin **Pharblex Spattergoo**, dukun bullywug langka. Berharap Rezmir menyerahkan kastil ke tangannya kalau Tiamat kembali. Membenci Borngray, tapi belum berani bergerak.
 - **Lizardfolk (Scaly Death)** — tanpa pemimpin sejak Pharblex membunuh dukun mereka. Direkrut lewat janji Rezmir soal hadiah dari Voaraghamanthar. Membenci bullywug yang menindas mereka, tapi belum berani memberontak.
 
+> **Dralmorrer Borngray:** *(nada dingin, tidak repot menyembunyikan jijiknya, kalau party bertemu dan sempat bicara dengannya sebelum pertarungan)* "Saya menjaga tempat ini untuk tujuan yang lebih besar dari manusia yang memerintah saya menjaganya." *(beat)* "Itu satu-satunya alasan saya masih di sini."
+
+> **Pharblex Spattergoo:** *(licik, terlalu ramah, kalau party mendekatinya secara terpisah)* "Borngray pikir kastil ini miliknya sampai Sang Ratu datang." *(seringai, condong mendekat)* "Sang Ratu belum datang. Jadi. Siapa yang benar-benar pegang kastil ini sekarang?"
+
 > *Catatan DM:* Borngray dan Pharblex saling benci tapi tahu mereka lebih kuat bersama — begitu pertarungan pecah, mereka bertarung bersama. Lizardfolk, kalau belum direkrut party, cenderung mundur dan biarkan bullywug menanggung beban pertarungan.
 
 ---
@@ -159,7 +163,11 @@ Kalau pertarungan besar meletus di kastil, Rezmir dan Azbara Jos melakukan apapu
 
 Kalau party berhasil mengonfrontasinya secara langsung sebelum dia sempat kabur (jarang, tapi mungkin):
 
-> **Rezmir:** *(menatap datar, tanpa nada terancam)* "Kalian pikir kastil ini penting bagi saya?" *(melangkah mundur perlahan ke arah tangga, tidak terburu-buru)* "Ambil apa yang kalian mau. Ambil semuanya. Ada yang jauh lebih besar sedang bergerak, dan kalian baru saja membuang waktu kalian di sini untuk menghentikan sepotong kecil darinya."
+> **Rezmir:** *(menatap datar, tanpa nada terancam, melangkah mundur perlahan ke arah tangga, tidak terburu-buru)* "Ambil apa yang kalian mau."
+
+*Catatan DM: Rezmir tidak menjelaskan lebih dari itu kecuali didesak — dia tidak butuh meyakinkan siapapun. Kalau ada yang secara spesifik bertanya kenapa dia menyerahkan kastil begitu saja, atau apa yang lebih penting dari ini, baru dia menjawab, tetap singkat:*
+
+> **Rezmir:** "Ini bukan yang saya pertaruhkan semuanya untuk itu."
 
 *Catatan DM: Rezmir TIDAK ingin bertarung sampai mati di sini — dia akan mundur ke portal dengan segala cara. Kalau party memaksa pertarungan, dia bertarung defensif sambil terus bergerak ke arah gerbang, lalu mengucap "Draezir" dan menghilang begitu punya kesempatan. Jangan biarkan dia mati di chapter ini kecuali party benar-benar luar biasa efektif memblokir jalurnya — Rezmir dan Jos bertahan hidup jauh lebih baik untuk arc berikutnya.*
 
@@ -167,7 +175,7 @@ Kalau party berhasil mengonfrontasinya secara langsung sebelum dia sempat kabur 
 
 > *Catatan DM — MOMEN WIZARD:* Ini kesempatan besar untuk Azbara Jos berinteraksi langsung dengan Wizard. Dia ingin tahu seberapa banyak party tahu soal rencana kultus, di mana mereka temukan info itu, siapa lagi yang tahu, dan apa pendapat mereka soal peluang rencana itu berhasil.
 
-> **Azbara Jos:** *(melepas topi wolnya sedikit, memperlihatkan ujung tato yang biasanya disembunyikan — sebuah gestur kepercayaan yang disengaja)* "Saya lebih tertarik sama apa yang kamu temukan daripada apa yang mau kamu lakukan dengan itu." *(beat)* "Kita berdua tau kamu di sini bukan cuma karena marah."
+> **Azbara Jos:** *(melepas topi wolnya sedikit, memperlihatkan ujung tato yang biasanya disembunyikan — sebuah gestur kepercayaan yang disengaja)* "Saya bukan orang yang biasanya diajak bicara soal hal-hal sebesar ini." *(beat)* "Tapi saya diajarin: yang penting bukan seberapa marah orang pas mereka masuk ke sini. Yang penting apa yang mereka bawa pulang." *(melirik ke arah catatan atau dokumen yang dipegang Wizard)* "Jadi. Apa yang kamu temukan?"
 
 Kalau Wizard menyebut nama Rath Modar (dari catatan yang ditemukan di Clifftop Observatory, Ch.4), Jos berhenti sejenak — bukan kaget, tapi menghitung ulang.
 
