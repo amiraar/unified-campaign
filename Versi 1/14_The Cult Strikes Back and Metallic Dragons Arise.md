@@ -174,7 +174,7 @@ Kalau kesepakatan tercapai, Otaaryliakkarnos kembali ke Waterdeep mengabarkan ha
 | Karakter | Detail Sensorik | Kapan Dipanggil Lagi |
 |---|---|---|
 | Semua | Teriakan kultis sekarat — "Para naga bangkit!" | Saat Draakhorn/Well of Dragons disebut lagi di endgame |
-| Semua | "Mask-mask sudah bersatu, panggilan sudah bergema" — dragonsoul serangan kedua | Konfirmasi ulang di briefing sebelum Tiamat's Return |
+| Semua | "Mask-mask sudah bersatu, panggilan sudah bergema" — dragonsoul serangan kedua | Dibacakan ulang di briefing sebelum Tiamat's Return, tapi catat ini sebagai gertakan sombong seorang fanatik yang sekarat, bukan fakta terverifikasi — saat diucapkan, Blue Dragon Mask asli (Ch.15) belum sepenuhnya di tangan kultus. Baru di Ch.17 party benar-benar menyaksikan kelima mask sudah menyatu |
 | Rogue | Reaksi Tazmikella ke reputasi licik (kalau terjadi) | Saat Rogue harus membuktikan kesetiaannya secara konkret di endgame |
 
 ## CATATAN DM — FACTION FRACTURE SEEDS (Kultus Membalas & Naga Metalik)

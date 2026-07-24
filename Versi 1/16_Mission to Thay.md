@@ -95,7 +95,7 @@ Sebelum party sempat bereaksi, lingkaran sihir tersembunyi di lantai menyala —
 
 ## BAGIAN VI — PENUTUP
 
-Kalau misi berhasil, ini memberi keuntungan nyata bagi faksi-faksi di Chapter 17 (Tiamat's Return). Terlepas dari hasilnya, tiap karakter menemukan tulang jari manusia terikat tali usus kering tersembunyi di tas atau saku mereka — masing-masing berfungsi sebagai **scroll of protection (undead)**, diaktifkan dengan mematahkannya jadi dua.
+Kalau misi berhasil, Nyh Ilmichh dan sekelompok Red Wizards Thay loyalis akan hadir langsung di pertempuran akhir Chapter 17 (Tiamat's Return) — berhadapan langsung dengan Red Wizards kultus pimpinan Rath Modar, pengkhianatan yang terasa personal bagi kedua belah pihak. Terlepas dari hasilnya, tiap karakter menemukan tulang jari manusia terikat tali usus kering tersembunyi di tas atau saku mereka — masing-masing berfungsi sebagai **scroll of protection (undead)**, diaktifkan dengan mematahkannya jadi dua.
 
 **Level up narasi:**
 

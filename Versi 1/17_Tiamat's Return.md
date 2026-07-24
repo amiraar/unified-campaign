@@ -28,7 +28,7 @@ Ini adalah akhir dari segalanya — chapter yang harus membuat siapapun yang mem
 
 ## I.1 — TANDA-TANDA AKHIR
 
-Tulang jari terikat tali usus dari Thay masih ada di kantong atau tas mereka masing-masing, belum dipakai — jimat undead yang mungkin akan berguna sekali lagi sebelum semua ini selesai. Empat wyrmspeaker sudah tumbang, kabur, atau berkhianat pada sesama mereka sendiri: Rezmir yang kabur lebih dari sekali, Varram yang jadi tawanan, Neronvain yang terluka dan bersembunyi bersama malunya sendiri, Talis yang kalah tanpa kehormatan. Tersisa satu — dan satu itu bukan sekadar wyrmspeaker lagi. Draakhorn yang dulu cuma getaran samar kini jadi suara jelas dan konstan — kesan malapetaka yang mengambang di udara ke manapun party pergi.
+Tulang jari terikat tali usus dari Thay masih ada di kantong atau tas mereka masing-masing, belum dipakai — jimat undead yang mungkin akan berguna sekali lagi sebelum semua ini selesai. Empat wyrmspeaker sudah tumbang, kabur, atau berkhianat pada sesama mereka sendiri: Rezmir yang kabur lebih dari sekali, Varram yang jadi tawanan, Neronvain yang terluka dan bersembunyi bersama malunya sendiri, dan Galvan yang lolos dari Serangan Ketiga di Chapter 14 dalam keadaan hancur — atau, kalau DM mencatat dia tewas di sana, sudah tumbang duluan. Tersisa satu — dan satu itu bukan sekadar wyrmspeaker lagi. Draakhorn yang dulu cuma getaran samar kini jadi suara jelas dan konstan — kesan malapetaka yang mengambang di udara ke manapun party pergi.
 
 Mata-mata Harper dan Zhentarim (atau tawanan yang diinterogasi sepanjang Chapter 14) melaporkan: persiapan kultus mendekati selesai. Tidak ada jalan mundur dari titik ini.
 
@@ -36,7 +36,7 @@ Mata-mata Harper dan Zhentarim (atau tawanan yang diinterogasi sepanjang Chapter
 >
 > "Seratus mil di segala arah dari Well of Dragons, daratan ini adalah pertanda kelam dari apa yang akan terjadi kalau Sang Ratu bangkit. Desa-desa jadi kota hantu berlumur darah. Setiap ladang jadi reruntuhan hangus. Sedikit orang yang masih hidup di sini semuanya berjalan ke arah berlawanan, mata mereka terus mengawasi langit."
 
-Naga chromatic berpatroli siang-malam. **DC 12 Nature/Survival** untuk bersembunyi tepat waktu.
+Naga chromatic berpatroli siang-malam. **DC 17 Nature/Survival** untuk bersembunyi tepat waktu.
 
 ---
 
@@ -52,9 +52,9 @@ Lantai kaldera diselimuti tumpukan tulang naga — tempat naga sekarat datang ma
 
 **Naergoth Bladelord**, wight yang dulu memimpin situs ini di era dracolich sebelum Sang Arsitek berkuasa — sekarang tersisih, tapi tetap setia meski takut Sang Ratu akan menghancurkan kultus yang membebaskannya. Bisa jadi encounter roleplay yang kaya, atau bantuan tak terduga kalau party membaca kepedihannya dengan tepat.
 
-**Draakhorn** sendiri (area 8) — tanduk kuno milik konsort naga merah purba Sang Ratu, digantung rantai, diselubungi rune Draconic yang berpijar ungu. Dijaga air elemental dan stone golem. Siapapun dalam radius 20 kaki pintu harus **DC 12 Strength** untuk terus maju melawan tekanan suaranya; yang masuk ruangan jadi tuli sementara.
+**Draakhorn** sendiri (area 8) — tanduk kuno milik konsort naga merah purba Sang Ratu, digantung rantai, diselubungi rune Draconic yang berpijar ungu. Dijaga air elemental dan stone golem. Siapapun dalam radius 20 kaki pintu harus **DC 18 Strength** untuk terus maju melawan tekanan suaranya; yang masuk ruangan jadi tuli sementara.
 
-**Jalan masuk terlupakan** (area 3): umber hulk secara tidak sengaja menggali kembali terowongan yang dikira runtuh 60 tahun lalu — **DC 12 Investigation/Perception** untuk menemukannya, satu-satunya jalan masuk tak terjaga ke kaldera.
+**Jalan masuk terlupakan** (area 3): umber hulk secara tidak sengaja menggali kembali terowongan yang dikira runtuh 60 tahun lalu — **DC 16 Investigation/Perception** untuk menemukannya, satu-satunya jalan masuk tak terjaga ke kaldera.
 
 ---
 
@@ -70,7 +70,7 @@ Rujuk **Faction Scorecard** yang sudah dibangun sejak Chapter 11 dan konsesi nag
 | Naga chromatic | Naga metalik |
 | Iblis, raksasa | Iblis sekutu, raksasa sekutu |
 | Kuil Sang Ratu | Skyreach Castle (kalau selamat/direbut) |
-| Red Wizards kultus | Arcane Brotherhood |
+| Red Wizards kultus | Arcane Brotherhood, dan — kalau Mission to Thay (Ch.16) berhasil — Nyh Ilmichh beserta sekelompok Red Wizards Thay loyalis, berhadapan langsung dengan mantan rekan sendiri di pihak kultus |
 
 > *Catatan DM:* Ini bukan pertempuran yang dimainkan kotak-kotak per kotak. Biarkan party merasa mereka membantu merencanakan penempatan pasukan — naga metalik otomatis menyibukkan naga chromatic; Zhentarim paling efektif membunuh pemimpin kultus; Harper unggul di terowongan bawah tanah. Setiap faksi yang GAGAL diyakinkan sepanjang campaign berarti satu potongan kekuatan yang tidak hadir sekarang — biarkan itu terasa sebagai konsekuensi nyata, bukan cuma statistik.
 
@@ -116,7 +116,7 @@ Tindakan party sepanjang campaign — dan di dalam pertempuran ini — bisa mele
 
 - **Ritual terganggu dua ronde berturut-turut** (hitungan reset ke nol).
 - **Mask of the Dragon Queen dihancurkan, atau dilepas dari jasad Sang Arsitek dan dibawa keluar sanctuary.**
-- **Party memegang salah satu dragon mask individual** (misalnya Black Dragon Mask dari Rezmir, kalau diambil di Castle in the Clouds) — atau mencegah satu mask dipakai dalam ritual.
+- **Party sudah mencegah satu dragon mask individual sampai ke Well of Dragons, di chapter sebelumnya** — satu-satunya jalur nyata untuk ini adalah Black Dragon Mask, kalau Rezmir dilumpuhkan nonlethal (bukan dibunuh) di Castle in the Clouds, Ch.10, dan mask-nya dijarah sebelum teleportasi otomatis terpicu. Kalau ini terjadi, Mask of the Dragon Queen yang dikenakan Sang Arsitek sekarang (lihat I.2) sebenarnya cuma fusi dari empat mask, bukan lima — celah yang tidak pernah dia akui di depan siapapun.
 - **Kerusakan parah pada struktur Kuil** (setara earthquake spell atau lebih).
 - **Pengorbanan tawanan di depan kuil dihentikan** — entah lewat menyerang naga penjaga atau memutus alur tawanan lebih awal.
 

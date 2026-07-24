@@ -29,7 +29,7 @@ Hari pertama: berjalan kaki lewat rawa kusut. Jejak lizardfolk yang membawa kont
 
 Kalau tiba sebelum senja, kemah kosong dan aman dijelajahi. Menjelang matahari terbenam, sembilan lizardfolk mendayung tiga kano — mereka dalam perjalanan dari Castle Naerytar ke roadhouse mengambil kontraband. Kalau party memasang api unggun, asapnya tercium dari jauh dan lizardfolk mendekat lebih waspada; kalau tidak, mereka bisa disergap.
 
-Lizardfolk ini tidak mau bernegosiasi atau bicara — mereka diperintahkan elf yang mengomando Castle Naerytar untuk membunuh atau menangkap orang asing di rawa, tidak pernah diajak bicara. Kalau ditangkap dan diikat, **DC 10 Intimidation atau DC 15 Persuasion** melonggarkan lidah mereka (disadvantage kalau tidak diikat — mereka menganggap party terlalu lembek).
+Lizardfolk ini tidak mau bernegosiasi atau bicara — mereka diperintahkan elf yang mengomando Castle Naerytar untuk membunuh atau menangkap orang asing di rawa, tidak pernah diajak bicara. Tapi kepatuhan mereka lahir dari rasa takut, bukan pengabdian sejati seperti kultis Cult of the Dragon — begitu benar-benar tertangkap dan terpisah dari komando sang elf, keberanian mereka rontok lebih cepat dari yang terlihat. Kalau ditangkap dan diikat, **DC 13 Intimidation atau DC 16 Persuasion** melonggarkan lidah mereka (disadvantage kalau tidak diikat — mereka menganggap party terlalu lembek).
 
 ---
 

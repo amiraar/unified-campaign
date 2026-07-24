@@ -138,7 +138,7 @@ Dua benang utama terbuka dari sesi pertama ini:
 
 ## CATATAN DM — FACTION SCORECARD (LIVING DOCUMENT)
 
-*Gunakan tabel ini sepanjang sisa campaign. Update setelah tiap chapter besar. Total di akhir (sebelum Well of Dragons) menentukan seberapa besar dukungan tiap faksi di battle final.*
+*Gunakan tabel ini sebagai titik awal, bukan angka yang harus terus-menerus di-edit. Update sesungguhnya terjadi lewat "CATATAN DM — FACTION FRACTURE SEEDS" di setiap chapter berikutnya — catatan naratif itu yang jadi "skor" yang sebenarnya, bukan kolom angka di tabel ini. Kesan kumulatif dari semua catatan itu (bukan hitungan matematis) menentukan seberapa besar dukungan tiap faksi di battle final Chapter 17.*
 
 | Faksi | Delegasi | Prioritas Utama | Skor (update tiap chapter) |
 |---|---|---|---|
@@ -162,7 +162,7 @@ Dua benang utama terbuka dari sesi pertama ini:
 | Fighter | Ulder Ravengard: "Itu bukan trauma personal... itu analisis intelijen yang valid" | Payoff penuh di battle final — kalau Fighter memimpin unit Lords' Alliance |
 | Cleric | Ontharr Frume menepuk bahu, "Order butuh orang yang tahu bedanya" | Saat tawaran komando Order of the Gauntlet datang di endgame |
 | Semua | Keheningan Draakhorn — anjing diam, tikus berkumpul berani | Setiap kali Draakhorn berbunyi lagi menjelang Well of Dragons |
-| Rogue | Rian Nightshade menyebut CROWN-7 secara terbuka di depan council | Saat negosiasi akhir Zhentarim soal Xonthal's Tower |
+| Rogue | Rian Nightshade menyebut CROWN-7 secara terbuka di depan council | Saat Zhentarim benar-benar dikerahkan sebagai unit pembunuh di pertempuran akhir Well of Dragons (Ch.17) — atau lebih awal, kalau Rogue memakai jalur kontak Zhentarim untuk menghubungi Iskander di Ch.15 |
 
 ---
 

@@ -41,7 +41,7 @@ Desa Ice Hunters — 20 struktur, dipimpin **Barking Seal** (kepala suku) dan **
 
 > *Catatan DM — Echo dari Duel Cyanwrath:* Ini bisa jadi momen refleksi untuk Fighter — pertarungan satu lawan satu lagi, tapi kali ini tidak ada kehormatan bersih di baliknya. **Bonecarver diam-diam menyembuhkan Orcaheart** setiap kali dia terjatuh (posisi dirinya sengaja dekat area jatuh) — **DC 15 Perception** untuk menyadari kecurangan ini. Ini bukan pengulangan Cyanwrath — ini kontrasnya: kehormatan yang tampak, tapi disusupi kebutuhan bertahan hidup yang lebih besar dari aturan duel itu sendiri.
 
-**Kalau Orcaheart kalah:** Ice Hunters "menghormati" janji mereka — menawarkan gubuk gudang sebagai tempat tidur, dan Bonecarver membawa piring ikan mentah yang sedikit busuk. **Ikan ini beracun** (DC 20 Perception atau DC 15 Investigation untuk mendeteksi) — DC 15 Con save atau 3d8 poison damage + pingsan 8 jam.
+**Kalau Orcaheart kalah:** Ice Hunters "menghormati" janji mereka — menawarkan gubuk gudang sebagai tempat tidur, dan Bonecarver membawa piring ikan mentah yang sedikit busuk. **Ikan ini beracun** (DC 13 Perception untuk mencium/merasakan ada yang salah, atau DC 16 Investigation untuk menyadari pola kecurigaan dari perlakuan Bonecarver) — DC 15 Con save atau 3d8 poison damage + pingsan 8 jam.
 
 **Membujuk Bonecarver:** Dengan roleplay efektif dan **DC 15 Persuasion** (advantage untuk karakter yang jujur memahami kepercayaan totem-nya), Bonecarver bertemu diam-diam dan mengungkap kebenaran penderitaan sukunya. Dia sudah lama bermimpi ada pahlawan yang cukup kuat mengalahkan naga itu — tapi tidak berani mempertaruhkan nyawa sukunya sendiri. Dia menunjukkan jalan masuk ke gua es dan menjelaskan yang dia tahu, termasuk keberadaan "wanita bertanduk" (Maccath).
 

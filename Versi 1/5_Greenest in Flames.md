@@ -370,7 +370,7 @@ Party bersiap menuju **Kamp Penjarah** — Raider's Camp.
 | Semua | Shadow Line Nighthill — "Mereka cuma belum punya tempat lain untuk pergi" | Saat Paladin harus memutuskan sesuatu soal loyalitas di Council of Waterdeep |
 | Semua | Shadow Line Escobert — "Saya sudah terlalu lama di sini untuk terkejut" | Kapanpun Escobert kembali muncul di sesi mendatang |
 | Rogue | Kode CROWN-7 muncul dua kali — Seagrow Caves dan manifest kilang Greenest | Saat kode itu muncul ketiga kalinya di Ch.6/Raider's Camp — titik di mana ia berhenti jadi kebetulan |
-| Semua | "Wanita naga" (Rezmir) disebut untuk pertama kali oleh tawanan | Saat Rezmir pertama kali muncul secara fisik di Dragon Hatchery |
+| Semua | "Wanita naga" (Rezmir) disebut untuk pertama kali oleh tawanan | Rezmir sengaja TIDAK muncul di Dragon Hatchery (Ch.7) — keheningan taktis yang disengaja. Payoff sensorik ini baru cair saat dia pertama kali benar-benar terlihat (sekilas lewat tirai palanquin) di Ch.8/On the Road, lalu bicara langsung untuk pertama kalinya di Ch.9/Castle Naerytar |
 | Wizard | Jubah ungu Frulam Mondath, terlihat dari jauh di parapet | Saat konfrontasi langsung dengan Mondath (Ch.6/Ch.7) |
 
 ## CATATAN DM — FACTION FRACTURE SEEDS (Greenest in Flames)
