@@ -726,6 +726,16 @@ Lempar ke laut atau hancurkan — efek itu tidak akan terpicu lagi selama encoun
 *Jika pemain bertanya kenapa Runara tidak bisa masuk ke observatory sendiri:*
 > "Karena Sparkrender adalah keturunan dari naga yang pernah menjadi musuh saya. Kehadiran saya di sana akan mengubah konflik menjadi sesuatu yang jauh lebih besar dari yang perlu. Ada pertarungan yang tidak boleh saya menangkan sendiri — bukan karena saya tidak bisa, tapi karena cara saya menangnya akan merusak lebih banyak dari yang diperbaiki."
 
+*Jika pemain menekan lebih jauh — bertanya soal naga yang dulu jadi musuhnya, atau kenapa dia begitu berhati-hati soal caranya "menang":*
+
+> **Runara:** *(diam. Lebih lama dari biasanya.)* "Namanya tidak penting sekarang." *(berhenti)* "Yang penting: saya pernah menang, dulu, dengan cara yang menurut saya benar waktu itu." *(menatap ke arah menara reruntuhan, bukan ke pemain)* "Dia mati karena cara saya menang. Bukan karena saya salah soal apa yang harus dihentikan. Karena saya salah soal caranya."
+
+*(beat panjang)*
+
+> "Aidron masih hidup hari ini karena saya belajar dari itu." *(menatap pemain langsung — untuk pertama kalinya sejak reveal)* "Sparkrender kabur, atau mati, karena kalian yang memutuskan caranya. Bukan saya." *(beat)* "Itu bukan karena saya lemah sekarang. Itu karena saya tahu persis apa yang terjadi kalau saya tidak."
+
+> *Catatan DM — kenapa ini bukan cuma exposition:* Ini satu-satunya titik di seluruh chapter di mana pola Runara sejak Ch.1 — menahan penjelasan, membiarkan orang lain memutuskan sendiri, "seperti biasa" (Bagian I) — mendapat alasan yang lebih berat dari sekadar taktik atau kedinginan naga tua. Dia bukan menahan diri karena tidak peduli. Dia menahan diri karena tahu persis akibatnya kalau dia turun tangan penuh. Sesuai Voice Bible-nya (Ritme & Register: kalimat pendek, deklaratif, dipisah jeda fisik), pengakuan ini TETAP harus singkat dan padat — jangan diperpanjang jadi monolog mengalir. Beratnya datang dari jeda dan dari apa yang tidak dia katakan (nama naga itu), bukan dari panjang kalimat. Jangan biarkan pemain menekan lebih jauh soal nama itu — Runara sudah bilang "tidak penting sekarang," dan Pantang-nya melarang dia menjelaskan ulang sesuatu yang sudah dia katakan sekali.
+
 *Jika pemain bertanya tentang King-Killer Star / ritual:*
 > "Komet itu nyata. Apa yang Sparkrender ingin lakukan dengannya juga nyata secara teknis — tapi pemahaman dia tentang skala konsekuensinya sangat tidak lengkap." *(berhenti, memilih kata-kata dengan sangat hati-hati)* "Stormwreck bukan tujuan. Apa yang tersimpan di sini hanya... permulaan dari sesuatu yang jauh lebih besar."
 

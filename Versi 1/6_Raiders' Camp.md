@@ -182,6 +182,12 @@ Kalau party gagal roll pengenalan atau kedapatan, mereka dilucuti, diikat, dan d
 
 > **Mondath:** *(menata ulang posisi kursi lipatnya beberapa derajat sebelum duduk, lalu menatap)* "Kursi itu miring dua derajat dari meja." *(pada penjaga, bukan pada tawanan)* "Duduklah yang benar." *(baru kemudian ke tawanan)* "Siapa kalian. Dari mana. Kenapa kalian ada di kamp saya."
 
+*Kalau tawanan menyebut nama Rezmir dalam jawaban mereka — entah mengklaim afiliasi palsu, atau sekadar menyebut siapa yang mereka dengar memimpin kamp ini:*
+
+> **Mondath:** *(diam sebentar, menatap ke arah tenda besar Rezmir tanpa benar-benar menoleh penuh)* "Saya sudah atur setiap manifest, setiap rotasi jaga, setiap kobold yang butuh diperingatkan dua kali sebelum paham, di kamp ini selama delapan bulan." *(kembali menatap tawanan)* "Rezmir mengurus telur naganya." *(beat)* "Kalian pikir saya minta pendapat kalian soal siapa yang pantas disebut lebih dulu? Saya cuma bilang fakta operasional. Jawab pertanyaan saya."
+
+> *Catatan DM — kalimat berlapis:* Di permukaan ini cuma Mondath menegaskan otoritas ke tawanan — dan dia sendiri tidak akan pernah mengakui ini sebagai apapun selain itu. Tapi ini juga satu-satunya baris di chapter ini di mana frustrasinya terhadap rantai komando (rujuk fault line Mondath, System Instructions) benar-benar terucap, disamarkan sebagai fakta logistik. **DC 15 Insight** menangkap bahwa "Rezmir mengurus telur naganya" diucapkan dengan jeda sedikit lebih lama dari kalimat lain — bukan penghinaan terbuka, tapi celah kecil. Ini petunjuk pertama, sebelum Council of Waterdeep, bahwa retakan Mondath-Rezmir nyata dan bisa dieksploitasi — bukan cuma catatan di balik layar. Jangan jelaskan subteksnya ke pemain secara langsung. Biarkan mereka menyimpannya.
+
 Kalau ada yang dikenali dari Greenest, tidak peduli apa yang mereka katakan — Mondath menjatuhkan hukuman mati esok hari, diikat ke tiang bersama biksu yang sudah ada di sana. Mereka punya satu malam untuk kabur.
 
 Kalau party berbohong secara meyakinkan (Deception vs Wisdom Mondath), mereka bisa dilepas — tapi diawasi.
