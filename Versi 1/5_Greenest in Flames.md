@@ -239,7 +239,7 @@ Dari parapet, seseorang melihat sekelompok penjarah mencoba membakar kilang kota
 
 Kilang berjarak sekitar 500 kaki dari benteng. Kalau karakter mengamati sebentar sebelum menyerang (DC 15 Insight/Performance), mereka sadar api yang dinyalakan cuma untuk pertunjukan — ini **umpan**. Mondath sudah tahu ada pahlawan membantu kota, dan ingin memancing mereka ke penyergapan: satu kultis + satu guard per karakter, bersembunyi di loteng kilang, siap melempar tombak dari atas sebelum turun bertarung.
 
-Di antara barang jarahan yang tertinggal di kilang setelah pertarungan — **Fragmen 4**, manifest tercecer:
+Di antara barang jarahan yang tertinggal di kilang setelah pertarungan — **Fragmen 2**, manifest tercecer (kemunculan kedua kode CROWN-7, setelah Seagrow Caves):
 
 > *"Hasil jarahan nggak disimpen di Greenest — ada jadwal delivery ke utara. Tujuan dikodekan: CROWN-7."*
 

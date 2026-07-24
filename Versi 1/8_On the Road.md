@@ -59,7 +59,7 @@ DM bisa habiskan waktu sebanyak yang diinginkan di sini — lomba gulat lengan, 
 
 Leosin menjelaskan organisasinya: **Harper** — jaringan longgar yang mengutamakan keadilan dan mencegah kekuasaan jatuh ke tangan yang tidak pantas. Frume mewakili **Order of the Gauntlet** — lebih terstruktur, menekankan iman dan perjuangan konstan melawan kejahatan, banyak diisi cleric dan paladin.
 
-> **Ontharr:** "Kami berdua, dan beberapa pemimpin serta cendekiawan lain di Sword Coast, sedang mulai mengorganisir diri melawan Cult of the Dragon. Dulu kultus ini lebih aktif di timur, fokus bikin dracolich. Pergeseran mereka ke Sword Coast, dan fokus baru ke naga hidup dan Tiamat — itu yang bikin kami khawatir."
+> **Ontharr:** "Kami berdua, dan beberapa pemimpin serta cendekiawan lain di Sword Coast, sedang mulai mengorganisir diri melawan Cult of the Dragon. Dulu kultus ini lebih aktif di timur, fokus bikin dracolich. Pergeseran mereka ke Sword Coast, dan fokus baru ke naga hidup dan Sang Ratu Naga — itu yang bikin kami khawatir."
 
 Baik Harper maupun Order of the Gauntlet menawarkan keanggotaan — tanpa bayaran di tahap awal ini, tanpa pangkat. Yang mereka tawarkan: bantuan dan dukungan dari sekutu yang tersebar dari Nashkel sampai Neverwinter dan Mirabar.
 

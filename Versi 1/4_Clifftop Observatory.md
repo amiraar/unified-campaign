@@ -341,7 +341,7 @@ Tidak ada roll yang diperlukan. Lanjutkan ke D4 atau D5.
 
 ---
 
-### MANIFEST FRAGMENT 3 — SPOTLIGHT WIZARD
+### CATATAN RATH MODAR — SPOTLIGHT WIZARD
 
 *Jauh di bagian belakang jurnal, di antara halaman-halaman catatan astronomi, ada halaman yang tertulis dalam gaya yang sangat berbeda — tergesa-gesa, tulisannya tidak serapi sisanya. Tintanya lebih muda dari halaman sekitarnya:*
 

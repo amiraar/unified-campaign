@@ -141,7 +141,7 @@ Informasi yang bisa dikumpulkan lewat observasi dan obrolan (masing-masing sepad
 
 > *"Pengiriman berikutnya menunggu konfirmasi dari CROWN-7. Tujuan akhir tetap: NAERYTAR. Jangan tanya lebih dari itu — itu bukan urusan level kita."*
 
-> *Catatan DM:* Ini adalah kemunculan ketiga kode CROWN-7 untuk Rogue (setelah Seagrow Caves dan Kilang Greenest). Panggil Emotional Memory Log — di titik ini, kode itu berhenti terasa seperti kebetulan. Rogue sekarang tahu ada rantai logistik yang sengaja dan terus-menerus, dan tujuan akhirnya sudah dikonfirmasi dua kali: Naerytar.
+> *Catatan DM:* Ini adalah kemunculan ketiga kode CROWN-7 untuk Rogue (setelah Seagrow Caves dan Kilang Greenest) — tapi ini pertama kalinya tujuannya benar-benar disebut dengan nama: Naerytar. Panggil Emotional Memory Log — di titik ini, kode itu berhenti terasa seperti kebetulan. Rogue sekarang tahu ada rantai logistik yang sengaja dan terus-menerus, dan sekarang punya nama untuk ke mana rantai itu berakhir.
 
 ---
 

@@ -69,11 +69,15 @@ Yugoloth (mezzoloth/nycaloth) adalah tentara bayaran tanpa loyalitas ke kultus �
 
 **Lokasi:** idealnya tempat yang berarti secara personal — rumah salah satu karakter, atau kota yang mereka anggap "aman."
 
-**Kekuatan kultus:** satu skuadron penuh young red dragon, diperkuat kultis, half-dragon, dan Red Wizard dari sekte pecahan Rath Modar, menunggang di punggung naga.
+**Kekuatan kultus:** satu skuadron penuh young red dragon, diperkuat kultis, half-dragon, dan Red Wizard dari sekte pecahan Rath Modar, menunggang di punggung naga — dipimpin langsung oleh **Galvan**, wyrmspeaker biru yang belum pernah party temui secara langsung, menunggang seekor young blue dragon miliknya sendiri.
+
+> *Catatan DM:* Ini adalah kesempatan untuk menutup benang Galvan (disebut namanya oleh Talis di Ch.10, dan dalam tally wyrmspeaker tersisa di Ch.13) sebelum finale — dia tidak perlu tampil sebelum ini, kehadirannya di sini justru terasa seperti puncak dari tekanan yang sudah menumpuk sejak dua wyrmspeaker lain tumbang. Dia memimpin serangan ini secara personal karena dia butuh membuktikan diri ke Sang Arsitek setelah kegagalan Rezmir, Varram, dan Neronvain — dan karena itu, dia lebih nekat dan lebih putus asa dari lawan-lawan sebelumnya.
 
 Ini serangan habis-habisan — naga menyerang dari udara, memaksa party keluar kalau bersembunyi; setengah-naga, kultis, dan mage mengawasi semua jalan keluar yang diketahui, termasuk yang bawah tanah. Hanya jalur keluar rahasia yang benar-benar tidak diketahui kultus yang bisa mengejutkan mereka.
 
 > *Catatan DM:* Ini dirancang jadi titik terendah emosional campaign — kekalahan total harus terasa mungkin. Tapi jangan buat ini cuma pembantaian tanpa arti — beri ruang untuk momen heroik kecil di tengah kekacauan.
+
+**Galvan sendiri** bertarung sampai young blue dragon-nya jatuh atau dia sendiri di bawah 20 HP — setelah itu dia kabur, terluka parah, kembali ke Well of Dragons. Dia tidak muncul lagi sampai Chapter 17, di mana dia disebutkan sebagai salah satu wyrmspeaker yang masih hidup tapi terlalu hancur untuk aktif bertarung di pertahanan terakhir Sang Ratu — kalau party membunuhnya di sini alih-alih membiarkannya kabur, itu sama validnya; catat mana yang terjadi untuk referensi Ch.17.
 
 **Reward:** naik level di akhir serangan ini.
 

@@ -673,7 +673,7 @@ Varnoth menemui salah satu pemain di perpustakaan malam itu, atau di tepi kuil.
 
 *DM catat untuk chapter-chapter selanjutnya:*
 
-**Untuk Rogue:** CROWN-7 sudah ada. Di Chapter 4 (Clifftop Observatory, area D4), kode yang sama muncul di fragmen ketiga. Ketika Rogue mengenalinya, jangan umumkan — biarkan mereka yang menghubungkan.
+**Untuk Rogue:** CROWN-7 sudah ada dari Seagrow Caves. Chapter ini sendiri tidak punya benang kultus baru — ini murni personal (Aleitha/Brastos). Di Chapter 4 (Clifftop Observatory, area D4), benang kultus muncul lagi lewat jalur berbeda: bukan kode CROWN-7, tapi catatan Rath Modar yang jadi milik Wizard. Ketika Rogue atau Wizard mengenali koneksinya, jangan umumkan — biarkan mereka yang menghubungkan.
 
 **Untuk Cleric:** Mimpi tentang undangan ke "barat" adalah foreshadowing Tyranny of Dragons. Greenest ada di barat daratan — ini tidak perlu dijelaskan sekarang.
 

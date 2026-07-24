@@ -157,7 +157,7 @@ Kalau party berhasil mengonfrontasinya secara langsung sebelum dia sempat kabur 
 
 > **Azbara Jos:** *(melepas topi wolnya sedikit, memperlihatkan ujung tato yang biasanya disembunyikan — sebuah gestur kepercayaan yang disengaja)* "Saya lebih tertarik sama apa yang kamu temukan daripada apa yang mau kamu lakukan dengan itu." *(beat)* "Kita berdua tau kamu di sini bukan cuma karena marah."
 
-Kalau Wizard menyebut nama Rath Modar (dari catatan Fragmen 3 Clifftop Observatory), Jos berhenti sejenak — bukan kaget, tapi menghitung ulang.
+Kalau Wizard menyebut nama Rath Modar (dari catatan yang ditemukan di Clifftop Observatory, Ch.4), Jos berhenti sejenak — bukan kaget, tapi menghitung ulang.
 
 > **Azbara Jos:** "Jadi kamu sudah tahu nama itu." *(tidak defensif, nyaris kagum)* "Rath Modar akan tertarik mendengar itu. Pertanyaannya — apa yang akan kamu lakukan dengan pengetahuan itu, sekarang setelah kamu tahu itu bukan cuma nama di kertas?"
 

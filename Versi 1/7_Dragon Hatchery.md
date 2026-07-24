@@ -97,7 +97,7 @@ Sebuah tombak berujung keropos tergeletak di dekat tangga ke area 6 — dipakai 
 
 ### 5. INTRUSI TROGLODYTE
 
-Lantai turun 10 kaki di tiap ledge. Kobold memakai area ini sebagai tempat sampah — barang pecah, keranjang lapuk, tali dimakan tikus, dan barang-barang yang dari jauh terlihat berharga: pakaian bekas, sepatu bot usang, buku robek, lampu retak (sebagian dari tawanan yang mati, sebagian jarahan yang dianggap tak layak untuk Tiamat).
+Lantai turun 10 kaki di tiap ledge. Kobold memakai area ini sebagai tempat sampah — barang pecah, keranjang lapuk, tali dimakan tikus, dan barang-barang yang dari jauh terlihat berharga: pakaian bekas, sepatu bot usang, buku robek, lampu retak (sebagian dari tawanan yang mati, sebagian jarahan yang dianggap tak layak untuk Sang Ratu).
 
 Bau busuk menyengat. Troglodyte dari kedalaman tanah menyusup lewat celah sempit. Kalau party cuma melirik sekilas, tidak terjadi apa-apa. Kalau mereka menggeledah, empat troglodyte menyerang.
 
@@ -143,7 +143,7 @@ Tangga dari area 7 dijebak (lihat "Jebakan Runtuh" di bawah). Ruangan ini kediam
 
 ### 9. KUIL NAGA
 
-Kuil ini didedikasikan untuk Tiamat, dengan penekanan pada kepala naga hitamnya. Lampu minyak temaram. **Langdedrosa Cyanwrath** ada di sini, bersama dua manusia berserker (tambah satu berserker per karakter tambahan di atas empat).
+Kuil ini didedikasikan untuk Sang Ratu, dengan penekanan pada kepala naga hitamnya. Lampu minyak temaram. **Langdedrosa Cyanwrath** ada di sini, bersama dua manusia berserker (tambah satu berserker per karakter tambahan di atas empat).
 
 > *DM membaca:*
 >
@@ -211,11 +211,11 @@ Ruangan kecil di sampingnya berisi tempat tidur, peti pakaian Mondath, dan peti 
 >
 > *"Semuanya harus dikirim ke utara menuju Naerytar. Rezmir mengizinkan kami menyimpan beberapa mutiara, satu cincin, dan segenggam batu kecil."*
 
-> *Catatan DM:* Ini adalah konfirmasi keempat nama Naerytar (setelah Fragmen 2 di Cursed Shipwreck, dan dua kali di Ch.5-6). Titik ini bukan lagi petunjuk — ini rute yang sudah dikonfirmasi berkali-kali. Party sekarang tahu ke mana kultus membawa harta mereka, dan jalan yang harus dilewati untuk sampai ke sana: Beregost, lalu utara.
+> *Catatan DM:* Ini adalah kedua kalinya nama **Naerytar** sendiri disebut secara eksplisit sebagai tujuan (setelah Raider's Camp, Ch.6) — sementara kode CROWN-7 yang mengarah ke sana sudah muncul berkali-kali sejak Seagrow Caves. Titik ini bukan lagi petunjuk — ini rute yang sudah dikonfirmasi dua kali berturut-turut. Party sekarang tahu ke mana kultus membawa harta mereka, dan jalan yang harus dilewati untuk sampai ke sana: Beregost, lalu utara.
 
 Kalau pertarungan pecah di area 12 dan empat penjaga mundur ke sini membela Mondath, responsnya tergantung situasi — kalau party sudah kewalahan menghabisi penjaga depan, Mondath mungkin melarikan diri lewat chute ke area 9 dan bergabung dengan Cyanwrath, atau bahkan kabur dari gua sepenuhnya. Dia sudah mengabdikan hidupnya untuk kultus, tapi dia tidak buru-buru mati untuknya.
 
-Mondath tahu kultus sedang mengumpulkan harta di utara dan bahwa Rezmir sering bicara soal Tiamat — tapi itu batas pengetahuannya soal rencana besar.
+Mondath tahu kultus sedang mengumpulkan harta di utara dan bahwa Rezmir sering bicara soal Sang Ratu — tapi itu batas pengetahuannya soal rencana besar.
 
 ---
 

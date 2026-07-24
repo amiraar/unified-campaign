@@ -65,6 +65,7 @@ Rujuk **Faction Scorecard** yang sudah dibangun sejak Chapter 11 dan konsesi nag
 | Kekuatan Kultus | Kekuatan Sekutu (tergantung scorecard) |
 |---|---|
 | Sang Arsitek, Rath Modar, wyrmspeaker bebas | Order of the Gauntlet, Emerald Enclave |
+| *(kalau Galvan kabur hidup-hidup dari Serangan Ketiga di Ch.14, dia ada di sini — tapi terlalu hancur untuk lebih dari cameo singkat: satu dragon claw attack lalu dia mundur ke belakang barisan. Kalau dia mati di Ch.14, cukup sebutkan sekali bahwa "wyrmspeaker biru" absen dari pertahanan — satu potongan kekuatan kultus yang tidak hadir karena kegagalannya sendiri.)* | |
 | Ribuan pasukan kultus, tentara bayaran | Zhentarim (pembunuh), Harper (agen intelijen) |
 | Naga chromatic | Naga metalik |
 | Iblis, raksasa | Iblis sekutu, raksasa sekutu |

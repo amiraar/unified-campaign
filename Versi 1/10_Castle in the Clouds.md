@@ -27,6 +27,8 @@ Sedetik yang lalu ada lumpur rawa, bau busuk lizardfolk dan dupa Tiamat yang tid
 
 Di dekat portal, sebuah pondok berburu — tempat pertemuan kultis berpangkat tinggi, dihuni saat ini oleh **Talis the White**, Pemakai Ungu yang yakin dia berhak atas Mask Naga Putih, tapi dikalahkan posisinya oleh dwarf bernama Varram atas perintah Sang Arsitek.
 
+> *Catatan DM — jangan sampai membingungkan di meja:* Talis masih menyandang gelar "the White" dari masa sebelum dia dikalahkan — dia menolak melepaskannya meski Varram sekarang yang benar-benar jadi wyrmspeaker naga putih (rujuk Ch.13, "Varram the White"). Kalau perlu, tegaskan ke pemain lewat dialog: gelar itu sendiri adalah luka Talis yang belum sembuh, bukan salah tulis. Dia bukan wyrmspeaker; dia orang yang gagal jadi wyrmspeaker dan masih bersikap seolah dia begitu.
+
 **Kalau Rezmir masih hidup dan berhasil lolos dari Naerytar**, dia sengaja tidak memperingatkan Talis soal kedatangan party — dia melesat ke Skyreach Castle, membiarkan party (mungkin) menghancurkan Talis untuknya.
 
 ---
@@ -56,7 +58,7 @@ Di dalam, pondok ini masih berusaha terasa seperti tempat singgah yang nyaman �
 
 > **Talis:** *(sopan, tapi jelas menilai)* "Selamat datang. Anggap kalian tamu saya. Mungkin kita bisa berbisnis."
 
-**Talis ingin** menjatuhkan rivalnya lewat kegagalan pihak lain, bukan lewat kekerasan langsung dari tangannya sendiri. Dia menawarkan: kalau party bersedia mengacaukan pengiriman harta besar lewat **Skyreach Castle** — kastil terbang milik raksasa awan yang dipakai kultus mengangkut harta — dia akan membantu mereka naik dengan aman, memberi banner isyarat dan kata sandi (**"Tiamat, Ibu dan Kekuatan Kami"**).
+**Talis ingin** menjatuhkan rivalnya lewat kegagalan pihak lain, bukan lewat kekerasan langsung dari tangannya sendiri. Dia menawarkan: kalau party bersedia mengacaukan pengiriman harta besar lewat **Skyreach Castle** — kastil terbang milik raksasa awan yang dipakai kultus mengangkut harta — dia akan membantu mereka naik dengan aman, memberi banner isyarat dan kata sandi (**"Sang Ratu, Ibu dan Kekuatan Kami"**).
 
 **Kalau ditolak:** Talis berteriak minta bantuan — gargoyle, helmed horror tersamar sebagai baju zirah, kobold, bahkan Trepsin datang. Kalau situasi memburuk untuknya, dia kabur lewat jendela atau portal.
 
@@ -92,7 +94,7 @@ Perjalanan ke Parnast: lima mil, setengah hari lewat hutan dan sungai deras.
 
 Desa kecil ini secara diam-diam dikuasai kultus. Penduduk yang berafiliasi kultus dingin ke pengunjung; yang tidak, menghindar karena takut murka kultus. **Kapten Othelstan**, wakil Rezmir di desa, memantau semua pengunjung.
 
-**DC 18 Persuasion** (bertahap, satu info per sukses) dari penduduk yang bisa disuap/dibujuk mengungkap: Rezmir sering ke sini (atau bersembunyi kalau masih hidup); kultus menguasai Parnast lebih dari setahun; wyvern terlatih disimpan di kandang desa untuk mencapai kastil saat terbang; dan kata sandi masuk kastil: **"Tiamat, Ibu dan Kekuatan Kami"** atau **"Salam Blagothkus."**
+**DC 18 Persuasion** (bertahap, satu info per sukses) dari penduduk yang bisa disuap/dibujuk mengungkap: Rezmir sering ke sini (atau bersembunyi kalau masih hidup); kultus menguasai Parnast lebih dari setahun; wyvern terlatih disimpan di kandang desa untuk mencapai kastil saat terbang; dan kata sandi masuk kastil: **"Sang Ratu, Ibu dan Kekuatan Kami"** atau **"Salam Blagothkus."**
 
 **Kedai Tankard Emas:** pemiliknya, Raggnar Redtooth, diam-diam menerima suap kultus dan akan mengulur waktu party dengan obrolan sambil diam-diam mengabari Kapten Othelstan. Item ajaib **tankard of plenty** tergantung di atas pintu kedainya.
 
