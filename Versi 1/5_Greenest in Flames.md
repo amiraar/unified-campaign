@@ -153,11 +153,15 @@ Ini adalah **Tarbaw Nighthill**, Gubernur Greenest.
 
 *DM: Ini adalah momen Personal Anchor Paladin (Section 3, Pilar 5) dimulai. Rujuk NPC Voice Bible — Nighthill: kalimat terpotong, membingkai permintaan tolong sebagai perintah.*
 
+Sebelum membawa mereka naik, seorang penjaga muda — wajahnya masih berlumur jelaga — berlari mendekat, panik. "Gubernur, orang-orang di gudang selatan mau kabur ke Uldoon Trail sekarang juga, mereka bilang percuma bertahan—"
+
+Nighthill memotongnya, cepat, datar, tanpa nada naik sedikit pun: *"Bilang ke mereka: yang masih di sini sudah memilih untuk bertahan. Bukan waktunya goyah."* Penjaga itu mengangguk dan berlari pergi membawa kalimat itu turun ke halaman.
+
 Dia membawa mereka ke atas parapet. Dari sana, seluruh kota terlihat — api, penjarah yang bergerak bebas, dan di kejauhan, sosok bersayap yang sesekali melintas.
 
 > **Nighthill:** *(menatap ke kota, bukan ke mereka)* "Yang masih di sini bukan karena mereka berani." *(jeda panjang)* "Mereka cuma belum punya tempat lain untuk pergi."
 
-*Catatan DM — SHADOW LINE NIGHTHILL:* Ucapkan dengan datar. Ini bukan self-pity — ini fakta yang dia sampaikan seperti cuaca. Kalimat ini akan terasa berbeda nanti, di titik manapun cerita Paladin mengharuskan dia bertanya pada dirinya sendiri kenapa dia masih berjuang.
+*Catatan DM — SHADOW LINE NIGHTHILL:* Ucapkan dengan datar, seperti fakta cuaca — bukan self-pity. Kuncinya: ini adalah kalimat yang bertentangan langsung dengan apa yang baru saja dia perintahkan ke penjaganya, sepuluh detik sebelumnya. Ke pasukannya, dia bilang "mereka memilih" — karena itu yang mereka butuhkan untuk tetap berdiri. Ke kalian, orang asing yang tidak akan dia pimpin besok dan tidak akan bocor ke moral pasukannya, dia tidak perlu bohong. Itu sebabnya dia bicara ke arah kota, bukan ke wajah mereka — supaya tidak ada yang lihat, bahkan mereka, persisnya kapan dia berhenti berpura-pura. Kalimat ini akan terasa berbeda nanti, di titik manapun cerita Paladin mengharuskan dia bertanya pada dirinya sendiri kenapa dia masih berjuang — dan dipanggil lagi saat dilema loyalitas Paladin di Council of Waterdeep (lihat EML).
 
 Nighthill memperkenalkan **Escobert the Red**, castellan benteng — dwarf berambut merah kusut, memegang seikat besar kunci besi dan kuningan.
 
