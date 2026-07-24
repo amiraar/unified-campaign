@@ -545,9 +545,9 @@ Detail dari chapter ini yang masuk ke Emotional Memory Log:
 |---|---|---|
 | Semua | Sup ikan Runara — terlalu asin, mangkuk kayu retak di satu sisi | Momen pertama Cleric harus merawat korban perang Greenest — ingat ini adalah satu-satunya makanan hangat yang tersedia |
 | Semua | Cara Runara berdiri — tanpa pegangan, seperti seseorang yang tidak perlu pegangan | Saat bertemu Ulder Ravengard — cara kekuasaan yang tahu dirinya tidak perlu membuktikan apapun |
-| Rogue | Tato Tarak — lingkaran emas terjalin seperti simpul, atau tali gantungan yang diubah jadi sesuatu yang lain | Saat Rogue pertama kontak dengan Zhentarim di Tyranny Ch.4 |
+| Rogue | Tato Tarak — lingkaran emas terjalin seperti simpul, atau tali gantungan yang diubah jadi sesuatu yang lain | Saat Rogue pertama kontak langsung dengan Zhentarim (Jamna Gleamsilver) di Ch.8/On the Road |
 | Fighter | Cara Varnoth menyebut "pertempuran yang harusnya tidak saya menangkan" — cara mulutnya mengatup setelah kalimat itu | Sebelum duel Cyanwrath — definisi "menang" yang bukan tentang survive |
-| Cleric | Cara Runara mengisi cangkir tanpa ditanya, tanpa diminta | Saat Tragic Trigger aktif — momen pertama ada yang melakukan sesuatu untuk Cleric tanpa syarat di tengah krisis |
+| Cleric | Cara Runara mengisi cangkir tanpa ditanya, tanpa diminta | Saat Tragic Trigger Pilar 1 aktif di Ch.5/Greenest (dilema simbol kultus vs nyawa Sella) — momen pertama ada yang melakukan sesuatu untuk Cleric tanpa syarat di tengah krisis |
 
 ## CATATAN DM — FACTION FRACTURE SEEDS (Dragon's Rest)
 

@@ -21,6 +21,12 @@ Chapter ini adalah **eskalasi pertama**. Dragon's Rest mengajarkan karakter tent
 
 ## BAGIAN I: KEBERANGKATAN — PERCAKAPAN TARAK
 
+Runara sudah menepati janjinya. Pagi itu, sebelum siapapun sempat sarapan, dia memanggil mereka ke kuil — bukan untuk memberi perintah, tapi untuk berdiri diam sebentar di tepi platform yang menghadap selatan dan membiarkan mereka mencium sendiri apa yang dia sudah lama cium: samar, di bawah angin asin biasa, sesuatu yang tidak seharusnya ada di udara pulau ini. Belerang. Dia tidak menjelaskan lebih dari itu.
+
+> **Runara:** "Ada gua di selatan. Sesuatu di sana sedang sekarat, dan sesuatu yang lain sedang tumbuh menggantikannya." *(berhenti)* "Saya tidak tahu apakah itu penjelasan atau cuma teka-teki. Mungkin keduanya sama benarnya."
+
+Dia melepas mereka setelahnya tanpa instruksi lebih jauh — persis seperti kebiasaannya. Sisanya, kata dia, akan mereka temukan sendiri.
+
 *Sebelum kelompok pergi, Tarak mencari mereka. Bukan untuk memberi briefing. Untuk memberi sesuatu yang lebih berat dari instruksi.*
 
 Dia menunggu di kebun kecil di lereng bawah kloster — beberapa petak bunga, herba, sayuran. Dia sedang mencabut gulma dengan tangan kosong ketika pemain lewat. Tidak mendongak.

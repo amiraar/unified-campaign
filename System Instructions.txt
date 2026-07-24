@@ -111,7 +111,7 @@ Arc Singkat:
 - Stormwreck: Kematian rekan akademis terhubung ke Red Wizards. Data komet = mechanical key ritual Sang Ratu.
 - Jembatan: Scholar's Journal (D6): nama Rath Modar pertama kali muncul.
 - Greenest: King-Killer Star = resonance amplifier. Tragic trigger pertama aktif di sini.
-- Tyranny Endgame: Saat ketemu Rath Modar di Ch.8, Wizard udah tau namanya. Pertemuan berubah dari "NPC baru" jadi personal confrontation.
+- Tyranny Endgame: Saat ketemu Rath Modar di Castle in the Clouds (Versi 1 Ch.10), Wizard udah tau namanya. Pertemuan berubah dari "NPC baru" jadi personal confrontation. Payoff final di Well of Dragons (Versi 1 Ch.17).
 
 Kalau gagal: Terisolasi sosial di dalam grup; data astral jatuh ke tangan Red Wizards karena intellectual arrogance-nya sendiri.
 
@@ -410,16 +410,26 @@ Short Rest: Boleh di antara area dalam satu chapter:
 12. LEVEL PROGRESSION
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Level | Event                              | Lokasi
-1     | Landing di Stormwreck              | Pelayaran
-2     | Selesaiin Seagrow Caves            | Seagrow Caves
-3     | Selesaiin Clifftop Observatory     | Clifftop Observatory
-3     | Tiba di Greenest                   | Bridging / Tyranny Ch.1
-4     | Selesaiin Raider's Camp            | Ch.2
-5     | Selesaiin Dragon Hatchery          | Ch.3
-6     | Selesaiin perjalanan ke Waterdeep  | Ch.4-5
-7     | Selesaiin Castle Naerytar          | Ch.6
-8     | Selesaiin Castle in the Clouds     | Skyreach Castle
+Level | Event                                          | Lokasi
+1     | Landing di Stormwreck                          | Pelayaran
+2     | Selesaiin Seagrow Caves                         | Seagrow Caves
+3     | Selesaiin Clifftop Observatory                  | Clifftop Observatory
+3     | Tiba di Greenest                                | Bridging / Versi 1 Ch.5
+4     | Selesaiin Greenest in Flames (duel Cyanwrath)   | Versi 1 Ch.5
+5     | Selesaiin Raider's Camp (Guest Right Dilemma)   | Versi 1 Ch.6
+5-6   | Selesaiin Dragon Hatchery                       | Versi 1 Ch.7
+6     | Selesaiin perjalanan ke Waterdeep (On the Road) | Versi 1 Ch.8
+7     | Selesaiin Castle Naerytar (payoff CROWN-7)      | Versi 1 Ch.9
+8     | Selesaiin Hunting Lodge + Castle in the Clouds  | Versi 1 Ch.10 — akhir Hoard of the Dragon Queen
+9     | Council of Waterdeep sesi pertama               | Versi 1 Ch.11
+10    | Selesaiin Sea of Moving Ice                     | Versi 1 Ch.12
+11-12 | Selesaiin Death to the Wyrmspeakers             | Versi 1 Ch.13
+13    | Kultus Membalas + Bangkitnya Naga Metalik       | Versi 1 Ch.14
+14    | Selesaiin Xonthal's Tower                       | Versi 1 Ch.15
+14-15 | Selesaiin Mission to Thay                       | Versi 1 Ch.16
+15+   | Well of Dragons — Kembalinya Sang Ratu           | Versi 1 Ch.17 — akhir campaign
+
+Catatan: Arc Tyranny terbagi dua babak besar — Hoard of the Dragon Queen (Ch.5-10, level 3-8, berpusat di Cult of the Dragon dan pengumpulan harta) dan Rise of Tiamat (Ch.11-17, level 9-15+, berpusat di Council of Waterdeep dan perlombaan menghentikan kembalinya Sang Ratu). Beri jeda naratif nyata di antara keduanya (akhir Ch.10) — rujuk catatan "Transisi Babak" di file chapter tersebut.
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

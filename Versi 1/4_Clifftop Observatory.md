@@ -17,7 +17,7 @@ Chapter ini adalah klimaks arc Stormwreck Isle. Bukan karena pertarungannya pali
 
 **Tone benchmark:** Batu yang sudah ada sebelum kamu lahir punya cara tersendiri untuk mengingatkan kamu betapa kecilnya kamu. Dan kadang justru dari tempat sekecil itu kamu bisa melakukan sesuatu yang tidak bisa dilakukan oleh yang lebih besar. Ini adalah chapter di mana karakter-karakter level 3 berdiri di reruntuhan berusia ratusan tahun dan memutuskan nasibnya. Itu absurd. Tapi juga — mungkin — memang begitu cara dunia bekerja.
 
-**Jika Chapter 3 sudah selesai:** Pemain di level 3. Runara memberi mereka moonstone key setelah Compass Rose selesai. Jika ada yang menyimpan talisman Aleitha tanpa menyelesaikannya, perjalanan ke observatory punya *tambahan suara* — detail tipis, tidak perlu penjelasan.
+**Jika Chapter 3 sudah selesai:** Pemain di level 2 — level 3 datang di akhir chapter ini. Runara memberi mereka moonstone key setelah Compass Rose selesai. Jika ada yang menyimpan talisman Aleitha tanpa menyelesaikannya, perjalanan ke observatory punya *tambahan suara* — detail tipis, tidak perlu penjelasan.
 
 ---
 
@@ -341,7 +341,7 @@ Tidak ada roll yang diperlukan. Lanjutkan ke D4 atau D5.
 
 ---
 
-### MANIFEST FRAGMENT 3 — SPOTLIGHT WIZARD
+### CATATAN RATH MODAR — SPOTLIGHT WIZARD
 
 *Jauh di bagian belakang jurnal, di antara halaman-halaman catatan astronomi, ada halaman yang tertulis dalam gaya yang sangat berbeda — tergesa-gesa, tulisannya tidak serapi sisanya. Tintanya lebih muda dari halaman sekitarnya:*
 
