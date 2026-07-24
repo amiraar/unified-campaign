@@ -19,6 +19,8 @@ Chapter ini adalah jeda diplomatik yang penuh tekanan psikologis — bukan perta
 
 ## BAGIAN I — TAWARAN MUSUH DARI MUSUH
 
+Mask palsu dari Menara Xonthal masih terasa seperti kekalahan yang tidak sepenuhnya adil — Iskander sudah mati sebelum mereka tiba, dan Lennithon, naga yang mereka kira sudah lama pergi dari hidup mereka sejak Greenest, masih di luar sana. Di Waterdeep, kecurigaan baru menyebar di antara delegasi: kalau kultus bisa memalsukan mask dengan begitu meyakinkan, siapa lagi di antara mereka yang tidak seperti kelihatannya? Di tengah ketidakpastian itu, sebuah tawaran datang dari arah yang paling tidak terduga — bukan dari sekutu, tapi dari musuh yang lebih tua dan lebih sabar dari Sang Arsitek sendiri.
+
 Kontak terpercaya party di council membawa kabar: seorang Red Wizard bernama **Nyh Ilmichh** menghubungi council, membawa undangan dari **Szass Tam** sendiri — lich lord penguasa Thay — untuk mengirim utusan membahas kerja sama melawan musuh bersama: **Rath Modar** dan sekte pecahannya, "Kebangkitan Thayan."
 
 > *Catatan DM:* Tanpa dukungan Red Wizard, rencana Sang Arsitek sangat terganggu. Szass Tam ingin semua Red Wizard buangan mati — dan itu berarti kepentingan Thay (menghancurkan Rath Modar) kebetulan sejalan dengan kepentingan party.

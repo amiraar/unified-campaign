@@ -19,6 +19,8 @@ Chapter ini adalah teka-teki dan tragedi sekaligus. Party akan menyelamatkan ses
 
 ## BAGIAN I — PESAN ISKANDER
 
+Kultus sudah tiga kali mencoba membunuh mereka dan tiga kali gagal — dan lima naga purba sudah memilih sisi mereka di Nether Mountains. Sang Arsitek tahu sekarang bahwa serangan langsung tidak akan menghentikan party ini. Di tengah kegelisahan itu, retakan pertama muncul dari dalam: seorang wyrmspeaker sendiri mulai takut lebih pada rekan-rekannya daripada pada musuh mereka.
+
 **Iskander**, wakil komandan Menara Xonthal, menghubungi party (lewat kontak Zhentarim, surat, atau pesan bisikan) — dia ingin membelot dari kultus, ketakutan karena curiga diracuni oleh sesama kultis yang bersaing pangkat. Dia menawarkan **Blue Dragon Mask** sebagai imbalan penyelamatan.
 
 > **Iskander (pesan):** "Kamu tidak kenal saya, tapi kita bisa saling membantu luar biasa. Nama saya Iskander... Selamatkan saya dari cengkeraman kultus, dan saya akan berikan hadiah dari segala hadiah: Blue Dragon Mask."

@@ -28,7 +28,7 @@ Ini adalah akhir dari segalanya — chapter yang harus membuat siapapun yang mem
 
 ## I.1 — TANDA-TANDA AKHIR
 
-Draakhorn yang dulu cuma getaran samar kini jadi suara jelas dan konstan — kesan malapetaka yang mengambang di udara ke manapun party pergi.
+Tulang jari terikat tali usus dari Thay masih ada di kantong atau tas mereka masing-masing, belum dipakai — jimat undead yang mungkin akan berguna sekali lagi sebelum semua ini selesai. Empat wyrmspeaker sudah tumbang, kabur, atau berkhianat pada sesama mereka sendiri: Rezmir yang kabur lebih dari sekali, Varram yang jadi tawanan, Neronvain yang terluka dan bersembunyi bersama malunya sendiri, Talis yang kalah tanpa kehormatan. Tersisa satu — dan satu itu bukan sekadar wyrmspeaker lagi. Draakhorn yang dulu cuma getaran samar kini jadi suara jelas dan konstan — kesan malapetaka yang mengambang di udara ke manapun party pergi.
 
 Mata-mata Harper dan Zhentarim (atau tawanan yang diinterogasi sepanjang Chapter 14) melaporkan: persiapan kultus mendekati selesai. Tidak ada jalan mundur dari titik ini.
 

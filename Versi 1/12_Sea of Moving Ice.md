@@ -19,7 +19,7 @@ Chapter ini adalah jeda skala yang disengaja — dari politik ruang dewan ke kes
 
 ## BAGIAN I — MENUJU LAUTAN ES
 
-**Dala Silmerhelve** menjelaskan: satu-satunya orang yang tahu lebih banyak soal Draakhorn adalah **Maccath the Crimson**, penyihir tiefling anggota Arcane Brotherhood yang menghilang tiga tahun lalu saat menyelidiki Lautan Es yang Bergerak.
+Dari dua benang yang terbuka di sesi pertama council, party memilih dulu untuk mengejar jawaban soal Draakhorn — meninggalkan perburuan Varram the White untuk nanti (rujuk Chapter 13, yang bisa dijalankan sebelum atau sesudah chapter ini; urutannya tidak mengubah apapun secara struktural). **Dala Silmerhelve** menjelaskan: satu-satunya orang yang tahu lebih banyak soal Draakhorn adalah **Maccath the Crimson**, penyihir tiefling anggota Arcane Brotherhood yang menghilang tiga tahun lalu saat menyelidiki Lautan Es yang Bergerak.
 
 > **Dala:** "Laporan terakhirnya bicara soal Ice Hunters mendayung perahu kulit anjing laut menuju gunung es raksasa, rata seperti dataran tinggi di permukaannya, dikelilingi puncak es. Dia berniat mengikuti mereka. Setelah itu, tidak ada laporan lagi."
 
@@ -47,9 +47,9 @@ Desa Ice Hunters — 20 struktur, dipimpin **Barking Seal** (kepala suku) dan **
 
 ---
 
-## BAGIAN III — GUA ES (RINGKASAN)
+## BAGIAN III — GUA ES
 
-Gua di bawah desa adalah wilayah Arauthator dan para pelayannya — kobold (dibawa paksa generasi lalu), ice toad (diplomatik, dipimpin **Marfulb** yang sangat cerdas dan mengurus seluruh logistik gunung es), dan ice troll (kasar, cuma setia pada siapa yang menang).
+Turun dari desa, udara berubah lagi — dari dingin terbuka jadi dingin yang terperangkap, memantul di antara dinding es yang menyimpan gema terlalu lama. Gua di bawah desa adalah wilayah Arauthator dan para pelayannya — kobold (dibawa paksa generasi lalu), ice toad (diplomatik, dipimpin **Marfulb** yang sangat cerdas dan mengurus seluruh logistik gunung es), dan ice troll (kasar, cuma setia pada siapa yang menang).
 
 **Maccath the Crimson** ditemukan di sebuah tenda aneh di tengah gua — tawanan yang, meski disekap, terobsesi menyelesaikan terjemahan tulisan sihir curian Arauthator dari Hosttower of the Arcane. Dia menawarkan kesepakatan: dia tidak akan pergi tanpa membawa properti Arcane Brotherhood yang bisa diselamatkan.
 

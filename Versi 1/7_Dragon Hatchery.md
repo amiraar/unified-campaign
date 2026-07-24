@@ -237,9 +237,11 @@ Kini nyaris kosong — kotak-kotak terbalik, barang pecah, koin dan permata keci
 
 ## BAGIAN IV — SETELAH GUA
 
-Dengan sarang naga hancur dan kultus pergi, party punya dua pilihan jelas: menuju Elturel untuk bertemu Leosin dan Ontharr Frume, atau mengikuti jejak roda gerobak — barat ke Beregost, lalu utara di Trade Way, mengejar rombongan yang sudah unggul setidaknya sehari penuh.
+Party keluar dari gua ke udara terbuka membawa bau busuk daging dan darah lama yang tidak akan benar-benar hilang sampai mereka mandi — dan menyadari, di bawah cahaya siang yang biasa, bahwa jejak roda gerobak kultus sudah dua hari penuh di depan mereka. Mengejarnya lewat jalan kaki dari sini, tanpa kuda, tanpa perbekalan segar, bukan lagi pilihan yang masuk akal — itu cuma cara lain untuk sampai ke Beregost kelelahan dan telat.
 
-> *Catatan DM:* Ingat Section 6 System Instructions Section 7 — Runara sudah menyebut Beregost sebagai tempat kontak yang bisa dipercaya sejak akhir Chapter 4. Kalau party menuju ke sana, ini momen untuk memperkenalkan kontak itu secara singkat — cukup satu scene untuk menegaskan bahwa dunia yang mereka bangun sejak Stormwreck saling terhubung.
+Yang masih masuk akal, dan yang sudah dijanjikan sebelum mereka turun ke gua: Leosin menunggu di Elturel, bersama seorang paladin Torm yang katanya "sama khawatirnya" soal kultus ini. Kalau ada jalan untuk tetap mengejar gerobak itu tanpa kehabisan napas duluan, kemungkinan besar itu jalan yang dibuka lewat Elturel — bukan lewat mengejarnya sendirian di Trade Way.
+
+> *Catatan DM:* Kalau pemain tetap ingin mengejar jejak gerobak langsung dari sini alih-alih ke Elturel dulu, itu valid — biarkan mereka menyusuri Trade Way ke Beregost sendiri, dan pakai Runara sebagai jangkar: dia sudah menyebut Beregost sebagai tempat kontak yang bisa dipercaya sejak akhir Chapter 4 (System Instructions Section 7). Tapi jalur yang ditulis di Chapter 8 mengasumsikan mereka memilih Elturel dulu — dan itu pilihan yang lebih masuk akal secara in-fiction, karena Leosin sudah menunggu di sana dan jejak gerobak sudah terlalu dingin untuk dikejar dengan berjalan kaki.
 
 **Level up narasi:**
 

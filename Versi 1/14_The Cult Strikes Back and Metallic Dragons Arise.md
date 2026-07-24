@@ -19,6 +19,8 @@ Chapter ini dua sistem berbeda yang dijalankan berdampingan sepanjang sisa campa
 
 # BAGIAN I — KULTUS MEMBALAS
 
+Dua wyrmspeaker tumbang dalam satu rentang perjalanan — Varram tertangkap atau mati, Neronvain kabur terluka parah bersama Chuth. Untuk pertama kalinya sejak Greenest, Sang Arsitek tidak lagi punya kemewahan menganggap party sebagai gangguan kecil. Nama-nama mereka sekarang dikenal, diulang di antara sisa kultus dengan nada yang berbeda — bukan sekadar "orang-orang yang mengacaukan Naerytar," tapi ancaman yang harus dihabisi sebelum menyebar lebih jauh. Balasan itu datang tidak lama kemudian, dan tidak datang sekali.
+
 *DM: Sisipkan tiga serangan ini di antara chapter-chapter lain sepanjang sisa campaign — jangan mainkan berurutan. Rujuk timing di bawah untuk tiap serangan.*
 
 ## I.1 — SERANGAN PERTAMA: PERINGATAN

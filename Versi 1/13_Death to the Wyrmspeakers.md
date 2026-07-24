@@ -21,7 +21,7 @@ Chapter ini dua misi terpisah yang bisa dijalankan dalam urutan apapun, masing-m
 
 ## I.1 — JEJAK KE BOARESKYR BRIDGE
 
-Di sesi council, Leosin melaporkan rumor: Mask Naga Putih milik Varram **dicuri** oleh pencuri bersekutu Zhentarim, disembunyikan dari sihir pelacak. Varram terlihat di **Boareskyr Bridge**, dekat Serpent Hills — mencari eskort masuk ke pedalaman.
+Benang kedua yang terbuka di Council of Waterdeep (rujuk Chapter 11) menunggu di sini — entah party baru kembali dari Lautan Es yang Bergerak, atau memilih memburu wyrmspeaker ini duluan. Di sesi council, Leosin melaporkan rumor: Mask Naga Putih milik Varram **dicuri** oleh pencuri bersekutu Zhentarim, disembunyikan dari sihir pelacak. Varram terlihat di **Boareskyr Bridge**, dekat Serpent Hills — mencari eskort masuk ke pedalaman.
 
 Di **Kedai Tenda Bolo**, seorang pemilik halfling menceritakan: Varram membunuh mata-mata yuan-ti di depan umum (membuatnya jadi "pahlawan lokal" tanpa sadar) sebelum melesat ke Serpent Hills dengan lebih dari selusin pengikut — termasuk sosok berjubah yang sebenarnya **bearded devils**, bukan tentara bayaran manusia seperti dugaan penduduk.
 

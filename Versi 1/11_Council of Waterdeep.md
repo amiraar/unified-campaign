@@ -23,6 +23,8 @@ Kalau Skyreach Castle jatuh atau direbut, party kembali ke Waterdeep dengan cara
 
 > **Gagak (dengan suara Leosin):** "Leosin Erlanthar mengirim selamat sehangat-hangatnya! Tolong pakai hadiah yang dibawa burung ini untuk menemui saya di Waterdeep secepatnya."
 
+Dari udara pegunungan yang tajam dan sunyi total di Skyreach Castle, lingkaran teleportasi melemparkan mereka langsung ke tengah kebisingan yang nyaris memekakkan telinga: pedagang berteriak, roda gerobak berderit di atas batu, ribuan orang yang tidak tahu dan tidak peduli apa yang baru saja party lakukan di atas awan. Waterdeep tidak berhenti untuk siapapun — dan untuk pertama kalinya sejak Neverwinter, mereka berdiri di kota yang benar-benar besar, kota yang membuat Greenest terasa seperti dusun. Beri waktu sebentar sebelum melangkah lebih jauh — DM: ini act break nyata (rujuk catatan penutup Ch.10). Biarkan pemain bernapas, beli makanan panas yang bukan sup ikan Runara, sebelum dunia mendorong mereka ke arah berikutnya.
+
 ---
 
 ## BAGIAN II — DUA PERTANDA

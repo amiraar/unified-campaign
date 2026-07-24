@@ -21,7 +21,9 @@ Chapter ini menggabungkan dua arc resmi (On the Road + Construction Ahead) jadi 
 
 ## I.1 — KEMBALI KE GREENEST, LALU BERANGKAT
 
-Party kembali ke Greenest sebentar untuk mengembalikan barang jarahan dan memulihkan diri. Nighthill menyambut dengan hangat — Leosin, sebelum berangkat duluan, sudah membelikan kuda dan perlengkapan tunggang untuk mempercepat perjalanan ke Elturel. Semua biaya sudah dibayar.
+Mengejar gerobak kultus sendirian dengan berjalan kaki tidak pernah benar-benar jadi pilihan setelah dua hari mereka tertinggal — itu cuma cara lain untuk sampai ke Beregost lebih lelah dan tetap kalah cepat. Jadi party kembali ke Greenest sebentar untuk mengembalikan barang jarahan dan memulihkan diri, memilih jalan yang sudah ditawarkan sebelum mereka turun ke gua: Elturel, tempat Leosin menunggu.
+
+Nighthill menyambut dengan hangat — Leosin, sebelum berangkat duluan, sudah membelikan kuda dan perlengkapan tunggang untuk mempercepat perjalanan ke Elturel. Semua biaya sudah dibayar.
 
 Perjalanan 200 mil ke Elturel memakan enam hari berkuda. DM boleh mainkan ini singkat, atau selipkan satu encounter ringan (bandit, klan humanoid, monster liar Greenfields) untuk variasi.
 

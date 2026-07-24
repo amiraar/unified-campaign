@@ -21,6 +21,8 @@ Chapter ini beda ritme dari Greenest. Greenest itu darurat dan reaktif — kalia
 
 ## I.1 — TAWARAN NIGHTHILL
 
+Tidak ada yang benar-benar tidur. Asap masih menggantung tipis di atas atap-atap yang setengah runtuh ketika langit mulai berubah abu-abu, dan tiap kali ada langkah di lorong benteng, seseorang terbangun untuk memastikan itu bukan sesuatu yang lain. Otot masih terasa berat dari duel semalam — menang atau kalah, tidak ada bedanya soal itu. Yang beda adalah kabar yang mulai menyebar begitu warga mulai berani keluar dari persembunyian mereka: penjarah itu benar-benar sudah pergi. Tidak lari kocar-kacir. Mundur, dalam barisan, seperti orang yang tahu ke mana mereka akan pergi.
+
 Pagi berikutnya, saat party mempersiapkan diri, Nighthill mendatangi mereka lagi — lengannya masih di kain penyangga, tapi wajahnya sedikit lebih tenang dari semalam.
 
 > **Nighthill:** *(langsung ke inti, tanpa basa-basi)* "Penjarah mundur ke tenggara. Kalian sudah buktikan kalian bisa berjalan masuk ke tempat berbahaya dan keluar lagi." *(beat)* "Saya butuh tahu siapa yang di balik ini, berapa banyak mereka, dan ke mana mereka akan menyerang selanjutnya. Dua ratus lima puluh keping emas per orang, kalau kalian mau cari tahu."

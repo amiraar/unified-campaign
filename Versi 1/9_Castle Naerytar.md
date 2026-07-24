@@ -21,6 +21,8 @@ Ini adalah titik akhir jalur yang sudah dilacak sejak Seagrow Caves — CROWN-7,
 
 ## I.1 — DUA HARI DI MERE OF DEAD MEN
 
+Carnath Roadhouse menghilang di belakang mereka lebih cepat dari yang diperkirakan — begitu ruang kuat Bog Luck dibongkar, tidak ada alasan lagi untuk berlama-lama di sana, dan lorong bawah tanah yang selama ini dipakai menyelundupkan kontraband kultus jadi jalan masuk mereka sendiri ke rawa. Uldoon Trail, Elturel, Baldur's Gate, dua bulan penuh di Trade Way — semua itu sekarang terasa seperti dunia lain begitu mereka masuk ke bau lumpur dan air tergenang yang tidak pernah benar-benar diam.
+
 Terowongan dari Carnath Roadhouse muncul di tempat tersembunyi semak dan pohon. **Passive Perception 10+** mendengar suara-suara buas menggeram dan bergumam dalam bahasa Draconic di depan.
 
 Hari pertama: berjalan kaki lewat rawa kusut. Jejak lizardfolk yang membawa kontraband bisa diikuti — medan sulit, tapi arahnya jelas. Setelah tujuh mil, party mencapai kemah setengah jalan: empat gubuk anyaman, platform batu untuk api, tiga kano cadik.
@@ -81,9 +83,9 @@ Selama party tidak bersikap mencurigakan dan (idealnya) ditemani Snapjaw atau me
 
 ---
 
-## II.4 — DI DALAM KASTIL (RINGKASAN LOKASI KUNCI)
+## II.4 — DI DALAM KASTIL
 
-*DM: Kastil ini besar. Berikut lokasi-lokasi yang paling penting secara naratif — mainkan sisanya secara longgar sesuai arah eksplorasi party.*
+Di dalam, kastil ini terasa seperti tiga rumah tangga yang dipaksa berbagi satu atap — bau forge lizardfolk berbaur dengan asap dupa Tiamat dari kapel kayu, dan di ruang penyortiran, suara kultis menghitung jarahan tidak pernah benar-benar berhenti siang atau malam. Berikut lokasi-lokasi yang paling penting secara naratif; mainkan sisanya secara longgar sesuai arah eksplorasi party.
 
 **Barbican & Ward Luar-Dalam:** gerbang dijaga bullywug (kewaspadaan rendah kecuali ada keributan). Ward dalam dipatroli tiga guard drake yang menyerang siapapun yang tidak dikenal.
 

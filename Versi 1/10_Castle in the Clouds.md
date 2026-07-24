@@ -21,7 +21,7 @@ Ini adalah chapter penutup **Hoard of the Dragon Queen** — separuh pertama dar
 
 ## I.1 — MELALUI GERBANG
 
-Portal dari Castle Naerytar tertutup begitu party melangkah keluar — tidak bisa dibuka lagi tanpa command word yang tepat. Udara berubah drastis: dingin, tajam, dikelilingi hutan pinus lebat di lereng pegunungan Graypeak. Dua batu berdiri berlumut mengapit gerbang; tiga portal lain berdiri di dekatnya (menuju utara bersalju tempat Talis mengunjungi sekutu naga putih, ruang terjaga di Thay, dan gurun Mulhorand dekat sarang naga biru) — dijaga dan jarang diaktifkan tanpa pengetahuan yang cukup langka.
+Sedetik yang lalu ada lumpur rawa, bau busuk lizardfolk dan dupa Tiamat yang tidak mau hilang dari pakaian mereka. Lalu ada ini — udara yang begitu dingin dan tajam terasa seperti membakar paru-paru, hutan pinus lebat menutupi lereng pegunungan Graypeak sejauh mata memandang, dan sunyi yang begitu total setelah bulan-bulan di jalan dan rawa hingga terasa seperti tuli. Portal dari Castle Naerytar tertutup begitu party melangkah keluar — tidak bisa dibuka lagi tanpa command word yang tepat. Dua batu berdiri berlumut mengapit gerbang; tiga portal lain berdiri di dekatnya (menuju utara bersalju tempat Talis mengunjungi sekutu naga putih, ruang terjaga di Thay, dan gurun Mulhorand dekat sarang naga biru) — dijaga dan jarang diaktifkan tanpa pengetahuan yang cukup langka.
 
 > *Catatan DM:* Portal ke Thay adalah easter egg tajam untuk arc Wizard — jangan aktifkan sekarang, tapi biarkan menggantung sebagai pengingat betapa dalam jaringan Red Wizards terhubung ke kultus ini.
 
@@ -39,7 +39,9 @@ Kalau party berlama-lama di luar atau menjelajahi hutan, mereka berpapasan dua t
 
 ---
 
-## I.3 — DI DALAM PONDOK (RINGKASAN)
+## I.3 — DI DALAM PONDOK
+
+Di dalam, pondok ini masih berusaha terasa seperti tempat singgah yang nyaman — perapian menyala, dapur sibuk, tawanan disimpan rapi di bawah tanah seolah itu bagian normal dari rumah tangga manapun. Lokasi-lokasi berikut yang paling penting secara naratif; sisanya bisa dimainkan longgar.
 
 **Aula Kecil (5):** dua patung gargoyle menyerang siapapun yang masuk dengan senjata terhunus. Baju zirah elf yang berdiri di sini terjebak rune pembeku (DC 20 Perception mendeteksi, DC 15 Con save kalau tersentuh — 1d12 cold + restrained 1 menit).
 
@@ -160,7 +162,9 @@ Surat-surat dari **Sang Arsitek**, pemimpin tertinggi kultus, ditemukan di ruang
 
 ---
 
-## II.5 — RAKSASA DAN VAMPIR (RINGKASAN)
+## II.5 — RAKSASA DAN VAMPIR
+
+Di luar Rezmir dan Rath Modar, kastil ini penuh penghuni yang cuma bersekutu di atas kertas — masing-masing menyimpan alasannya sendiri untuk tidak sepenuhnya memercayai yang lain.
 
 **Blagothkus (Menara Raksasa Awan, 22):** tidak benar-benar mendukung kultus — dia melihatnya sebagai cara membangkitkan bangsanya yang menurutnya sudah "lembek." Kalau party bicara jujur dengannya soal niat mereka, dia bisa dibujuk berbalik melawan kultus — atau setidaknya tidak menghalangi. Kalau dia terbunuh, roh mendiang istrinya digantikan roh Blagothkus sendiri, yang murka dan mengarahkan kastil jatuh ke Spine of the World.
 
