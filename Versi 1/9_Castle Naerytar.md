@@ -157,6 +157,20 @@ Terowongan turun dari 1S menuju gua-gua lembap, wilayah kekuasaan bullywug. Phar
 
 Kalau pertarungan besar meletus di kastil, Rezmir dan Azbara Jos melakukan apapun untuk menghindarinya. Mereka punya kepentingan yang jauh lebih besar dari keselamatan Castle Naerytar dan penghuninya. Begitu situasi memburuk, keduanya langsung menuju gerbang di bawah kastil dan teleportasi ke pondok Talis the White.
 
+**Momen sebelum konfrontasi (Villain Sympathy Checkpoint):** Kalau party mendekat tanpa terdeteksi (Stealth menentang passive Perception penjaga, atau lewat jalur tersembunyi manapun), mereka bisa menyaksikan ini sebelum Rezmir sadar kehadiran mereka:
+
+> *DM membaca:*
+>
+> "Seorang kultis muda berdiri di depannya, gemetar, memegang gulungan catatan. Rezmir tidak terburu-buru menanyakannya."
+>
+> **Rezmir:** "Berapa yang kabur."
+>
+> *Kultis itu menyebutkan angka. Rezmir mendengarkan sampai selesai — tidak memotong, tidak bereaksi. Lalu dia mengangguk sekali.*
+>
+> **Rezmir:** "Lebih banyak dari yang seharusnya."
+
+*Catatan DM: Ini bukan kekejaman — ini kalkulasi dingin. Rezmir tidak kecewa karena banyak yang mati; dia mencatat bahwa terlalu banyak yang lolos dan bisa bersaksi. Jangan framing ini ke pemain sebagai "momen simpatik" — biarkan hadir sebagai detail operasional biasa, dan biarkan pemain sendiri memutuskan artinya. Sesuai Voice Bible Rezmir (Absolute Authority): tidak ada penjelasan susulan kecuali angkanya tidak sesuai perhitungannya. Kalau DM ingin menutup momen ini, Rezmir bergumam nyaris tak terdengar sebelum kembali ke urusannya — "Dunia yang bersih selalu bermula dari keputusan yang kotor."*
+
 > *DM membaca (kalau party berhasil menghadang atau melihat Rezmir langsung untuk pertama kalinya secara dekat):*
 >
 > "Dia tidak buru-buru. Bahkan saat api mulai menjalar dan teriakan bullywug bergema dari ward luar, langkahnya tetap terukur — seperti seseorang yang sudah lama tahu kastil ini cuma alat, bukan rumah."

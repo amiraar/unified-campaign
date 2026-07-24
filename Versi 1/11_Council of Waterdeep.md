@@ -53,7 +53,11 @@ Kalau party mencari tempat sunyi, mereka merasakan gangguan itu lagi — gemuruh
 
 > **Dala Silmerhelve:** "Gangguan yang dirasakan di seluruh Sword Coast itu adalah Draakhorn — alat kuno yang bunyinya memberi tahu naga-naga di seluruh Faerûn bahwa peristiwa besar sedang terjadi. Mustahil memastikan apa artinya, tapi para naga mendengarnya jelas — dan pada akhirnya akan menjawab panggilan itu."
 
-Dia menolak keras mengungkap sumber pengetahuannya (sebenarnya seekor naga perunggu purba bernama **Nymmurh**, penyokong rahasia keluarganya) — membuat beberapa delegasi curiga padanya.
+Kalau delegasi mendesaknya soal sumber informasi itu:
+
+> **Dala Silmerhelve:** *(tersenyum tipis, terlalu cepat untuk terasa tulus)* "Sumbernya nggak penting. Yang penting akurat." *(mengalihkan pandangan ke peta di meja)* "Dan saya belum pernah salah soal Draakhorn."
+
+Dia tidak mengelaborasi lebih jauh, bahkan ketika didesak lagi (sumber sebenarnya adalah seekor naga perunggu purba bernama **Nymmurh**, penyokong rahasia keluarganya) — dan penolakannya yang konsisten ini membuat beberapa delegasi curiga padanya.
 
 ---
 

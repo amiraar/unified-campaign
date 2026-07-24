@@ -717,14 +717,14 @@ Lempar ke laut atau hancurkan — efek itu tidak akan terpicu lagi selama encoun
 
 *Runara adalah naga perunggu. Bukan wyrmling seperti Aidron dan Sparkrender. Bukan muda. Sesuatu yang sudah hidup sangat lama dan membawa setiap tahunnya seperti lapisan yang bisa dilihat tapi tidak bisa dihitung.*
 
-> **Runara:** *(suaranya sama. Tepat sama. Hanya sekarang terasa seperti datang dari tempat yang lebih dalam)* "Saya menyembunyikan ini dari kalian karena saya tidak ingin penilaian kalian tentang situasi di pulau ini dipengaruhi oleh apa yang saya. Saya ingin kalian melihat masalahnya sendiri." *(berhenti)* "Apakah itu pilihan yang tepat — saya tidak yakin sepenuhnya. Tapi itu yang saya lakukan, dan saya tidak akan pura-pura itu tidak ada."
+> **Runara:** *(suaranya sama. Tepat sama. Hanya sekarang terasa seperti datang dari tempat yang lebih dalam)* "Saya menyembunyikan ini supaya penilaian kalian soal pulau ini nggak dipengaruhi oleh apa yang saya." *(berhenti)* "Saya ingin kalian melihat masalahnya sendiri dulu."
 
 ---
 
 **DM: Berikan ruang untuk reaksi pemain. Jangan isi keheningan ini dengan cepat.**
 
 *Jika pemain bertanya kenapa Runara tidak bisa masuk ke observatory sendiri:*
-> "Karena Sparkrender adalah keturunan dari naga yang pernah menjadi musuh saya. Kehadiran saya di sana akan mengubah konflik menjadi sesuatu yang jauh lebih besar dari yang perlu. Ada pertarungan yang tidak boleh saya menangkan sendiri — bukan karena saya tidak bisa, tapi karena cara saya menangnya akan merusak lebih banyak dari yang diperbaiki."
+> "Karena Sparkrender keturunan naga yang pernah jadi musuh saya." *(berhenti)* "Ada pertarungan yang tidak boleh saya menangkan sendiri. Bukan karena saya tidak bisa — karena cara saya menangnya akan merusak lebih banyak dari yang diperbaiki."
 
 *Jika pemain menekan lebih jauh — bertanya soal naga yang dulu jadi musuhnya, atau kenapa dia begitu berhati-hati soal caranya "menang":*
 

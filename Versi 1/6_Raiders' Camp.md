@@ -157,7 +157,7 @@ Kalau Paladin (menyamar, atau tertangkap dan ditempatkan dekat tawanan lain) ber
 >
 > "Corwin menggeser sedikit dari tempatnya, memberi ruang di sampingnya tanpa diminta. Dia membagi jatah roti kerasnya jadi dua — potongan yang jauh lebih kecil untuk dirinya sendiri — dan menyerahkan setengahnya kepadamu tanpa basa-basi, seperti itu sudah keputusan yang dia buat sebelum kamu duduk."
 
-> **Corwin:** *(suara serak, tapi tidak mengeluh)* "Di desa saya, orang nggak biarin tamu duduk lapar. Nggak peduli seberapa sedikit yang kita punya." *(beat)* "Kamu bukan salah satu dari mereka. Saya bisa lihat itu dari cara kamu duduk."
+> **Corwin:** *(suara serak, tapi tidak mengeluh)* "Di desa saya, orang nggak biarin tamu duduk lapar. Nggak peduli seberapa sedikit yang kita punya."
 
 Kalau Paladin menerima keramahan ini — dan kemungkinan besar mereka akan, karena menolaknya terasa kejam — Corwin, dengan kepercayaan yang sudah dia bangun, mulai bicara. Bukan karena dipaksa. Karena dia kesepian, dan karena dia mempercayai orang yang baru saja duduk dan makan bersamanya seperti tamu, bukan seperti interogator.
 
