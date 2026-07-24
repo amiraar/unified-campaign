@@ -106,7 +106,7 @@ Di tengah perdebatan delegasi soal cara terbaik menangani kultus, seorang delega
 
 ### MOMEN ROGUE — DELEGASI RAHASIA
 
-Di antara para delegasi, seorang tiefling anggun bernama **Rian Nightshade** diperkenalkan sebagai penasihat khusus Dagult Neverember. Sebagian delegasi — Sir Isteval, Ontharr Frume, Duta Brawnanvil — jelas berusaha mengabaikannya. Rian adalah **delegasi rahasia Zhentarim**, dan tidak bicara kecuali disapa langsung oleh party.
+Di antara para delegasi, seorang tiefling anggun bernama **Rian Nightshade** diperkenalkan sebagai penasihat khusus Dagult Neverember. Sebagian delegasi — Sir Isteval, Ontharr Frume, Duta Brawnanvil (**Connerad Brawnanvil** sendiri, hadir langsung mewakili Gauntlgrym, bukan utusan terpisah) — jelas berusaha mengabaikannya. Rian adalah **delegasi rahasia Zhentarim**, dan tidak bicara kecuali disapa langsung oleh party.
 
 > **Rian Nightshade:** *(mendekati Rogue secara terpisah, suara rendah)* "Kalian sudah kenal kode CROWN-7. Zhentarim tidak lupa siapa yang mengenali kode itu duluan." *(beat)* "Jaringan Hitam siap bertindak sekarang, bukan menunggu faksi lain berdebat selamanya — kalau kalian bisa atur syarat yang menguntungkan buat kami."
 

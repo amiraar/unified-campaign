@@ -99,6 +99,18 @@ Dua belas kultis inisiat bekerja di sini siang hari, diawasi empat dragonclaw. K
 
 > *Catatan DM — PAYOFF CROWN-7:* Di antara barang yang sedang disortir, party menemukan buku catatan pengiriman — daftar kode CROWN-7 lengkap dengan tujuan-tujuan sebelumnya (Seagrow Caves, Greenest, kamp penjarah) dan konfirmasi bahwa **titik ini adalah tujuan akhir jalur logistik yang sudah dilacak Rogue sejak awal**. Beri momen ini ruang — biarkan Rogue (dan pemain yang memainkannya) merasakan bahwa benang yang dia tarik sejak Stormwreck akhirnya sampai ke ujungnya.
 
+### MOMEN ROGUE — TRAGIC TRIGGER PILAR 4: DILEMA CROWN-7
+
+*Ini adalah TRAGIC TRIGGER Pilar 4 (Rogue) — baca ulang System Instructions Section 3 (Pilar 4) sebelum menjalankan scene ini. Jangan beri jalan keluar ketiga.*
+
+Buku catatan yang sama juga mengungkap sesuatu yang tidak murni taktis: jalur CROWN-7 yang membawa kontraband kultus lewat rawa ke roadhouse **adalah jalur pasokan yang sama** yang dipakai tiga pemukiman kecil di Mere of Dead Men untuk bertahan hidup lewat musim ini — garam, benih, obat-obatan yang tidak bisa mereka dapat lewat jalur lain sebelum jalan darat dari Waterdeep dibuka kembali musim semi depan. Memutus jalur ini di titik ini juga (bukan cuma di Naerytar, tapi lebih jauh ke selatan lewat roadhouse) akan melumpuhkan logistik kultus secara telak — dan membuat ketiga pemukiman itu kelaparan sebelum bantuan lain bisa datang.
+
+**Rian Nightshade** (lewat perantara, atau surat yang dititipkan sebelumnya) sudah menegaskan posisi Zhentarim: putus jalurnya sekarang, tanpa pengecualian — sipil bukan urusan mereka, dan penundaan demi warga rawa berarti kultus dapat waktu mengatur ulang.
+
+> *DM: Tidak ada jalur ketiga yang benar-benar aman — mengatur pengiriman pengganti butuh waktu berminggu-minggu yang tidak dimiliki party, dan membiarkan jalur tetap berjalan "hanya untuk sipil" berarti kultus tetap bisa memakainya juga. Rogue harus memilih: putus total (logistik kultus lumpuh, tapi Zhentarim senang dan sipil kelaparan), biarkan berjalan (sipil selamat, tapi Zhentarim mencatat Rogue sebagai lemah dan kultus dapat waktu), atau upaya rumit di tengah (mengarahkan sebagian jalur ke rute sipil terpisah — mungkin, tapi butuh keberhasilan skill check signifikan dan tidak dijamin DM harus menegaskan risikonya, bukan menjaminnya). Catat pilihan ini — ini akan mewarnai bagaimana Zhentarim memperlakukan Rogue di Council of Waterdeep (Ch.11) dan di epilog (Ch.17).*
+
+Apapun keputusan Rogue, ini adalah retakan pertama dalam Internal Contradiction-nya: kepercayaan yang dia bangun dengan Zhentarim mulai berbenturan langsung dengan apa yang party (dan dirinya sendiri) anggap benar.
+
 **Chapel (1L):** kuil kayu untuk Tiamat, diukir lizardfolk (mirip lizardfolk lebih dari naga). Kompartemen tersembunyi di bawah kepala naga hitam berisi **dagger of venom** (**DC 15 Investigation**).
 
 **Forge & Ready Room Lizardfolk (1H/1I/2H):** Borngray mencoba mengajarkan metalurgi ke lizardfolk untuk membangun kebanggaan mereka — hasilnya buruk, tapi mereka menikmati kehangatan forge. Gudang senjata rahasia lizardfolk (pedang, belati, tombak baru) tersembunyi di bawah tumpukan senjata karatan di area 2H — bukti mereka lebih siap memberontak dari yang terlihat.

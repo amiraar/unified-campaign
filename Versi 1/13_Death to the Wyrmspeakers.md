@@ -182,7 +182,7 @@ Raja Melandrach berterima kasih atas keberanian party — tapi begitu tahu putra
 ## CATATAN DM — FACTION FRACTURE SEEDS (Death to the Wyrmspeakers)
 
 - **Elf (Misty Forest)**: Melandrach sekarang punya beban personal, bukan cuma politik — ini mengubah keras kepalanya jadi kelelahan yang pragmatis.
-- **Cult of the Dragon**: Kehilangan dua wyrmspeaker (mati atau hidup dalam pelarian) adalah pukulan struktural nyata — tersisa tiga: Sang Arsitek, Galvan, Rezmir.
+- **Cult of the Dragon**: Kehilangan dua wyrmspeaker (mati atau hidup dalam pelarian) adalah pukulan struktural nyata — tersisa tiga yang belum langsung dikalahkan: Sang Arsitek, Galvan, dan Rezmir (yang terus lolos alih-alih benar-benar tumbang, sejak Castle Naerytar/Castle in the Clouds).
 
 ---
 

@@ -122,7 +122,7 @@ Tindakan party sepanjang campaign — dan di dalam pertempuran ini — bisa mele
 
 > *Catatan DM — INI ADALAH MOMEN PEMBAYARAN POLITICAL CONTINUITY TRACKER:* Setiap entri di Section 15 System Instructions dan tiap "Catatan DM — Political Continuity Tracker" di chapter-chapter sebelumnya sekarang relevan. Kalau Rogue menyimpan Ledger sejak Stormwreck, itu legitimasi nyata yang membuat faksi-faksi percaya penuh ke party sekarang. Kalau Fighter menunjukkan pola Thundertree-Greenest ke Ravengard, Lords' Alliance hadir lebih kuat di pertempuran ini. Kalau Cleric gagal total menegakkan Order of the Gauntlet, koalisi lebih rapuh. Jangan sebutkan mekanismenya ke pemain — biarkan mereka rasakan lewat kekuatan pasukan yang hadir, lewat NPC yang muncul membantu atau tidak muncul sama sekali.
 
-Tiap kondisi di atas yang terpenuhi memberi satu pengurangan berurutan ke Sang Ratu (damage attack/breath -15 & HP max -75; lalu kehilangan Regeneration & resistance jadi immunity; lalu kehilangan Limited Spell Immunity; lalu -5 ke attack/save DC/AC; lalu cuma 3 legendary action). Kalau kelima kondisi terpenuhi, Sang Ratu jadi setara CR 21 — masih pertarungan mematikan untuk empat karakter level 15, tapi bisa dimenangkan. Tanpa kelima pengurangan ini, party nyaris tidak punya peluang.
+Tiap kondisi di atas yang terpenuhi memberi satu pengurangan berurutan ke Sang Ratu (damage attack/breath -15 & HP max -75; lalu kehilangan Regeneration & resistance jadi immunity; lalu kehilangan Limited Spell Immunity; lalu -5 ke attack/save DC/AC; lalu cuma 3 legendary action). Kalau kelima kondisi terpenuhi, Sang Ratu jadi setara CR 21 — masih pertarungan mematikan untuk kelima karakter level 14-15, tapi bisa dimenangkan. Tanpa kelima pengurangan ini, party nyaris tidak punya peluang.
 
 ---
 
@@ -188,13 +188,17 @@ Ulder Ravengard, kalau kesan pertama di Council of Waterdeep bertahan lewat selu
 
 Dengan Rath Modar kalah atau kabur, dan trilogi Red Wizards (Azbara Jos → Rath Modar → Thay) selesai, Wizard akhirnya menjawab pertanyaan yang menghantuinya sejak Stormwreck: pengetahuan yang diwariskan rekan akademisnya yang mati bukan beban yang harus dia buktikan layak dia bawa — itu adalah hadiah yang sudah dia hormati dengan caranya sendiri.
 
-> *Catatan DM:* Panggil kembali lilin yang padam tiap kali Wizard mendekati tulisan tangan rekannya (Dragon's Rest). Di epilog ini, biarkan lilin menyala penuh untuk pertama kalinya — detail kecil, tidak perlu dijelaskan, cukup ada.
+> *Catatan DM:* Ini bercabang tergantung apa yang Wizard lakukan dengan pengetahuan itu di Castle in the Clouds (Ch.10). **Kalau dia memakainya secara terbuka untuk mengonfrontasi Rath Modar** ("Kamu masih membawa apa yang dia tinggalkan untukmu"), jawabannya di sini datang lewat kepastian — dia sudah membuktikan pengetahuan itu berguna dan dia layak menanggungnya. **Kalau dia memilih menyembunyikannya sepanjang campaign**, jawabannya datang lebih pelan — bukan lewat konfrontasi besar, tapi lewat momen sepi begini, di reruntuhan, di mana akhirnya tidak ada lagi yang perlu disembunyikan. Kedua jalur valid; jangan buat yang menyembunyikan terasa seperti pilihan yang salah.
+
+> Panggil kembali lilin yang padam tiap kali Wizard mendekati tulisan tangan rekannya (Dragon's Rest). Di epilog ini, biarkan lilin menyala penuh untuk pertama kalinya — detail kecil, tidak perlu dijelaskan, cukup ada.
 
 ### ROGUE — BAYANGAN YANG DIAKUI
 
 CROWN-7, dilacak sejak Seagrow Caves lewat Greenest, Raider's Camp, Castle Naerytar, sampai Council of Waterdeep — payoff penuhnya adalah pengakuan Zhentarim (Rian Nightshade atau penerusnya) bahwa Rogue bukan lagi sekadar aset, tapi mitra yang dihormati jaringan.
 
-> *Catatan DM:* Panggil kembali Dalan si pedagang Uldoon Trail dan koin Gilded Gallows dari Prolog. Kalau Rogue pernah kembali mengunjungi Dalan di titik manapun sepanjang campaign, ini saatnya menyebutkan dia sekali lagi — masih berdagang, masih hidup, karena pilihan yang Rogue buat bertahun lalu.
+> *Catatan DM:* Ini bercabang dari Dilema CROWN-7 di Castle Naerytar (Ch.9) — keputusan soal jalur pasokan Mere of Dead Men. **Kalau Rogue memutus jalur total demi Zhentarim**, pengakuan ini datang tanpa syarat, tapi dingin — dia dihormati sebagai aset yang bisa diandalkan, bukan sebagai orang. **Kalau Rogue membiarkan jalur sipil tetap hidup** (atau berhasil memisahkannya), pengakuan ini datang lebih lambat dan lebih personal — Zhentarim awalnya kecewa, tapi belakangan justru inilah yang membuat mereka benar-benar mempercayainya, karena dia terbukti tidak akan menjual semua orang untuk kontrak yang menguntungkan. Kalau party berhasil mengambil Black Dragon Mask secara nonlethal di Ch.10 (rujuk Ch.10 dan syarat "Melemahkan Sang Ratu" di II.3), itu adalah **Rogue** yang mengeksekusinya — bagian nyata dari "Tyranny Endgame"-nya (infiltrasi terdalam, mencuri dragon mask, meruntuhkan logistik sebelum Well of Dragons). Sebutkan itu secara eksplisit di sini kalau terjadi.
+
+> Panggil kembali Dalan si pedagang Uldoon Trail dan koin Gilded Gallows dari Prolog. Kalau Rogue pernah kembali mengunjungi Dalan di titik manapun sepanjang campaign, ini saatnya menyebutkan dia sekali lagi — masih berdagang, masih hidup, karena pilihan yang Rogue buat bertahun lalu.
 
 ### PALADIN — GREY ZONE YANG DIHADAPI
 

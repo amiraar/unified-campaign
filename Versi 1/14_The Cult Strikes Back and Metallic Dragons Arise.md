@@ -35,7 +35,7 @@ Serangan ini **pasti gagal** — kultus meremehkan kekuatan party. Pastikan seti
 
 > **Kultis (sekarat):** "Para naga bangkit! Kalian tidak bisa menghentikan kami!"
 
-**Reward:** naik level di akhir serangan ini.
+**Reward:** XP standar. Simpan level up untuk Serangan Ketiga di bawah — tiga serangan ini adalah eskalasi bertahap, bukan tiga level-up terpisah.
 
 ---
 
@@ -59,7 +59,7 @@ Yugoloth (mezzoloth/nycaloth) adalah tentara bayaran tanpa loyalitas ke kultus �
 
 **Kalau party kalah/mati:** ini bukan akhir cerita. Order of the Gauntlet, Harper, atau Emerald Enclave punya penyembuh yang bisa membangkitkan mereka — dan kultus yang mengira party sudah mati justru membuka celah kejutan untuk serangan balik nanti.
 
-**Reward:** naik level di akhir serangan ini.
+**Reward:** XP standar untuk encounter deadly ini. Level up masih disimpan untuk Serangan Ketiga.
 
 ---
 
@@ -153,7 +153,7 @@ Party bisa menawarkan pembagian harta kultus (satu bagian dari total dibagi rata
 
 **Janji lain yang mungkin dihargai:** menyerahkan **Sang Arsitek** sebagai tawanan (atau jasadnya) ke naga; menyucikan kuil besar untuk Bahamut; mendedikasikan sebidang tanah bersejarah untuk para naga.
 
-> *Catatan DM:* Setiap konsesi yang dijanjikan di sini adalah **utang politik nyata** — Council of Waterdeep sesi berikutnya akan menagihnya. Faksi manusia yang harus membayar konsesi (Neverember, Connerad, Melandrach, Laeral, Ravengard, Taern, Harper, Isteval, Order of the Gauntlet — dalam urutan itu) kehilangan sedikit rasa hormat tiap kali konsesi dibuat atas nama mereka.
+> *Catatan DM:* Setiap konsesi yang dijanjikan di sini adalah **utang politik nyata** — Council of Waterdeep sesi berikutnya akan menagihnya. Faksi manusia yang harus membayar konsesi (Neverember, Connerad, Melandrach, Laeral, Ravengard, Delaan, Remallia Haventree, Isteval — dalam urutan itu) kehilangan sedikit rasa hormat tiap kali konsesi dibuat atas nama mereka.
 
 ---
 

@@ -126,7 +126,7 @@ Para ahli di Waterdeep segera menemukan **mask itu palsu**. Ini menimbulkan kekh
 
 > "Kalian menyeberangi labirin yang tidak masuk akal, membayar dengan permata dan kesabaran, dan sampai tepat waktu untuk terlambat. Iskander sudah mati jauh sebelum kalian menyentuh gerbang menara. Mask yang kalian bawa pulang cuma tiruan. Tapi Lennithon — musuh lama yang kalian kira sudah lama pergi — masih di luar sana, dan sekarang dia tahu kalian belum selesai dengannya."
 
-*Karakter naik level.*
+*Tidak ada level up di sini — Chapter 14 sudah membawa party ke level 14, dan chapter ini tetap di level itu. Level up berikutnya (opsional, ke level 15) ada di Chapter 16.*
 
 ---
 

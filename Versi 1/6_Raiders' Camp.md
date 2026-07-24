@@ -272,7 +272,7 @@ Leosin, setelah pulih secukupnya, menawarkan diri menemani party ke tujuan berik
 | Corwin | Human, tawanan | Kamp Penjarah | Friendly (tulus) | Guest Right Dilemma — Tragic Trigger Paladin |
 | Leosin Erlanthar | Human, biksu | Kamp Penjarah (tawanan) | Friendly (keras kepala) | Sumber info utama arc kultus |
 | Frulam Mondath | Human, komandan kultus | Kamp Penjarah | Hostile, kalkulatif | Interogasi jika party tertangkap |
-| Rezmir | Half-black dragon | Kamp Penjarah (tenda utama) | Hostile (belum tampil langsung) | Keheningan taktis — tampil penuh di Ch.7 |
+| Rezmir | Half-black dragon | Kamp Penjarah (tenda utama) | Hostile (belum tampil langsung) | Keheningan taktis berlanjut sampai Ch.7 (dia sengaja tidak tampil di sana) — tampil penuh di Ch.8-9 |
 | Langdedrosa Cyanwrath | Half-blue dragon | Kamp Penjarah | Hostile + kehormatan | Mengenali karakter yang berduel dengannya otomatis |
 | Azbara Jos | ? | Kamp Penjarah (tenda utama) | Hostile (belum tampil) | Nama baru — akan relevan di chapter berikutnya |
 

@@ -237,7 +237,7 @@ Kultis paling tertutup mulutnya. DC 10 Intimidation atau DC 12 Persuasion membua
 
 Dari parapet, seseorang melihat sekelompok penjarah mencoba membakar kilang kota. Nighthill segera mendatangi karakter.
 
-Kilang berjarak sekitar 500 kaki dari benteng. Kalau karakter mengamati sebentar sebelum menyerang (DC 15 Insight/Performance), mereka sadar api yang dinyalakan cuma untuk pertunjukan — ini **umpan**. Mondath sudah tahu ada pahlawan membantu kota, dan ingin memancing mereka ke penyergapan: satu kultis + satu guard per karakter, bersembunyi di loteng kilang, siap melempar tombak dari atas sebelum turun bertarung.
+Kilang berjarak sekitar 500 kaki dari benteng. Kalau karakter mengamati sebentar sebelum menyerang (DC 15 Insight/Performance), mereka sadar api yang dinyalakan cuma untuk pertunjukan — ini **umpan**. Mondath sudah tahu ada pahlawan membantu kota, dan ingin memancing mereka ke penyergapan: satu kultis + satu guard per karakter, bersembunyi di loteng kilang, siap melempar tombak dari atas sebelum turun bertarung. Terlepas dari DC 15 di atas (yang cuma mengungkap bahwa ini jebakan secara konsep), **DC 20 Perception** terpisah dibutuhkan untuk benar-benar melihat sosok-sosok yang bersembunyi di loteng sebelum mereka menyerang — jauh lebih sulit karena posisinya di atas dan tersamar bayangan atap.
 
 Di antara barang jarahan yang tertinggal di kilang setelah pertarungan — **Fragmen 2**, manifest tercecer (kemunculan kedua kode CROWN-7, setelah Seagrow Caves):
 
@@ -261,7 +261,19 @@ Pintu depan punya 30 HP; tiap hantaman pendobrak mengurangi 1d6. Di 20 HP, retak
 
 Kalau pintu jebol sebelum evakuasi selesai, ini jadi pertarungan brutal melawan Grup A — kobold-kobold lebih memilih menyerang warga sipil tak bersenjata daripada petualang, membunuh satu warga tiap ronde kecuali dihentikan.
 
-**Reward:** 100 XP per karakter untuk evakuasi berhasil (50 XP jika lebih dari sepuluh warga tewas).
+### MOMEN CLERIC — TRAGIC TRIGGER PILAR 1
+
+*Ini adalah TRAGIC TRIGGER Pilar 1 (Cleric) — baca ulang System Instructions Section 3 (Pilar 1) sebelum menjalankan scene ini. Jangan beri jalan keluar ketiga.*
+
+Di tengah evakuasi, seorang warga tua — tukang gerabah bernama **Sella** — roboh dengan luka dalam yang tidak akan bertahan sampai fajar. Kalau Cleric sudah menghabiskan spell slot penyembuhannya malam ini (atau DM ingin momen ini terjadi terlepas dari slot yang tersisa), satu-satunya cara menyelamatkannya dalam hitungan detik yang ada adalah ritual darurat yang pernah dia pelajari — tapi teks aslinya mensyaratkan sebuah simbol suci sebagai katalis. Satu-satunya simbol dalam jangkauan adalah simbol Cult of the Dragon yang terjatuh dari kultis yang baru tewas di ambang pintu — secara metafisik cukup dekat untuk berfungsi (kekuatan ritualnya, bukan maknanya), tapi memakainya berarti menyalurkan sesuatu yang menodai doktrin yang dia junjung.
+
+> *DM: Tidak ada scroll cadangan, tidak ada NPC lain yang bisa menyembuhkan tepat waktu. Pilihannya murni: pakai simbol kultus dan selamatkan nyawa Sella, atau pegang doktrin dan biarkan dia mati di depan mata Cleric. Jangan jelaskan mekanismenya ke pemain — biarkan beratnya terasa dulu sebelum keputusan diambil.*
+
+> **Eadyan Falconmoon** *(kalau ada di dekat situ, suara pelan, tidak menghakimi)*: "Saya tidak akan bilang saya tahu jawabannya. Saya cuma tahu dia akan mati dalam semenit kalau tidak ada yang bertindak."
+
+Apapun keputusan Cleric — pakai simbol kultus atau tidak — catat itu. Ini pertanyaan yang akan menghantuinya sepanjang campaign: apakah dia benar-benar melayani tuhan, atau cuma mengelola konsekuensi-Nya. Panggil kembali momen ini di Ch.7 (echo di depan telur naga), Ch.11 (Ontharr Frume menyinggung "yang kau tunjukkan di Greenest"), dan Ch.17 (epilog Order of the Gauntlet).
+
+**Reward:** 100 XP per karakter untuk evakuasi berhasil (50 XP jika lebih dari sepuluh warga tewas). Tidak ada XP tambahan untuk momen Sella — bebannya adalah hadiahnya sendiri.
 
 ---
 
@@ -368,7 +380,7 @@ Party bersiap menuju **Kamp Penjarah** — Raider's Camp.
 | Fighter | Pola kehancuran Thundertree — dinding roboh ke arah yang sama, sumur ditutup rapi | Saat mengenali pola serupa yang lebih presisi di Ch.6/Raider's Camp; payoff penuh di Council of Waterdeep |
 | Fighter | Tawaran doa Cyanwrath sebelum duel — kalimat "pilihan yang sama yang akan saya minta untuk diri saya sendiri" | Saat Fighter sendiri harus memberi (atau menolak memberi) kehormatan yang sama ke musuh lain di endgame |
 | Semua | Shadow Line Nighthill — "Mereka cuma belum punya tempat lain untuk pergi" | Saat Paladin harus memutuskan sesuatu soal loyalitas di Council of Waterdeep |
-| Semua | Shadow Line Escobert — "Saya sudah terlalu lama di sini untuk terkejut" | Kapanpun Escobert kembali muncul di sesi mendatang |
+| Semua | Shadow Line Escobert — "Saya sudah terlalu lama di sini untuk terkejut" | Escobert tidak dijadwalkan muncul lagi di chapter manapun setelah ini — ini benih opsional. Kalau DM tidak berniat memakainya lagi, anggap dia selamat dan terus menjaga Greenest tanpa perlu disebut lagi. Kalau DM ingin memakai baris ini, satu penyebutan singkat di epilog Ch.17 (masih hidup, masih di Greenest) sudah cukup untuk membayarnya |
 | Rogue | Kode CROWN-7 muncul dua kali — Seagrow Caves dan manifest kilang Greenest | Saat kode itu muncul ketiga kalinya di Ch.6/Raider's Camp — titik di mana ia berhenti jadi kebetulan |
 | Semua | "Wanita naga" (Rezmir) disebut untuk pertama kali oleh tawanan | Rezmir sengaja TIDAK muncul di Dragon Hatchery (Ch.7) — keheningan taktis yang disengaja. Payoff sensorik ini baru cair saat dia pertama kali benar-benar terlihat (sekilas lewat tirai palanquin) di Ch.8/On the Road, lalu bicara langsung untuk pertama kalinya di Ch.9/Castle Naerytar |
 | Wizard | Jubah ungu Frulam Mondath, terlihat dari jauh di parapet | Saat konfrontasi langsung dengan Mondath (Ch.6/Ch.7) |

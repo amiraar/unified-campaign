@@ -310,7 +310,7 @@ Detail sensorik dari Prolog yang harus masuk ke Emotional Memory Log. DM catat i
 
 | Karakter | Detail Sensorik | Kapan Dipanggil Lagi |
 |---|---|---|
-| Rogue | Koin Gilded Gallows — tekstur sisi torehannya, terasa hangat dari gesekan terus-menerus | Saat pertama kontak Zhentarim di Ch.4 Tyranny |
+| Rogue | Koin Gilded Gallows — tekstur sisi torehannya, terasa hangat dari gesekan terus-menerus | Saat pertama kontak langsung dengan Zhentarim (Jamna Gleamsilver) di Ch.8/On the Road |
 | Wizard | Surat yang terlipat tidak rapi karena sudah dibaca puluhan kali — tepian sudah lusuh | Saat pertama melihat tulisan tangan rekan akademisnya di D4 Observatory |
 | Cleric | Kertas terlipat dua di meja — tangan di atasnya, tidak membacanya, hanya menahan | Saat Tragic Trigger aktif di Greenest — saat harus memilih antara doktrin dan nyawa |
 | Fighter | Kapak kecil di pinggang — senjata tukang kayu yang dipertajam terlalu sering | Saat duel Cyanwrath — sebelum memutuskan menerima tawaran doa atau tidak |

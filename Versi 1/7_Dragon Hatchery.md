@@ -179,7 +179,7 @@ Bagian bawah (10A) turun 15 kaki lewat tangga kayu berkandang besi, gerbangnya t
 
 **10A — Telur Naga Hitam:** hangat dan lembap. Genangan darah di lantai — sebagian segar (dari daging yang dilempar kobold). Dua **guard drake** bersembunyi di bayangan, dilatih melindungi telur — prioritas pertama melindungi telur, kedua menghalangi jalan keluar.
 
-Tersembunyi di antara stalaktit, seekor **roper** yang bisa bicara Common — tidak menyerang kobold/drake karena diberi makan daging busuk. Kalau diserang, dia melawan (dan **sangat berbahaya** untuk karakter level 3-4!). Kalau diberitahu soal simpanan daging di area 6 dan dibawakan buktinya, dia membiarkan party sendiri sambil merangkak pergi menyelidiki gudang.
+Tersembunyi di antara stalaktit, seekor **roper** yang bisa bicara Common — tidak menyerang kobold/drake karena diberi makan daging busuk. Kalau diserang, dia melawan (dan **berbahaya** kalau party belum sadar dia bisa dinegosiasikan — meski di level 5 party tidak lagi seterancam yang biasanya dihadapi roper ini). Kalau diberitahu soal simpanan daging di area 6 dan dibawakan buktinya, dia membiarkan party sendiri sambil merangkak pergi menyelidiki gudang.
 
 Tiga telur, masing-masing tinggi 3 kaki, berat 150 pon. Dua mudah terlihat; yang ketiga tersembunyi di antara tumpukan batu serupa warna — **DC 15 Perception** untuk menemukannya. **DC 10 Intelligence (Nature)** untuk mengenali warna naga dari telurnya.
 
@@ -216,6 +216,8 @@ Ruangan kecil di sampingnya berisi tempat tidur, peti pakaian Mondath, dan peti 
 Kalau pertarungan pecah di area 12 dan empat penjaga mundur ke sini membela Mondath, responsnya tergantung situasi — kalau party sudah kewalahan menghabisi penjaga depan, Mondath mungkin melarikan diri lewat chute ke area 9 dan bergabung dengan Cyanwrath, atau bahkan kabur dari gua sepenuhnya. Dia sudah mengabdikan hidupnya untuk kultus, tapi dia tidak buru-buru mati untuknya.
 
 Mondath tahu kultus sedang mengumpulkan harta di utara dan bahwa Rezmir sering bicara soal Sang Ratu — tapi itu batas pengetahuannya soal rencana besar.
+
+*Catatan DM: Kalau Mondath kabur di sini, dia tidak dijadwalkan muncul lagi di chapter manapun setelah ini — anggap dia terus mengabdi ke kultus di garis belakang, jauh dari sorotan, sampai akhirnya mati atau menghilang saat Well of Dragons jatuh (Ch.17). Tidak perlu momen penutup khusus untuknya kecuali DM ingin menambahkannya sendiri.*
 
 ---
 
