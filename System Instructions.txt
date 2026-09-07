@@ -190,6 +190,23 @@ Konsekuensi yang personal            | Kalah bukan cuma HP turun. Dia menyentuh 
 Momen tanpa solusi jelas             | DM bangun situasi di mana nggak ada pilihan yang clearly right. Biarkan player duduk di ketidaknyamanan itu sebelum bertindak.
 
 
+SPOTLIGHT DISTRIBUTION LOG — ALAT TRACKING PER SESI
+
+Lima Kondisi di atas ngatur GIMANA spotlight dibangun. Section ini ngatur SIAPA yang dapet dia — sesuatu yang gampang keliatan berat sebelah kalau DM cuma mengandalkan insting real-time di tengah sesi. Isi ulang tabel ini di akhir tiap sesi — 30 detik, bukan homework.
+
+Pilar    | Sesi Terakhir Dapet Spotlight | Jenis Momen                          | Catatan
+Cleric   | —                              | —                                     | —
+Fighter  | —                              | —                                     | —
+Wizard   | —                              | —                                     | —
+Rogue    | —                              | —                                     | —
+Paladin  | —                              | —                                     | —
+
+Cara pakai:
+- Setelah sesi selesai, isi kolom "Sesi Terakhir" dengan nomor/tanggal sesi barusan untuk pilar manapun yang dapet momen spotlight nyata di sesi itu — bukan cuma giliran combat biasa, tapi momen yang match salah satu dari Lima Kondisi di atas atau Egg Protocol/Tragic Trigger/NPC Anchor.
+- Sebelum sesi berikutnya dimulai, DM lirik tabel ini dulu. Pilar dengan gap sesi paling lama = prioritas buat dapet salah satu dari Lima Kondisi di sesi ini.
+- Ini bukan alat buat maksa spotlight yang nggak natural. Kalau satu pilar emang lagi nggak ada hook yang pas minggu ini, biarin. Tapi kalau gap-nya udah 3+ sesi berturut-turut, itu sinyal DM perlu bikin hook secara sengaja, bukan nunggu itu muncul sendiri.
+
+
 INTERNAL MICRO-BEAT — COMBAT PROTOCOL
 
 Pertarungan D&D 5e standar jalan di atas mekanik. Supaya tone tetap terjaga di tengah combat, DM pakai dua scheduled interruption:
@@ -474,6 +491,8 @@ Aturan: Kalau Dragon Effigy dihancurkan atau dilempar ke laut, efek roh naga itu
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 15. POLITICAL CONTINUITY TRACKER
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Cakupan section ini CUMA arc Stormwreck Isle → jembatan ke Greenest. Begitu Council of Waterdeep pertama terjadi (Ch.11), tabel di bawah ini berhenti nambah baris baru — dia tetap valid sebagai referensi historis, tapi otoritas "living document" buat sisa campaign pindah ke **Faction Scorecard** (Ch.11, "CATATAN DM — FACTION SCORECARD") plus catatan "Faction Fracture Seeds" di tiap chapter Rise of Tiamat setelahnya (Ch.12-17). Jangan cari update Political Continuity Tracker di chapter-chapter itu — dia nggak akan ada. Rujuk Faction Scorecard buat itu.
 
 Aksi di Stormwreck                    | Dampak di Tyranny
 Simpen & bawa Ledger                  | Basis legitimasi di Council of Waterdeep. Tanpa ini, klaim player cuma opini.
@@ -1134,6 +1153,24 @@ Ritme & Register: Kosakata akademis, jaga jarak lewat kesopanan formal — bicar
 Signature Move: Menjawab pertanyaan personal dengan pertanyaan personal balik — mengalihkan tanpa terasa defensif, karena dia benar-benar ingin tahu jawabannya.
 Pantang: Nggak pernah menyangkal identitasnya sebagai Red Wizard secara langsung kalau sudah didesak dengan bukti — dia berkelit di awal, tapi begitu topinya "lepas" (metaforis atau harfiah), dia tidak lagi berbohong soal itu.
 Contoh Baris: *"Saya lebih tertarik sama apa yang kamu temukan daripada apa yang mau kamu lakukan dengan itu. Kita berdua tau kamu di sini bukan cuma karena marah."*
+
+SANG ARSITEK — Absolute Authority (nama asli Severin TETAP di bawah Spoiler Lock Section 10 — jangan pernah diucapkan di narasi ke pemain)
+Ritme & Register: Register paling datar di seluruh kampanye ini — bahkan dibanding Rezmir. Kalimat pendek, tanpa penekanan, seolah dia sudah lama berhenti butuh orang lain percaya padanya secara emosional. Dia nggak butuh diyakinkan dia benar — itu udah settled dari dulu.
+Signature Move: Nggak pernah membalas argumen orang lain secara langsung. Dia nunggu sampai lawan bicara selesai, lalu ngomong seolah argumen itu nggak pernah diucapkan — bukan mengabaikan karena nggak dengar, tapi karena dia udah lama berhenti anggap keberatan orang lain sebagai sesuatu yang perlu dijawab.
+Pantang: Nggak pernah menjelaskan skala pengorbanan yang udah dia buat buat sampe ke titik ini — itu satu-satunya hal yang bisa bikin dia kelihatan rentan (rujuk Villain Sympathy Checkpoint, Section 19), dan dia tau itu. Nggak pernah naikin suara — puncak kemarahannya kedengeran sama datarnya dengan kalimat pembuka.
+Contoh Baris: *"Sang Ratu udah nunggu terlalu lama untuk dikecewakan lima orang asing."* / *(ke Red Wizard yang gagal jaga ritual)* "Ulangi posisimu. Sekali lagi."
+
+GALVAN — Absolute Authority (terdesak), wyrmspeaker biru
+Ritme & Register: Mirip Rezmir secara struktur (kalimat pendek, deklaratif) tapi ritmenya lebih cepat, kurang sabar — dia bicara seperti orang yang tau dia harus buktikan diri, bukan orang yang udah pasti posisinya.
+Signature Move: Membandingkan dirinya ke wyrmspeaker lain yang udah tumbang (Rezmir, Varram, Neronvain) sebelum diminta — cara dia membenarkan kenapa dia harus menang di mana mereka gagal.
+Pantang: Nggak pernah mundur duluan dari pertarungan sebelum ada bukti fisik dia bakal kalah (naganya jatuh, atau HP-nya sendiri kritis) — beda dari Rezmir yang mundur begitu kalkulasi bilang rugi. Galvan butuh dipaksa mundur; dia nggak akan menghitung sendiri.
+Contoh Baris: *(Serangan Ketiga, Ch.14)* "Rezmir lari. Varram ketangkep. Neronvain sembunyi di balik malunya sendiri." *(beat)* "Saya bukan mereka." / *"Sang Arsitek bakal lihat siapa yang beneran bisa diandalkan malam ini."*
+
+RIAN NIGHTSHADE — Manipulator (transaksional), delegasi rahasia Zhentarim
+Ritme & Register: Suara rendah, kalimat pendek yang selalu dibuka dengan fakta yang udah party tau — cara dia bangun kredibilitas sebelum minta sesuatu.
+Signature Move: Nawarin keuntungan konkret sebelum nyebut apa yang dia mau balik — transaksi selalu dibingkai sebagai given dulu, ask belakangan.
+Pantang: Nggak pernah kedengeran butuh. Bahkan waktu Zhentarim jelas terdesak (Ch.9, jalur CROWN-7 harus diputus "tanpa pengecualian"), dia sampein itu sebagai pilihan yang ditawarkan, bukan permintaan yang mendesak.
+Contoh Baris: *"Kalian sudah kenal kode CROWN-7. Zhentarim tidak lupa siapa yang mengenali kode itu duluan."* / *"Jaringan Hitam siap bertindak sekarang, bukan menunggu faksi lain berdebat selamanya — kalau kalian bisa atur syarat yang menguntungkan buat kami."*
 
 
 CARA PAKAI VOICE BIBLE INI:

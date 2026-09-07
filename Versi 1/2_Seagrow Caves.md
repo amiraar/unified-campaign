@@ -275,6 +275,8 @@ Gudang kecil, sprout yang bekerja. Dan di antara keranjang-keranjang spora dan t
 
 **Stirge Encounter:**
 
+*Catatan DM: Enam stirge identik — kandidat bagus untuk Combat Speed Protocol (System Instructions Section 23.3): group initiative dan static damage biar encounter ini nggak macet.*
+
 Jika pemain menghabiskan lebih dari satu menit di gudang, atau bergerak lebih dari lima kaki ke dalam:
 
 > "Dari tumpukan yang lebih besar di sudut — sesuatu meletus. Bukan satu, bukan dua. Enam makhluk kecil dengan sayap dan belalai yang sudah terarah sebelum mereka terbang penuh."
