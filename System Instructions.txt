@@ -1102,6 +1102,7 @@ CARA PAKAI VOICE BIBLE INI:
 - Sebelum nulis dialog NPC manapun di tabel ini, baca Ritme & Register dan Pantang-nya dulu.
 - Kalau NPC ini belum pernah muncul di sesi yang sedang berjalan, mulai dari Contoh Baris sebagai kalibrasi nada — bukan buat dikutip persis.
 - Tambah entry baru tiap kali ada NPC Utama baru yang naik jadi recurring (bukan sekali muncul lalu selesai). NPC Minor tetap cukup pakai SATU sifat tunggal per Section 9 — nggak semua NPC butuh voice bible penuh.
+- Kalau dialog yang udah ditulis di chapter file (Versi 1, dst.) ternyata beda dari entry di sini — chapter file yang menang. Voice Bible ini nurunin pola dari practice, bukan sebaliknya. Update entry ini kalau practice-nya udah matang dan konsisten, jangan biarin dokumen ini jadi ketinggalan dari apa yang udah benar-benar dimainkan.
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -1166,4 +1167,55 @@ Dipakai di fase audit berikutnya (Versi 1/*.md, 18 file). Per chapter, cek:
 □ Egg Protocol tiga-momen (Section 4) lengkap buat NPC yang bakal kena konsekuensi besar di chapter itu?
 
 Kalau satu chapter fail satu atau lebih poin di atas — itu masuk gap list, bukan otomatis revisi. Prioritas revisi ditentuin dari chapter mana yang paling deket sama level progression aktif (Section 12).
-- Kalau dialog yang udah ditulis di chapter file (Versi 1, dst.) ternyata beda dari entry di sini — chapter file yang menang. Voice Bible ini nurunin pola dari practice, bukan sebaliknya. Update entry ini kalau practice-nya udah matang dan konsisten, jangan biarin dokumen ini jadi ketinggalan dari apa yang udah benar-benar dimainkan.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+24. PANDUAN LIVE TABLE — UNTUK DM MANUSIA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Section 1-23 ngatur KONTEN — apa yang harus ada di narasi, NPC, dan struktur chapter. Section ini beda: ini bukan instruksi buat generate teks, tapi panduan buat DM MANUSIA yang duduk di meja dan mimpin sesi live. Nggak bisa di-script ke prosa chapter, karena ini soal keputusan real-time dan interaksi sosial di luar fiksi — tapi tetap bagian dari "gimana jadi DM yang lebih baik" buat kampanye ini. Taro di sini biar DM yang mimpin kampanye ini punya referensinya, bukan cuma ketinggalan di sumber luar.
+
+
+24.1 — FUDGING DADU: PRINSIP DI BALIK ATURAN 23.4
+
+Section 23.4 udah kasih aturan keras: nggak fudging diam-diam. Section ini kasih KENAPA-nya, buat DM yang mungkin tergoda pas lagi di meja beneran.
+
+Ada dua kubu di komunitas DM: sumber lama/"official" biasanya izinin fudging sesekali demi jaga pacing atau cegah TPK yang anti-klimaks. Konsensus komunitas sekarang (r/DMAcademy, r/dndnext) condong kuat ke transparansi — argumennya: kalau dadu nggak pernah beneran nentuin apa-apa, buat apa dilempar? Player juga sering bisa "ngerasa" pas DM fudging, dan itu ngikis trust lebih dari sekali TPK yang pahit.
+
+Titik temu yang dipake kampanye ini (match Section 23.4): kamu BOLEH nggak suka hasil dadu yang keluar. Yang nggak boleh adalah diam-diam ubah angkanya. Kalau situasinya kerasa nggak adil atau prematur — buka pilihan itu ke player secara terang-terangan di meja. Itu bedanya "DM yang jaga integritas cerita" sama "DM yang curang demi cerita."
+
+Kapan boleh nge-rewrite yang legitimate: SEBELUM sesi dimulai — nyusun encounter, nentuin DC, nulis stat block — semua itu masih "prep," bukan fudging. Begitu dadu udah dilempar di depan player, itu udah final.
+
+
+24.2 — VOICING NPC: NGGAK BUTUH AKSEN
+
+Section 22 (Voice Bible) udah nentuin Ritme & Register, Signature Move, dan Pantang tiap NPC secara TEKSTUAL — buat jaga konsistensi tulisan lintas sesi. Section ini nutup sisi PERFORMANCE-nya buat DM yang mimpin live:
+
+- Kamu NGGAK butuh aksen buat NPC keliatan beda satu sama lain. Aksen susah dijaga konsisten multi-sesi, dan kalau meleset malah keluar dari suasana.
+- Ganti aksen dengan: satu emosi dominan + satu-dua physical mannerism yang berulang (udah ada di Voice Bible tiap NPC — pakai itu sebagai cue performance, bukan cuma referensi tulisan).
+- Speech pattern (ritme kalimat, kata yang sering diulang, cara dia diam) lebih efektif daripada aksen buat bikin NPC keinget beda-beda.
+- Narasi orang ketiga itu valid: "Orryn ngejawab tanpa nengok, masih ngelap gelas" sama sahnya kayak voice-acting penuh. Nggak semua NPC butuh performance vokal — cek NPC Depth Scale (Section 9): NPC Minor cuma butuh SATU sifat, titik.
+
+
+24.3 — PERCAKAPAN LANGSUNG: ALAT #1 BUAT MASALAH DI MEJA
+
+Ini prinsip yang paling sering diulang di komunitas DM manapun: masalah SOSIAL (bukan masalah cerita) diselesaikan lewat percakapan LANGSUNG di luar karakter — bukan lewat konsekuensi in-game, bukan lewat sindiran, bukan dibiarin aja.
+
+Kondisi                              | Yang DM Lakuin
+Satu player dominan/ambil spotlight terus | Ngobrol di luar sesi, framing positif: "Saya suka antusiasme kamu — saya cuma perlu bagi spotlight lebih rata." BUKAN dihukum diam-diam lewat narasi.
+Satu player diem/nggak nimbrung       | Cek dulu apa dia emang nggak nyaman atau emang tipe yang lebih suka observe — jangan asumsi ada masalah. Kalau perlu dorongan di dalam sesi, pakai Spotlight Ladder (Section 17.14-b) yang udah ada.
+Ada player yang pakai "itu emang karakternya" buat justify tindakan yang ganggu player lain | Ingetin: player yang pilih dan mainin karakternya. Konsensus session-zero (kalau ada aturan No PvP/consent) lebih tinggi dari alasan "in-character."
+Rules dispute di tengah sesi          | "5-second rule": DM putuskan cepat di saat itu, lanjut main, cek ulang rule-nya pas jeda/istirahat. Jangan berhentiin momentum sesi buat debat aturan.
+
+Prinsip dasar: DM adalah fan terbesar dari player-nya, bukan lawan mereka. Kalau ada gesekan, obrolan jujur di luar fiksi hampir selalu lebih efektif daripada solusi di dalam fiksi.
+
+
+24.4 — SESSION ZERO (SEKALI DI AWAL KAMPANYE)
+
+Karena lima Pilar di kampanye ini udah predefined (Section 3), session zero versi kampanye ini lebih ringkas dari biasanya — tapi tetap penting buat disepakati sebelum sesi pertama:
+
+- Tone & lethality: samain ekspektasi soal Estetika Rendahan Tier 1 (Section 2) — bahwa Level 1-3 emang keras dan nggak epic, biar nggak kaget pas karakter mereka babak belur beli zirah bekas.
+- Consent rule buat adverse PC-on-PC action: kalau ada momen kayak CROWN-7 Dilemma atau Guest Right Dilemma yang bisa nyeret keputusan satu Pilar ke konflik sama Pilar lain, pastiin batasannya jelas dari awal — bukan diimprovisasi pas udah tegang di meja.
+- Jadwal & pacing ekspektasi real-world: sepakatin di awal, bukan tebak-tebakan tiap minggu.
+
+Session zero cukup sekali. Nggak perlu diulang tiap chapter — cukup revisit kalau ada perubahan besar di party atau tone (misal transisi Tier 1 ke Tier 2, Section 1).
