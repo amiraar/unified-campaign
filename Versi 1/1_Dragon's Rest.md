@@ -269,6 +269,8 @@ Jika ada pembicaraan tentang kondisi zombie atau pulau:
 
 *Catatan DM: DM hanya mendeskripsikan informasi sesuai hasil roll. Biarkan pemain yang menarik kesimpulan sendiri.*
 
+*Catatan DM — kalau kecurigaan salah arah ini terbawa lebih jauh (pemain mengonfrontasi Tarak langsung soal tato itu sebelum kepercayaan sempat terbangun lewat Egg Protocol di Ch.2-3): dia tidak defensif. Dia diam sebentar, lalu jujur — rujuk Voice Bible Tarak: begitu dipancing langsung, dia jawab jujur, tidak berkelit. "Itu bukan sekte. Itu tempat saya bekerja sebelum saya berhenti jadi orang yang layak dipercaya siapapun." Dia tidak menjelaskan lebih dari itu kecuali dipancing lagi. Kalau kecurigaan ini tidak pernah diangkat langsung, biarkan berlalu tanpa payoff eksplisit — kepercayaan yang dibangun lewat Egg Protocol di Ch.2-3 secara alami menggantikannya.*
+
 ---
 
 ### VARNOTH — MOMEN PERTAMA

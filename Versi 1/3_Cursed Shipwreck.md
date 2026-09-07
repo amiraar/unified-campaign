@@ -72,7 +72,7 @@ Varnoth berbalik dari pandangannya ke laut utara. Cara dia berjalan ke tengah �
 *Dia berbicara ke tiap karakter secara singkat. Bukan semua sekaligus — di sela pagi itu, saat yang lain mempersiapkan perahu.*
 
 **Ke Cleric:**
-> **Runara:** *(dari jauh, tidak menoleh)* "Mimpimu tentang lonceng yang berhenti — itu mungkin bukan mimpi biasa." *(akhirnya berbalik)* "Perhatikan apa yang kamu rasakan di kapal itu. Kadang kematian meninggalkan jejak yang hanya bisa dibaca oleh orang yang memang sedang mencarinya."
+> **Runara:** *(dari jauh, tidak menoleh)* "Kamu tersentak kecil waktu lonceng kapal berbunyi tadi pagi. Yang lain tidak sadar. Saya sadar." *(akhirnya berbalik)* "Mimpi yang kamu bawa semalam mungkin bukan mimpi biasa. Perhatikan apa yang kamu rasakan di kapal itu."
 
 **Ke Paladin:**
 > **Runara:** "Sumpah yang dibangun dari kemarahan dan sumpah yang dibangun dari keyakinan terlihat sama dari luar." *(menatap)* "Tapi bedanya terasa ketika keduanya diuji pada waktu yang sama."
@@ -558,13 +558,13 @@ Varnoth menemui salah satu pemain di perpustakaan malam itu, atau di tepi kuil.
 
 *Jika ada yang bertanya kenapa dia tidak ikut:*
 
-> **Varnoth:** *(diam panjang yang tidak terasa canggung, terasa seperti dia sedang memutuskan seberapa banyak yang mau dia kata)* "Saya sudah cukup lama menjadi orang yang masuk ke tempat berbahaya karena saya yang paling mampu." *(melihat ke prostetik kakinya)* "Sampai saya tidak lagi yang paling mampu." *(menatap kembali)* "Susah untuk tahu kapan saatnya berhenti mencoba melakukan segalanya sendiri."
+> **Varnoth:** *(diam sebentar, melihat sekali ke prostetik kakinya, lalu kembali menatap mereka)* "Karena saya percaya kalian bisa menyelesaikannya tanpa saya harus membuktikan lagi bahwa saya masih mampu."
 
-*Beat.*
+*Beat. Dia tidak melanjutkan.*
 
-> "Kalian membantu saya belajar bahwa ada kalanya yang benar adalah percaya kepada orang lain."
+> "Itu saja."
 
-*Ini adalah momen yang sangat kecil. DM mainkan tanpa dramatisasi. Justru karena kecil itulah yang membuatnya berat.*
+*Ini adalah momen yang sangat kecil. DM mainkan tanpa dramatisasi — justru karena kecil itulah yang membuatnya berat. Ini payoff dari kepercayaan yang dia minta di Chapter 1, bukan pengulangannya: Varnoth TIDAK menjelaskan ulang keputusan lama itu. Kalau ada yang memancing lebih jauh, dia menutup topik dalam satu kalimat, sesuai kebiasaannya: "Sudah saya bilang. Itu saja."*
 
 ---
 
@@ -588,7 +588,7 @@ Varnoth menemui salah satu pemain di perpustakaan malam itu, atau di tepi kuil.
 
 *Dia berdiri. Menghadap pemain sepenuhnya — bukan cara orang yang mau memberi perintah, tapi cara orang yang tidak terbiasa meminta.*
 
-> "Observatorium di tenggara itu — Runara bilang kalian akan pergi ke sana." *(berhenti)* "Di sekitar area itu ada formasi kristal yang sangat spesifik. Saya sudah coba mendapatkan sampelnya selama dua tahun. Setiap kali saya mendekati area itu, ada sesuatu yang..." *(melirik ke kaki prostetiknya, lalu kembali ke pemain)* "...menghalangi."
+> "Observatorium di tenggara itu — Runara bilang kalian akan pergi ke sana." *(berhenti)* "Di sekitar area itu ada formasi kristal yang sangat spesifik. Saya sudah coba mendapatkan sampelnya selama dua tahun. Setiap kali saya mendekati area itu, ada sesuatu yang..." *(berhenti mencabut gulma untuk pertama kalinya sejak percakapan dimulai, menatap tangannya sendiri sebentar)* "...menghalangi."
 
 *Dia mengeluarkan sesuatu dari saku jubahnya — wadah kecil dari kulit yang dilapisi timah, bentuknya seperti tabung dengan tutup berulir.*
 

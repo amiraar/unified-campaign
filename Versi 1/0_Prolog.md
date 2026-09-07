@@ -236,7 +236,7 @@ Orryn meletakkan segelas terakhir di meja — tidak ada yang memesan, tapi dia l
 
 Jeda. Tidak ada yang langsung menjawab.
 
-> **Orryn:** *(mengelap gelas)* "Tempat itu punya... reputasi." *(berhenti sebentar)* "Bukan tempat yang orang pergi karena tidak ada tujuan lain."
+> **Orryn:** *(mengelap gelas, tanpa diminta)* "Kapal ke sana cuma berangkat dua kali sebulan." *(berhenti sebentar, melirik ke arah pelabuhan)* "Jarang penuh."
 
 Dia tidak melanjutkan. Dia tidak menjelaskan apa reputasinya. Dia hanya menaruh gelas itu dan pergi ke belakang.
 

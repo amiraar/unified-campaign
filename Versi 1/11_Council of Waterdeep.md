@@ -35,6 +35,8 @@ Tanpa disadari kepemimpinan kultus, salah satu peristiwa kunci yang mempercepat 
 
 Dalam duka, Remallia bersumpah menghancurkan kultus — dialah yang menyatukan faksi-faksi ini untuk Council of Waterdeep.
 
+> **Remallia Haventree:** *(suara rata, terlatih menahan diri di depan publik — hanya tangannya yang mengepal terlalu erat di tepi meja mengkhianatinya)* "Saya tidak memanggil kalian semua ke sini untuk berduka bersama saya." *(beat)* "Saya memanggil kalian karena kultus ini pikir kematian satu Lord Bertopeng akan membuat kita takut, bukan bersatu. Mari kita buktikan mereka salah — satu kali saja, sebelum kesempatan itu hilang."
+
 ### DRAAKHORN BERBUNYI
 
 Segera setelah Skyreach Castle jatuh/direbut, operator kultus meniup **Draakhorn** di Well of Dragons yang jauh — relik kuno yang memanggil naga chromatic ke seluruh Faerûn untuk bergabung dengan tujuan mereka.
@@ -51,7 +53,11 @@ Kalau party mencari tempat sunyi, mereka merasakan gangguan itu lagi — gemuruh
 
 > **Dala Silmerhelve:** "Gangguan yang dirasakan di seluruh Sword Coast itu adalah Draakhorn — alat kuno yang bunyinya memberi tahu naga-naga di seluruh Faerûn bahwa peristiwa besar sedang terjadi. Mustahil memastikan apa artinya, tapi para naga mendengarnya jelas — dan pada akhirnya akan menjawab panggilan itu."
 
-Dia menolak keras mengungkap sumber pengetahuannya (sebenarnya seekor naga perunggu purba bernama **Nymmurh**, penyokong rahasia keluarganya) — membuat beberapa delegasi curiga padanya.
+Kalau delegasi mendesaknya soal sumber informasi itu:
+
+> **Dala Silmerhelve:** *(tersenyum tipis, terlalu cepat untuk terasa tulus)* "Sumbernya nggak penting. Yang penting akurat." *(mengalihkan pandangan ke peta di meja)* "Dan saya belum pernah salah soal Draakhorn."
+
+Dia tidak mengelaborasi lebih jauh, bahkan ketika didesak lagi (sumber sebenarnya adalah seekor naga perunggu purba bernama **Nymmurh**, penyokong rahasia keluarganya) — dan penolakannya yang konsisten ini membuat beberapa delegasi curiga padanya.
 
 ---
 
@@ -59,7 +65,13 @@ Dia menolak keras mengungkap sumber pengetahuannya (sebenarnya seekor naga perun
 
 Party diterima di **Istana Lord** — dikawal Leosin ke ruang dewan rahasia. Galeri luar penuh bangsawan berdebat sengit, penjaga berseragam dari kota-kota di seluruh utara.
 
-> **Leosin:** *(sebelum masuk)* "Faksi-faksi ini semua secara nominal berkomitmen menghentikan Cult of the Dragon — tapi belum ada yang benar-benar berjanji apapun secara substansial. Terlalu banyak rasa curiga membebani mereka, dan terlalu sedikit yang diketahui soal situasi ini." *(beat)* "Mereka butuh seseorang yang menunjukkan jalan yang benar. Saya percaya kalian punya kesempatan jadi orang itu."
+> **Leosin:** *(berhenti di depan pintu ruang dewan, menahan party dengan satu tangan sebelum mereka masuk)* "Sebelum kalian dengar semua orang di dalam sana mengklaim mereka yang paling penting — saya mau tanya satu hal." *(beat)* "Kalau lonceng bahaya kota ini berbunyi malam ini, dan semua orang lari ke tempat aman — siapa yang sebenarnya memerintah kota ini malam itu? Lord yang menandatangani hukumnya, atau orang yang membunyikan lonceng itu?"
+
+*(Beri jeda. Kalau pemain menjawab — apapun jawabannya — lanjutkan. Kalau tidak, Leosin melanjutkan sendiri setelah beberapa detik.)*
+
+> **Leosin:** "Jawabannya bukan keduanya yang penting. Yang penting: siapa yang dipercaya orang-orang untuk didengar saat lonceng itu berbunyi." *(menunjuk ke pintu)* "Di dalam sana, empat faksi punya lord, punya pasukan, punya kursi resmi di meja itu. Tidak satupun dari itu membuat mereka bergerak bersama hari ini — sudah bertahun-tahun tidak." *(menatap party, satu per satu)* "Kalian tidak punya kursi. Tidak punya pasukan. Tapi kalian sudah membuktikan sesuatu yang tidak bisa dibuktikan lewat gelar apapun — dan di ruangan itu, hari ini, itu adalah bentuk kekuatan yang paling langka." *(beat)* "Faksi-faksi ini semua secara nominal berkomitmen menghentikan Cult of the Dragon — tapi belum ada yang benar-benar berjanji apapun secara substansial. Terlalu banyak rasa curiga membebani mereka, dan terlalu sedikit yang diketahui soal situasi ini." "Mereka butuh seseorang yang menunjukkan jalan yang benar. Saya percaya kalian punya kesempatan jadi orang itu."
+
+> *Catatan DM — kenapa teka-teki ini, bukan penjelasan langsung:* Leosin adalah Manipulator (mission-based) — dia nggak pernah nyatain keinginan langsung, dia menuntun orang lain sampai ke kesimpulan itu sendiri (rujuk 17.5, System Instructions). Teka-teki lonceng ini bukan cuma warna — ini tesis chapter secara harfiah: kekuatan formal (kursi, gelar, pasukan) sudah terbukti gagal menyatukan faksi-faksi ini selama ini; kekuatan yang akan menentukan sesi council berikutnya adalah kepercayaan yang direbut lewat tindakan, bukan jabatan. Setiap kali party berhasil membujuk satu faksi tanpa jabatan apapun untuk mendukung mereka sepanjang chapter ini, itu adalah pembuktian langsung jawaban teka-teki ini — jangan tekankan itu ke pemain, biarkan mereka menyadarinya sendiri saat itu terjadi.
 
 *Catatan DM: Leosin memperingatkan — tiap faksi akan menimbang setiap kata dan keputusan party. Yang menyenangkan satu kelompok bisa membuat marah kelompok lain. Ini bukan cuma diplomasi — ini keseimbangan yang mustahil sempurna.*
 
@@ -92,15 +104,19 @@ Kalau kesan ini kuat, Lords' Alliance membuka akses lebih awal ke sumber daya mi
 
 Ontharr, sekarang delegasi resmi Order of the Gauntlet, menyambut Cleric dengan hangat dan penuh hormat — lebih dari sekadar rekan seperjalanan.
 
-> **Ontharr:** *(menepuk bahu Cleric, lebih pelan dari biasanya)* "Order butuh orang yang tahu bedanya iman yang sejati dan iman yang cuma alasan buat nggak berpikir. Kau sudah tunjukkan yang mana dirimu di Greenest." *(beat)* "Itu bukan pujian kosong. Itu observasi."
+> **Ontharr:** *(menepuk bahu Cleric, lebih pelan dari biasanya, lalu menahan tangannya di situ sebentar)* "Order butuh orang yang tahu bedanya iman yang sejati dan iman yang cuma alasan buat nggak berpikir." *(tersenyum, agak lelah)* "Saya sudah lihat cukup banyak yang salah pilih di antara keduanya untuk tahu kamu pilih yang benar di Greenest."
 
 *Catatan DM: Ini benih untuk endgame Cleric — "Komandan garda depan Order of the Gauntlet." Jangan tawarkan posisi itu secara eksplisit sekarang; biarkan ini jadi undangan implisit yang akan matang di chapter-chapter berikutnya.*
 
 ### MOMEN PALADIN — SIKAP PUBLIK
 
-Di tengah perdebatan delegasi soal cara terbaik menangani kultus, seorang delegasi (pilih sesuai faksi yang paling relevan dengan arc Paladin) langsung bertanya ke Paladin — bukan ke party secara umum.
+Di tengah perdebatan delegasi soal cara terbaik menangani kultus, seorang delegasi (pilih sesuai faksi yang paling relevan dengan arc Paladin — tiap faksi bawa doktrin sendiri, jangan dicampur) langsung bertanya ke Paladin — bukan ke party secara umum.
 
-> **Delegasi:** "Kalian yang katanya mengutamakan kode kehormatan bahkan di tengah perang. Council ini butuh tahu — kalau harus pilih antara menang cepat dan menang bersih, kalian pilih yang mana?"
+> **Delegasi (Order of the Gauntlet):** "Kode kehormatan itu ringan dipegang waktu damai. Council ini mau tahu — masih seringan itu kalau nyawa warga sipil ada di neraca yang sama?"
+>
+> **Delegasi (Lords' Alliance):** *(tanpa basa-basi)* "Saya sudah kubur cukup banyak prajurit karena menunggu cara yang 'bersih'. Kalian pilih cepat, atau saya catat berapa banyak korban tambahan yang kalian pilih sendiri."
+>
+> **Delegasi (Harpers):** *(suara rendah, hampir tidak terdengar delegasi lain)* "Kami nggak butuh pahlawan yang bersih di depan publik. Kami butuh tahu apa yang benar-benar kalian lakukan waktu nggak ada yang lihat."
 
 *Catatan DM: Ini pertanyaan tanpa jawaban aman. Rujuk Guest Right Dilemma di Ch.6 — kalau Paladin sudah membuat pilihan sulit di sana, momen ini adalah kesempatan konsekuensi itu muncul kembali secara politis, bukan cuma personal. Biarkan jawaban Paladin di sini benar-benar berdampak pada bagaimana faksi tertentu (terutama Order of the Gauntlet dan Lords' Alliance) menilai dia ke depan.*
 

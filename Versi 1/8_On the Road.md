@@ -53,13 +53,13 @@ DM bisa habiskan waktu sebanyak yang diinginkan di sini — lomba gulat lengan, 
 >
 > "Ekspresi wajah Frume berubah serius — tidak seperti wajahnya yang biasanya terbuka. Leosin duduk di sampingnya, dan beberapa kendi anggur merah tua menunggu di meja."
 
-> **Ontharr:** "Kawan-kawan, ada urusan penting yang harus kita bicarakan. Di titik ini, kalian tahu hampir sebanyak yang kami tahu — dan berkat kalian, kami tahu dua kali lebih banyak hari ini dibanding sepuluh hari lalu. Ada sesuatu yang busuk sedang bergerak. Kami belum punya organisasi formal untuk melawan bajingan-bajingan ini — belum. Kami sedang mengusahakannya. Dan kami butuh orang seperti kalian, yang tahu kapan harus bertarung, kapan harus diam dan mengamati."
+> **Ontharr:** *(menggenggam kendinya tapi tidak minum — jarang terjadi)* "Oke. Kawan-kawan. Saya nggak pandai basa-basi jadi saya bilang langsung: ada sesuatu yang busuk sedang bergerak, dan kami belum punya cukup orang buat melawannya." *(menaruh kendi, akhirnya, dengan bunyi keras)* "Kami butuh orang yang tahu kapan harus bertarung dan kapan harus diam. Dari yang saya lihat sepuluh hari terakhir — itu kalian."
 
 **Reveal Faksi:**
 
 Leosin menjelaskan organisasinya: **Harper** — jaringan longgar yang mengutamakan keadilan dan mencegah kekuasaan jatuh ke tangan yang tidak pantas. Frume mewakili **Order of the Gauntlet** — lebih terstruktur, menekankan iman dan perjuangan konstan melawan kejahatan, banyak diisi cleric dan paladin.
 
-> **Ontharr:** "Kami berdua, dan beberapa pemimpin serta cendekiawan lain di Sword Coast, sedang mulai mengorganisir diri melawan Cult of the Dragon. Dulu kultus ini lebih aktif di timur, fokus bikin dracolich. Pergeseran mereka ke Sword Coast, dan fokus baru ke naga hidup dan Sang Ratu Naga — itu yang bikin kami khawatir."
+> **Ontharr:** *(menepuk meja sekali, seolah itu titik sepakat lama)* "Kami berdua, dan beberapa pemimpin serta cendekiawan lain di Sword Coast, sedang mulai mengorganisir diri melawan Cult of the Dragon. Dulu kultus ini lebih aktif di timur, fokus bikin dracolich." *(nada berubah, lebih berat)* "Pergeseran mereka ke sini, ke naga hidup dan Sang Ratu Naga — itu yang bikin saya susah tidur belakangan ini. Dan saya nggak gampang susah tidur."
 
 Baik Harper maupun Order of the Gauntlet menawarkan keanggotaan — tanpa bayaran di tahap awal ini, tanpa pangkat. Yang mereka tawarkan: bantuan dan dukungan dari sekutu yang tersebar dari Nashkel sampai Neverwinter dan Mirabar.
 

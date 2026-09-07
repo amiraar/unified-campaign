@@ -63,7 +63,7 @@ Ilda, kalau dipercaya, mengungkap: yuan-ti menghuni bagian terdalam kompleks; ko
 
 **Makam Diderius:** mummy lord sendiri, bersuara dari sarkofagusnya:
 
-> **Diderius:** "Kamu mendekati Diderius yang sedang beristirahat. Saya tahu apa yang kamu cari."
+> **Diderius:** *(suara kering, seperti membaca dari catatan yang sudah lama dihafal)* "Kunjungan ke ruang istirahat ini memerlukan alasan yang tercatat." *(beat)* "Sebutkan alasan kalian. Saya akan memutuskan apakah itu tercatat sebagai permintaan yang sah, atau sebagai pelanggaran."
 
 Kalau party sopan (di gerbang, atau langsung ke Diderius), dia mengungkap: yuan-ti membawa Varram lewat portal di dinding utara, dan membuka jalan itu — party dapat surprise round penuh terhadap penjaga di baliknya. Kalau tidak sopan, Diderius memperingatkan sekali lagi sebelum menyerang kalau dipaksa lebih jauh.
 
