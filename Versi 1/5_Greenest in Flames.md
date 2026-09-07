@@ -53,7 +53,9 @@ Sorel, saat ditanya, hanya mengangkat bahu.
 
 > **Sorel:** "Naga datang. Orang lari atau mati. Sudah setahun lalu. Nggak ada yang balik buat bangun ulang — nggak ada alasan bagus untuk tinggal di tempat yang naganya masih bisa balik."
 
-Dia tidak tahu lebih dari itu, atau tidak mau tahu lebih dari itu. Keduanya sama saja malam itu.
+Dia tidak tahu lebih dari itu.
+
+*Catatan DM: Sorel NPC Minor — satu-satunya fungsinya di sini adalah nyampein info Thundertree, bukan bawa arc sendiri. Rujuk Section 17.0 (Aturan Ketinggian) — Tier Datar, bukan Tier Penuh.*
 
 ---
 

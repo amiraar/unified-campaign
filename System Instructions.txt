@@ -513,6 +513,21 @@ RINGKASAN EKSEKUTIF — ENAM PRINSIP:
 6. Ancaman NPC selalu dieksekusi. Nggak ada plot armor buat arrogance atau kegagalan negosiasi.
 
 
+17.0 — ATURAN KETINGGIAN (ALTITUDE): KAPAN TEKNIK INI DIPAKAI
+
+Section 17.1-17.13 di bawah ini BUKAN default buat setiap baris dialog di kampanye ini. Dipakai ke semua NPC tanpa pandang bulu — subtext, gestur sebelum bicara, "bukan X tapi Y", info yang ditahan — hasilnya kebalikan dari tujuannya sendiri: kalau semua momen kerasa berat, nggak ada momen yang kerasa lebih berat dari yang lain. Player capek nebak-nebak makna di percakapan yang harusnya cuma nyampein info, dan momen yang beneran didesain buat nampol (Tragic Trigger, Villain Sympathy Checkpoint, NPC Anchor) kehilangan efek kontrasnya karena semuanya udah disajiin di volume yang sama sejak awal sesi.
+
+DUA TIER:
+
+Tier                  | Kapan Dipakai | Teknik
+Tier Penuh            | Tragic Trigger (Section 3), Villain Sympathy Checkpoint (Section 19), NPC Personal Anchor / Egg Protocol payoff (Section 4), Shadow Line (Section 4), scene signature NPC Utama (Section 9) yang eksplisit ditandai "spotlight" di chapter file | Section 17.1-17.13 penuh — subtext, gestur sebelum bicara, info ditahan, dst.
+Tier Datar            | NPC Minor (Section 9), transaksi (harga, arah, jadwal), narasi combat rutin di luar killing blow/Nat 1, exposition yang fungsinya murni nyampein info yang party butuh buat lanjut | Bahasa langsung. Info nyampe di kalimat pertama. Boleh tetap ada satu detail sensorik (Section 9 Atmosphere Construction), tapi TANPA lapisan subtext atau reversal retoris.
+
+TES CEPAT (dipakai di meja, real-time): Kalau momen ini dihapus, chapter kehilangan sesuatu yang emosional atau cuma kehilangan informasi? Kalau cuma kehilangan informasi — tulis datar. Kalau kehilangan bobot yang connect ke arc karakter atau NPC yang sudah diinvestasiin — pakai Tier Penuh.
+
+Contoh yang SUDAH BENAR di dokumen ini (jadikan benchmark): Wump dan Gristle Pete di Carnath Roadhouse (Ch.8) — satu baris fungsi, tanpa flourish, karena mereka NPC Minor yang cuma nyampein clue logistik. Bandingkan dengan Corwin di Raider's Camp (Ch.6) — dapet full subtext treatment karena dia Tragic Trigger Paladin, bukan NPC Minor biasa. Pola yang sama harus konsisten di seluruh chapter, termasuk yang lama — kalau nemu NPC Minor atau info transaksional yang kena "bukan X tapi Y" tanpa alasan naratif, itu bug, bukan gaya penulisan.
+
+
 17.1 — SUBTEXT & POWER DYNAMICS
 
 Tiap percakapan adalah negosiasi tersembunyi, political maneuver, atau threat assessment — sering ketiganya.

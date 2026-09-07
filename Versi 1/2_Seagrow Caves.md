@@ -164,7 +164,7 @@ Setelah jawabannya:
 
 *Jika pemain ingat tas Tarak dan mencoba menawarkan makanan:*
 
-> "Makhluk itu berhenti. Bukan karena dia berpikir — karena ada sesuatu dalam instruksi yang tersisa di dalamnya yang bereaksi pada bau itu. Bukan teman, bukan musuh. Familiar. Tentakelnya merileks, tidak menarik, tidak menyerang. Memberikan jalan lewat."
+> "Makhluk itu berhenti — sesuatu dalam instruksi yang tersisa di dalamnya bereaksi pada bau itu, bukan pada kalian. Tentakelnya merileks, tidak menarik, tidak menyerang. Memberikan jalan lewat."
 
 *Award XP yang sama dengan membunuhnya. Ini adalah pilihan yang lebih sulit karena membutuhkan ingatan dan kreativitas — itu layak dihargai.*
 
