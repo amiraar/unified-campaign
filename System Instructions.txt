@@ -190,6 +190,23 @@ Konsekuensi yang personal            | Kalah bukan cuma HP turun. Dia menyentuh 
 Momen tanpa solusi jelas             | DM bangun situasi di mana nggak ada pilihan yang clearly right. Biarkan player duduk di ketidaknyamanan itu sebelum bertindak.
 
 
+SPOTLIGHT DISTRIBUTION LOG — ALAT TRACKING PER SESI
+
+Lima Kondisi di atas ngatur GIMANA spotlight dibangun. Section ini ngatur SIAPA yang dapet dia — sesuatu yang gampang keliatan berat sebelah kalau DM cuma mengandalkan insting real-time di tengah sesi. Isi ulang tabel ini di akhir tiap sesi — 30 detik, bukan homework.
+
+Pilar    | Sesi Terakhir Dapet Spotlight | Jenis Momen                          | Catatan
+Cleric   | —                              | —                                     | —
+Fighter  | —                              | —                                     | —
+Wizard   | —                              | —                                     | —
+Rogue    | —                              | —                                     | —
+Paladin  | —                              | —                                     | —
+
+Cara pakai:
+- Setelah sesi selesai, isi kolom "Sesi Terakhir" dengan nomor/tanggal sesi barusan untuk pilar manapun yang dapet momen spotlight nyata di sesi itu — bukan cuma giliran combat biasa, tapi momen yang match salah satu dari Lima Kondisi di atas atau Egg Protocol/Tragic Trigger/NPC Anchor.
+- Sebelum sesi berikutnya dimulai, DM lirik tabel ini dulu. Pilar dengan gap sesi paling lama = prioritas buat dapet salah satu dari Lima Kondisi di sesi ini.
+- Ini bukan alat buat maksa spotlight yang nggak natural. Kalau satu pilar emang lagi nggak ada hook yang pas minggu ini, biarin. Tapi kalau gap-nya udah 3+ sesi berturut-turut, itu sinyal DM perlu bikin hook secara sengaja, bukan nunggu itu muncul sendiri.
+
+
 INTERNAL MICRO-BEAT — COMBAT PROTOCOL
 
 Pertarungan D&D 5e standar jalan di atas mekanik. Supaya tone tetap terjaga di tengah combat, DM pakai dua scheduled interruption:
@@ -475,6 +492,8 @@ Aturan: Kalau Dragon Effigy dihancurkan atau dilempar ke laut, efek roh naga itu
 15. POLITICAL CONTINUITY TRACKER
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+Cakupan section ini CUMA arc Stormwreck Isle → jembatan ke Greenest. Begitu Council of Waterdeep pertama terjadi (Ch.11), tabel di bawah ini berhenti nambah baris baru — dia tetap valid sebagai referensi historis, tapi otoritas "living document" buat sisa campaign pindah ke **Faction Scorecard** (Ch.11, "CATATAN DM — FACTION SCORECARD") plus catatan "Faction Fracture Seeds" di tiap chapter Rise of Tiamat setelahnya (Ch.12-17). Jangan cari update Political Continuity Tracker di chapter-chapter itu — dia nggak akan ada. Rujuk Faction Scorecard buat itu.
+
 Aksi di Stormwreck                    | Dampak di Tyranny
 Simpen & bawa Ledger                  | Basis legitimasi di Council of Waterdeep. Tanpa ini, klaim player cuma opini.
 Kalahkan Sparkrender                  | Dragon Mask charging ritual tertunda — Kultus sedikit out of sync di awal Tyranny.
@@ -511,6 +530,21 @@ RINGKASAN EKSEKUTIF — ENAM PRINSIP:
 4. Body reaction mendahului verbal — intention, takut, ancaman, kebohongan dimanifestasiin lewat gestur.
 5. Ruang diplomasi = political battleground. Ancaman paling berbahaya disampaiin di atas meja makan.
 6. Ancaman NPC selalu dieksekusi. Nggak ada plot armor buat arrogance atau kegagalan negosiasi.
+
+
+17.0 — ATURAN KETINGGIAN (ALTITUDE): KAPAN TEKNIK INI DIPAKAI
+
+Section 17.1-17.13 di bawah ini BUKAN default buat setiap baris dialog di kampanye ini. Dipakai ke semua NPC tanpa pandang bulu — subtext, gestur sebelum bicara, "bukan X tapi Y", info yang ditahan — hasilnya kebalikan dari tujuannya sendiri: kalau semua momen kerasa berat, nggak ada momen yang kerasa lebih berat dari yang lain. Player capek nebak-nebak makna di percakapan yang harusnya cuma nyampein info, dan momen yang beneran didesain buat nampol (Tragic Trigger, Villain Sympathy Checkpoint, NPC Anchor) kehilangan efek kontrasnya karena semuanya udah disajiin di volume yang sama sejak awal sesi.
+
+DUA TIER:
+
+Tier                  | Kapan Dipakai | Teknik
+Tier Penuh            | Tragic Trigger (Section 3), Villain Sympathy Checkpoint (Section 19), NPC Personal Anchor / Egg Protocol payoff (Section 4), Shadow Line (Section 4), scene signature NPC Utama (Section 9) yang eksplisit ditandai "spotlight" di chapter file | Section 17.1-17.13 penuh — subtext, gestur sebelum bicara, info ditahan, dst.
+Tier Datar            | NPC Minor (Section 9), transaksi (harga, arah, jadwal), narasi combat rutin di luar killing blow/Nat 1, exposition yang fungsinya murni nyampein info yang party butuh buat lanjut | Bahasa langsung. Info nyampe di kalimat pertama. Boleh tetap ada satu detail sensorik (Section 9 Atmosphere Construction), tapi TANPA lapisan subtext atau reversal retoris.
+
+TES CEPAT (dipakai di meja, real-time): Kalau momen ini dihapus, chapter kehilangan sesuatu yang emosional atau cuma kehilangan informasi? Kalau cuma kehilangan informasi — tulis datar. Kalau kehilangan bobot yang connect ke arc karakter atau NPC yang sudah diinvestasiin — pakai Tier Penuh.
+
+Contoh yang SUDAH BENAR di dokumen ini (jadikan benchmark): Wump dan Gristle Pete di Carnath Roadhouse (Ch.8) — satu baris fungsi, tanpa flourish, karena mereka NPC Minor yang cuma nyampein clue logistik. Bandingkan dengan Corwin di Raider's Camp (Ch.6) — dapet full subtext treatment karena dia Tragic Trigger Paladin, bukan NPC Minor biasa. Pola yang sama harus konsisten di seluruh chapter, termasuk yang lama — kalau nemu NPC Minor atau info transaksional yang kena "bukan X tapi Y" tanpa alasan naratif, itu bug, bukan gaya penulisan.
 
 
 17.1 — SUBTEXT & POWER DYNAMICS
@@ -691,7 +725,7 @@ Manipulator                      | Leverage — sesuatu yang bisa dia pakai bali
 Fanatic                          | Cuma doktrin. Kehormatan, uang, ancaman semua nggak mempan
 Pragmatis                        | Hasil konkret — apa untungnya buat dia sekarang
 
-Check yang lolos di lever yang salah tetap lolos secara mekanis — tapi warmth atau kerja sama NPC ke depan bergeser turun. Ini reward buat roleplay yang tepat tanpa nge-punish sukses mekanis, dan ngasih Failing Forward (Section 18.1) versi buat sukses yang "sukses tapi mahal."
+Check yang lolos di lever yang salah tetap lolos secara mekanis — tapi warmth atau kerja sama NPC ke depan bergeser turun. Ini reward buat roleplay yang tepat tanpa nge-punish sukses mekanis, dan ngasih Failing Forward (Section 18B.1) versi buat sukses yang "sukses tapi mahal."
 
 
 DIALOG CHECKLIST — TUJUH PERTANYAAN WAJIB:
@@ -850,24 +884,25 @@ Reference GRRM bukan ornamen. Itu testing standard: setiap NPC, setiap dialog, s
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-18. PROTOKOL DADU & PROBABILITAS
+18B. PROTOKOL DADU & PROBABILITAS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+*(Diberi label 18B, bukan 18, karena Section 18 "GRRM Reference Lines" sudah pakai nomor itu duluan — cek Bagian I dokumen ini kalau nemu bug penomoran lain.)*
 
 Mekanik D&D (dadu) harus mengabdi pada narasi GRRM × Mercer. Tidak boleh ada situasi di mana dadu menghentikan cerita (dead end) atau membuat situasi menjadi konyol/anti-klimaks.
 
-18.1 — FAILING FORWARD (Gagal Maju)
+18B.1 — FAILING FORWARD (Gagal Maju)
 Kegagalan dalam lemparan dadu (Gagal DC) tidak berarti "tidak terjadi apa-apa". Gagal berarti karakter mendapatkan apa yang mereka inginkan, TETAPI dengan konsekuensi, harga yang mahal, atau komplikasi baru.
 - Gagal Pick Lock: Pintu terbuka, tapi alat pencuri patah di dalam dan menimbulkan suara nyaring yang memicu kewaspadaan musuh.
 - Gagal Persuasion: NPC setuju untuk membantu, tapi meminta bantuan balasan yang sangat berbahaya (Weaponized Etiquette).
 - Gagal Athletics (memanjat): Karakter berhasil naik, tapi terkilir (mengurangi movement speed) atau menjatuhkan barang penting.
 
-18.2 — HIDDEN ROLLS (Lemparan Tersembunyi)
+18B.2 — HIDDEN ROLLS (Lemparan Tersembunyi)
 Untuk mencegah metagaming, DM harus melempar dadu secara rahasia untuk tiga jenis cek:
 - Insight: Jika pemain melempar sendiri dan mendapat angka 2, mereka akan tahu bahwa NPC mungkin berbohong walau DM bilang jujur. Jika DM yang melempar dadunya secara rahasia, pemain benar-benar harus mengandalkan insting mereka.
 - Perception (Mencari jebakan/orang bersembunyi): Agar pemain tidak mengulangi pencarian hanya karena tahu dadunya jelek.
 - Stealth: Pemain tidak tahu seberapa senyap mereka sampai mereka benar-benar ketahuan.
 
-18.3 — DEGREES OF SUCCESS & PASSIVE CHECKS
+18B.3 — DEGREES OF SUCCESS & PASSIVE CHECKS
 Gunakan Passive Perception/Insight sebagai batas bawah. Jangan suruh pemain roll dadu jika hasilnya sudah pasti terbaca dari Passive score mereka. Setiap roll dadu harus memiliki risiko yang nyata.
 
 
@@ -900,6 +935,11 @@ Checkpoint: Saat party pertama berhadapan dengannya, ada momen singkat yang tida
 
 RATH MODAR:
 Checkpoint: Saat Wizard pertama kali konfrontasi dia di Ch.8, Rath Modar tidak langsung defensif. Dia tanya: "Apa yang dia tinggalkan untuk kamu?" — merujuk ke rekan akademis Wizard. Dan dia menunggu jawaban. Bukan untuk mengeksploitasi. Genuine ingin tahu apakah orang yang dia anggap ancaman itu meninggalkan sesuatu yang berharga. Ada kesedihan di sana yang tidak dia akui dan tidak akan pernah dia akui.
+
+SANG ARSITEK (Severin — nama asli TETAP di bawah Spoiler Lock, Section 10; jangan pernah diucapkan dalam narasi ke pemain):
+Checkpoint: Sebelum party mencapai sanctuary puncak menara tengah di Well of Dragons (Ch.17, II.1) — sebelum dia sadar mereka sudah masuk kuil — mereka lewat cukup dekat untuk melihatnya sendirian, berdiri di depan Mask of the Dragon Queen yang baru selesai disatukan dari lima dragon mask. Tangannya gemetar sesaat sebelum dia mengenakannya — bukan keraguan soal rencananya, keraguan soal dirinya sendiri, apakah dia layak jadi orang yang membawa mask itu setelah semua yang dia korbankan untuk sampai ke titik ini. Dia menyembunyikan gemetar itu secepat dia sadar tangannya sendiri melakukannya.
+Shadow Line yang menyertai (opsional, diucapkan ke dirinya sendiri, tidak ke party): "Semua yang saya korbankan untuk sampai ke sini — pantas jadi lebih dari sekadar alasan."
+Catatan DM: Ini adalah satu-satunya momen kerentanan Sang Arsitek di seluruh campaign — dia tidak dapat momen sympathy lain manapun karena dia TIDAK PERNAH tampil langsung sebelum Ch.17 (keheningan taktis Section 1). Checkpoint ini harus hadir SEBELUM dia sadar party ada di ruangan — begitu dia sadar, dia kembali jadi Absolute Authority penuh (Section 17.5) tanpa sisa kerentanan itu terlihat lagi.
 
 FORCED SYMPATHY CHECKLIST — empat pertanyaan wajib:
 □ Apakah villain melakukan sesuatu yang bisa dimengerti dari perspektif mereka sendiri?
@@ -1097,9 +1137,161 @@ Signature Move: Balas budi lewat tindakan, bukan kata — sepotong roti ekstra, 
 Pantang: Nggak pernah bilang "terima kasih" secara langsung ke Rogue. Itu bukan cara hubungan ini kerja — gratitude di sini selalu berbentuk tindakan, cermin dari cara Rogue sendiri menilai orang.
 Contoh Baris: *"Nggak usah dihitung. Anggap aja rutenya emang segini."* / *"Saya nggak tanya kenapa kamu bantu. Saya cuma pastiin kamu tau jalan pulang yang aman."*
 
+ONTHARR FRUME — Authority (periang), Personal Anchor institusional (Cleric)
+Ritme & Register: Keras, hangat, kalimat panjang waktu bercanda — tapi begitu masuk ke urusan serius, kalimatnya langsung memendek drastis. Kontras itu sendiri adalah sinyal: kalau Ontharr berhenti tertawa, dengarkan baik-baik.
+Signature Move: Menyentuh fisik (tepuk bahu, tuang minuman) sebelum bicara hal penting — kehangatan itu bukan basa-basi, itu caranya menilai orang dari dekat sebelum memutuskan mempercayai mereka.
+Pantang: Nggak pernah menyembunyikan penilaiannya soal karakter orang di balik sopan-santun. Kalau dia hormat, dia bilang langsung dan spesifik — bukan pujian umum.
+Contoh Baris: *"Duduk. Minum. Cerita kalian lebih baik didengar sambil ada gelas di tangan."* / *"Order butuh orang yang tahu bedanya iman yang sejati dan iman yang cuma alasan buat nggak berpikir. Itu bukan pujian kosong. Itu observasi."*
+
+ULDER RAVENGARD — Authority (militer), Personal Anchor institusional (Fighter)
+Ritme & Register: Kalimat pendek, terstruktur seperti briefing — bahkan waktu memuji, nadanya tetap nada perwira menilai perwira, bukan nada ramah personal.
+Signature Move: Mengulang kembali fakta yang baru didengarnya dengan kata-katanya sendiri sebelum memberi penilaian — cara dia memverifikasi sebelum percaya.
+Pantang: Nggak pernah menilai dari cerita atau reputasi yang belum dia lihat buktinya sendiri. Kepercayaannya harus diperoleh lewat pola tindakan yang konsisten, bukan satu momen heroik.
+Contoh Baris: *"Pola yang kau lihat di Thundertree — kau bilang itu presisi, bukan amukan acak. Lalu kau lihat pola yang sama di Greenest. Itu bukan trauma personal yang kau ceritakan padaku. Itu analisis intelijen yang valid."*
+
+AZBARA JOS — Manipulator (akademis), benang Red Wizards (Wizard)
+Ritme & Register: Kosakata akademis, jaga jarak lewat kesopanan formal — bicara seperti sedang menguji hipotesis, bukan menginterogasi.
+Signature Move: Menjawab pertanyaan personal dengan pertanyaan personal balik — mengalihkan tanpa terasa defensif, karena dia benar-benar ingin tahu jawabannya.
+Pantang: Nggak pernah menyangkal identitasnya sebagai Red Wizard secara langsung kalau sudah didesak dengan bukti — dia berkelit di awal, tapi begitu topinya "lepas" (metaforis atau harfiah), dia tidak lagi berbohong soal itu.
+Contoh Baris: *"Saya lebih tertarik sama apa yang kamu temukan daripada apa yang mau kamu lakukan dengan itu. Kita berdua tau kamu di sini bukan cuma karena marah."*
+
+SANG ARSITEK — Absolute Authority (nama asli Severin TETAP di bawah Spoiler Lock Section 10 — jangan pernah diucapkan di narasi ke pemain)
+Ritme & Register: Register paling datar di seluruh kampanye ini — bahkan dibanding Rezmir. Kalimat pendek, tanpa penekanan, seolah dia sudah lama berhenti butuh orang lain percaya padanya secara emosional. Dia nggak butuh diyakinkan dia benar — itu udah settled dari dulu.
+Signature Move: Nggak pernah membalas argumen orang lain secara langsung. Dia nunggu sampai lawan bicara selesai, lalu ngomong seolah argumen itu nggak pernah diucapkan — bukan mengabaikan karena nggak dengar, tapi karena dia udah lama berhenti anggap keberatan orang lain sebagai sesuatu yang perlu dijawab.
+Pantang: Nggak pernah menjelaskan skala pengorbanan yang udah dia buat buat sampe ke titik ini — itu satu-satunya hal yang bisa bikin dia kelihatan rentan (rujuk Villain Sympathy Checkpoint, Section 19), dan dia tau itu. Nggak pernah naikin suara — puncak kemarahannya kedengeran sama datarnya dengan kalimat pembuka.
+Contoh Baris: *"Sang Ratu udah nunggu terlalu lama untuk dikecewakan lima orang asing."* / *(ke Red Wizard yang gagal jaga ritual)* "Ulangi posisimu. Sekali lagi."
+
+GALVAN — Absolute Authority (terdesak), wyrmspeaker biru
+Ritme & Register: Mirip Rezmir secara struktur (kalimat pendek, deklaratif) tapi ritmenya lebih cepat, kurang sabar — dia bicara seperti orang yang tau dia harus buktikan diri, bukan orang yang udah pasti posisinya.
+Signature Move: Membandingkan dirinya ke wyrmspeaker lain yang udah tumbang (Rezmir, Varram, Neronvain) sebelum diminta — cara dia membenarkan kenapa dia harus menang di mana mereka gagal.
+Pantang: Nggak pernah mundur duluan dari pertarungan sebelum ada bukti fisik dia bakal kalah (naganya jatuh, atau HP-nya sendiri kritis) — beda dari Rezmir yang mundur begitu kalkulasi bilang rugi. Galvan butuh dipaksa mundur; dia nggak akan menghitung sendiri.
+Contoh Baris: *(Serangan Ketiga, Ch.14)* "Rezmir lari. Varram ketangkep. Neronvain sembunyi di balik malunya sendiri." *(beat)* "Saya bukan mereka." / *"Sang Arsitek bakal lihat siapa yang beneran bisa diandalkan malam ini."*
+
+RIAN NIGHTSHADE — Manipulator (transaksional), delegasi rahasia Zhentarim
+Ritme & Register: Suara rendah, kalimat pendek yang selalu dibuka dengan fakta yang udah party tau — cara dia bangun kredibilitas sebelum minta sesuatu.
+Signature Move: Nawarin keuntungan konkret sebelum nyebut apa yang dia mau balik — transaksi selalu dibingkai sebagai given dulu, ask belakangan.
+Pantang: Nggak pernah kedengeran butuh. Bahkan waktu Zhentarim jelas terdesak (Ch.9, jalur CROWN-7 harus diputus "tanpa pengecualian"), dia sampein itu sebagai pilihan yang ditawarkan, bukan permintaan yang mendesak.
+Contoh Baris: *"Kalian sudah kenal kode CROWN-7. Zhentarim tidak lupa siapa yang mengenali kode itu duluan."* / *"Jaringan Hitam siap bertindak sekarang, bukan menunggu faksi lain berdebat selamanya — kalau kalian bisa atur syarat yang menguntungkan buat kami."*
+
 
 CARA PAKAI VOICE BIBLE INI:
 - Sebelum nulis dialog NPC manapun di tabel ini, baca Ritme & Register dan Pantang-nya dulu.
 - Kalau NPC ini belum pernah muncul di sesi yang sedang berjalan, mulai dari Contoh Baris sebagai kalibrasi nada — bukan buat dikutip persis.
 - Tambah entry baru tiap kali ada NPC Utama baru yang naik jadi recurring (bukan sekali muncul lalu selesai). NPC Minor tetap cukup pakai SATU sifat tunggal per Section 9 — nggak semua NPC butuh voice bible penuh.
 - Kalau dialog yang udah ditulis di chapter file (Versi 1, dst.) ternyata beda dari entry di sini — chapter file yang menang. Voice Bible ini nurunin pola dari practice, bukan sebaliknya. Update entry ini kalau practice-nya udah matang dan konsisten, jangan biarin dokumen ini jadi ketinggalan dari apa yang udah benar-benar dimainkan.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+23. AUDIT LAYER — PRINSIP DARI "DM FIELD GUIDE"
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Section ini nambahin lima prinsip dari riset praktisi DM (Sly Flourish, The Alexandrian, Matt Colville, konsensus r/DMAcademy) yang belum tercover eksplisit di Section 1-22. Tujuannya bukan ganti protokol GRRM×Mercer yang udah ada — tapi nambal celah spesifik, dan jadi checklist buat audit chapter-by-chapter berikutnya.
+
+
+23.1 — THREE CLUE RULE (WAJIB UNTUK SETIAP REVELATION KRITIS)
+
+Aturan: Untuk setiap kesimpulan yang WAJIB player capai untuk lanjut progress (bukan lore opsional), sediakan MINIMAL TIGA jalur independen menuju kesimpulan itu — dokumen, NPC yang bisa dipancing, deduksi lingkungan, atau kombinasi ketiganya. Kalau satu atau dua jalur kelewat/gagal ditemuin, jalur ketiga masih nutup gap-nya.
+
+Ini formalisasi dari pola yang udah jalan di Section 13 (Manifest Fragment) — tapi Section 13 saat ini cuma nyediain SATU dokumen per revelation di beberapa titik (contoh: nama Rath Modar cuma muncul eksplisit di Fragmen 3). Audit chapter-by-chapter (fase berikutnya) harus cek: tiap revelation kritis di jalur eskalasi (Section 5) punya berapa jalur independen sekarang, dan tambahin kalau kurang dari tiga — lewat NPC yang bisa dipancing (Social leverage, Section 10) atau environmental deduction, bukan cuma dokumen baru.
+
+Nggak berlaku untuk lore opsional/flavor — cuma untuk fakta yang progress cerita bergantung padanya.
+
+
+23.2 — BEAT PACING: RITME NAIK-TURUN PER SESI
+
+Aturan: Dalam satu sesi atau satu chapter, gantian antara upward beat (kemenangan kecil, momen lega, kabar baik) dan downward beat (tantangan berat, kabar buruk, komplikasi baru). Jangan biarin beberapa scene downward berturut-turut tanpa jeda — itu yang bikin middle chapter kerasa sag.
+
+Cara pakai di audit: tiap chapter di Versi 1/ dicek urutan beat-nya. Kalau ada 3+ downward beat berturut-turut tanpa upward beat di antaranya, itu kandidat revisi — bukan harus hapus konflik, tapi sisipin satu momen lega (bisa sekecil Egg Protocol utility moment atau Emotional Memory Log callback yang positif) di antaranya.
+
+Silang-rujuk Section 5 (Jalur Eskalasi) — eskalasi tone antar ARC boleh terus naik, tapi di DALAM satu chapter, ritmenya tetap harus naik-turun, bukan monoton berat.
+
+
+23.3 — COMBAT SPEED PROTOCOL
+
+Tambahan teknis ke Section 5 (Combat Protocol) dan Section 18B (Protokol Dadu) — supaya combat nggak molor dan tone GRRM×Mercer tetap kejaga di tengah mekanik yang jalan cepat:
+
+Teknik                          | Kapan Dipakai
+Group Initiative                | Musuh identik (kobold, kultis rank rendah) roll SATU initiative bareng, gerak sebagai grup — bukan satu-satu.
+Static/Average Damage           | Musuh minor (bukan boss/NPC bernama) pakai damage rata-rata dari stat block, bukan roll manual, kecuali momennya butuh drama (Nat 20/Nat 1 vignette, Section 4).
+Roll Bareng                     | DM roll attack & damage musuh secara bersamaan buat percepat giliran musuh non-boss.
+Musuh Nggak Wajib ke 0 HP       | Selaras Morale System (Section 5) yang udah ada — kobold kabur di ½ HP itu udah benar. Perluas ke kultis rank rendah: mundur/nyerah itu logical maneuver, bukan cuma buat boss.
+
+Boss fight dan NPC bernama (Cyanwrath, Rezmir, dst.) TETAP pakai full manual roll + Legendary Action Routing (Section 4) — speed protocol ini cuma buat musuh minor/mook.
+
+
+23.4 — TRANSPARANSI DADU (KEBIJAKAN FUDGING)
+
+Belum ada kebijakan eksplisit soal ini di Section 18B — section ini nutup celahnya.
+
+Aturan: DM TIDAK fudging dadu secara diam-diam untuk attack roll, damage roll, atau death saving throw — termasuk buat NPC bernama atau boss. Kalau dadu bilang PC kena killing blow yang kerasa anti-klimaks atau prematur, DM nggak diam-diam ubah angkanya. Opsi yang dipake: kasih pilihan ke player secara terbuka di saat itu juga — misal "kena penuh dan down, atau equipment/shield-mu yang nyerap sebagian tapi hancur." Keputusan tetap di tangan player, dadu tetap dihormati.
+
+Section 18B.2 (Hidden Rolls) TETAP berlaku dan TIDAK berubah oleh aturan ini — itu soal DM roll Insight/Perception/Stealth secara rahasia biar player nggak metagaming dari angka dadunya sendiri. Itu beda kategori dari fudging: hidden roll nggak mengubah hasil, cuma nyembunyiin angkanya dari player. Fudging yang dilarang di sini spesifik ke DM DIAM-DIAM MENGUBAH hasil dadu yang udah terjadi (biasanya attack/damage/death save) supaya nyocokin cerita yang DM mau.
+
+Alasan: kalau dadu nggak pernah beneran menentukan apa-apa, taruhan combat jadi kosong — dan itu kontradiksi langsung sama Section 17.7 (Konsekuensi Brutal, Tanpa Plot Armor) yang udah jadi prinsip inti dokumen ini.
+
+
+23.5 — CHECKLIST AUDIT CHAPTER-BY-CHAPTER
+
+Dipakai di fase audit berikutnya (Versi 1/*.md, 18 file). Per chapter, cek:
+
+□ Tiap revelation kritis punya ≥3 jalur independen (Section 23.1)?
+□ Beat naik-turun terjaga, nggak ada 3+ downward beat berturut tanpa jeda (Section 23.2)?
+□ Encounter dengan musuh minor bisa pakai Combat Speed Protocol (Section 23.3) tanpa ngurangin momen boss?
+□ Nggak ada instruksi implisit yang minta DM fudging dadu demi pacing (Section 23.4)?
+□ NPC Utama baru (kalau ada) udah punya entry di Voice Bible (Section 22)?
+□ Villain chapter itu udah punya Sympathy Checkpoint (Section 19) sebelum konfrontasi final, kalau chapter itu memang klimaks villain?
+□ Egg Protocol tiga-momen (Section 4) lengkap buat NPC yang bakal kena konsekuensi besar di chapter itu?
+
+Kalau satu chapter fail satu atau lebih poin di atas — itu masuk gap list, bukan otomatis revisi. Prioritas revisi ditentuin dari chapter mana yang paling deket sama level progression aktif (Section 12).
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+24. PANDUAN LIVE TABLE — UNTUK DM MANUSIA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Section 1-23 ngatur KONTEN — apa yang harus ada di narasi, NPC, dan struktur chapter. Section ini beda: ini bukan instruksi buat generate teks, tapi panduan buat DM MANUSIA yang duduk di meja dan mimpin sesi live. Nggak bisa di-script ke prosa chapter, karena ini soal keputusan real-time dan interaksi sosial di luar fiksi — tapi tetap bagian dari "gimana jadi DM yang lebih baik" buat kampanye ini. Taro di sini biar DM yang mimpin kampanye ini punya referensinya, bukan cuma ketinggalan di sumber luar.
+
+
+24.1 — FUDGING DADU: PRINSIP DI BALIK ATURAN 23.4
+
+Section 23.4 udah kasih aturan keras: nggak fudging diam-diam. Section ini kasih KENAPA-nya, buat DM yang mungkin tergoda pas lagi di meja beneran.
+
+Ada dua kubu di komunitas DM: sumber lama/"official" biasanya izinin fudging sesekali demi jaga pacing atau cegah TPK yang anti-klimaks. Konsensus komunitas sekarang (r/DMAcademy, r/dndnext) condong kuat ke transparansi — argumennya: kalau dadu nggak pernah beneran nentuin apa-apa, buat apa dilempar? Player juga sering bisa "ngerasa" pas DM fudging, dan itu ngikis trust lebih dari sekali TPK yang pahit.
+
+Titik temu yang dipake kampanye ini (match Section 23.4): kamu BOLEH nggak suka hasil dadu yang keluar. Yang nggak boleh adalah diam-diam ubah angkanya. Kalau situasinya kerasa nggak adil atau prematur — buka pilihan itu ke player secara terang-terangan di meja. Itu bedanya "DM yang jaga integritas cerita" sama "DM yang curang demi cerita."
+
+Kapan boleh nge-rewrite yang legitimate: SEBELUM sesi dimulai — nyusun encounter, nentuin DC, nulis stat block — semua itu masih "prep," bukan fudging. Begitu dadu udah dilempar di depan player, itu udah final.
+
+
+24.2 — VOICING NPC: NGGAK BUTUH AKSEN
+
+Section 22 (Voice Bible) udah nentuin Ritme & Register, Signature Move, dan Pantang tiap NPC secara TEKSTUAL — buat jaga konsistensi tulisan lintas sesi. Section ini nutup sisi PERFORMANCE-nya buat DM yang mimpin live:
+
+- Kamu NGGAK butuh aksen buat NPC keliatan beda satu sama lain. Aksen susah dijaga konsisten multi-sesi, dan kalau meleset malah keluar dari suasana.
+- Ganti aksen dengan: satu emosi dominan + satu-dua physical mannerism yang berulang (udah ada di Voice Bible tiap NPC — pakai itu sebagai cue performance, bukan cuma referensi tulisan).
+- Speech pattern (ritme kalimat, kata yang sering diulang, cara dia diam) lebih efektif daripada aksen buat bikin NPC keinget beda-beda.
+- Narasi orang ketiga itu valid: "Orryn ngejawab tanpa nengok, masih ngelap gelas" sama sahnya kayak voice-acting penuh. Nggak semua NPC butuh performance vokal — cek NPC Depth Scale (Section 9): NPC Minor cuma butuh SATU sifat, titik.
+
+
+24.3 — PERCAKAPAN LANGSUNG: ALAT #1 BUAT MASALAH DI MEJA
+
+Ini prinsip yang paling sering diulang di komunitas DM manapun: masalah SOSIAL (bukan masalah cerita) diselesaikan lewat percakapan LANGSUNG di luar karakter — bukan lewat konsekuensi in-game, bukan lewat sindiran, bukan dibiarin aja.
+
+Kondisi                              | Yang DM Lakuin
+Satu player dominan/ambil spotlight terus | Ngobrol di luar sesi, framing positif: "Saya suka antusiasme kamu — saya cuma perlu bagi spotlight lebih rata." BUKAN dihukum diam-diam lewat narasi.
+Satu player diem/nggak nimbrung       | Cek dulu apa dia emang nggak nyaman atau emang tipe yang lebih suka observe — jangan asumsi ada masalah. Kalau perlu dorongan di dalam sesi, pakai Spotlight Ladder (Section 17.14-b) yang udah ada.
+Ada player yang pakai "itu emang karakternya" buat justify tindakan yang ganggu player lain | Ingetin: player yang pilih dan mainin karakternya. Konsensus session-zero (kalau ada aturan No PvP/consent) lebih tinggi dari alasan "in-character."
+Rules dispute di tengah sesi          | "5-second rule": DM putuskan cepat di saat itu, lanjut main, cek ulang rule-nya pas jeda/istirahat. Jangan berhentiin momentum sesi buat debat aturan.
+
+Prinsip dasar: DM adalah fan terbesar dari player-nya, bukan lawan mereka. Kalau ada gesekan, obrolan jujur di luar fiksi hampir selalu lebih efektif daripada solusi di dalam fiksi.
+
+
+24.4 — SESSION ZERO (SEKALI DI AWAL KAMPANYE)
+
+Karena lima Pilar di kampanye ini udah predefined (Section 3), session zero versi kampanye ini lebih ringkas dari biasanya — tapi tetap penting buat disepakati sebelum sesi pertama:
+
+- Tone & lethality: samain ekspektasi soal Estetika Rendahan Tier 1 (Section 2) — bahwa Level 1-3 emang keras dan nggak epic, biar nggak kaget pas karakter mereka babak belur beli zirah bekas.
+- Consent rule buat adverse PC-on-PC action: kalau ada momen kayak CROWN-7 Dilemma atau Guest Right Dilemma yang bisa nyeret keputusan satu Pilar ke konflik sama Pilar lain, pastiin batasannya jelas dari awal — bukan diimprovisasi pas udah tegang di meja.
+- Jadwal & pacing ekspektasi real-world: sepakatin di awal, bukan tebak-tebakan tiap minggu.
+
+Session zero cukup sekali. Nggak perlu diulang tiap chapter — cukup revisit kalau ada perubahan besar di party atau tone (misal transisi Tier 1 ke Tier 2, Section 1).

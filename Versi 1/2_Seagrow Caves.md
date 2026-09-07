@@ -166,7 +166,7 @@ Setelah jawabannya:
 
 *Jika pemain ingat tas Tarak dan mencoba menawarkan makanan:*
 
-> "Makhluk itu berhenti. Bukan karena dia berpikir — karena ada sesuatu dalam instruksi yang tersisa di dalamnya yang bereaksi pada bau itu. Bukan teman, bukan musuh. Familiar. Tentakelnya merileks, tidak menarik, tidak menyerang. Memberikan jalan lewat."
+> "Makhluk itu berhenti — sesuatu dalam instruksi yang tersisa di dalamnya bereaksi pada bau itu, bukan pada kalian. Tentakelnya merileks, tidak menarik, tidak menyerang. Memberikan jalan lewat."
 
 *Award XP yang sama dengan membunuhnya. Ini adalah pilihan yang lebih sulit karena membutuhkan ingatan dan kreativitas — itu layak dihargai.*
 
@@ -277,6 +277,8 @@ Gudang kecil, sprout yang bekerja. Dan di antara keranjang-keranjang spora dan t
 
 **Stirge Encounter:**
 
+*Catatan DM: Enam stirge identik — kandidat bagus untuk Combat Speed Protocol (System Instructions Section 23.3): group initiative dan static damage biar encounter ini nggak macet.*
+
 Jika pemain menghabiskan lebih dari satu menit di gudang, atau bergerak lebih dari lima kaki ke dalam:
 
 > "Dari tumpukan yang lebih besar di sudut — sesuatu meletus. Bukan satu, bukan dua. Enam makhluk kecil dengan sayap dan belalai yang sudah terarah sebelum mereka terbang penuh."
@@ -336,6 +338,18 @@ Mereka melihat ke atas ketika grup masuk. Tidak menyerang. Rapport Spore mereka 
 > "Itu Ruby Morel. Kamu belum pernah lihat langsung, tapi ada deskripsi di herba-herba yang pernah kamu baca — jamur langka yang memiliki properti restoratif yang kuat. Kalau dibawa ke Tarak, dia bisa buat sesuatu dari ini yang jauh lebih kuat dari potion healing biasa."
 
 *DM catat: ini adalah reward yang harus dibawa kembali ke Dragon's Rest. Bukan dipakai sekarang.*
+
+---
+
+### BEAT NAIK — SEBELUM B6
+
+*Chapter ini sudah berat sejak B2 (violet fungi), lewat B3 (stirge), B4 (bobot meld myconid), dan sekarang B5 (Sinensa sekarat). Sebelum party turun ke pertarungan terberat chapter ini di B6, DM sisipkan satu momen lega — kecil, tidak menyelesaikan apapun, tapi cukup untuk jadi jeda napas di tengah ritme yang sudah lama menurun.*
+
+Begitu Enok selesai menyampaikan Rapport Spore soal kristal yang tersumbat, dia berhenti sebentar. Lalu — pertama kalinya sejak party masuk gua ini — sesuatu yang terasa berbeda muncul di antara gambar-gambar yang biasanya berat:
+
+> "Bukan permintaan tolong kali ini. Gambar anak-anak myconid — sprout yang sama yang lari ketakutan tadi di B3 — sekarang bermain lagi di antara jamur yang sehat, tidak jauh dari sini. Enok tidak menjelaskan kenapa dia menunjukkan ini sekarang. Tapi rasanya jelas: ini bukan cuma tentang menyelamatkan Sinensa. Ini tentang apa yang masih bisa diselamatkan kalau kalian berhasil."
+
+*Satu kalimat, satu gambar. Tidak perlu dialog balasan. Biarkan ini jadi satu-satunya nafas sebelum B6.*
 
 ---
 

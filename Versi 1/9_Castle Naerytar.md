@@ -101,6 +101,8 @@ Di dalam, kastil ini terasa seperti tiga rumah tangga yang dipaksa berbagi satu 
 
 Dua belas kultis inisiat bekerja di sini siang hari, diawasi empat dragonclaw. Kalau ada keributan, bala bantuan datang ronde ketiga (menara barat daya) dan keempat (bullywug/lizardfolk di ward luar).
 
+*Catatan DM: Dua belas kultis inisiat identik — kandidat kuat buat Combat Speed Protocol (System Instructions Section 23.3). Simpan roll manual penuh buat empat dragonclaw dan siapapun yang dikirim sebagai bala bantuan bernama.*
+
 > *Catatan DM — PAYOFF CROWN-7:* Di antara barang yang sedang disortir, party menemukan buku catatan pengiriman — daftar kode CROWN-7 lengkap dengan tujuan-tujuan sebelumnya (Seagrow Caves, Greenest, kamp penjarah) dan konfirmasi bahwa **titik ini adalah tujuan akhir jalur logistik yang sudah dilacak Rogue sejak awal**. Beri momen ini ruang — biarkan Rogue (dan pemain yang memainkannya) merasakan bahwa benang yang dia tarik sejak Stormwreck akhirnya sampai ke ujungnya.
 
 ### MOMEN ROGUE — TRAGIC TRIGGER PILAR 4: DILEMA CROWN-7

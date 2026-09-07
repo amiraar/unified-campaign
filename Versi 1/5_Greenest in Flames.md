@@ -53,7 +53,9 @@ Sorel, saat ditanya, hanya mengangkat bahu.
 
 > **Sorel:** "Naga datang. Orang lari atau mati. Sudah setahun lalu. Nggak ada yang balik buat bangun ulang — nggak ada alasan bagus untuk tinggal di tempat yang naganya masih bisa balik."
 
-Dia tidak tahu lebih dari itu, atau tidak mau tahu lebih dari itu. Keduanya sama saja malam itu.
+Dia tidak tahu lebih dari itu.
+
+*Catatan DM: Sorel NPC Minor — satu-satunya fungsinya di sini adalah nyampein info Thundertree, bukan bawa arc sendiri. Rujuk Section 17.0 (Aturan Ketinggian) — Tier Datar, bukan Tier Penuh.*
 
 ---
 
@@ -134,6 +136,8 @@ Ini harus jadi misi pertama begitu karakter memasuki kota.
 Wanita itu adalah **Linan Swift**; suaminya **Cuth** sudah terluka parah. Kalau karakter tidak turun tangan, kobold-kobold itu mengira mereka juga kultis dan mengabaikan mereka — tapi keluarga itu kemungkinan besar tidak selamat.
 
 Setelah diselamatkan, Linan menjelaskan: satu-satunya tempat aman adalah **benteng** di tengah kota. Untuk sampai ke sana, karakter harus melewati tiga kelompok penjarah (masing-masing 1d6 kobold + 1d4 kultis). Mereka bisa bertarung, menyelinap, mundur, atau membluff.
+
+*Catatan DM: Malam ini penuh gelombang kobold/kultis identik (kelompok penjarah di sini, plus gelombang di Sally Port dan Kuil Chauntea nanti). Rujuk System Instructions Section 23.3 (Combat Speed Protocol) — group initiative dan static damage untuk kobold-kobold ini menjaga tempo malam yang harus terasa genting, bukan macet di mekanik. Simpan roll manual penuh untuk Cyanwrath dan Lennithon.*
 
 Setiap kali mereka mundur dari satu kelompok, 1d6 warga sipil lagi bergabung mengikuti mereka menuju benteng — dan tiap empat warga tambahan, satu kelompok penjarah lagi harus dilewati.
 

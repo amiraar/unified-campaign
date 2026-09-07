@@ -142,6 +142,9 @@ Chapter ini adalah klimaks arc Stormwreck Isle. Bukan karena pertarungannya pali
 > "Dan sebelum kamu bisa mengamati lebih lama — suara. Kepak sayap yang frantic, suara cakar di batu, dan sesuatu yang terdengar seperti makhluk yang sekarat: jeritan pendek, berulang, dari sudut timur rotunda. Dua kobold bersayap dengan wajah dicat biru sedang berjuang melawan enam makhluk seperti kelelawar besar — tapi lebih kurus, lebih lapar — yang baru saja berbelok dari kobold itu dan mulai terbang ke arah kamu."
 
 **[ENCOUNTER: STIRGE]**
+
+*Catatan DM: Delapan stirge identik total (6 ke party, 2 ke Mek/Minn) — pakai Combat Speed Protocol (System Instructions Section 23.3), group initiative dan static damage, biar tempo encounter ini nggak tenggelam di roll individual.*
+
 - 6 stirge menyerang pemain; 2 sisanya tetap di kobold
 - Kobold (Mek dan Minn) bertarung sendiri dengan 2 stirge sisa
 - Jika pemain membantu kobold aktif → kobold menjadi friendly setelah combat
