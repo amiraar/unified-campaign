@@ -90,6 +90,20 @@ Di dalam kuil, lima Red Wizard berdiri di lima kapel (biru, putih, hijau, hitam,
 
 ---
 
+### VILLAIN SYMPATHY CHECKPOINT — SANG ARSITEK
+
+*Rujuk System Instructions Section 19. Ini satu-satunya momen kerentanan yang akan pernah party lihat darinya — dia belum pernah tampil langsung sepanjang campaign (keheningan taktis Section 1). Mainkan ini SEBELUM dia sadar party sudah masuk kuil — begitu dia perhatikan mereka, dia langsung kembali jadi Absolute Authority penuh dan momen ini tidak terulang.*
+
+Sebelum pertarungan dimulai — saat party pertama mendapat pandangan jelas ke sanctuary puncak menara tengah, entah dari kejauhan atau dari balik pilar:
+
+> "Sang Arsitek berdiri sendirian, membelakangi kalian, di depan Mask of the Dragon Queen yang baru selesai disatukan — lima dragon mask jadi satu, masih berkilau dari sihir yang baru saja menyatukannya. Tangannya terangkat untuk mengenakannya. Dan sesaat, cuma sesaat, tangannya gemetar."
+>
+> "Dia berhenti. Menatap mask di tangannya seperti orang yang baru sadar berat dari apa yang dia pegang. Lalu tangannya berhenti gemetar — dia memaksanya berhenti — dan dia mengenakan mask itu tanpa jeda lagi."
+
+*DM: Jangan beri dialog. Jangan beri narasi tambahan soal apa yang dia pikirkan. Biarkan gemetar itu jadi satu-satunya hal yang party lihat sebelum dia menyadari kehadiran mereka dan pertarungan dimulai.*
+
+---
+
 ## II.2 — KONFRONTASI RATH MODAR — PENUTUP ARC WIZARD
 
 *Ini adalah pembayaran penuh dari Villain Sympathy Checkpoint yang ditanam sejak Castle in the Clouds (Ch.10). Baca ulang bagian itu sebelum menjalankan scene ini.*

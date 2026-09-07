@@ -901,6 +901,11 @@ Checkpoint: Saat party pertama berhadapan dengannya, ada momen singkat yang tida
 RATH MODAR:
 Checkpoint: Saat Wizard pertama kali konfrontasi dia di Ch.8, Rath Modar tidak langsung defensif. Dia tanya: "Apa yang dia tinggalkan untuk kamu?" — merujuk ke rekan akademis Wizard. Dan dia menunggu jawaban. Bukan untuk mengeksploitasi. Genuine ingin tahu apakah orang yang dia anggap ancaman itu meninggalkan sesuatu yang berharga. Ada kesedihan di sana yang tidak dia akui dan tidak akan pernah dia akui.
 
+SANG ARSITEK (Severin — nama asli TETAP di bawah Spoiler Lock, Section 10; jangan pernah diucapkan dalam narasi ke pemain):
+Checkpoint: Sebelum party mencapai sanctuary puncak menara tengah di Well of Dragons (Ch.17, II.1) — sebelum dia sadar mereka sudah masuk kuil — mereka lewat cukup dekat untuk melihatnya sendirian, berdiri di depan Mask of the Dragon Queen yang baru selesai disatukan dari lima dragon mask. Tangannya gemetar sesaat sebelum dia mengenakannya — bukan keraguan soal rencananya, keraguan soal dirinya sendiri, apakah dia layak jadi orang yang membawa mask itu setelah semua yang dia korbankan untuk sampai ke titik ini. Dia menyembunyikan gemetar itu secepat dia sadar tangannya sendiri melakukannya.
+Shadow Line yang menyertai (opsional, diucapkan ke dirinya sendiri, tidak ke party): "Semua yang saya korbankan untuk sampai ke sini — pantas jadi lebih dari sekadar alasan."
+Catatan DM: Ini adalah satu-satunya momen kerentanan Sang Arsitek di seluruh campaign — dia tidak dapat momen sympathy lain manapun karena dia TIDAK PERNAH tampil langsung sebelum Ch.17 (keheningan taktis Section 1). Checkpoint ini harus hadir SEBELUM dia sadar party ada di ruangan — begitu dia sadar, dia kembali jadi Absolute Authority penuh (Section 17.5) tanpa sisa kerentanan itu terlihat lagi.
+
 FORCED SYMPATHY CHECKLIST — empat pertanyaan wajib:
 □ Apakah villain melakukan sesuatu yang bisa dimengerti dari perspektif mereka sendiri?
 □ Apakah momen itu hadir tanpa komentar atau framing dari DM?
@@ -1096,6 +1101,24 @@ Ritme & Register: Transaksional bahkan waktu perasaan di baliknya nggak transaks
 Signature Move: Balas budi lewat tindakan, bukan kata — sepotong roti ekstra, rute yang "kebetulan" lebih aman, informasi yang "kebetulan" nyampe duluan.
 Pantang: Nggak pernah bilang "terima kasih" secara langsung ke Rogue. Itu bukan cara hubungan ini kerja — gratitude di sini selalu berbentuk tindakan, cermin dari cara Rogue sendiri menilai orang.
 Contoh Baris: *"Nggak usah dihitung. Anggap aja rutenya emang segini."* / *"Saya nggak tanya kenapa kamu bantu. Saya cuma pastiin kamu tau jalan pulang yang aman."*
+
+ONTHARR FRUME — Authority (periang), Personal Anchor institusional (Cleric)
+Ritme & Register: Keras, hangat, kalimat panjang waktu bercanda — tapi begitu masuk ke urusan serius, kalimatnya langsung memendek drastis. Kontras itu sendiri adalah sinyal: kalau Ontharr berhenti tertawa, dengarkan baik-baik.
+Signature Move: Menyentuh fisik (tepuk bahu, tuang minuman) sebelum bicara hal penting — kehangatan itu bukan basa-basi, itu caranya menilai orang dari dekat sebelum memutuskan mempercayai mereka.
+Pantang: Nggak pernah menyembunyikan penilaiannya soal karakter orang di balik sopan-santun. Kalau dia hormat, dia bilang langsung dan spesifik — bukan pujian umum.
+Contoh Baris: *"Duduk. Minum. Cerita kalian lebih baik didengar sambil ada gelas di tangan."* / *"Order butuh orang yang tahu bedanya iman yang sejati dan iman yang cuma alasan buat nggak berpikir. Itu bukan pujian kosong. Itu observasi."*
+
+ULDER RAVENGARD — Authority (militer), Personal Anchor institusional (Fighter)
+Ritme & Register: Kalimat pendek, terstruktur seperti briefing — bahkan waktu memuji, nadanya tetap nada perwira menilai perwira, bukan nada ramah personal.
+Signature Move: Mengulang kembali fakta yang baru didengarnya dengan kata-katanya sendiri sebelum memberi penilaian — cara dia memverifikasi sebelum percaya.
+Pantang: Nggak pernah menilai dari cerita atau reputasi yang belum dia lihat buktinya sendiri. Kepercayaannya harus diperoleh lewat pola tindakan yang konsisten, bukan satu momen heroik.
+Contoh Baris: *"Pola yang kau lihat di Thundertree — kau bilang itu presisi, bukan amukan acak. Lalu kau lihat pola yang sama di Greenest. Itu bukan trauma personal yang kau ceritakan padaku. Itu analisis intelijen yang valid."*
+
+AZBARA JOS — Manipulator (akademis), benang Red Wizards (Wizard)
+Ritme & Register: Kosakata akademis, jaga jarak lewat kesopanan formal — bicara seperti sedang menguji hipotesis, bukan menginterogasi.
+Signature Move: Menjawab pertanyaan personal dengan pertanyaan personal balik — mengalihkan tanpa terasa defensif, karena dia benar-benar ingin tahu jawabannya.
+Pantang: Nggak pernah menyangkal identitasnya sebagai Red Wizard secara langsung kalau sudah didesak dengan bukti — dia berkelit di awal, tapi begitu topinya "lepas" (metaforis atau harfiah), dia tidak lagi berbohong soal itu.
+Contoh Baris: *"Saya lebih tertarik sama apa yang kamu temukan daripada apa yang mau kamu lakukan dengan itu. Kita berdua tau kamu di sini bukan cuma karena marah."*
 
 
 CARA PAKAI VOICE BIBLE INI:

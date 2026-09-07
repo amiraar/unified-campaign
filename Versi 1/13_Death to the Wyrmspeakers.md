@@ -141,6 +141,12 @@ Pintu masuk tersembunyi di balik air terjun. **Chuth**, naga hijau dewasa, dan *
 
 **Kamar Elf:** dua belas tawanan elf (komoner, bangsawan, ksatria, mage) — diyakinkan Chuth bahwa mereka akan dibebaskan kalau setia. **DC 17 Persuasion** (atau otomatis dengan kalung druid) meyakinkan mereka kabur alih-alih menunggu ajal.
 
+**Jalur Clue Kedua — Bangsawan Elf:** salah satu tawanan, seorang bangsawan tua dari istana Melandrach, sempat melayani di sana bertahun-tahun lalu. Kalau dibebaskan dan diajak bicara soal Neronvain (bukan diinterogasi — dia bicara lebih terbuka kalau party sudah menyelamatkannya lebih dulu):
+
+> **Bangsawan Elf:** *(menatap ke arah sarang naga, suaranya pelan)* "Cara wyrmspeaker itu bicara ke bawahannya — ritme kalimatnya, cara dia berhenti di tempat yang salah — itu ritme istana. Bukan ritme kultus." *(berhenti)* "Saya sudah lama tidak dengar seseorang bicara seperti itu sejak seorang pangeran muda menghilang dari istana, bertahun-tahun lalu. Saya tidak berani bilang itu kepastian. Tapi ada sesuatu yang tidak bisa saya jelaskan tentang kenapa itu terasa familiar."
+
+*Ini bukan konfirmasi eksplisit soal identitas Neronvain — cukup untuk membuat party curiga dan mencari kepastian, bahkan kalau mereka melewatkan jurnal di Lorong Rahasia.*
+
 **Kuil Terlupakan:** kuil Eldath, dewi air terjun — doa tulus di sini bisa memberi boon kecil (water breathing, bless) atas kebijakan DM.
 
 **Kamar Neronvain:** dilindungi glyph of warding (5d8 acid ke siapapun selain Neronvain). Berisi karya seni curian dari elf Misty Forest — pantas dikembalikan, bukan dijarah, kalau party berempati dengan korban aslinya.
@@ -150,6 +156,12 @@ Pintu masuk tersembunyi di balik air terjun. **Chuth**, naga hijau dewasa, dan *
 Sebuah jurnal ditemukan di ruang tersembunyi, mengungkap: Neronvain menyebut Raja Melandrach berulang kali sebagai "ayahku yang malang." **Neronvain adalah putra Raja Melandrach yang diasingkan dan dikira sudah lama mati.**
 
 > *Catatan DM: Ini reveal besar. Jangan buru-buru umumkan — biarkan party membaca jurnal ini sendiri dan menyadari beratnya. Ini juga mengonfirmasi Mask Naga Hijau sudah berada di Well of Dragons di bawah perlindungan Sang Arsitek.*
+
+**Jalur Clue Ketiga — Kalau Party Melewatkan Keduanya:** kalau jurnal di Lorong Rahasia tidak ditemukan dan tawanan bangsawan elf tidak dibebaskan atau tidak ditanya, reveal ini masih bisa muncul lewat konfrontasi langsung dengan Neronvain di Sarang Chuth — begitu dia terluka parah (di bawah setengah HP) dan sebelum dia kabur bersama Chuth, satu baris lolos dari mulutnya, dalam Elvish, ke arah yang tidak masuk akal untuk ditujukan ke musuh:
+
+> **Neronvain:** *(dalam Elvish, nyaris tidak sadar dia bicara keras — bukan ditujukan ke party)* "Ayah tidak akan pernah tahu bedanya."
+
+*Karakter yang paham Elvish menangkap ini otomatis. Yang tidak, bisa DC 15 Insight untuk sadar dia baru mengatakan sesuatu yang jauh lebih personal dari ancaman biasa. Ini tidak sekonkret jurnal atau kesaksian bangsawan elf — tapi cukup untuk memancing pertanyaan yang jawabannya sudah party punya kalau salah satu dari dua jalur lain juga ditemukan.*
 
 **Sarang Chuth:** naga kabur di bawah 50% HP; Neronvain bertarung sampai serupa terluka parah, lalu membujuk Chuth kabur bersama.
 

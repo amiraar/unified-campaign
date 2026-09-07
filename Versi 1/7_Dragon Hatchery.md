@@ -59,6 +59,8 @@ Menggeledah sisa kamp (sekitar sepuluh jam kerja) hanya menemukan sampah — per
 
 **Wandering Monster:** roll d6 setiap kali party masuk/masuk ulang area 3-10. Pada angka 1, encounter muncul (roll d6 di tabel Chapter 3 Encounters — 4 kobold / 6 kobold+2 winged / 3 winged / 5 winged / 2 winged+1 guard drake / 2 ambush drake).
 
+*Catatan DM: Gua ini penuh kelompok kobold identik (area 7-8, wandering monster, dll). Rujuk System Instructions Section 23.3 (Combat Speed Protocol) — group initiative dan static damage untuk kobold/winged kobold biasa menjaga tempo klaustrofobik chapter ini tetap cepat. Simpan roll manual penuh untuk Cyanwrath, Mondath, guard drake, dan roper.*
+
 ---
 
 ### 1. MULUT GUA
