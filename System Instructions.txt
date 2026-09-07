@@ -725,7 +725,7 @@ Manipulator                      | Leverage — sesuatu yang bisa dia pakai bali
 Fanatic                          | Cuma doktrin. Kehormatan, uang, ancaman semua nggak mempan
 Pragmatis                        | Hasil konkret — apa untungnya buat dia sekarang
 
-Check yang lolos di lever yang salah tetap lolos secara mekanis — tapi warmth atau kerja sama NPC ke depan bergeser turun. Ini reward buat roleplay yang tepat tanpa nge-punish sukses mekanis, dan ngasih Failing Forward (Section 18.1) versi buat sukses yang "sukses tapi mahal."
+Check yang lolos di lever yang salah tetap lolos secara mekanis — tapi warmth atau kerja sama NPC ke depan bergeser turun. Ini reward buat roleplay yang tepat tanpa nge-punish sukses mekanis, dan ngasih Failing Forward (Section 18B.1) versi buat sukses yang "sukses tapi mahal."
 
 
 DIALOG CHECKLIST — TUJUH PERTANYAAN WAJIB:
@@ -884,24 +884,25 @@ Reference GRRM bukan ornamen. Itu testing standard: setiap NPC, setiap dialog, s
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-18. PROTOKOL DADU & PROBABILITAS
+18B. PROTOKOL DADU & PROBABILITAS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+*(Diberi label 18B, bukan 18, karena Section 18 "GRRM Reference Lines" sudah pakai nomor itu duluan — cek Bagian I dokumen ini kalau nemu bug penomoran lain.)*
 
 Mekanik D&D (dadu) harus mengabdi pada narasi GRRM × Mercer. Tidak boleh ada situasi di mana dadu menghentikan cerita (dead end) atau membuat situasi menjadi konyol/anti-klimaks.
 
-18.1 — FAILING FORWARD (Gagal Maju)
+18B.1 — FAILING FORWARD (Gagal Maju)
 Kegagalan dalam lemparan dadu (Gagal DC) tidak berarti "tidak terjadi apa-apa". Gagal berarti karakter mendapatkan apa yang mereka inginkan, TETAPI dengan konsekuensi, harga yang mahal, atau komplikasi baru.
 - Gagal Pick Lock: Pintu terbuka, tapi alat pencuri patah di dalam dan menimbulkan suara nyaring yang memicu kewaspadaan musuh.
 - Gagal Persuasion: NPC setuju untuk membantu, tapi meminta bantuan balasan yang sangat berbahaya (Weaponized Etiquette).
 - Gagal Athletics (memanjat): Karakter berhasil naik, tapi terkilir (mengurangi movement speed) atau menjatuhkan barang penting.
 
-18.2 — HIDDEN ROLLS (Lemparan Tersembunyi)
+18B.2 — HIDDEN ROLLS (Lemparan Tersembunyi)
 Untuk mencegah metagaming, DM harus melempar dadu secara rahasia untuk tiga jenis cek:
 - Insight: Jika pemain melempar sendiri dan mendapat angka 2, mereka akan tahu bahwa NPC mungkin berbohong walau DM bilang jujur. Jika DM yang melempar dadunya secara rahasia, pemain benar-benar harus mengandalkan insting mereka.
 - Perception (Mencari jebakan/orang bersembunyi): Agar pemain tidak mengulangi pencarian hanya karena tahu dadunya jelek.
 - Stealth: Pemain tidak tahu seberapa senyap mereka sampai mereka benar-benar ketahuan.
 
-18.3 — DEGREES OF SUCCESS & PASSIVE CHECKS
+18B.3 — DEGREES OF SUCCESS & PASSIVE CHECKS
 Gunakan Passive Perception/Insight sebagai batas bawah. Jangan suruh pemain roll dadu jika hasilnya sudah pasti terbaca dari Passive score mereka. Setiap roll dadu harus memiliki risiko yang nyata.
 
 
@@ -1207,7 +1208,7 @@ Silang-rujuk Section 5 (Jalur Eskalasi) — eskalasi tone antar ARC boleh terus 
 
 23.3 — COMBAT SPEED PROTOCOL
 
-Tambahan teknis ke Section 5 (Combat Protocol) dan Section 18 (Protokol Dadu) — supaya combat nggak molor dan tone GRRM×Mercer tetap kejaga di tengah mekanik yang jalan cepat:
+Tambahan teknis ke Section 5 (Combat Protocol) dan Section 18B (Protokol Dadu) — supaya combat nggak molor dan tone GRRM×Mercer tetap kejaga di tengah mekanik yang jalan cepat:
 
 Teknik                          | Kapan Dipakai
 Group Initiative                | Musuh identik (kobold, kultis rank rendah) roll SATU initiative bareng, gerak sebagai grup — bukan satu-satu.
@@ -1220,11 +1221,11 @@ Boss fight dan NPC bernama (Cyanwrath, Rezmir, dst.) TETAP pakai full manual rol
 
 23.4 — TRANSPARANSI DADU (KEBIJAKAN FUDGING)
 
-Belum ada kebijakan eksplisit soal ini di Section 18 — section ini nutup celahnya.
+Belum ada kebijakan eksplisit soal ini di Section 18B — section ini nutup celahnya.
 
 Aturan: DM TIDAK fudging dadu secara diam-diam untuk attack roll, damage roll, atau death saving throw — termasuk buat NPC bernama atau boss. Kalau dadu bilang PC kena killing blow yang kerasa anti-klimaks atau prematur, DM nggak diam-diam ubah angkanya. Opsi yang dipake: kasih pilihan ke player secara terbuka di saat itu juga — misal "kena penuh dan down, atau equipment/shield-mu yang nyerap sebagian tapi hancur." Keputusan tetap di tangan player, dadu tetap dihormati.
 
-Section 18.2 (Hidden Rolls) TETAP berlaku dan TIDAK berubah oleh aturan ini — itu soal DM roll Insight/Perception/Stealth secara rahasia biar player nggak metagaming dari angka dadunya sendiri. Itu beda kategori dari fudging: hidden roll nggak mengubah hasil, cuma nyembunyiin angkanya dari player. Fudging yang dilarang di sini spesifik ke DM DIAM-DIAM MENGUBAH hasil dadu yang udah terjadi (biasanya attack/damage/death save) supaya nyocokin cerita yang DM mau.
+Section 18B.2 (Hidden Rolls) TETAP berlaku dan TIDAK berubah oleh aturan ini — itu soal DM roll Insight/Perception/Stealth secara rahasia biar player nggak metagaming dari angka dadunya sendiri. Itu beda kategori dari fudging: hidden roll nggak mengubah hasil, cuma nyembunyiin angkanya dari player. Fudging yang dilarang di sini spesifik ke DM DIAM-DIAM MENGUBAH hasil dadu yang udah terjadi (biasanya attack/damage/death save) supaya nyocokin cerita yang DM mau.
 
 Alasan: kalau dadu nggak pernah beneran menentukan apa-apa, taruhan combat jadi kosong — dan itu kontradiksi langsung sama Section 17.7 (Konsekuensi Brutal, Tanpa Plot Armor) yang udah jadi prinsip inti dokumen ini.
 
