@@ -1102,4 +1102,68 @@ CARA PAKAI VOICE BIBLE INI:
 - Sebelum nulis dialog NPC manapun di tabel ini, baca Ritme & Register dan Pantang-nya dulu.
 - Kalau NPC ini belum pernah muncul di sesi yang sedang berjalan, mulai dari Contoh Baris sebagai kalibrasi nada — bukan buat dikutip persis.
 - Tambah entry baru tiap kali ada NPC Utama baru yang naik jadi recurring (bukan sekali muncul lalu selesai). NPC Minor tetap cukup pakai SATU sifat tunggal per Section 9 — nggak semua NPC butuh voice bible penuh.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+23. AUDIT LAYER — PRINSIP DARI "DM FIELD GUIDE"
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Section ini nambahin lima prinsip dari riset praktisi DM (Sly Flourish, The Alexandrian, Matt Colville, konsensus r/DMAcademy) yang belum tercover eksplisit di Section 1-22. Tujuannya bukan ganti protokol GRRM×Mercer yang udah ada — tapi nambal celah spesifik, dan jadi checklist buat audit chapter-by-chapter berikutnya.
+
+
+23.1 — THREE CLUE RULE (WAJIB UNTUK SETIAP REVELATION KRITIS)
+
+Aturan: Untuk setiap kesimpulan yang WAJIB player capai untuk lanjut progress (bukan lore opsional), sediakan MINIMAL TIGA jalur independen menuju kesimpulan itu — dokumen, NPC yang bisa dipancing, deduksi lingkungan, atau kombinasi ketiganya. Kalau satu atau dua jalur kelewat/gagal ditemuin, jalur ketiga masih nutup gap-nya.
+
+Ini formalisasi dari pola yang udah jalan di Section 13 (Manifest Fragment) — tapi Section 13 saat ini cuma nyediain SATU dokumen per revelation di beberapa titik (contoh: nama Rath Modar cuma muncul eksplisit di Fragmen 3). Audit chapter-by-chapter (fase berikutnya) harus cek: tiap revelation kritis di jalur eskalasi (Section 5) punya berapa jalur independen sekarang, dan tambahin kalau kurang dari tiga — lewat NPC yang bisa dipancing (Social leverage, Section 10) atau environmental deduction, bukan cuma dokumen baru.
+
+Nggak berlaku untuk lore opsional/flavor — cuma untuk fakta yang progress cerita bergantung padanya.
+
+
+23.2 — BEAT PACING: RITME NAIK-TURUN PER SESI
+
+Aturan: Dalam satu sesi atau satu chapter, gantian antara upward beat (kemenangan kecil, momen lega, kabar baik) dan downward beat (tantangan berat, kabar buruk, komplikasi baru). Jangan biarin beberapa scene downward berturut-turut tanpa jeda — itu yang bikin middle chapter kerasa sag.
+
+Cara pakai di audit: tiap chapter di Versi 1/ dicek urutan beat-nya. Kalau ada 3+ downward beat berturut-turut tanpa upward beat di antaranya, itu kandidat revisi — bukan harus hapus konflik, tapi sisipin satu momen lega (bisa sekecil Egg Protocol utility moment atau Emotional Memory Log callback yang positif) di antaranya.
+
+Silang-rujuk Section 5 (Jalur Eskalasi) — eskalasi tone antar ARC boleh terus naik, tapi di DALAM satu chapter, ritmenya tetap harus naik-turun, bukan monoton berat.
+
+
+23.3 — COMBAT SPEED PROTOCOL
+
+Tambahan teknis ke Section 5 (Combat Protocol) dan Section 18 (Protokol Dadu) — supaya combat nggak molor dan tone GRRM×Mercer tetap kejaga di tengah mekanik yang jalan cepat:
+
+Teknik                          | Kapan Dipakai
+Group Initiative                | Musuh identik (kobold, kultis rank rendah) roll SATU initiative bareng, gerak sebagai grup — bukan satu-satu.
+Static/Average Damage           | Musuh minor (bukan boss/NPC bernama) pakai damage rata-rata dari stat block, bukan roll manual, kecuali momennya butuh drama (Nat 20/Nat 1 vignette, Section 4).
+Roll Bareng                     | DM roll attack & damage musuh secara bersamaan buat percepat giliran musuh non-boss.
+Musuh Nggak Wajib ke 0 HP       | Selaras Morale System (Section 5) yang udah ada — kobold kabur di ½ HP itu udah benar. Perluas ke kultis rank rendah: mundur/nyerah itu logical maneuver, bukan cuma buat boss.
+
+Boss fight dan NPC bernama (Cyanwrath, Rezmir, dst.) TETAP pakai full manual roll + Legendary Action Routing (Section 4) — speed protocol ini cuma buat musuh minor/mook.
+
+
+23.4 — TRANSPARANSI DADU (KEBIJAKAN FUDGING)
+
+Belum ada kebijakan eksplisit soal ini di Section 18 — section ini nutup celahnya.
+
+Aturan: DM TIDAK fudging dadu secara diam-diam untuk attack roll, damage roll, atau death saving throw — termasuk buat NPC bernama atau boss. Kalau dadu bilang PC kena killing blow yang kerasa anti-klimaks atau prematur, DM nggak diam-diam ubah angkanya. Opsi yang dipake: kasih pilihan ke player secara terbuka di saat itu juga — misal "kena penuh dan down, atau equipment/shield-mu yang nyerap sebagian tapi hancur." Keputusan tetap di tangan player, dadu tetap dihormati.
+
+Section 18.2 (Hidden Rolls) TETAP berlaku dan TIDAK berubah oleh aturan ini — itu soal DM roll Insight/Perception/Stealth secara rahasia biar player nggak metagaming dari angka dadunya sendiri. Itu beda kategori dari fudging: hidden roll nggak mengubah hasil, cuma nyembunyiin angkanya dari player. Fudging yang dilarang di sini spesifik ke DM DIAM-DIAM MENGUBAH hasil dadu yang udah terjadi (biasanya attack/damage/death save) supaya nyocokin cerita yang DM mau.
+
+Alasan: kalau dadu nggak pernah beneran menentukan apa-apa, taruhan combat jadi kosong — dan itu kontradiksi langsung sama Section 17.7 (Konsekuensi Brutal, Tanpa Plot Armor) yang udah jadi prinsip inti dokumen ini.
+
+
+23.5 — CHECKLIST AUDIT CHAPTER-BY-CHAPTER
+
+Dipakai di fase audit berikutnya (Versi 1/*.md, 18 file). Per chapter, cek:
+
+□ Tiap revelation kritis punya ≥3 jalur independen (Section 23.1)?
+□ Beat naik-turun terjaga, nggak ada 3+ downward beat berturut tanpa jeda (Section 23.2)?
+□ Encounter dengan musuh minor bisa pakai Combat Speed Protocol (Section 23.3) tanpa ngurangin momen boss?
+□ Nggak ada instruksi implisit yang minta DM fudging dadu demi pacing (Section 23.4)?
+□ NPC Utama baru (kalau ada) udah punya entry di Voice Bible (Section 22)?
+□ Villain chapter itu udah punya Sympathy Checkpoint (Section 19) sebelum konfrontasi final, kalau chapter itu memang klimaks villain?
+□ Egg Protocol tiga-momen (Section 4) lengkap buat NPC yang bakal kena konsekuensi besar di chapter itu?
+
+Kalau satu chapter fail satu atau lebih poin di atas — itu masuk gap list, bukan otomatis revisi. Prioritas revisi ditentuin dari chapter mana yang paling deket sama level progression aktif (Section 12).
 - Kalau dialog yang udah ditulis di chapter file (Versi 1, dst.) ternyata beda dari entry di sini — chapter file yang menang. Voice Bible ini nurunin pola dari practice, bukan sebaliknya. Update entry ini kalau practice-nya udah matang dan konsisten, jangan biarin dokumen ini jadi ketinggalan dari apa yang udah benar-benar dimainkan.
