@@ -1295,3 +1295,46 @@ Karena lima Pilar di kampanye ini udah predefined (Section 3), session zero vers
 - Jadwal & pacing ekspektasi real-world: sepakatin di awal, bukan tebak-tebakan tiap minggu.
 
 Session zero cukup sekali. Nggak perlu diulang tiap chapter — cukup revisit kalau ada perubahan besar di party atau tone (misal transisi Tier 1 ke Tier 2, Section 1).
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+25. DC TRANSPARENCY & INSPIRATION — DIINFORMASIKAN DARI ANALISIS BG3
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Section ini nutup dua celah yang nggak ketutup oleh Section 18B (Protokol Dadu): kapan DM ngasih tau DC ke player, dan sistem Inspiration yang belum pernah didefinisikan di dokumen ini. Keduanya diambil dari analisis gimana Baldur's Gate 3 mengimplementasi 5e — bukan buat ditiru mentah-mentah (rujuk Section 24 soal batas antara game video dan meja beneran), tapi buat nutup gap yang genuinely belum ada aturannya di sini.
+
+
+25.1 — DC TRANSPARENCY (KAPAN DC DIUMUMKAN)
+
+Aturan defaultnya SELEKTIF, bukan selalu terbuka dan bukan selalu tertutup — dua-duanya salah kalau dipukul rata.
+
+Jenis Check                                  | Umumkan DC? | Alasan
+Fisik yang bisa dinilai mata (panjat, dobrak paksa, angkat sesuatu) | YA | Karakter di dunia fiksi bisa menaksir ini sendiri cuma dengan melihat. Nyembunyiin DC di sini cuma bikin lambat, nggak nambah tegang.
+Investigasi/deduksi lingkungan (baca jejak, kenali jebakan, identifikasi item) | YA, atau band kasar ("ini kelihatan susah, sekitar DC 15") | Sama alasannya — ini penilaian yang secara in-fiction masuk akal buat karakter tau.
+Sosial terbuka (Persuasion ke NPC yang nggak nyimpen rahasia dari check itu sendiri) | Boleh, kasus per kasus | Nggak bocorin apa-apa yang penting kalau NPC-nya emang nggak defensif.
+Sosial opposed / rahasia (Insight buat nangkep bohong, Deception buat nutupin sesuatu, negosiasi dengan Manipulator archetype Section 17.5) | TIDAK | Angka DC itu sendiri adalah informasi cerita. DC rendah buat "apakah NPC ini bohong" bocorin bahwa dia jujur sebelum dadu dilempar. DC tinggi bocorin bahwa dia nyimpen sesuatu besar. Rujuk 18B.2 (Hidden Rolls) — kategori check yang sama yang udah harus di-roll diam-diam oleh DM.
+Passive checks (Perception, Insight pasif) | N/A | Nggak ada roll yang keliatan sama sekali — udah diatur di 18B.3.
+
+Tes cepat: kalau tau angka DC-nya bakal ngasih tau player sesuatu tentang fiksi yang harusnya mereka temuin lewat main, bukan lewat baca angka — sembunyiin. Kalau nggak, umumin aja, itu cuma bikin main lebih cepat dan lebih jelas taruhannya.
+
+Sekali kamu pilih transparan atau tertutup buat SATU check tertentu di satu momen, jangan diam-diam ganti kebijakan di tengah jalan buat momen yang sama — itu ngerasa kayak fudging dari sisi player meski niatnya beda (rujuk Section 23.4/24.1 soal integritas dadu).
+
+
+25.2 — INSPIRATION: TERIKAT KE INTERNAL CONTRADICTION
+
+Dokumen ini belum pernah define Inspiration sebagai mekanik aktif — section ini nutup itu, dan mengikatnya langsung ke sistem yang udah dibangun kampanye ini: Internal Contradiction tiap Pilar (Section 3), bukan "roleplay bagus" generik.
+
+Aturan dasar (5e RAW, ditegaskan ulang biar eksplisit): satu Pilar cuma bisa pegang SATU Inspiration di satu waktu — nggak numpuk. Dipakai buat dapetin advantage di satu roll, lalu hilang. DM boleh pakai varian reroll ala-BG3 sebagai house rule kalau lebih cocok sama gaya meja — pilih satu opsi di session zero (Section 24.4) dan konsisten sepanjang campaign, jangan gonta-ganti.
+
+Pemicu — per Pilar, ditarik langsung dari Internal Contradiction masing-masing (Section 3):
+
+Pilar    | Pemicu Inspiration
+Cleric   | Mengambil tindakan iman yang costly demi orang lain, meski dia sendiri ragu itu benar
+Fighter  | Bikin keputusan yang manusiawi meski itu taktis lebih buruk — kebalikan dari pola yang dia takutin sejak Thundertree
+Wizard   | Pakai pengetahuan warisan rekan yang mati dengan cara yang menghormati, meski itu berarti dia nggak eksploitasi keunggulan informasi semaksimal mungkin
+Rogue    | Pilih transparansi ke party meski itu ngerugiin posisinya di Zhentarim
+Paladin  | Pegang kode kehormatan meski costly secara taktis (persis situasi macam Guest Right Dilemma)
+
+Kenapa ini beda dari reward Inspiration generik 5e: tiap pemicu di atas SPESIFIK ke arc karakter itu, bukan "roleplay yang bagus" secara umum. Ini bukan gantiin Egg Protocol (Section 4, itu buat NPC) atau Spotlight Distribution Log (Section 4, itu buat alokasi waktu bicara) — ini mekanik terpisah yang reward pemain secara langsung, di momen itu juga, ketika mereka pilih arc consistency di atas keuntungan taktis.
+
+DM kasih Inspiration secara langsung, di momen itu terjadi — jangan ditunda sampai akhir sesi. Momentumnya hilang kalau nunggu.
