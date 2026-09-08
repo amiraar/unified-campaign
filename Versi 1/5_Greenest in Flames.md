@@ -281,6 +281,8 @@ Di tengah evakuasi, seorang warga tua — tukang gerabah bernama **Sella** — r
 
 Apapun keputusan Cleric — pakai simbol kultus atau tidak — catat itu. Ini pertanyaan yang akan menghantuinya sepanjang campaign: apakah dia benar-benar melayani tuhan, atau cuma mengelola konsekuensi-Nya. Panggil kembali momen ini di Ch.7 (echo di depan telur naga), Ch.11 (Ontharr Frume menyinggung "yang kau tunjukkan di Greenest"), dan Ch.17 (epilog Order of the Gauntlet).
 
+*Catatan DM: Kalau Cleric pegang doktrin dan biarkan Sella mati — costly secara internal contradiction-nya — ini kandidat kuat buat Inspiration (System Instructions Section 25.2).*
+
 **Reward:** 100 XP per karakter untuk evakuasi berhasil (50 XP jika lebih dari sepuluh warga tewas). Tidak ada XP tambahan untuk momen Sella — bebannya adalah hadiahnya sendiri.
 
 ---
@@ -348,6 +350,8 @@ Cyanwrath (rujuk Appendix D Tyranny untuk statblok) adalah lawan yang kuat untuk
 Kalau Cyanwrath kalah, kobold-nya segera melindungi tubuhnya dan membawanya pergi — dia akan pulih dan muncul lagi nanti di campaign (Dragon Hatchery, Ch.7).
 
 **Villain Sympathy Checkpoint (Section 19) sudah terpenuhi lewat momen doa — tidak perlu tambahan.**
+
+*Catatan DM: Kalau Fighter menerima tawaran doa Cyanwrath — pilihan manusiawi di atas taktik — ini kandidat Inspiration (Section 25.2), tapi catat SETELAH duel selesai, bukan di momen itu sendiri. Section 3 udah eksplisit: jangan beri hint mekanis apapun saat momen doa berlangsung — perbedaannya harus murni karakter di saat itu terjadi.*
 
 Setelah duel selesai — apapun hasilnya — sisa penjarah mundur massal dari kota menuju kegelapan, berbaris ke arah tenggara.
 

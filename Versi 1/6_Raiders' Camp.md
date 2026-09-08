@@ -172,6 +172,8 @@ Dia menyebutkan, tanpa sadar betapa berharganya info itu: jam berapa penjaga gua
 
 *Catatan DM — dampak jangka panjang:* Apapun pilihan Paladin, catat itu. Section 3: "Kalau gagal: Koalisi di Council of Waterdeep runtuh; kultus maju tanpa hambatan karena nggak ada united front militer." — itu adalah konsekuensi ekstrem kalau Paladin gagal total menegakkan kode kehormatannya di titik-titik krusial sepanjang campaign. Guest Right Dilemma ini adalah titik pertama dari pola itu, bukan satu-satunya.
 
+*Catatan DM: Kalau Paladin pegang kode kehormatan meski itu costly secara taktis (opsi menyelamatkan Corwin sekaligus, atau mengabaikan info sama sekali) — ini kandidat kuat buat Inspiration (System Instructions Section 25.2).*
+
 ---
 
 ## III.5 — TERTANGKAP (KALAU TERJADI)
