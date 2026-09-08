@@ -117,6 +117,8 @@ Buku catatan yang sama juga mengungkap sesuatu yang tidak murni taktis: jalur CR
 
 Apapun keputusan Rogue, ini adalah retakan pertama dalam Internal Contradiction-nya: kepercayaan yang dia bangun dengan Zhentarim mulai berbenturan langsung dengan apa yang party (dan dirinya sendiri) anggap benar.
 
+*Catatan DM: Kalau Rogue pilih transparansi/biarkan jalur sipil hidup meski itu ngerugiin posisinya di Zhentarim — ini kandidat kuat buat Inspiration (System Instructions Section 25.2).*
+
 **Chapel (1L):** kuil kayu untuk Tiamat, diukir lizardfolk (mirip lizardfolk lebih dari naga). Kompartemen tersembunyi di bawah kepala naga hitam berisi **dagger of venom** (**DC 15 Investigation**).
 
 **Forge & Ready Room Lizardfolk (1H/1I/2H):** Borngray mencoba mengajarkan metalurgi ke lizardfolk untuk membangun kebanggaan mereka — hasilnya buruk, tapi mereka menikmati kehangatan forge. Gudang senjata rahasia lizardfolk (pedang, belati, tombak baru) tersembunyi di bawah tumpukan senjata karatan di area 2H — bukti mereka lebih siap memberontak dari yang terlihat.
@@ -196,6 +198,8 @@ Kalau party berhasil mengonfrontasinya secara langsung sebelum dia sempat kabur 
 Kalau Wizard menyebut nama Rath Modar (dari catatan yang ditemukan di Clifftop Observatory, Ch.4), Jos berhenti sejenak — bukan kaget, tapi menghitung ulang.
 
 > **Azbara Jos:** "Jadi kamu sudah tahu nama itu." *(tidak defensif, nyaris kagum)* "Rath Modar akan tertarik mendengar itu. Pertanyaannya — apa yang akan kamu lakukan dengan pengetahuan itu, sekarang setelah kamu tahu itu bukan cuma nama di kertas?"
+
+*Catatan DM — TRAGIC TRIGGER PILAR 3 (Wizard) aktif di sini: rujuk System Instructions Section 3 (Pilar 3) — ini momen di mana dia harus decide pakai knowledge dari rekan yang mati itu, atau sembunyiin. Kalau dia pakai dengan cara yang menghormati (bukan eksploitatif) meski itu berarti dia nggak ambil keunggulan informasi semaksimal mungkin — ini kandidat kuat buat Inspiration (Section 25.2).*
 
 Kalau pertarungan pecah sebelum percakapan ini selesai, satu-satunya perhatian Jos adalah kabur lewat portal sebelum sesuatu membunuhnya.
 
