@@ -39,6 +39,8 @@ Kalau party berlama-lama di luar atau menjelajahi hutan, mereka berpapasan dua t
 
 **Kandang Anjing Naga (area 2):** dijaga **Trepsin**, troll berlengan empat penyembah Baphomet, pemburu besar fanatik. Dia meminta tanda pengenal kultus — kalau tidak diberikan, dia menyerang. Enam ambush drake di dalam menurut padanya. Altar mengerikan di belakang kandang (tombak babi hutan disusun tripod, bangkai hewan digantung di atasnya, mangkuk dilingkari rune darah) adalah persembahan untuk Baphomet.
 
+*Catatan DM: Trepsin (dan dua troll patroli di atas) punya Regeneration — rujuk System Instructions Section 26.4 sebelum fight ini jalan.*
+
 ---
 
 ## I.3 — DI DALAM PONDOK

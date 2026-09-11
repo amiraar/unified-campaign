@@ -57,6 +57,8 @@ Dia sudah lama bermimpi ada pahlawan yang cukup kuat mengalahkan naga itu — ta
 
 Turun dari desa, udara berubah lagi — dari dingin terbuka jadi dingin yang terperangkap, memantul di antara dinding es yang menyimpan gema terlalu lama. Gua di bawah desa adalah wilayah Arauthator dan para pelayannya — kobold (dibawa paksa generasi lalu), ice toad (diplomatik, dipimpin **Marfulb** yang sangat cerdas dan mengurus seluruh logistik gunung es), dan ice troll (kasar, cuma setia pada siapa yang menang).
 
+*Catatan DM: Ice troll punya Regeneration — rujuk System Instructions Section 26.4. Kalau party nggak bawa damage fire/acid ke gua es ini, treat dia sebagai ancaman yang harus dihindari/diusir, bukan dibunuh habis.*
+
 **Maccath the Crimson** ditemukan di sebuah tenda aneh di tengah gua — tawanan yang, meski disekap, terobsesi menyelesaikan terjemahan tulisan sihir curian Arauthator dari Hosttower of the Arcane. Dia menawarkan kesepakatan: dia tidak akan pergi tanpa membawa properti Arcane Brotherhood yang bisa diselamatkan.
 
 > **Maccath:** *(menengadah dari meja tulisnya, tidak benar-benar berhenti membaca)* "Kalian datang untuk menyelamatkan saya, atau untuk mengambil kembali yang dicuri dari Menara?" *(beat)* "Jawab jujur. Saya cuma peduli yang mana yang sebenarnya bawa kalian kemari."

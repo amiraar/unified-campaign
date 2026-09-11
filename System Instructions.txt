@@ -1361,3 +1361,9 @@ Ini beda dari "jangan kasih tau semuanya" (rujuk Section 25.1 soal DC tersembuny
 **26.3 — SIAPA YANG ROLL: AC VS DC**
 
 Poin konfusi paling umum buat DM baru (per referensi combat mechanics): **AC = attacker yang roll** (attack roll lawan angka statis target); **DC = defender/target yang roll** (saving throw lawan angka statis dari sumbernya). Dua sistem ini nggak pernah tertukar — kalau bingung di tengah sesi, tanya dulu: ini serangan (attacker roll) atau efek yang bilang "make a saving throw" (target yang roll)? Rujuk Section 18B.3 soal passive checks sebagai kategori ketiga (nggak ada yang roll sama sekali).
+
+**26.4 — TROLL REGENERATION: PENGINGAT WAJIB**
+
+Troll muncul di **lima chapter berbeda** sepanjang kampanye ini (Ch.8 random encounter, dua troll patroli + Trepsin di Ch.10, ice troll di Ch.12, tiga troll di Ruang Sumur Ch.13) dan nggak satupun ditandai dengan pengingat soal Regeneration — ini gotcha RAW paling klasik yang bikin new DM lupa (troll sembuh 10 HP tiap awal giliran, immune sampai kena damage acid atau fire di ronde itu). Lupa terapkan ini bikin fight jadi trivial; salah terapkan (misal lupa reset immunity-nya kalau nggak kena fire/acid ronde itu) bikin troll berasa unkillable dan macetin combat.
+
+**Aturan tetap:** kalau party nggak punya akses damage fire/acid (spell, weapon coating, torch improvisasi), troll ini seharusnya lebih ke ancaman-yang-harus-dihindari-atau-diusir daripada musuh-yang-harus-dibunuh-habis — sama seperti Arauthator di Ch.12 yang boleh diusir bukan dibunuh. Jangan malu nawarin jalan keluar naratif (troll mundur kalau kalah telak secara HP walau regen, dst.) kalau party kelamaan macet.
