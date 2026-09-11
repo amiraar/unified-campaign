@@ -17,6 +17,21 @@ Chapter ini dua misi terpisah yang bisa dijalankan dalam urutan apapun, masing-m
 
 ---
 
+### PERCABANGAN NYATA — KALAU PARTY NGGAK NGEJAR VARRAM SAMA SEKALI
+
+*Chapter ini nulis dua misi sebagai default, urutan bebas — tapi party BOLEH secara sengaja skip Bagian I sepenuhnya dan langsung ke Bagian II (Neronvain). Ini bukan railroad; party bisa milih prioritas mereka sendiri, dan pilihan itu punya harga nyata, bukan cuma flavor beda.*
+
+Kalau party nolak/nggak sempat ngejar rumor Varram di Council (Ch.11), atau berangkat tapi nyerah di tengah jalan sebelum masuk Ss'tck'al — Varram nggak pernah diselamatkan. Yuan-ti nggak butuh lama buat ngabisin dia begitu mereka sadar dia nggak lagi berguna sebagai leverage. Kalau dia sempat kabur sendiri sebelum itu, Sang Arsitek yang ngurus sisanya — dia tahu aturannya sendiri: wyrmspeaker yang kehilangan mask nggak boleh balik hidup-hidup. Either way, Varram hilang permanen. Nggak ada intel darinya, nggak ada tawanan buat dibawa ke council.
+
+**Konsekuensi nyata (bukan cuma flavor):**
+- Party kehilangan info hierarki kultus dan konfirmasi langsung dari mulut Varram sendiri — mask-nya emang udah di Well of Dragons regardless (rujuk Catatan DM di atas), yang hilang bukan itu, tapi kepastian dan REPUTASI dari membawa pulang bukti hidup ke council.
+- Rasa hormat faksi di Council lebih rendah dari jalur default — satu wyrmspeaker "tumbang" karena diabaikan party, bukan karena dikalahkan aktif oleh mereka. Catat beda ini secara eksplisit di Faction Scorecard (Ch.11) — jangan disamain sama hasil "menangkap/membunuh sendiri."
+- Sebagai kompensasi kecil (bukan salah satu dari tiga titik downtime resmi Section 28): party dapet waktu ekstra buat fokus ke Neronvain — DM boleh kasih satu momen tenang informal sebelum masuk Misty Forest kalau dirasa pas.
+
+Ini bukan "gagal." Ini pilihan taktis yang sah dengan harga yang nyata, konsisten sama Section 5 (Player Agency) — hasil nggak pernah ditetapkan sebelumnya, termasuk hasil dari NGGAK bertindak.
+
+---
+
 # BAGIAN I — VARRAM THE WHITE
 
 ## I.1 — JEJAK KE BOARESKYR BRIDGE
@@ -25,7 +40,7 @@ Benang kedua yang terbuka di Council of Waterdeep (rujuk Chapter 11) menunggu di
 
 Di **Kedai Tenda Bolo**, seorang pemilik halfling menceritakan: Varram membunuh mata-mata yuan-ti di depan umum (membuatnya jadi "pahlawan lokal" tanpa sadar) sebelum melesat ke Serpent Hills dengan lebih dari selusin pengikut — termasuk sosok berjubah yang sebenarnya **bearded devils**, bukan tentara bayaran manusia seperti dugaan penduduk.
 
-**Perjalanan ke Serpent Hills:** enam puluh lima mil, medan tandus penuh mesa dan plato batu. Random encounter (humanoid, hewan ternak, hill giant, makam tak bertanda, kuil, burung bangkai, reruntuhan, lizardfolk) mewarnai perjalanan.
+**Perjalanan ke Serpent Hills:** enam puluh lima mil, medan tandus penuh mesa dan plato batu. Random encounter (humanoid, hewan ternak, hill giant, makam tak bertanda, kuil, burung bangkai, reruntuhan, lizardfolk) mewarnai perjalanan. Rujuk Tabel Flavor Acak (System Instructions Section 29) buat tekstur di antara encounter.
 
 ---
 

@@ -286,6 +286,8 @@ Tidak ada yang bertanya tergantung apa.
 
 > *Catatan DM — NPC Personal Anchor (Paladin):* Pertanyaan *"Seseorang yang kamu tinggalkan..."* bertujuan untuk memancing Personal Anchor bagi Paladin. NPC ini tidak akan muncul secara fisik, melainkan menjadi motivasi internal. Ingat atau catat jawaban Paladin di sini, karena ini akan berguna untuk menguji moralitasnya nanti di Waterdeep.
 
+> *Catatan DM — BLANK NARATIF (Fighter, rujuk System Instructions Section 27):* Kalau Fighter yang mainnya siap dan momennya pas, tambah satu pertanyaan lagi, terpisah dari lima di atas: *"Kapak kecil itu — ada satu momen spesifik kamu pakai itu buat sesuatu yang BUKAN combat. Momen apa itu?"* Jawabannya jadi kanon. Catat di Log Blank Naratif (Section 27), dan panggil balik minimal sekali di Ch.1 — nggak perlu besar, cukup satu detail kecil yang nunjukkin Fighter inget momen itu.
+
 ---
 
 ## CATATAN TRANSISI KE CHAPTER 1: DRAGON'S REST

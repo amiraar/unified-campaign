@@ -71,6 +71,20 @@ Di bawah kastil, dia menemukan **portal** yang terhubung ke pondok berburu terbe
 
 ---
 
+### PERCABANGAN NYATA — MEMBUJUK PHARBLEX SEBELUM PERTARUNGAN
+
+*Ini bukan sekadar variasi rasa. Kalau berhasil, ini beneran mengubah bentuk pertarungan di Bagian III — bukan cuma dialog beda, tapi encounter yang secara struktural lebih mudah dan faksi yang secara struktural berubah posisi.*
+
+Kalau party sengaja mendekati Pharblex secara terpisah dari Borngray (bukan lewat konfrontasi terbuka di depan kastil) dan nawarin sesuatu yang konkret — pengakuan dia sebagai penguasa sah kastil begitu kultus pergi, bukti bahwa Sang Arsitek nganggep Borngray lebih penting dari dia (kalau party punya dokumen relevan dari chapter lain, atau cukup meyakinkan lewat Deception), atau ancaman langsung yang bikin dia yakin Borngray bakal ngejatuhin dia duluan kalau ada kesempatan — ini **DC 16 Persuasion** atau **DC 14 Deception** (kalau party bawa bukti yang meyakinkan, walau palsu).
+
+**Kalau berhasil:** Pharblex setuju biarin Borngray jatuh sendirian. Begitu pertarungan pecah di Bagian III, bullywug TIDAK ikut bertarung buat Borngray — sebaliknya, mereka nyerang balik dari gua bawah (area 6-7) begitu dengar keributan, nyerang kultis dari belakang. Borngray kehilangan setengah kekuatan pendukungnya seketika. Kalau lizardfolk udah direkrut lewat Snapjaw (Ch.9, I.2), mereka juga lebih berani ikut karena ngeliat front musuh udah nggak solid.
+
+**Konsekuensi jangka panjang:** Pharblex (kalau selamat) jadi kontak rawa yang bisa dipanggil lagi — bukan sekutu setia, penguasa lokal yang berhutang budi, dengan segala ketidakpastian yang menyertai. Catat ini di Faction Fracture Seeds sebagai fault line kultus yang BENERAN dieksploitasi, bukan cuma dicatat sebagai potensi — dan sebut ini di Council of Waterdeep (Ch.11) kalau party lapor gimana mereka rebut kastil. Delegasi yang peduli pragmatisme (Zhentarim, Lords' Alliance) menghargai ini lebih dari sekadar "kami bunuh semua orang di sana."
+
+**Kalau gagal atau nggak dicoba:** jalan default di Bagian III tetap berlaku — Borngray dan Pharblex bertarung bersama seperti biasa.
+
+---
+
 ## II.2 — MENDEKATI KASTIL
 
 Snapjaw tahu posisi enam penjaga lizardfolk sekitar setengah mil dari kastil. Kalau dipercaya penuh, dia bisa membujuk mereka bergabung dalam pemberontakan (**DC 10 Charisma** untuk Snapjaw — gagal berarti mereka tidak bertindak tapi tidak mengganggu; hasil 5 ke bawah berarti mereka justru menyerang Snapjaw sendiri karena dianggap gegabah). Kalau belum ada trust, dia bilang party adalah kultis baru — semua lolos tanpa masalah.
@@ -208,6 +222,8 @@ Kalau pertarungan pecah sebelum percakapan ini selesai, satu-satunya perhatian J
 ## III.2 — DRALMORRER BORNGRAY DAN PHARBLEX SPATTERGOO
 
 Berbeda dari Rezmir dan Jos, Borngray dan Pharblex punya segalanya untuk dipertaruhkan di sini — kekalahan berarti Borngray kehilangan pangkatnya yang susah payah diraih, dan Pharblex kehilangan basis untuk memerintah rawa setelah kultus pergi. Meski saling membenci, mereka bertarung bersama begitu pertempuran meletus, sambil membeli waktu untuk Rezmir dan Jos kabur.
+
+*Catatan DM: KECUALI party udah berhasil bujuk Pharblex duan (Percabangan Nyata di II.1) — kalau itu terjadi, Pharblex TIDAK bertarung buat Borngray, dan bullywug malah nyerang dari belakang. Cek itu dulu sebelum fight ini jalan.*
 
 Pertahanan terbaik mereka adalah mundur bertarung lewat kastil turun ke gua-gua, di mana lorong sempit dan giant frog menguntungkan mereka.
 
