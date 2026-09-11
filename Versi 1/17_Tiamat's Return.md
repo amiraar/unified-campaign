@@ -142,6 +142,8 @@ Tindakan party sepanjang campaign — dan di dalam pertempuran ini — bisa mele
 
 Tiap kondisi di atas yang terpenuhi memberi satu pengurangan berurutan ke Sang Ratu (damage attack/breath -15 & HP max -75; lalu kehilangan Regeneration & resistance jadi immunity; lalu kehilangan Limited Spell Immunity; lalu -5 ke attack/save DC/AC; lalu cuma 3 legendary action). Kalau kelima kondisi terpenuhi, Sang Ratu jadi setara CR 21 — masih pertarungan mematikan untuk kelima karakter level 14-15, tapi bisa dimenangkan. Tanpa kelima pengurangan ini, party nyaris tidak punya peluang.
 
+*Catatan DM: Rujuk Section 26.2 — setiap kali status resistance/immunity Sang Ratu berubah (naik atau turun), sinyalkan lewat deskripsi damage begitu terjadi. Jangan biarkan party nggak sadar bahwa serangan mereka baru jadi lebih (atau kurang) efektif.*
+
 ---
 
 ## II.4 — KEMUNCULAN SANG RATU

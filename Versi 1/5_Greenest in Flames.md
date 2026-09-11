@@ -137,7 +137,7 @@ Wanita itu adalah **Linan Swift**; suaminya **Cuth** sudah terluka parah. Kalau 
 
 Setelah diselamatkan, Linan menjelaskan: satu-satunya tempat aman adalah **benteng** di tengah kota. Untuk sampai ke sana, karakter harus melewati tiga kelompok penjarah (masing-masing 1d6 kobold + 1d4 kultis). Mereka bisa bertarung, menyelinap, mundur, atau membluff.
 
-*Catatan DM: Malam ini penuh gelombang kobold/kultis identik (kelompok penjarah di sini, plus gelombang di Sally Port dan Kuil Chauntea nanti). Rujuk System Instructions Section 23.3 (Combat Speed Protocol) — group initiative dan static damage untuk kobold-kobold ini menjaga tempo malam yang harus terasa genting, bukan macet di mekanik. Simpan roll manual penuh untuk Cyanwrath dan Lennithon.*
+*Catatan DM: Malam ini penuh gelombang kobold/kultis identik (kelompok penjarah di sini, plus gelombang di Sally Port dan Kuil Chauntea nanti). Rujuk System Instructions Section 23.3 (Combat Speed Protocol) — group initiative dan static damage untuk kobold-kobold ini menjaga tempo malam yang harus terasa genting, bukan macet di mekanik. Simpan roll manual penuh untuk Cyanwrath dan Lennithon. Malam ini juga penuh momen party ngepung satu grup kecil — rujuk Section 26.1: Flanking TIDAK aktif secara default, encounter-encounter ini udah di-tune tanpa itu.*
 
 Setiap kali mereka mundur dari satu kelompok, 1d6 warga sipil lagi bergabung mengikuti mereka menuju benteng — dan tiap empat warga tambahan, satu kelompok penjarah lagi harus dilewati.
 

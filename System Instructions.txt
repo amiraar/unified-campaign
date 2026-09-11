@@ -1338,3 +1338,26 @@ Paladin  | Pegang kode kehormatan meski costly secara taktis (persis situasi mac
 Kenapa ini beda dari reward Inspiration generik 5e: tiap pemicu di atas SPESIFIK ke arc karakter itu, bukan "roleplay yang bagus" secara umum. Ini bukan gantiin Egg Protocol (Section 4, itu buat NPC) atau Spotlight Distribution Log (Section 4, itu buat alokasi waktu bicara) — ini mekanik terpisah yang reward pemain secara langsung, di momen itu juga, ketika mereka pilih arc consistency di atas keuntungan taktis.
 
 DM kasih Inspiration secara langsung, di momen itu terjadi — jangan ditunda sampai akhir sesi. Momentumnya hilang kalau nunggu.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+26. TIGA RULING COMBAT YANG BELUM PERNAH DITEGASKAN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Dokumen ini nggak pernah restate matematika dasar 5e (attack roll vs AC, damage, crit) — itu emang bukan tugasnya, dan DM diasumsikan udah paham SRD. Tapi audit terhadap referensi combat mechanics 5e nemuin tiga ruling yang genuinely belum pernah ditegaskan di manapun di dokumen ini, dan ketiganya penting spesifik buat kampanye ini karena seberapa padat encounter-nya (duel satu-lawan-satu, boss fight legendary action, fight multi-front kayak Greenest dan Well of Dragons).
+
+**26.1 — FLANKING: TIDAK DIPAKAI SECARA DEFAULT**
+
+Flanking (aturan opsional DMG: dua sekutu di sisi berlawanan dari musuh dapet advantage) TIDAK aktif secara default di kampanye ini. Alasan: encounter di seluruh 18 chapter udah di-tune secara eksplisit ke tingkat kesulitan tertentu ("Hard", "Deadly", dst — rujuk Section 14 "Kekuatan Serangan Kultus" sebagai contoh paling eksplisit). Advantage dari Flanking bernilai signifikan (secara statistik setara ~+3.3 rata-rata pada roll, dan bisa naikin peluang hit sampai ~25 poin persentase di roll yang butuh 50%) — cukup besar buat ngerusak kalibrasi itu, apalagi party lima orang yang gampang banget ngepung satu musuh.
+
+Kalau DM di meja tertentu emang mau pakai Flanking sebagai house rule, itu keputusan sah — tapi berarti DM perlu naikin HP/AC musuh boss secara manual buat kompensasi, karena angka di seluruh dokumen ini diasumsikan TANPA Flanking.
+
+**26.2 — SINYAL RESISTANCE/IMMUNITY SETELAH HIT PERTAMA**
+
+Kampanye ini penuh musuh dengan resistance/immunity (naga dengan damage type sesuai breath weapon-nya, undead resist necrotic/immune poison, elemental, dst). Konsisten dengan filosofi transparansi yang udah dibangun di Section 18B dan Section 25.1: begitu satu karakter kena tau damage-nya diresist/diimun (biasanya dari deskripsi DM setelah damage roll pertama — "pedangmu kena tapi lukanya kerasa dangkal, kayak ototnya nolak sendirian"), itu sinyal buat party ganti pendekatan. Jangan biarkan party ngabisin tiga ronde mukul sesuatu yang immune tanpa ada indikasi naratif apapun — itu bukan tantangan taktis, itu cuma informasi yang sengaja ditahan.
+
+Ini beda dari "jangan kasih tau semuanya" (rujuk Section 25.1 soal DC tersembunyi buat check sosial) — resistance/immunity itu fakta tentang musuh yang secara in-fiction akan kelihatan dari REAKSI musuh itu ke damage, bukan clue naratif yang harus digali.
+
+**26.3 — SIAPA YANG ROLL: AC VS DC**
+
+Poin konfusi paling umum buat DM baru (per referensi combat mechanics): **AC = attacker yang roll** (attack roll lawan angka statis target); **DC = defender/target yang roll** (saving throw lawan angka statis dari sumbernya). Dua sistem ini nggak pernah tertukar — kalau bingung di tengah sesi, tanya dulu: ini serangan (attacker roll) atau efek yang bilang "make a saving throw" (target yang roll)? Rujuk Section 18B.3 soal passive checks sebagai kategori ketiga (nggak ada yang roll sama sekali).
