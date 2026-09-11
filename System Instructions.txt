@@ -1367,3 +1367,112 @@ Poin konfusi paling umum buat DM baru (per referensi combat mechanics): **AC = a
 Troll muncul di **lima chapter berbeda** sepanjang kampanye ini (Ch.8 random encounter, dua troll patroli + Trepsin di Ch.10, ice troll di Ch.12, tiga troll di Ruang Sumur Ch.13) dan nggak satupun ditandai dengan pengingat soal Regeneration — ini gotcha RAW paling klasik yang bikin new DM lupa (troll sembuh 10 HP tiap awal giliran, immune sampai kena damage acid atau fire di ronde itu). Lupa terapkan ini bikin fight jadi trivial; salah terapkan (misal lupa reset immunity-nya kalau nggak kena fire/acid ronde itu) bikin troll berasa unkillable dan macetin combat.
 
 **Aturan tetap:** kalau party nggak punya akses damage fire/acid (spell, weapon coating, torch improvisasi), troll ini seharusnya lebih ke ancaman-yang-harus-dihindari-atau-diusir daripada musuh-yang-harus-dibunuh-habis — sama seperti Arauthator di Ch.12 yang boleh diusir bukan dibunuh. Jangan malu nawarin jalan keluar naratif (troll mundur kalau kalah telak secara HP walau regen, dst.) kalau party kelamaan macet.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+27. BLANK NARATIF — WORLDBUILDING YANG DITULIS PLAYER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Section 1-26 semuanya ditulis DM: NPC, plot, konsekuensi, dialog — semua udah di-author sebelum party duduk di meja. Itu kekuatan dokumen ini, tapi juga batasnya: nggak ada ruang buat detail yang lahir dari player sendiri. Field guide (DM Resources) nyebut ini "lazy worldbuilding" — biarin blank, biarin player isi — sebagai salah satu teknik dengan rasio effort-ke-investment tertinggi. Section ini nutup itu.
+
+**Cara kerja:** di titik-titik tertentu (bukan sembarang waktu — momen tenang, bukan tengah combat atau tengah dilema), DM tanya pertanyaan terbuka ke SATU pemain, spesifik ke karakternya, yang jawabannya jadi kanon. DM nggak nolak jawaban apapun (selama nggak kontradiksi sama fakta yang udah established) — dan WAJIB manggil balik detail itu minimal sekali di chapter berikutnya, biar player ngerasa detailnya beneran nempel di dunia, bukan cuma basa-basi sekali pakai.
+
+**Kenapa ini beda dari Emotional Memory Log (Section 20):** Emotional Memory Log nyimpen detail sensorik yang DM tulis dari momen yang DM authored. Blank Naratif kebalikannya — DM sengaja NGGAK nulis detailnya, dan nunggu player yang isi. Dua-duanya dipanggil balik nanti, tapi sumbernya beda: satu dari DM, satu dari player.
+
+**Contoh pertanyaan (adaptasi sesuai konteks chapter, jangan dibaca literal):**
+- "Sebelum kamu naik kapal ini, ada satu orang yang kamu pamitin diam-diam, tanpa bilang ke siapapun. Siapa itu?"
+- "Kota kecil ini ngingetin kamu sama suatu tempat. Tempat apa, dan kenapa?"
+- "Ada satu benda kecil yang kamu selalu bawa, yang orang lain di party belum pernah nanya soal itu. Apa itu?"
+- "Sebelum semua ini, apa satu hal yang kamu janjiin ke diri sendiri buat dilakuin kalau kamu selamat?"
+
+**LOG BLANK NARATIF — dipakai sama seperti Emotional Memory Log:**
+
+Pilar    | Blank yang Ditanya | Jawaban Player | Chapter Asal | Target Callback | Status
+Cleric   | — | — | — | — | Belum
+Fighter  | — | — | — | — | Belum
+Wizard   | — | — | — | — | Belum
+Rogue    | — | — | — | — | Belum
+Paladin  | — | — | — | — | Belum
+
+**Titik-titik yang udah ditandai di chapter files** (rujuk masing-masing chapter untuk pertanyaan spesifik): Prolog, Ch.1 (Dragon's Rest), Ch.3 (Cursed Shipwreck, malam Long Rest), Ch.8 (On the Road), Ch.17 (epilog).
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+28. DOWNTIME — MENU AKTIVITAS DI ANTARA ARC
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Kampanye ini padat plot — satu benang belum selesai, benang berikutnya udah nunggu. Itu bagus buat momentum, tapi nggak nyisain ruang buat aktivitas yang murni milik karakter: nge-craft, mabuk-mabukan, ngerjain personal project, atau sekadar istirahat yang lebih dari sekadar Long Rest mekanis. Section ini nyediain menu opsional — DIPAKAI CUMA DI TITIK YANG UDAH DITANDAI (rujuk daftar di bawah), bukan disisipin sembarangan di tengah arc yang lagi jalan.
+
+**Kapan downtime tersedia:** akhir Ch.4 (arc Stormwreck selesai, sebelum berangkat ke Greenest), akhir Ch.10 (akhir Hoard of the Dragon Queen — chapter file-nya sendiri udah eksplisit bilang "beri jeda naratif nyata... istirahat sesi kalau perlu"), dan sebelum Ch.17 (persiapan terakhir sebelum Well of Dragons). Tiga titik ini, bukan lebih — downtime yang kebanyakan bikin plot kehilangan momentum yang udah susah payah dibangun.
+
+**Durasi:** DM tentuin bebas (beberapa hari sampai beberapa minggu, tergantung real-world time yang mau dialokasikan) — nggak perlu presisi hari kayak downtime rules resmi DMG, cukup cukup lama buat 1-2 aktivitas per karakter.
+
+**MENU AKTIVITAS (pilih sesuai karakter, nggak wajib semua dipakai):**
+
+Aktivitas          | Cara Kerja
+Carousing           | Karakter turun ke kedai/pasar/lingkaran sosial lokal. DM roll atau pilih: satu rumor berguna (bisa dari Section 29 kalau dipakai), plus satu komplikasi kecil (utang, musuh baru level rendah, reputasi yang nyebar salah arah). Nggak ada XP — hadiahnya cerita, bukan mekanik.
+Crafting / Commission | Karakter pakai gold dan waktu buat bikin atau mesen item — rujuk preseden yang udah ada di kampanye ini (Tarak bikin Potion of Resistance buat party di Ch.3/4 kalau dikasih kristal). NPC artisan lokal (atau NPC Anchor kalau relevan) bisa jadi vendor personal, bukan generik.
+Faction Business     | Karakter secara aktif kerja buat satu faksi (rujuk Faction Scorecard, Ch.11) — hasilnya pergeseran sikap faksi itu yang nyata, dicatat di Faction Fracture Seeds chapter berikutnya, bukan cuma flavor.
+Personal Quest       | Satu scene kecil, terpisah dari plot utama, yang murni ngejar sesuatu dari Internal Contradiction karakter (Section 3). Ini kandidat kuat buat Inspiration (Section 25.2) kalau resolusinya costly atau berarti.
+Training             | Karakter belajar sesuatu dari NPC (skill, bahasa, tool proficiency) — dibayar lewat waktu dan koneksi personal, bukan cuma gold. Kesempatan bagus buat NPC Anchor atau NPC Minor yang belum dapet momen.
+
+**Aturan penting:** downtime BUKAN kewajiban tiap karakter dapet giliran sama rata di titik yang sama — kalau satu pemain nggak punya ide, biarkan aja, jangan dipaksa. Tapi kalau ada pilar yang udah lama nggak dapet spotlight (rujuk Spotlight Distribution Log, Section 4), downtime adalah momen paling murah buat DM nutupnya — biaya real-world time-nya kecil, dampaknya personal.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+29. TABEL FLAVOR ACAK — TEKSTUR BUAT PERJALANAN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Chapter dengan perjalanan panjang (Ch.6, Ch.8, Ch.12, Ch.13) udah punya encounter table mekanis (monster, bahaya), tapi nggak ada tabel buat TEKSTUR murni — hal-hal yang nggak perlu roll dadu atau bikin combat, cuma bikin dunia kerasa hidup dan ganti-ganti tiap playthrough tanpa DM harus ngarang dari nol tiap kali. Tabel ini generik, bisa dipakai di chapter perjalanan manapun — DM pilih yang paling cocok sama tier tone-nya (rujuk Section 1: TONE PER ARC), jangan roll otomatis kalau hasilnya nggak pas.
+
+**TABEL RUMOR JALAN (d8)** — satu obrolan singkat dari sesama musafir, pedagang, atau penduduk lokal. Spoiler Lock (Section 10) tetap berlaku — rumor boleh gelisah, nggak boleh nyebut nama terlarang.
+
+d8 | Rumor
+1  | "Ada desa yang penduduknya pindah semalam, tinggalin api masih nyala di perapian. Nggak ada tanda perampokan. Cuma... kosong."
+2  | "Katanya ada yang liat cahaya aneh di langit malam, ke arah pegunungan. Tiga malam berturut-turut, arah yang sama."
+3  | "Harga garam naik dua kali lipat bulan ini. Pedagang bilang jalur dagang biasa 'lagi nggak aman' — nggak mau jelasin lebih."
+4  | "Seorang pengembara cerita dia liat karavan lewat malam-malam, nggak berhenti di penginapan manapun, kusirnya nggak pernah nunjukin wajah."
+5  | "Ada yang bilang sumur di kota sebelah airnya jadi asin tiba-tiba. Pendeta lokal udah didatengin buat 'urus' itu, tapi belum ada kabar."
+6  | "Katanya ada pahlawan baru muncul di [nama kota terdekat yang party udah kenal] — cerita soal mereka udah dilebih-lebihkan tiga kali lipat dari kejadian aslinya."
+7  | "Seorang veteran perang cerita dia denger suara di angin malam yang dia kenali dari medan perang lama — bukan suara manusia."
+8  | "Ada yang nawarin beli peta lama, murah, katanya 'menuju sesuatu yang lebih besar dari harta.' Dia buru-buru pergi begitu ditanya lebih jauh."
+
+**TABEL PERTANDA (d6)** — satu detail lingkungan kecil, sejalan sama gaya Environmental Feedback di Section 6 (Draconic Spark) — nggak perlu dijelaskan, biarkan menggantung.
+
+d6 | Pertanda
+1  | Kawanan burung berbalik arah serentak di tengah terbang, tanpa alasan yang keliatan.
+2  | Bau logam tipis di udara, sebentar, lalu hilang — nggak ada sumbernya.
+3  | Anjing atau kuda di dekat situ menolak lewat satu titik jalan tertentu, tanpa alasan jelas.
+4  | Awan bergerak ke arah yang berlawanan dari angin yang kerasa di tanah.
+5  | Seseorang di kejauhan berhenti jalan, menatap ke arah party sebentar terlalu lama, lalu lanjut jalan seperti biasa.
+6  | Keheningan yang terasa salah — burung berhenti, angin berhenti, sedetik — lalu normal lagi.
+
+**TABEL NPC SEKILAS (d10)** — satu ciri buat NPC latar (penduduk, sesama musafir, pedagang) yang party temuin sebentar dan mungkin nggak pernah ketemu lagi. Rujuk NPC Depth Scale (Section 9) — ini NPC Minor, SATU sifat, titik.
+
+d10 | Ciri
+1   | Terus-terusan ngitung sesuatu di jarinya sambil ngomong, kehilangan hitungan, mulai dari awal lagi.
+2   | Punya cara bicara yang terlalu formal buat situasinya — kayak pernah dilatih buat ngomong ke orang penting.
+3   | Bawa binatang peliharaan kecil yang dia ajak ngomong lebih sering daripada ke orang.
+4   | Selalu ngeliat ke pintu/jalan keluar duluan sebelum jawab pertanyaan apapun.
+5   | Ketawa di waktu yang salah, kelihatan nggak sadar dia lakuin itu.
+6   | Nawarin barang dagangan yang jelas bukan spesialisasinya, seolah dia lagi jual sesuatu buat orang lain.
+7   | Ngomong tentang cuaca dengan detail berlebihan, jelas ngindarin topik lain.
+8   | Punya luka lama yang dia sentuh tanpa sadar tiap kali gugup.
+9   | Terlalu ramah buat orang asing — dan nggak nyadar kalau itu bikin orang curiga.
+10  | Diam total sampai ditanya langsung, lalu ngomong nonstop tanpa jeda.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+30. REGISTRY PERCABANGAN NYATA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Section 5 (Player Agency) nyatain prinsipnya: hasil nggak pernah ditetapkan sebelumnya. Tapi di praktiknya, sebagian besar pilihan di 18 chapter ini konvergen balik ke set-piece yang sama — beda rasa, sama struktur (ngomong atau berantem, sama NPC, sama hasil akhir). Itu bukan salah — banyak momen emang dirancang begitu (Guest Right Dilemma, CROWN-7 Dilemma, dst. tujuannya bobot emosional, bukan percabangan mekanis). Tapi ada segelintir titik di mana pilihan party BENERAN mengubah bentuk encounter berikutnya, bukan cuma warnanya. Ini daftarnya — dipakai buat DM cek cepat, bukan checklist yang harus dipenuhi:
+
+Chapter | Percabangan | Yang Berubah Secara Struktural
+Ch.9 (Castle Naerytar) | Bujuk Pharblex berkhianat sebelum pertarungan (rujuk II.1) | Bullywug nyerang balik dari belakang alih-alih bantu Borngray — fight jadi jauh lebih mudah, dan Pharblex jadi kontak rawa jangka panjang
+Ch.12 (Sea of Moving Ice) | Bunuh vs usir Arauthator | Ice Hunters tetap bebas di dua-duanya (rujuk chapter itu sendiri), tapi cara Arauthator "selesai" beda — usir nyisain dia buat muncul lagi someday, bunuh nutup benang itu permanen
+Ch.13 (Death to the Wyrmspeakers) | Skip Varram sama sekali (rujuk catatan di awal chapter) | Varram hilang permanen tanpa intel atau tawanan, rasa hormat faksi di Council lebih rendah dari jalur default
+
+Kalau DM nemuin titik lain yang cocok buat percabangan nyata di sesi mendatang (bukan cuma yang udah tercatat di sini), tambahin ke tabel ini — registry ini idealnya tumbuh seiring campaign dimainkan, bukan daftar statis.
+
+**Aturan penting:** MAKSIMAL satu blank per pemain per titik yang ditandai — jangan tanya semua lima pilar sekaligus di satu momen, itu jadi interogasi bukan momen intim. Gilir pilar mana yang dapet giliran, dan rujuk Spotlight Distribution Log (Section 4) buat mutusin siapa yang paling butuh momen ini.

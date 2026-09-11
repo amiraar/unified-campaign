@@ -65,6 +65,8 @@ Jejak penjarah gampang diikuti — rerumputan Greenfields yang terinjak lebar me
 
 Jejak mengarah dua belas mil ke selatan, ke wilayah yang lebih kasar — plato berbatu curam menggantikan bukit-bukit landai.
 
+*Catatan DM: Kalau perjalanan ini butuh tekstur ekstra, rujuk Tabel Flavor Acak (System Instructions Section 29) — Pertanda cocok banget buat perjalanan tegang macam ini.*
+
 ---
 
 ## II.2 — ENCOUNTER PERTAMA: PARA TERTINGGAL

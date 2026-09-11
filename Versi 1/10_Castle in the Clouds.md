@@ -194,6 +194,8 @@ Kehancuran atau perebutan Skyreach Castle menandai akhir babak pertama epik ini.
 
 > *Catatan DM — TRANSISI BABAK:* Ini adalah akhir dari **Hoard of the Dragon Queen**. Babak berikutnya, **Rise of Tiamat**, dimulai dengan panggilan ke Waterdeep — kota terbesar di Sword Coast, tempat Harper, Order of the Gauntlet, Lords' Alliance, dan bahkan Zhentarim akan dipaksa duduk di meja yang sama. Beri jeda naratif nyata di sini sebelum melanjutkan — istirahat sesi kalau perlu. Skala berikutnya butuh napas dulu sebelum mendaki lagi.
 
+> *Catatan DM — DOWNTIME:* Ini titik downtime kedua dari tiga di seluruh kampanye (rujuk System Instructions Section 28). Sebelum party masuk ke skala Rise of Tiamat, ini kesempatan terakhir buat aktivitas personal dengan taruhan rendah — sesudah ini, hampir semuanya politik faksi besar.
+
 ---
 
 ## CATATAN DM — EMOTIONAL MEMORY LOG (Pondok Berburu & Istana di Awan)

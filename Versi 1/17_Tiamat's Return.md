@@ -206,6 +206,8 @@ Kalau sebaliknya — Sella tidak terselamatkan, atau Cleric memilih jalan yang l
 
 > *Catatan DM:* Panggil kembali sup ikan Runara yang terlalu asin dari Dragon's Rest — kalau Cleric pernah merawat korban perang dengan cara yang sama sederhananya, biarkan echo itu muncul di sini, di tengah reruntuhan Well of Dragons.
 
+> *Catatan DM — BLANK NARATIF (Cleric, rujuk System Instructions Section 27):* Sebelum epilog ini ditutup, tanya satu pertanyaan terakhir: *"Sebelum meninggalkan reruntuhan Well of Dragons, ada satu hal kecil yang kamu ambil atau tinggalkan di sana yang nggak akan pernah kamu ceritain ke siapapun. Apa itu?"* Jawabannya jadi kanon — dan nggak perlu dipanggil balik lagi, ini penutup, bukan setup buat sesuatu berikutnya. Kalau DM lebih suka arahin blank terakhir ini ke pilar lain yang lebih quiet sepanjang campaign (rujuk Spotlight Distribution Log, Section 4), itu sah — pertanyaannya universal, cukup ganti subjeknya.
+
 ### FIGHTER — LORDS' ALLIANCE
 
 Ulder Ravengard, kalau kesan pertama di Council of Waterdeep bertahan lewat seluruh campaign, menawarkan Fighter posisi pemimpin militer permanen Lords' Alliance — bukan cuma karena kemampuan bertarung, tapi karena analisis taktis yang sudah terbukti berkali-kali.

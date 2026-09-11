@@ -663,6 +663,8 @@ Varnoth menemui salah satu pemain di perpustakaan malam itu, atau di tepi kuil.
 **Paladin:**
 > "Mimpi tentang seseorang yang kamu tinggal di Neverwinter — bukan tempatnya, bukan kotanya. Hanya cara orang itu menatapmu saat kamu pergi. Ekspresi yang tidak marah dan tidak sedih. Hanya... mencatat. Seperti mengatakan: 'Ini siapa kamu sekarang, dan aku akan ingat itu.' Kamu bangun dan cukup lama hanya duduk dalam gelap sebelum bergerak."
 
+> *Catatan DM — BLANK NARATIF (Paladin, rujuk System Instructions Section 27):* Orang di mimpi ini sengaja nggak pernah dikasih nama atau wajah spesifik di dokumen manapun. Setelah mimpinya dibacakan, tanya langsung: *"Satu kalimat terakhir yang orang itu bilang ke kamu sebelum kamu pergi — apa itu?"* Jawabannya jadi kanon. Catat di Log Blank Naratif (Section 27), dan panggil balik minimal sekali di Council of Waterdeep (Ch.11) — saat Paladin harus milih sikap publik di depan faksi-faksi besar, biarkan kalimat itu muncul lagi di kepalanya.
+
 ---
 
 *Pagi. Sarapan singkat. Dragon's Rest masih sama. Tapi kalian pergi ke tempat berbeda hari ini.*

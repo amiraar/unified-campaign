@@ -131,3 +131,5 @@ Kalau misi berhasil, Nyh Ilmichh dan sekelompok Red Wizards Thay loyalis akan ha
 
 *— End of Chapter 16: Misi ke Thay —*
 *Empat wyrmspeaker tumbang, kabur, atau dikhianati sekutu mereka sendiri. Well of Dragons menunggu.*
+
+*Catatan DM: Titik downtime ketiga dan terakhir (rujuk System Instructions Section 28) — kesempatan terakhir sebelum Ch.17, yang JANGAN dijalankan kecuali seluruh chapter sebelumnya sudah selesai (rujuk peringatan wajib di awal Ch.17). Kalau ada Personal Quest atau Faction Business yang belum kelar buat pilar manapun, ini saat terakhir buat nutupnya sebelum semuanya jadi taruhan akhir campaign.*

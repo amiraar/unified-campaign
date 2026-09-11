@@ -152,6 +152,10 @@ Beberapa hari perjalanan awal membawa karavan ke **Fields of the Dead** — data
 
 *DM: Ini menu, bukan checklist. Pilih 3-5 yang paling melayani karakter di meja, sebarkan sepanjang 40 hari perjalanan. Rujuk System Instructions untuk gaya — tiap event harus punya rasa spesifik, bukan generik.*
 
+> *Catatan DM — BLANK NARATIF (Rogue, rujuk System Instructions Section 27):* Dua bulan di jalan itu waktu yang lama. Di salah satu malam yang tenang, tanya Rogue: *"Selama dua bulan ini, ada satu kontak lama yang kamu sengaja hindarin — nggak mau dia tau kamu masih hidup, atau masih di jalur yang sama. Siapa itu?"* Jawabannya jadi kanon. Catat di Log Blank Naratif (Section 27), dan panggil balik minimal sekali di Council of Waterdeep (Ch.11) atau lebih jauh — kontak ini bisa muncul lagi kapanpun DM butuh benang baru buat Rogue.
+
+*Catatan DM: Chapter ini 40 hari perjalanan — kandidat terkuat di seluruh kampanye buat Tabel Flavor Acak (Section 29). Selipin rumor jalan atau NPC sekilas di antara Event di Jalan yang dipilih, biar perjalanan panjang ini kerasa penuh tanpa DM harus authoring semuanya dari nol.*
+
 **Recognized! (Dikenali):** Setiap karakter melempar Charisma check di hari pertama (jangan beri tahu untuk apa). Karakter dengan hasil terendah dikenali oleh salah satu kusir kultis dari waktu di kamp penjarah. **DC 15 Insight** untuk sadar sedang diawasi. Kalau dibiarkan, kultis mencoba membunuh diam-diam — kecelakaan roda lepas, kuda kabur, atau serangan di malam hari.
 
 **Payback (Balas Budi):** Karavan menemukan seorang pria terkubur sampai leher di tengah jalan, kata "Oathbreaker" (Pengkhianat Sumpah) dilukis di dahinya. Dia **Carlon Amoffel**, mata-mata Harper — dituduh berkhianat oleh kultus setelah tertangkap basah menyampaikan informasi. Kalau digali dan diselamatkan (2+ jam kerja), dia berterima kasih dan menawarkan kontak Harper di Waterdeep untuk nanti.

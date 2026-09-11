@@ -884,3 +884,5 @@ Saat Runara menyebutkan Beregost, Elturel, dan Greenest, DM harus menyadari bahw
 
 *— End of Chapter 4: Clifftop Observatory —*
 *Arc Stormwreck Isle selesai. Level 3. Greenest menunggu.*
+
+*Catatan DM: Ini salah satu dari tiga titik downtime di seluruh kampanye — rujuk System Instructions Section 28. Sebelum berangkat ke Greenest, tawarin party waktu di Dragon's Rest buat carousing, crafting, atau personal quest kalau ada yang mau.*

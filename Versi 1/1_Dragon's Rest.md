@@ -439,6 +439,8 @@ Setelah quest lines disebutkan, Runara berbicara ke tiap karakter secara terpisa
 
 *Dia menghilang di tikungan. Tidak menunggu respons.*
 
+> *Catatan DM — BLANK NARATIF (Wizard, rujuk System Instructions Section 27):* Momen tenang di perpustakaan A4 ini pas buat satu pertanyaan tambahan: *"Sebelum rekan akademismu meninggal, ada satu perdebatan kecil antara kalian yang belum selesai — nggak harus serius, bisa becanda. Perdebatan soal apa?"* Jawabannya jadi kanon. Catat di Log Blank Naratif (Section 27), dan panggil balik minimal sekali saat Wizard nemuin tulisan tangan rekannya lagi di Ch.4 (D4) — biar detail itu berat, bukan cuma trivia.
+
 ---
 
 **KE ROGUE** — *saat Rogue sedang menjelajah area sendiri:*
