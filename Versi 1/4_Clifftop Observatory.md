@@ -491,6 +491,8 @@ Combat dimulai.
 
 *Sparkrender menggunakan Breath Weapon di ronde pertama dan setiap kali available. Catat karakter dengan Passive Perception tertinggi — DM gunakan karakter itu sebagai "kamera" untuk deskripsi Legendary-level actions.*
 
+*Catatan DM: Fight ini (dan Ritual Encounter di Bagian IX) paling padat campuran attack roll/saving throw di seluruh kampanye — claw attack (attack roll, Sparkrender yang roll lawan AC party), Breath Weapon (saving throw, party yang roll lawan DC 12), dan Dragon Spirit Table di ritual (saving throw lagi). Rujuk System Instructions Section 26.3 kalau ketuker siapa yang roll di tengah fight.*
+
 **Ronde 1:**
 > *(Sparkrender menarik napas — karakter Passive Perception tertinggi melihat tenggorokannya mulai bercahaya biru)* "Kalian memaksa ini sendiri!" *(Breath Weapon — Lightning Breath, DC 12 Dex, 4d8 lightning dalam garis 30 kaki)*
 

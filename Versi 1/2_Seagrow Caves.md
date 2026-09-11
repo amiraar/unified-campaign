@@ -383,6 +383,8 @@ Begitu Enok selesai menyampaikan Rapport Spore soal kristal yang tersumbat, dia 
 
 *(DC 11 Constitution save, atau setengah damage poison)*
 
+*Catatan DM: Fight ini nyampur attack roll biasa (lawan AC fume drake) dengan saving throw di Death Burst (party yang roll, lawan DC 11) — rujuk System Instructions Section 26.3 kalau ketuker siapa yang roll.*
+
 ---
 
 ### KRISTAL ORANYE — MENGAKHIRI MASALAH

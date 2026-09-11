@@ -382,6 +382,8 @@ Ini adalah trigger untuk internal contradiction mereka. Diam dan biarkan pemain 
 
 *DC 11 Wisdom saving throw terhadap Luring Song harpy — yang gagal menjadi charmed.*
 
+*Catatan DM: Fight ini nyampur saving throw di Luring Song (party yang roll, lawan DC 11) dengan attack roll begitu combat jarak dekat mulai (harpy yang roll, lawan AC party) — rujuk System Instructions Section 26.3 kalau ketuker siapa yang roll.*
+
 *Harpy mendarat di crow's nest. Suaranya penuh dengan kemenangan yang sudah terbiasa.*
 
 ---

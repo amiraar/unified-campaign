@@ -41,6 +41,8 @@ Kompleks kuno ini dibangun mengelilingi **kolam ramalan** milik penyihir Dideriu
 
 **Ruang Sumur:** kemah depan mantan rombongan Varram — tiga troll dari sumur di bawah (terhubung ke air mancur di plaza luar) menyerang kalau party beristirahat di sini.
 
+*Catatan DM: Tiga troll ini punya Regeneration — rujuk System Instructions Section 26.4 sebelum fight ini jalan.*
+
 **Ruang Tahta:** golem tanah liat yang meminta persembahan — siapapun yang meletakkan sesuatu lebih berharga dari cangkir tanah liat boleh lewat.
 
 **Perpustakaan — ILDA:**
@@ -58,6 +60,8 @@ Kompleks kuno ini dibangun mengelilingi **kolam ramalan** milik penyihir Dideriu
 Ilda, kalau dipercaya, mengungkap: yuan-ti menghuni bagian terdalam kompleks; kolam ramalan bisa menembus banyak perlindungan sihir, tapi butuh pengorbanan pribadi dan pertanyaannya harus spesifik soal dunia fisik — melihat tanpa persembahan sangat berbahaya, dan harga kolam sudah jadi jauh lebih kejam sejak yuan-ti mengambil alih.
 
 **Ruang Harta (bekas kamar Diderius):** dijaga tiga wraith + tiga specter — bangkit lagi 24 jam setelah dihancurkan (kecuali specter, yang permanen). Buku yang hilang, *Transubstantiality across Potentialities*, ditemukan terselip di antara tempat tidur dan dinding — kembalikan ke Ilda untuk membebaskannya.
+
+*Catatan DM: Wraith dan specter resisten ke sebagian besar damage fisik nonmagis dan immune ke necrotic/poison — rujuk System Instructions Section 26.2, sinyalkan itu lewat deskripsi begitu party mukul dan hasilnya kerasa aneh dangkal, jangan biarkan mereka nebak sendiri kenapa serangan biasa nggak mempan.*
 
 **Kolam Ramalan:** kosong — Varram baru saja selesai memakainya ketika yuan-ti menyerang dan menculiknya. Mengisinya kembali (lewat sluice dari Ruang Sumur, atau air suci) memicu cahaya hitam — siapapun yang menatap tanpa peringatan kena suggestion dipaksa menatap (DC 20 Wis save), berujung gila sementara.
 
