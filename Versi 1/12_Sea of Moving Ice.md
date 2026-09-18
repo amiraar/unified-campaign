@@ -85,6 +85,8 @@ Sarang naga ini adalah gua besar tunggal penuh pilar es, jurang, dan jebakan (Gu
 
 Kalau pertarungan terjadi, raungan Arauthator memanggil ice troll dari gua di atas (tiba 5 ronde kemudian). Kalau Arauthator turun ke 100 HP atau kurang dan menghadapi 3+ musuh, dia menyelam ke terowongan bawah air dan kabur ke lautan.
 
+*Catatan DM: Naga dewasa penuh, kandidat kuat buat Narasi Pertahanan (Section 31.1) kalau serangan besarnya (bite/claw/tail atau breath weapon) meleset dari satu karakter. Gunakan trigger di Section 31.1 (maksimal sekali per ronde), jangan tiap giliran Arauthator.*
+
 **Kalau Arauthator terbunuh:** ice toad berduka tapi tidak menyerang. Kobold menyerang dengan putus asa dan bunuh diri. Ice Hunters bersorak gembira — mereka langsung berkemas pergi mencari rumah baru, bebas dari perbudakan generasi.
 
 **Kalau Arauthator kabur:** Maccath/Marfulb memperkirakan dia butuh berbulan-bulan pulih di sarang lain. Ice Hunters percaya ini cukup waktu untuk menghilang ke luasnya lautan es dan mencari rumah baru yang tidak bisa dilacak si naga.

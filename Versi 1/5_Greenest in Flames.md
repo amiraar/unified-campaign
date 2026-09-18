@@ -349,6 +349,8 @@ Cyanwrath (rujuk Appendix D Tyranny untuk statblok) adalah lawan yang kuat untuk
 
 Kalau Cyanwrath kalah, kobold-nya segera melindungi tubuhnya dan membawanya pergi — dia akan pulih dan muncul lagi nanti di campaign (Dragon Hatchery, Ch.7).
 
+*Catatan DM: Ini duel satu-lawan-satu — kandidat kuat buat Narasi Pertahanan (Section 31.1) kalau serangan besar Cyanwrath meleset. Maksimal sekali di duel ini, bukan tiap ronde.*
+
 **Villain Sympathy Checkpoint (Section 19) sudah terpenuhi lewat momen doa — tidak perlu tambahan.**
 
 *Catatan DM: Kalau Fighter menerima tawaran doa Cyanwrath — pilihan manusiawi di atas taktik — ini kandidat Inspiration (Section 25.2), tapi catat SETELAH duel selesai, bukan di momen itu sendiri. Section 3 udah eksplisit: jangan beri hint mekanis apapun saat momen doa berlangsung — perbedaannya harus murni karakter di saat itu terjadi.*

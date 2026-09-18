@@ -1497,6 +1497,8 @@ Cara tanya: "Itu panah ketiga yang meleset dari kamu — kayak apa itu keliatann
 
 Batasan penting (metagaming): JANGAN narasi presisi soal seberapa jauh miss-nya dari AC exact (rujuk Section 26.3, distingsi AC vs DC) — itu bikin player bisa reverse-engineer angka AC musuh atau statistik combat yang seharusnya nggak transparan. Deskripsi tetap di level sensorik ("nyaris", "ketawa aja liatnya", "kena tapi nggak nembus"), bukan di level angka.
 
+**Titik yang udah ditandai di chapter files** — sama seperti Killing Blow dan Failing Forward, teknik ini pada dasarnya berlaku diam-diam di combat manapun tanpa perlu dipanggil per-chapter. TAPI trigger "serangan besar boss/NPC bernama yang meleset" itu bounded ke encounter tertentu, mirip Villain Sympathy Checkpoint (Section 19) — jadi tiga duel/boss-fight paling ikonik dapet Catatan DM eksplisit: Ch.5 (duel Cyanwrath), Ch.12 (Arauthator), Ch.17 (Sang Arsitek/Sang Ratu). Chapter lain nggak perlu ditandai — DM tetap boleh pakai teknik ini di boss fight manapun, ini cuma nunjuk yang paling jelas.
+
 31.2 — FLAVOR CASTING (Sensorik, Bukan Mekanis)
 
 Beda dari "Spell Impact" (Section 5) yang ngatur EFEK MEKANIS sihir ke arena (Fireball hancurkan kolom) — ini soal gimana sihir itu KELIATAN keluar dari tangan karakter yang nge-cast, murni sensorik, nggak ada efek mekanis tambahan. Dipakai di first cast satu spell signature per karakter, atau momen dramatis — BUKAN tiap kali cast (itu bakal ngelambatin combat kayak yang udah diperingatin di Section 23.3).
