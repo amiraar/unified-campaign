@@ -106,6 +106,8 @@ Sebelum pertarungan dimulai — saat party pertama mendapat pandangan jelas ke s
 
 *DM: Jangan beri dialog. Jangan beri narasi tambahan soal apa yang dia pikirkan. Biarkan gemetar itu jadi satu-satunya hal yang party lihat sebelum dia menyadari kehadiran mereka dan pertarungan dimulai.*
 
+*Catatan DM (Narasi Pertahanan, Section 31.1): Klimaks campaign — momen paling pas buat spotlight defensif. Kalau serangan besar Sang Arsitek atau Sang Ratu meleset (maksimal sekali per ronde, jangan tiap giliran musuh), tanya: "Ini klimaks, ini pukulan sebesar itu — dan meleset. Gimana kamu masih berdiri?" Buat Sang Ratu spesifik: "Cakar dewa naga itu nyaris ngenain kamu. Kamu ngerasa anginnya. Ceritain gimana kamu ngindar." Ini bukan momen buat pilihan menu — biarin player yang paling nyaman improvisasi dapet giliran ini.*
+
 ---
 
 ## II.2 — KONFRONTASI RATH MODAR — PENUTUP ARC WIZARD
@@ -242,7 +244,7 @@ Guest Right Dilemma di Raider's Camp adalah titik pertama Paladin belajar tidak 
 
 Kalau sebaliknya — sumpahnya patah di titik manapun, entah di Guest Right Dilemma atau tekanan-tekanan setelahnya — epilog ini bukan tentang pemulihan penuh. Ini tentang keputusan untuk bersumpah ulang, dari nol, dengan tahu persis seberapa mahal harga melanggarnya. Tidak ada NPC yang datang menawarkan pengampunan mudah di sini; ini murni antara Paladin dan sumpah yang dia pilih ucapkan lagi.
 
-> *Catatan DM:* Panggil kembali Nighthill — NPC Personal Anchor Paladin sejak Greenest (Section 3), satu-satunya pemimpin yang pernah minta sesuatu yang tidak bisa dia minta ke bawahannya sendiri. Kalau dia masih hidup, presence-nya di sini — lewat surat singkat dari Greenest, atau kabar yang dibawa utusan — harus terasa lebih bermakna dari kemenangan hari ini; satu baris pendek yang menggantung khas dia (rujuk Voice Bible-nya di Section 22) sudah cukup. Kalau dia gugur di titik manapun sepanjang campaign, itu adalah Tragic Trigger level personal Paladin — beri satu momen sunyi untuknya di sini juga, jangan lewati dalam diam.
+> *Catatan DM:* Panggil kembali Nighthill — NPC Personal Anchor Paladin sejak Greenest (Section 3), satu-satunya pemimpin yang pernah minta sesuatu yang tidak bisa dia minta ke bawahannya sendiri. Kalau dia masih hidup, presence-nya di sini — lewat surat singkat dari Greenest, atau kabar yang dibawa utusan — harus terasa lebih bermakna dari kemenangan hari ini. Voice Bible-nya (Section 22, Absolute Authority/terdesak) selalu kalimat terpotong, membingkai permintaan tolong sebagai perintah — satu baris khas dia sudah cukup, contoh: *"Kalian menang."* (beat) *"Bagus. Berarti ada sesuatu yang masih bisa menang."* Kalau dia gugur di titik manapun sepanjang campaign, itu adalah Tragic Trigger level personal Paladin — beri satu momen sunyi untuknya di sini juga, jangan lewati dalam diam.
 >
 > Panggil juga Corwin, tawanan yang membagi roti kerasnya di Raider's Camp — kalau nasibnya diketahui, sebutkan sekali lagi di sini, sebagai penutup yang tenang. Dan kalau DM sempat memakai Shadow Line Escobert dari Greenest ("Saya sudah terlalu lama di sini untuk terkejut"), satu penyebutan singkat bahwa dia masih di sana, masih menjaga benteng, sudah cukup untuk membayarnya.
 

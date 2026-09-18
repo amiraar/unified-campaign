@@ -27,7 +27,7 @@ Party dilengkapi perlengkapan cuaca dingin dan pelayaran ke utara dengan kapal *
 
 Perjalanan lewat lautan es memakan waktu — random encounter (giant octopus, merrow, polar bear, scrag, Ice Hunters) mewarnai perjalanan sampai **Oyaviggaton** — gunung es raksasa milik naga putih **Arauthator**, dijuluki "Kematian Putih Tua" — ditemukan.
 
-*Catatan DM: Di antara random encounter, rujuk Tabel Flavor Acak (System Instructions Section 29) — Pertanda khususnya cocok buat perjalanan sunyi macam ini, dan awak Frostskimmr sendiri bisa jadi sumber Rumor Jalan.*
+*Catatan DM (Tabel Flavor Acak, Section 29): Di antara random encounter, satu Pertanda cocok buat perjalanan sunyi macam ini — contoh: "Kawanan burung berbalik arah serentak di tengah terbang, tanpa alasan yang keliatan" atau "Awan bergerak ke arah yang berlawanan dari angin yang kerasa di tanah." Awak Frostskimmr sendiri bisa jadi sumber Rumor Jalan — contoh: "Ada yang bilang sumur di kota sebelah airnya jadi asin tiba-tiba. Pendeta lokal udah didatengin buat 'urus' itu, tapi belum ada kabar."*
 
 ---
 
@@ -84,6 +84,8 @@ Sarang naga ini adalah gua besar tunggal penuh pilar es, jurang, dan jebakan (Gu
 > "Raungan yang menggetarkan seluruh gunung es menyambut kalian sebelum kalian melihat wujudnya. Lalu, dari kabut yang bergulir, sesosok putih raksasa muncul — sisik seperti es yang tak pernah mencair, mata yang menilai kalian bukan sebagai ancaman, tapi sebagai gangguan pada sesuatu yang jauh lebih besar dari kalian."
 
 Kalau pertarungan terjadi, raungan Arauthator memanggil ice troll dari gua di atas (tiba 5 ronde kemudian). Kalau Arauthator turun ke 100 HP atau kurang dan menghadapi 3+ musuh, dia menyelam ke terowongan bawah air dan kabur ke lautan.
+
+*Catatan DM (Narasi Pertahanan, Section 31.1): Kalau bite/claw/tail atau breath weapon Arauthator meleset dari satu karakter — maksimal sekali per ronde, jangan tiap giliran — tanya: "Rahang sebesar itu, dan meleset. Kamu ngerasain anginnya lewat — gimana kamu ngindarin?" atau "Napas esnya nyaris kena kamu — kayak apa itu keliatannya waktu kamu ngelak?" Player yang ragu boleh dikasih pilihan sederhana (mengelak, berlindung di balik pilar es, atau perisai yang nahan sebagian).*
 
 **Kalau Arauthator terbunuh:** ice toad berduka tapi tidak menyerang. Kobold menyerang dengan putus asa dan bunuh diri. Ice Hunters bersorak gembira — mereka langsung berkemas pergi mencari rumah baru, bebas dari perbudakan generasi.
 

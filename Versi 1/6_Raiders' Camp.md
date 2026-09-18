@@ -65,7 +65,7 @@ Jejak penjarah gampang diikuti — rerumputan Greenfields yang terinjak lebar me
 
 Jejak mengarah dua belas mil ke selatan, ke wilayah yang lebih kasar — plato berbatu curam menggantikan bukit-bukit landai.
 
-*Catatan DM: Kalau perjalanan ini butuh tekstur ekstra, rujuk Tabel Flavor Acak (System Instructions Section 29) — Pertanda cocok banget buat perjalanan tegang macam ini.*
+*Catatan DM (Tabel Flavor Acak, Section 29): Kalau perjalanan ini butuh tekstur ekstra, satu Pertanda cocok buat suasana tegang macam ini — contoh: "Anjing atau kuda di dekat situ menolak lewat satu titik jalan tertentu, tanpa alasan jelas" atau "Keheningan yang terasa salah — burung berhenti, angin berhenti, sedetik — lalu normal lagi." Jangan dijelaskan, biarin menggantung.*
 
 ---
 

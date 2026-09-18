@@ -1396,6 +1396,8 @@ Paladin  | — | — | — | — | Belum
 
 **Titik-titik yang udah ditandai di chapter files** (rujuk masing-masing chapter untuk pertanyaan spesifik): Prolog, Ch.1 (Dragon's Rest), Ch.3 (Cursed Shipwreck, malam Long Rest), Ch.8 (On the Road), Ch.17 (epilog).
 
+**Aturan penting:** MAKSIMAL satu blank per pemain per titik yang ditandai — jangan tanya semua lima pilar sekaligus di satu momen, itu jadi interogasi bukan momen intim. Gilir pilar mana yang dapet giliran, dan rujuk Spotlight Distribution Log (Section 4) buat mutusin siapa yang paling butuh momen ini.
+
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 28. DOWNTIME — MENU AKTIVITAS DI ANTARA ARC
@@ -1475,4 +1477,36 @@ Ch.13 (Death to the Wyrmspeakers) | Skip Varram sama sekali (rujuk catatan di aw
 
 Kalau DM nemuin titik lain yang cocok buat percabangan nyata di sesi mendatang (bukan cuma yang udah tercatat di sini), tambahin ke tabel ini — registry ini idealnya tumbuh seiring campaign dimainkan, bukan daftar statis.
 
-**Aturan penting:** MAKSIMAL satu blank per pemain per titik yang ditandai — jangan tanya semua lima pilar sekaligus di satu momen, itu jadi interogasi bukan momen intim. Gilir pilar mana yang dapet giliran, dan rujuk Spotlight Distribution Log (Section 4) buat mutusin siapa yang paling butuh momen ini.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+31. EKSPRESI PLAYER DI COMBAT — NARASI SELAIN KILLING BLOW
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DM Resources punya satu laporan riset lagi ("Narrating the Miss") yang nge-audit teknik narasi combat di luar Killing Blow (Section 5, "Bagaimana kamu mau ngakhirin ini?"). Sebagian besar teknik di situ udah tercover: Killing Blow sendiri (Section 5), Failing Forward (Section 18B.1), Nat 20/Nat 1 Vignette Layering (Section 4), dan Legendary Action Routing (Section 4) buat momen cinematic boss. Section ini nutup TIGA celah yang genuinely belum ada — dan sengaja TIDAK ngadopsi satu rekomendasi dari laporan itu (HP-shifting demi kill yang memuaskan) karena itu langsung kontradiksi sama Section 17.7 (Konsekuensi Brutal, Tanpa Plot Armor) dan Section 23.4 (Transparansi Dadu) yang udah jadi prinsip inti dokumen ini — dadu dan HP musuh nggak boleh diam-diam diatur ulang demi drama, walau niatnya baik.
+
+31.1 — NARASI PERTAHANAN ("Gimana kamu ngindarin itu?")
+
+Kebalikan dari Killing Blow: bukan buat serangan yang KENA, tapi serangan yang MELESET. Dipakai buat ngasih spotlight ke karakter defensif (AC tinggi, tank build) yang class fantasy-nya justru "susah kena" — sesuatu yang biasanya nggak keliatan karena "nggak kena" itu defaultnya dead air.
+
+Trigger (JANGAN dipakai tiap miss — ini bakal langsung nabrak Combat Speed Protocol, Section 23.3):
+- Serangan ke-2 atau lebih yang meleset berturut-turut ke satu karakter yang sama.
+- Serangan besar dari boss/NPC bernama yang meleset (bukan mook/musuh minor).
+- Maksimal SATU kali per ronde, dan nggak wajib tiap ronde.
+
+Cara tanya: "Itu panah ketiga yang meleset dari kamu — kayak apa itu keliatannya?" atau "Pukulan sebesar itu, dan nomornya cuma 8 — perisaimu yang nyerap. Gimana caranya?" Player yang nggak nyaman improvisasi boleh dikasih menu pilihan (parry, sidestep, kena tapi zirah nyerap) alih-alih pertanyaan terbuka — rujuk gradasi kenyamanan pemain yang sama kayak Blank Naratif (Section 27).
+
+Batasan penting (metagaming): JANGAN narasi presisi soal seberapa jauh miss-nya dari AC exact (rujuk Section 26.3, distingsi AC vs DC) — itu bikin player bisa reverse-engineer angka AC musuh atau statistik combat yang seharusnya nggak transparan. Deskripsi tetap di level sensorik ("nyaris", "ketawa aja liatnya", "kena tapi nggak nembus"), bukan di level angka.
+
+**Titik yang udah ditandai di chapter files** — sama seperti Killing Blow dan Failing Forward, teknik ini pada dasarnya berlaku diam-diam di combat manapun tanpa perlu dipanggil per-chapter. TAPI trigger "serangan besar boss/NPC bernama yang meleset" itu bounded ke encounter tertentu, mirip Villain Sympathy Checkpoint (Section 19) — jadi tiga duel/boss-fight paling ikonik dapet Catatan DM eksplisit: Ch.5 (duel Cyanwrath), Ch.12 (Arauthator), Ch.17 (Sang Arsitek/Sang Ratu). Chapter lain nggak perlu ditandai — DM tetap boleh pakai teknik ini di boss fight manapun, ini cuma nunjuk yang paling jelas.
+
+31.2 — FLAVOR CASTING (Sensorik, Bukan Mekanis)
+
+Beda dari "Spell Impact" (Section 5) yang ngatur EFEK MEKANIS sihir ke arena (Fireball hancurkan kolom) — ini soal gimana sihir itu KELIATAN keluar dari tangan karakter yang nge-cast, murni sensorik, nggak ada efek mekanis tambahan. Dipakai di first cast satu spell signature per karakter, atau momen dramatis — BUKAN tiap kali cast (itu bakal ngelambatin combat kayak yang udah diperingatin di Section 23.3).
+
+Contoh tanya: "Fireball-mu ini kayak apa keluar dari tanganmu?" — biar Wizard bedain gaya sihirnya sendiri dari NPC caster lain di kampanye ini.
+
+31.3 — SIGNATURE PROMPT PER KELAS (Sekali Tanya, Terus Dipakai)
+
+Satu kali per karakter yang punya fitur kelas bertema (Rage, Divine Smite, Ki, dst.), DM tanya gimana fitur itu keliatan/kerasa buat karakter itu — lalu jawabannya jadi detail yang DIPAKE ULANG konsisten setiap kali fitur itu muncul lagi, bukan ditanya ulang tiap kali dipakai.
+
+Contoh: "Waktu kamu Rage, itu kayak apa? Amarah panas, atau ketenangan dingin yang justru lebih serem?" Sekali dijawab, itu jadi kanon buat karakter itu — dipanggil lagi tiap kali Rage aktif, mirip cara Emotional Memory Log (Section 20) manggil balik detail.
