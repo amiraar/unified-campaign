@@ -39,7 +39,7 @@ Kalau party berlama-lama di luar atau menjelajahi hutan, mereka berpapasan dua t
 
 **Kandang Anjing Naga (area 2):** dijaga **Trepsin**, troll berlengan empat penyembah Baphomet, pemburu besar fanatik. Dia meminta tanda pengenal kultus — kalau tidak diberikan, dia menyerang. Enam ambush drake di dalam menurut padanya. Altar mengerikan di belakang kandang (tombak babi hutan disusun tripod, bangkai hewan digantung di atasnya, mangkuk dilingkari rune darah) adalah persembahan untuk Baphomet.
 
-*Catatan DM: Trepsin (dan dua troll patroli di atas) punya Regeneration — rujuk System Instructions Section 26.4 sebelum fight ini jalan.*
+*Catatan DM (Troll Regeneration, Section 26.4): Trepsin (dan dua troll patroli di atas) sembuh 10 HP di awal gilirannya, immune sampai kena damage fire atau acid di ronde yang sama. Kalau party nggak bawa damage fire/acid, treat mereka sebagai ancaman yang harus dihindari/diusir — bukan dibunuh habis.*
 
 ---
 
@@ -194,7 +194,7 @@ Kehancuran atau perebutan Skyreach Castle menandai akhir babak pertama epik ini.
 
 > *Catatan DM — TRANSISI BABAK:* Ini adalah akhir dari **Hoard of the Dragon Queen**. Babak berikutnya, **Rise of Tiamat**, dimulai dengan panggilan ke Waterdeep — kota terbesar di Sword Coast, tempat Harper, Order of the Gauntlet, Lords' Alliance, dan bahkan Zhentarim akan dipaksa duduk di meja yang sama. Beri jeda naratif nyata di sini sebelum melanjutkan — istirahat sesi kalau perlu. Skala berikutnya butuh napas dulu sebelum mendaki lagi.
 
-> *Catatan DM — DOWNTIME:* Ini titik downtime kedua dari tiga di seluruh kampanye (rujuk System Instructions Section 28). Sebelum party masuk ke skala Rise of Tiamat, ini kesempatan terakhir buat aktivitas personal dengan taruhan rendah — sesudah ini, hampir semuanya politik faksi besar.
+> *Catatan DM — DOWNTIME (Section 28):* Ini titik downtime kedua dari tiga di seluruh kampanye. Sebelum party masuk ke skala Rise of Tiamat, ini kesempatan terakhir buat aktivitas personal dengan taruhan rendah — sesudah ini, hampir semuanya politik faksi besar. Tawarin party carousing (rumor + komplikasi kecil), crafting/commission item, atau personal quest yang ngejar Internal Contradiction karakter (kandidat kuat buat Inspiration, Section 25.2) — nggak wajib semua dipakai.
 
 ---
 

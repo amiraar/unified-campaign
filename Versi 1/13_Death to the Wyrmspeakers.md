@@ -40,7 +40,7 @@ Benang kedua yang terbuka di Council of Waterdeep (rujuk Chapter 11) menunggu di
 
 Di **Kedai Tenda Bolo**, seorang pemilik halfling menceritakan: Varram membunuh mata-mata yuan-ti di depan umum (membuatnya jadi "pahlawan lokal" tanpa sadar) sebelum melesat ke Serpent Hills dengan lebih dari selusin pengikut — termasuk sosok berjubah yang sebenarnya **bearded devils**, bukan tentara bayaran manusia seperti dugaan penduduk.
 
-**Perjalanan ke Serpent Hills:** enam puluh lima mil, medan tandus penuh mesa dan plato batu. Random encounter (humanoid, hewan ternak, hill giant, makam tak bertanda, kuil, burung bangkai, reruntuhan, lizardfolk) mewarnai perjalanan. Rujuk Tabel Flavor Acak (System Instructions Section 29) buat tekstur di antara encounter.
+**Perjalanan ke Serpent Hills:** enam puluh lima mil, medan tandus penuh mesa dan plato batu. Random encounter (humanoid, hewan ternak, hill giant, makam tak bertanda, kuil, burung bangkai, reruntuhan, lizardfolk) mewarnai perjalanan. Di antaranya, satu Rumor Jalan (Tabel Flavor Acak, Section 29) cocok buat medan gersang macam ini — contoh: "Harga garam naik dua kali lipat bulan ini. Pedagang bilang jalur dagang biasa 'lagi nggak aman' — nggak mau jelasin lebih" atau "Seorang veteran perang cerita dia denger suara di angin malam yang dia kenali dari medan perang lama — bukan suara manusia."
 
 ---
 
@@ -56,7 +56,7 @@ Kompleks kuno ini dibangun mengelilingi **kolam ramalan** milik penyihir Dideriu
 
 **Ruang Sumur:** kemah depan mantan rombongan Varram — tiga troll dari sumur di bawah (terhubung ke air mancur di plaza luar) menyerang kalau party beristirahat di sini.
 
-*Catatan DM: Tiga troll ini punya Regeneration — rujuk System Instructions Section 26.4 sebelum fight ini jalan.*
+*Catatan DM (Troll Regeneration, Section 26.4): Ketiga troll ini sembuh 10 HP di awal giliran masing-masing, immune sampai kena damage fire atau acid di ronde yang sama. Kalau party nggak bawa damage fire/acid, treat mereka sebagai ancaman yang harus dihindari/diusir — bukan dibunuh habis.*
 
 **Ruang Tahta:** golem tanah liat yang meminta persembahan — siapapun yang meletakkan sesuatu lebih berharga dari cangkir tanah liat boleh lewat.
 

@@ -27,7 +27,7 @@ Party dilengkapi perlengkapan cuaca dingin dan pelayaran ke utara dengan kapal *
 
 Perjalanan lewat lautan es memakan waktu — random encounter (giant octopus, merrow, polar bear, scrag, Ice Hunters) mewarnai perjalanan sampai **Oyaviggaton** — gunung es raksasa milik naga putih **Arauthator**, dijuluki "Kematian Putih Tua" — ditemukan.
 
-*Catatan DM: Di antara random encounter, rujuk Tabel Flavor Acak (System Instructions Section 29) — Pertanda khususnya cocok buat perjalanan sunyi macam ini, dan awak Frostskimmr sendiri bisa jadi sumber Rumor Jalan.*
+*Catatan DM (Tabel Flavor Acak, Section 29): Di antara random encounter, satu Pertanda cocok buat perjalanan sunyi macam ini — contoh: "Kawanan burung berbalik arah serentak di tengah terbang, tanpa alasan yang keliatan" atau "Awan bergerak ke arah yang berlawanan dari angin yang kerasa di tanah." Awak Frostskimmr sendiri bisa jadi sumber Rumor Jalan — contoh: "Ada yang bilang sumur di kota sebelah airnya jadi asin tiba-tiba. Pendeta lokal udah didatengin buat 'urus' itu, tapi belum ada kabar."*
 
 ---
 
