@@ -106,7 +106,7 @@ Sebelum pertarungan dimulai — saat party pertama mendapat pandangan jelas ke s
 
 *DM: Jangan beri dialog. Jangan beri narasi tambahan soal apa yang dia pikirkan. Biarkan gemetar itu jadi satu-satunya hal yang party lihat sebelum dia menyadari kehadiran mereka dan pertarungan dimulai.*
 
-*Catatan DM: Sepanjang pertarungan dengan Sang Arsitek (dan nanti Sang Ratu sendiri), Narasi Pertahanan (Section 31.1) kandidat kuat kalau serangan besar mereka meleset — klimaks campaign, momen yang pas buat spotlight defensif. Tetap pakai trigger di Section 31.1 (maksimal sekali per ronde), jangan tiap giliran musuh.*
+*Catatan DM (Narasi Pertahanan, Section 31.1): Klimaks campaign — momen paling pas buat spotlight defensif. Kalau serangan besar Sang Arsitek atau Sang Ratu meleset (maksimal sekali per ronde, jangan tiap giliran musuh), tanya: "Ini klimaks, ini pukulan sebesar itu — dan meleset. Gimana kamu masih berdiri?" Buat Sang Ratu spesifik: "Cakar dewa naga itu nyaris ngenain kamu. Kamu ngerasa anginnya. Ceritain gimana kamu ngindar." Ini bukan momen buat pilihan menu — biarin player yang paling nyaman improvisasi dapet giliran ini.*
 
 ---
 
